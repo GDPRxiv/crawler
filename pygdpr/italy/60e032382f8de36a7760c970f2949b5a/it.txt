@@ -1,0 +1,39 @@
+Soro: "Pochi rischi per la privacy, i cittadini devono
+collaborare. E stop al fai-da-te delle Regioni"
+Soro: "Pochi rischi per la privacy, i cittadini devono collaborare. E stop al fai-da-te delle Regioni"
+Intervista ad Antonello Soro, Presidente del Garante per la protezione dei dati personali
+(Di Giovanna Vitale, La Repubblica, 18 aprile 2020)
+Presidente Soro, la app scelta dal governo è sicura? Affidandosi a uno smartphone, i nostri dati sensibili non rischiano di
+diventare di dominio pubblico o essere utilizzati in modo poco ortodosso?
+"Intanto una premessa: io non conosco la app su cui è caduta la scelta del governo. Nella fase della selezione, però, l'ufficio del
+Garante ha avuto una intensa interlocuzione con il ministero dell'Innovazione, al quale abbiamo fornito indicazioni molto chiare
+rispetto sia alla tutela dei dati personali, sia alla migliore tecnologia per garantirla. Un orientamento peraltro condiviso dalla
+Commissione europea e mi pare recepito da Immuni, che punta a privilegiare il sistema bluetooth con la pseudonimizzazione dei
+dati identificativi".
+Quali sono queste indicazioni?
+"Le regole fissate dall'Europa per il tracciamento: no alla geolocalizzazione, sì alla tecnologia bluetooth, anonimato e volontarietà".
+Se l'app viene installata su un telefono che è associato a una sim, come si garantisce l'anonimato?
+"Il sistema di tracciamento con la pseudonimizzazione dei dati identificativi funziona così: ogni 15 minuti il bluetooth rilascia un
+codice alfanumerico. Questa sequenza di codici resta immagazzinata su ogni singolo telefonino. Viene decodificata solo quando si
+individua un positivo e allora occorre ricostruire la catena epidemiológica dei suoi contatti".
+E come si fa a ricostruirla?
+"Incrociando tutti i codici identificativi (e anonimi) che nell'ultimo periodo sono entrati in contatto con la persona infetta. A quel punto
+sulla app del potenziale contagiato, identificato con un codice alfanumerico, comparirà un avviso che segnala il rischio. La app,
+ricordo, è stata ceduta allo Stato: il gestore è pubblico. Non solo. Noi abbiamo anche chiesto che una volta che tali dati abbiano
+esaurito il loro ciclo vengano distrutti".
+Come si farà a convincere la gente a scaricare la app?
+"Lo scopo del tracciamento coincide con l'esigenza di sottoporre ad accertamenti quanti siano entrati in contatto con un soggetto
+positivo o, comunque, di adottare le misure utili a prevenire il contagio. Ma il sistema funziona solo se verrà adottato da almeno il
+60% degli italiani. Ai quali bisogna far capire che il diritto alla salute è un interesse collettivo: solo se lo perseguiamo tutti, in modo
+solidale, riusciremo a centrare l'obiettivo. Da qui anonimato e volontarietà come principi cardine".
+Ma basta una app per tenere sotto controllo il virus?
+"No, sono necessarie una serie di azioni complementari, a partire dai test diagnostici dei potenziali contagiati. Si possono infatti
+raccogliere tutti i dati del mondo sui potenziali infetti, ma se poi non si hanno le risorse, o persino i reagenti, per accertarne
+renettiva positività non si va molto lontano. Inoltre non tutti dispongono di uno smartphone, specie gli anziani: il che rende il tracing
+uno strumento importante ma non l'unico".
+
+Quale pensa che sia il rischio principale?
+"Ciò che mi preoccupa è il fatto che tutte le Regioni stanno adottando specifiche app regionali che contrastano con la strategia che
+occorre seguire in queste circostanze. Ovvero uniformare al massimo i comportamenti per inserire il da ta tracing in una strategia
+più generale che ci consenta di scongiurare nuovi focolai. Ma se ogni regione adotta la sua app e si fa il suo tracciamento, il potere
+persuasivo viene meno e il rischio di trattamento scorretto dei dati aumenta a dismisura".

@@ -1,0 +1,30 @@
+Kui koolikott on juba pakitud, siis mida pista virtuaalsesse koolikotti? Kindlasti meelespea, kuidas tegutseda internetiga ühendatud seadmetes nii, et minimaliseerida olukorrad, et keegi võiks Sulle kahju teha.
+Siin on Sinu jaoks Andmekaitse Inspektsiooni kokkuvõte kõige olulisemast.
+Veebilehitsejal pole vaja teada Sinu paroole! Kui salvestad paroolid veebilehitsejasse, käitud sarnaselt nagu hoiaksid koduukse võtit alati mati all.  Kui keegi võõras seda kasutab, ei ole Sa ju õnnelik?
+Paroole aitab meeles pidada paroolihaldur.
+Ekraanilukk töötab Sinu kasuks. Kui Sa ekraanilukku ei kasuta, käitud nagu jätaksid koduukse kõigile avatuks.
+Kui lahkud arvuti tagant, aktiveeri alati ekraanilukk.
+ Uuendamata viirusetõrje võib elu pea peale pöörata. Uuendamata viirusetõrje toob veel tõsisema turvariski, kui seda on kahe eelmise soovituse mittejärgimine.
+Arvuti- või nutiseadme viirusetõrje peab olema ajakohane.
+ Andmete krüpteerimine on turvalisuse võti!
+Kasuta arvuti- või nutiseadme operatsioonisüsteemis olevat võimalust andmete krüpteerimiseks.
+  Oma seadme laadimine võõra arvuti või telefoni USB pesast ei ole turvaline. Võid saada enda seadmesse pahavara või näpatakse koguni sinu seadmest andmed nii, et sa ise ei saa sellest arugi.
+Kui liigud palju ringi, varusta end akupangaga. Kui on vaja tõepoolest võõra seadme USB pesast või keskkonnast (bussis, rongis, lennujaamas) voolu saada, kasuta nn USB andmeblokkeri adapterit. See blokeerib USB ühenduse kaudu andmete vahetamise, võimaldades ainult vooluühenduse.
+Ka järgnevaid soovitusi tasub virtuaalses koolikotis hoida, sest igaüks neist aitab sammukese võrra lähemale turvalisele digielule ja privaatsuse kaitsele!
+ Tarkvara lae ainult tootjate ametlikest poodidest
+	 Kui tarkvarast ilmub uus versioon, võta uuendus vastu.
+	 Ära kirjuta paroole märkmepaberile ega kleebi seda arvuti külge.
+	 Ära kasuta samu paroole erinevates tarkvarades-teenustes.
+	 Väldi kasutamast avalikku turvamata WiFi võrku.
+	 Taga, et olulistest failidest oleks alati regulaarne varukoopia.
+	 Ära ava e-kirjas olevaid manuseid, mis on saadetud tundmatult allikalt.
+	 Mäluseadet (kõvaketas, mälupulk), tasub alati krüpteerida, kui seal on hoiul tundlik info ja isikuandmed.
+	 Ära ühenda oma arvuti- või nutiseadmega tundmatuid mäluseadmeid.
+	 Nutiseadmel kasuta kas koodiga või näotuvastuse või sõrmejäljega ekraanilukku.
+	 Sinihammas (bluetooth), WiFi, GPS võiksid olla väljalülitatud, kui neid pole vaja kasutada. 
+	 Juhul kui nutiseadme tootja pakub veebipõhist kaughaldust, kasuta seda võimalust kindlasti. Nii saad kaotatud või varastatud nutiseadme eemalt lukustada, sellest andmed kustutada või telefoni asukohta määrata.
+Soovitused on päevakajalised nii õpetajatele, õpilastele kui lapsevanematele.
+Turvalist e-õpet!
+
+	 
+

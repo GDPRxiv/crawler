@@ -1,0 +1,49 @@
+Antonello Soro: emergenza Covid-19, le deroghe sul diritto
+alla privacy non devono diventare un punto di non ritorno
+Antonello Soro: emergenza Covid-19, le deroghe sul diritto alla privacy non devono diventare un punto
+di non ritorno
+Intervento di Antonello Soro, Presidente del Garante per la protezione dei dati personali
+(www.federprivacy.org -20 marzo 2020)
+La diffusione del Covid-19 ha assunto proporzioni devastanti sulla salute collettiva e sull’economia del nostro Paese. E’ giusto che
+il contrasto all’epidemia costituisca l’impegno primario di ogni italiano. Per questo non si dovrebbero alimentare disinformazione e
+luoghi comuni.
+La privacy non è né un ostacolo all’efficace azione di prevenzione del contagio né, tantomeno, un lusso cui, secondo taluni, si
+dovrebbe rinunciare in tempi di emergenza. E’ un diritto di libertà che, come ogni altro diritto fondamentale, soggetto a
+bilanciamento con altri beni giuridici, modula la sua intensità e il suo contenuto in ragione dello specifico contesto in cui si eserciti.
+Ma non si dica - come dopo ogni attentato terroristico - che i principi servono solo se si resta vivi, perché si può e si deve tutelare al
+massimo grado l’incolumità individuale, senza per questo tradire i cardini della democrazia, tra cui in primo luogo il necessario
+equilibrio tra interessi collettivi e libertà individuali.
+La duttilità del diritto, la sua capacità di adeguarsi al contesto contemplando le deroghe necessarie e proporzionate alle specifiche
+esigenze, pur senza intaccare il “nucleo duro” dei diritti fondamentali, è la più grande forza della democrazia, che ci ha consentito
+di superare momenti drammatici - come quel 16 marzo 1978 da poco commemorato - senza rinnegare, distruggendola dalle
+fondamenta, la democrazia.
+L’emergenza deve poter contemplare ogni deroga possibile purché non irreversibile; non dev’essere, in altri termini, un punto di
+non ritorno ma un momento in cui modulare prudentemente il rapporto tra norma ed eccezione.
+La disciplina di protezione dei dati personali può persino essere uno strumento utilissimo nell’azione di contrasto dell’epidemia,
+quando quest’azione sia fondata su dati e algoritmi, per i quali va garantita esattezza e qualità e revisione ove necessario:come nel
+caso di decisioni automatizzate errate perché fondate su bias, non individuabili con la delega totale alle tecnologie.
+In quest’ottica deve essere analizzata anche la proposta, da più parti e con varie modalità avanzate, del contact tracing o, in senso
+più ampio, della geolocalizzazione dei contagiati per meglio analizzare l’andamento epidemiologico o per ricostruire la catena dei
+contagi.
+Trattandosi di categorie comprensive di misure molto diverse, i Governi dovrebbero anzitutto orientarsi secondo un criterio di
+gradualità e dunque valutare se le misure meno invasive possano essere sufficienti a fini di prevenzione.
+In tal senso, non pone particolari problemi l’acquisizione di trend, effettivamente anonimi, di mobilità.
+Laddove, invece, si intenda acquisire dati identificativi, sarebbe necessaria una previsione normativa dotata di adeguate garanzie
+e, soprattutto, conforme al principio di proporzionalità, che impone anzitutto un’analisi sullo scopo della raccolta dei dati.
+In questo quadro, andrebbe effettuata non solo una valutazione di impatto privacy ma anche, preliminarmente, un’analisi
+dell’effettiva idoneità della misura a conseguire risultati utili nell’azione di contrasto, in ordine proporzionale alle esigenze
+
+perseguite e sempre che misure meno invasive non debbano ritenersi idonee a conseguire i risultati sperati.
+Ad esempio, apparirebbe sproporzionata la geolocalizzazione di tutti i cittadini italiani, 24 ore su 24: non soltanto per la massività
+della misura ma anche perché non esiste -allo stato- un divieto assoluto di spostamento e dunque la mole di dati così acquisiti non
+avrebbe un’effettiva utilità.
+Diversa potrebbe essere, invece, la valutazione relativa alla geolocalizzazione quale strumento di ricostruzione della catena
+epidemiologica, sempre che, però, le autorità sanitarie -già così oberate- siano poi in grado di fornire una risposta tempestiva,
+sottoponendo a screening i soggetti che si ritengono a rischio.
+In ogni caso, è indispensabile una valutazione puntuale del progetto. Non è il tempo dell’approssimazione e della superficialità.
+Qualunque proposta dovrà essere preceduta da una rigorosa analisi di efficacia e supportata da un’adeguata previsione normativa
+comprensiva di garanzie significative per gli interessati, tra le quali anche una tutela giurisdizionale effettiva rispetto a possibili
+violazioni.
+Vanno studiate, dunque, modalità e ampiezza delle misure da adottare in vista della loro efficacia, proporzionalità e
+ragionevolezza, senza preclusioni astratte o tantomeno ideologiche, ma anche senza improvvisazioni o velleitarie deleghe, al solo
+algoritmo, di attività tanto necessarie quanto complesse.

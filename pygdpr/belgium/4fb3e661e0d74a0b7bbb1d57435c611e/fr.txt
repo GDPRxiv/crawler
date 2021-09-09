@@ -1,0 +1,21 @@
+
+
+L’Autorité de protection des données (APD) a été notifiée par Adecco de la fuite de données biométriques subie par l’entreprise Suprema comprenant les empreintes digitales d’environ 2000 employés d’Adecco Belgique. L’APD rappelle que ce type de données personnelles est particulièrement sensible, et annonce qu’elle suit l’affaire de près. « En tant qu’Autorité chargée de la protection des données personnelles des citoyens, nous nous devons de tirer cela au clair.»
+
+
+Fuite de données : accès aux empreintes digitales de 2000 employés en Belgique
+La semaine dernière, la presse a rapporté que des chercheurs avaient pu obtenir l’accès à des millions de données biométriques de l’entreprise Suprema telles que des empreintes digitales et des images permettant la reconnaissance faciale, dont 2000 empreintes d’employés d’Adecco en Belgique.
+Adecco Belgique a notifié la fuite de données à l’APD, comme l’exige le RGPD (Règlement général sur la protection des données). L’APD a pris contact avec l’entreprise afin de mesurer la gravité de cette violation et d’assurer les intérêts des personnes touchées.
+David Stevens, Président de l’Autorité de protection des données : « Il s’agit ici de la perte de contrôle sur des données particulièrement sensibles de pas moins de 2000 personnes. En tant qu’Autorité chargée de la protection des données personnelles des citoyens, nous nous devons de tirer cela au clair. »
+Les données biométriques : un grand risque pour les droits et libertés
+Les données dites biométriques sont des données permettant d’identifier un individu de manière unique. Ce type de données personnelles sont considérées comme particulièrement sensibles par le RGPD car leur traitement comporte un grand risque pour les droits et libertés des citoyens.
+« Si l’on vole votre mot de passe, vous pouvez toujours le modifier, mais vous ne pouvez pas changer votre doigt. C’est pourquoi il est impératif d’assurer le degré de sécurité le plus élevé à ce type de données, et de ne jamais les traiter à la légère », explique David Stevens. « L’Autorité accorde donc une attention toute particulière au traitement de données permettant l’identification unique des citoyens et appelle à la plus grande vigilance de la part des responsables du traitement de données biométriques.»
+L’utilisation de données personnelles biométriques est d’ailleurs par défaut interdite par le RGPD, sauf dans un nombre restreint de cas. Même si le traitement de données telles que des empreintes digitales par exemple rentre dans l’une de ces exceptions, celui-ci ne doit pas être un automatisme : « Avant de traiter des données biométriques, le responsable du traitement doit toujours se demander si cela est bien nécessaire. Il existe souvent des moyens moins intrusifs de contrôler efficacement l’identité d’une personne » précise David Stevens.
+En janvier 2019, l’APD a d’ailleurs listé (dans la décision 01/2019 du Secrétariat Général) le traitement de données biométriques comme traitement de données personnelles nécessitant obligatoirement une analyse d’impact afin d’en évaluer les risques.
+Rappel : le traitement de données biométriques
+Pour éviter des situations similaires, l’APD souhaite donc rappeler aux responsables du traitement quelques principes applicables au traitement de données biométriques :
+
+le traitement de données biométriques au sens du RGPD est en principe interdit (sauf si le traitement correspond à l’un de ceux cités dans la liste restreinte d’exceptions prévues par le RGPD) ;
+le traitement de données biométriques à des fins d’identification unique nécessite au préalable une analyse d’impact car celui-ci est susceptible d’engendrer des risques élevés pour le citoyen. Si l’analyse conclut que le traitement voulu est trop risqué, celui-ci ne peut avoir lieu ;
+le responsable du traitement de données biométriques doit prendre toutes les mesures organisationnelles et techniques possibles afin de garantir la sécurité des données en sa possession. Si le responsable travaille avec un sous-traitant ayant accès à ces données, il doit s’assurer que celui-ci puisse garantir un même degré de protection. 
+

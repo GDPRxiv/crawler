@@ -1,0 +1,333 @@
+1/7
+
+
+
+Procedimiento Nº: PS/00093/2020
+
+RESOLUCIÓN DE PROCEDIMIENTO SANCIONADOR
+Del procedimiento instruido por la Agencia Española de Protección de Datos y
+en base a los siguientes
+ANTECEDENTES
+PRIMERO: D. A.A.A. (en adelante, el reclamante) con fecha 30/11/2019 interpuso
+reclamación ante la Agencia Española de Protección de Datos. La reclamación se
+dirige contra ARGAN-LET, S.L. con NIF B55318786 (en adelante, el reclamado). Los
+motivos en que basa la reclamación son: la recepción, no consentida, de SMSs de
+carácter comercial.
+La citada reclamación fue archivada porque no aportaba prueba documental que
+acreditara los SMSs recibidos; tampoco justificaba las fechas de recepción.
+El 17/02/2020 interpuso Recurso de Reposición aportando nueva documentación:
+soporte en vídeo donde se muestra un SMS recibido el pasado 11/11/2019 a las 12:16
+p.m. con el contenido que había sido transcrito en su reclamación primigenia, por lo
+que el recurso fue estimado.
+SEGUNDO: Con fecha 29/03/2020, la Directora de la Agencia Española de Protección
+de Datos acordó iniciar procedimiento sancionador al reclamado, por la presunta
+infracción de artículo 21 de la LSSI, tipificada como leve en el artículo 38.4.d) de la
+citada Ley.
+TERCERO: Notificado el acuerdo de inicio, el reclamado al tiempo de la presente
+resolución no ha presentado escrito de alegaciones, por lo que es de aplicación lo
+señalado en el artículo 64 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, que en su apartado f)
+establece que en caso de no efectuar alegaciones en el plazo previsto sobre el
+contenido del acuerdo de iniciación, éste podrá ser considerado propuesta de
+resolución cuando contenga un pronunciamiento preciso acerca de la responsabilidad
+imputada, por lo que se procede a dictar Resolución.
+CUARTO: De las actuaciones practicadas en el presente procedimiento, han quedado
+acreditados los siguientes:
+HECHOS PROBADOS
+PRIMERO: El reclamante presentó el 30/11/2019 reclamación por la recepción de
+numerosos SMS comerciales remitidos por el reclamado ofreciéndole servicios
+financieros, manifestando que nunca le había facilitado sus datos y que desconocía
+como los habían obtenido; también indicaba que la línea receptora ***TELEFONO.1
+estaba inscrita en la Lista Robinson aunque no se acreditaba.
+SEGUNDO: El 03/01/2020, tras analizarse la documentación que obraba en el
+expediente, se dictó resolución por la Directora de la Agencia Española de Protección
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/7
+
+de Datos, acordando el archivo de la reclamación, al no aportarse prueba documental
+de ningún SMS recibido, ni indicar las fechas de su recepción.
+TERCERO: El 17/02/2020 el reclamante presento recurso de reposición a la resolución
+anterior, fundamentándolo, en los mismos hechos y fundamentos expuestos en la
+reclamación, si bien aportando una imagen del terminal móvil receptor que muestra un
+SMS recibido el 11/11/2019 a las 12:16 p.m. con el contenido que había sido transcrito
+en su reclamación, por lo que el recurso fue estimado.
+En el citado SMS consta el siguiente texto: "PUBLI:Te deniegan los créditos?
+http://ayudafinanciera.argan-let.es Baja SMS: b.argan-let.es" desde el número
+***TELEFONO.2".
+FUNDAMENTOS DE DERECHO
+I
+De conformidad con lo establecido en el artículo 43.1, párrafo segundo, de la
+de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y
+Comercio Electrónico (en lo sucesivo LSSI) es competente para iniciar y resolver este
+procedimiento sancionador la Directora de la Agencia Española de Protección de
+Datos, en relación con la infracción de la LSSI.
+II
+La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de
+las Administraciones Públicas, en su artículo 64 “Acuerdo de iniciación en los
+procedimientos de naturaleza sancionadora”, dispone:
+“1. El acuerdo de iniciación se comunicará al instructor del procedimiento, con
+traslado de cuantas actuaciones existan al respecto, y se notificará a los interesados,
+entendiendo en todo caso por tal al inculpado.
+Asimismo, la incoación se comunicará al denunciante cuando las normas
+reguladoras del procedimiento así lo prevean.
+2. El acuerdo de iniciación deberá contener al menos:
+a) Identificación de la persona o personas presuntamente responsables.
+b) Los hechos que motivan la incoación del procedimiento, su posible
+calificación y las sanciones que pudieran corresponder, sin perjuicio de lo que
+resulte de la instrucción.
+c) Identificación del instructor y, en su caso, Secretario del procedimiento, con
+expresa indicación del régimen de recusación de los mismos.
+d) Órgano competente para la resolución del procedimiento y norma que le
+atribuya tal competencia, indicando la posibilidad de que el presunto
+responsable pueda reconocer voluntariamente su responsabilidad, con los
+efectos previstos en el artículo 85.
+e) Medidas de carácter provisional que se hayan acordado por el órgano
+competente para iniciar el procedimiento sancionador, sin perjuicio de las que
+se puedan adoptar durante el mismo de conformidad con el artículo 56.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/7
+
+f) Indicación del derecho a formular alegaciones y a la audiencia en el
+procedimiento y de los plazos para su ejercicio, así como indicación de que, en
+caso de no efectuar alegaciones en el plazo previsto sobre el contenido del
+acuerdo de iniciación, éste podrá ser considerado propuesta de resolución
+cuando contenga un pronunciamiento preciso acerca de la responsabilidad
+imputada.
+3. Excepcionalmente, cuando en el momento de dictar el acuerdo de iniciación
+no existan elementos suficientes para la calificación inicial de los hechos que motivan
+la incoación del procedimiento, la citada calificación podrá realizarse en una fase
+posterior mediante la elaboración de un Pliego de cargos, que deberá ser notificado a
+los interesados”.
+En aplicación del anterior precepto y teniendo en cuenta que no se han
+formula-do alegaciones al acuerdo de inicio, procede resolver el procedimiento
+iniciado.
+III
+Los hechos expuestos evidencian la comisión, por parte del reclamado de una
+infracción del artículo 21.1 de la LSSI, que dispone:
+“1. Queda prohibido el envío de comunicaciones publicitarias o promocionales
+por correo electrónico u otro medio de comunicación electrónica equivalente que
+previamente no hubieran sido solicitadas o expresamente autorizadas por los
+destinatarios de las mismas”.
+Por otra parte, en el apartado 2 del citado artículo se dispone:
+“2. Lo dispuesto en el apartado anterior no será de aplicación cuando exista
+una relación contractual previa, siempre que el prestador hubiera obtenido de forma
+lícita los datos de contacto del destinatario y los empleara para el envío de
+comunicaciones comerciales referentes a productos o servicios de su propia empresa
+que sean similares a los que inicialmente fueron objeto de contratación con el cliente.
+En todo caso, el prestador deberá ofrecer al destinatario la posibilidad de
+oponerse al tratamiento de sus datos con fines promocionales mediante un
+procedimiento sencillo y gratuito, tanto en el momento de recogida de los datos como
+en cada una de las comunicaciones comerciales que le dirija.
+Cuando las comunicaciones hubieran sido remitidas por correo electrónico,
+dicho medio deberá consistir necesariamente en la inclusión de una dirección de
+correo electrónico u otra dirección electrónica válida donde pueda ejercitarse este
+derecho, quedando prohibido el envío de comunicaciones que no incluyan dicha
+dirección.”
+Por otra parte, el artículo 22.1 de la LSSI establece que:
+“El destinatario podrá revocar en cualquier momento el consentimiento
+prestado a la recepción de comunicaciones comerciales con la simple notificación de
+su voluntad al remitente.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/7
+
+A tal efecto, los prestadores de servicios deberán habilitar procedimientos
+sencillos y gratuitos para que los destinatarios puedan revocar el consentimiento que
+hubieran prestado. Cuando las comunicaciones hubieran sido remitidas por correo
+electrónico, dicho medio deberá consistir necesariamente en la inclusión de una
+dirección de correo electrónico u otra dirección electrónica válida donde pueda
+ejercitarse este derecho, quedando prohibido el envío de comunicaciones que no
+incluyan dicha dirección.
+Asimismo, deberán facilitar información accesible por medios electrónicos
+sobre dichos procedimientos”
+IV
+En el presente caso, ha quedado acreditado que el reclamado resulta
+responsable del envío de SMS remitidos el 11/11/2019 a las 12:16 publicitando sus
+servicios de tipo financiero sin autorización o circunstancia que dispense del
+consentimiento a la línea receptora ***TELEFONO.1 titularidad del reclamante.
+El reclamado no solo no ha justificado que los SMS enviados se efectuaran
+mediando autorización expresa o solicitud previa del destinatario de los mismos, sino
+que no ha contestado al acuerdo de inicio del procedimiento sancionador.
+Atendidas las circunstancias expuestas, resulta de aplicación el criterio
+mantenido por la Audiencia Nacional en la Sentencia de fecha 17 de mayo de 2007,
+Recurso 157/2005, en el que, respecto de un caso que también afectaba al
+incumplimiento de lo previsto en el artículo 21 de la LSSI, se arguyó que: “En caso de
+que los afectados hubieran negado haber otorgado dicho consentimiento, que la Ley
+no exige que sea escrito, correspondería al denunciado probar su existencia, como ha
+reiterado esta Sala en relación con el tratamiento inconsentido de datos.”
+Estas circunstancias hacen decaer cualquier legitimación del reclamado para el
+envío de comunicaciones comerciales por medios electrónicos.
+Por tanto, la conducta del reclamado vulnera lo dispuesto en el artículo 21.1 de
+la LSSI que prohíbe de forma expresa los envíos no solicitados o expresamente
+autorizados.
+V
+En consecuencia, la infracción del artículo 21 de la LSSI, en los términos
+indicados por el citado artículo 38.4.d) de dicha norma, se califica en términos
+generales como infracción leve, aunque si se produce un envío masivo de
+comunicaciones comerciales no solicitadas a diferentes destinatarios o su envío
+insistente o sistemático a un mismo destinatario, en los términos que se indican en el
+también citado artículo 38.3.c), se producirá una infracción de carácter grave a los
+efectos de la LSSI.
+De los hechos y circunstancias acreditados en el procedimiento y con arreglo a
+lo dispuesto en los citados preceptos, la conclusión que se desprende es que la
+conculcación del artículo 21 de la LSSI que se imputa al reclamado se ajusta al tipo de
+infracción calificada como leve en el artículo 38.4.d) de la vigente LSSI, el envío de eC/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/7
+
+mails de tipo comercial y ofreciendo servicios y captación de clientes dirigidos a
+entidades de todo tipo en base a los datos obtenidos del BOPI, sin contar con el
+consentimiento previo y expreso para ello.
+Por otra parte, en el artículo 39 bis de la LSSI, bajo el epígrafe “Moderación de
+las sanciones”, estipula lo siguiente:
+“1. El órgano sancionador establecerá la cuantía de la sanción aplicando la
+escala relativa a la clase de infracciones que preceda inmediatamente en gravedad a
+aquella en que se integra la considerada en el caso de que se trate, en los siguientes
+supuestos:
+a) Cuando se aprecie una cualificada disminución de la culpabilidad del
+imputado o de la antijuridicidad del hecho como consecuencia de la
+concurrencia significativa de varios de los criterios enunciados en el artículo 40.
+b) Cuando la entidad infractora haya regularizado la situación irregular de
+forma diligente.
+c) Cuando pueda apreciarse que la conducta del afectado ha podido inducir a
+la comisión de la infracción.
+d) Cuando el infractor haya reconocido espontáneamente su culpabilidad.
+e) Cuando se haya producido un proceso de fusión por absorción y la
+infracción fuese anterior a dicho proceso, no siendo imputable a la entidad
+absorbente.
+2. Los órganos con competencia sancionadora, atendida la naturaleza de los
+hechos y la concurrencia significativa de los criterios establecidos en el apartado
+anterior, podrán acordar no iniciar la apertura del procedimiento sancionador y, en su
+lugar, apercibir al sujeto responsable, a fin de que en el plazo que el órgano
+sancionador determine, acredite la adopción de las medidas correctoras que, en cada
+caso, resulten pertinentes, siempre que concurran los siguientes presupuestos:
+a) Que los hechos fuesen constitutivos de infracción leve o grave conforme a lo
+dispuesto en esta Ley.
+b) Que el órgano competente no hubiese sancionado o apercibido con
+anterioridad al infractor como consecuencia de la comisión de infracciones
+previstas en esta Ley.
+Si el apercibimiento no fuera atendido en el plazo que el órgano sancionador
+hubiera determinado, procederá la apertura del correspondiente procedimiento
+sancionador por dicho incumplimiento.”
+Por su parte el artículo 40 de la LSSI, en relación con la “Graduación de la
+cuantía de las sanciones”, determina lo siguiente:
+“La cuantía de las multas que se impongan se graduará atendiendo a los
+siguientes criterios:
+a) La existencia de intencionalidad.
+b) Plazo de tiempo durante el que se haya venido cometiendo la infracción.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/7
+
+c) La reincidencia por comisión de infracciones de la misma naturaleza, cuando
+así haya sido declarado por resolución firme.
+d) La naturaleza y cuantía de los perjuicios causados.
+e) Los beneficios obtenidos por la infracción.
+f) Volumen de facturación a que afecte la infracción cometida.
+g) La adhesión a un código de conducta o a un sistema de autorregulación
+publicitaria aplicable respecto a la infracción cometida, que cumpla con lo
+dispuesto en el artículo 18 o en la disposición final octava y que haya sido
+informado favorablemente por el órgano u órganos competentes.”
+En el presente supuesto se cumplen los requisitos recogidos en las letras a) y
+b) del citado apartado 2 del artículo 39 bis. Junto a ello se constata disminución de la
+culpabilidad del reclamado teniendo en cuenta el número de comunicaciones
+comerciales enviadas (un SMS) y que concurren de forma significativa las
+circunstancias de inexistencia de perjuicios y falta de constancia de beneficios
+obtenidos por la comisión de la infracción.
+Por lo expuesto y en relación con los criterios de graduación de las sanciones
+recogidos en el artículo 40, tanto favorables como adversos, se impone al reclamado
+una sanción 900 euros.
+Vistos los preceptos citados y demás de general aplicación,
+La Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: IMPONER a ARGAN-LET, S.L., con NIF B55318786, por una infracción del
+artículo 21.1 de la LSSI, tipificada como leve en el artículo 38.4 d) de la LSSI, una
+sanción de 900 € (novecientos euros) de conformidad con lo establecido en los
+artículos 39 bis y 40 de la citada LSSI.
+SEGUNDO: NOTIFICAR la presente resolución a ARGAN-LET, S.L., con NIF
+B55318786.
+TERCERO: Advertir al sancionado que la sanción impuesta deberá hacerla efectiva
+una vez sea ejecutiva la presente resolución, de conformidad con lo dispuesto en el
+artículo 98.1.b) de la ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, en el plazo de pago voluntario que señala el
+artículo 68 del Reglamento General de Recaudación, aprobado por Real Decreto
+939/2005, de 29 de julio, en relación con el art. 62 de la Ley 58/2003, de 17 de
+diciembre, mediante su ingreso en la cuenta restringida nº ES00 0000 0000 0000 0000
+0000, abierta a nombre de la Agencia Española de Protección de Datos en el Banco
+CAIXABANK, S.A. o en caso contrario, se procederá a su recaudación en período
+ejecutivo.
+Recibida la notificación y una vez ejecutiva, si la fecha de ejecutividad se encuentra
+entre los días 1 y 15 de cada mes, ambos inclusive, el plazo para efectuar el pago
+voluntario será hasta el día 20 del mes siguiente o inmediato hábil posterior, y si se
+encuentra entre los días 16 y último de cada mes, ambos inclusive, el plazo del pago
+será hasta el 5 del segundo mes siguiente o inmediato hábil posterior.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/7
+
+De conformidad con lo establecido en el apartado 2 del artículo 37 de la LOPD, en la
+redacción dada por el artículo 82 de la Ley 62/2003, de 30 de diciembre, de medidas
+fiscales, administrativas y del orden social, la presente Resolución se hará pública, una
+vez haya sido notificada a los interesados. La publicación se realizará conforme a lo
+previsto en la Instrucción 1/2004, de 22 de diciembre, de la Agencia Española de
+Protección de Datos sobre publicación de sus Resoluciones y con arreglo a lo
+dispuesto en el artículo 116 del reglamento de desarrollo de la LOPD aprobado por el
+Real Decreto 1720/2007, de 21 diciembre.
+Contra esta resolución, que pone fin a la vía administrativa (artículo 48.2 de la LOPD),
+y de conformidad con lo establecido en los artículos 112 y 123 de la Ley 39/2015, de 1
+de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas,
+los interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 del
+referido texto legal.
+Finalmente, se señala que conforme a lo previsto en el art. 90.3 a) de la Ley 39/2015,
+de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones
+Públicas, se podrá suspender cautelarmente la resolución firme en vía administrativa si
+el interesado manifiesta su intención de interponer recurso contencioso-administrativo.
+De ser éste el caso, el interesado deberá comunicar formalmente este hecho mediante
+escrito dirigido a la Agencia Española de Protección de Datos, presentándolo a través
+del Registro Electrónico de la Agencia [https://sedeagpd.gob.es/sede-electronicaweb/], o a través de alguno de los restantes registros previstos en el art. 16.4 de la
+citada Ley 39/2015, de 1 de octubre. También deberá trasladar a la Agencia la
+documentación que acredite la interposición efectiva del recurso contenciosoadministrativo. Si la Agencia no tuviese conocimiento de la interposición del recurso
+contencioso-administrativo en el plazo de dos meses desde el día siguiente a la
+notificación de la presente resolución, daría por finalizada la suspensión cautelar.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

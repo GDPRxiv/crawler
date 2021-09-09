@@ -1,0 +1,8 @@
+Juhul, kui Ühendkuningriik lahkub Euroopa Liidust kokkuleppeta, muutub ta alates 30. märtsist kell 01.00 (Eesti aja järgi) mittepiisava andmekaitsetasemega riigiks. Isikuandmete eksportija jaoks tähendab see täiendavate kaitsemeetmete kasutusele võtmist, et kaitsta Ühendkuningriiki edastatud isikuandmeid.
+Selle kõige tulemuseks on, et kui Euroopa majanduspiirkonnast soovitakse isikuandmeid Ühendkuningriiki edastada, siis tuleb selleks kasutada sobivaimat vahendit. Üheks võimaluseks on kasutada Euroopa Komisjoni koostatud standardseid andmekaitseklausleid või ad hoc andmekaitseklausleid. Samuti on võimalik asjakohaste kaitsemeetmetena rakendada siduvaid kontsernisiseseid eeskirju, mille on heakskiitnud pädev andmekaitseasutus. Asjakohast kaitset saab rakendada samuti läbi toimimisjuhendite ja sertifitseerimismehhanismide, mis on vabatahtlikud vahendid andmekaitse põhimõtete järgmise tõestamiseks.
+Kui andmete edastamine toimub standardsete andmekaitseklauslite, siduvate kontsernisiseste eeskirjade või toimimisjuhendite ja sertifitseerimismehhanismide kaudu, ei pea järelevalveasutuselt saama isikuandmete edastamiseks eraldi luba.
+Eesti keelne dokument - Euroopa Komisjoni teade õigusnormidest (PDF)
+Inglise keelne dokument – kuidas toimida, kui toimub andmeeksport Ühendkuningriiki (PDF)
+Eesti keelne Euroopa Komisjoni teatis „Isikuandmete vahetamine ja kaitsmine globaliseerunud maailmas (PDF)“ 
+ 
+

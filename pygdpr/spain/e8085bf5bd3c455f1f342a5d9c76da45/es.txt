@@ -1,0 +1,238 @@
+1/6
+
+ Procedimiento Nº: PS/00036/2020
+938-0419
+RESOLUCIÓN DE PROCEDIMIENTO SANCIONADOR
+En el procedimiento sancionador PS/00036/2020, instruido por la Agencia Española de
+Protección de Datos, a la entidad, JUST LANDED, S.L. con CIF: B83690131, titular de
+la página web, ***URL.1, (en adelante, “la entidad reclamada”), en virtud de denuncia
+presentada por D. A.A.A., (en adelante, “el reclamante”), y teniendo como base los siguientes:
+ANTECEDENTES
+PRIMERO: Con fecha 25/02/19, tiene entrada en esta Agencia, denuncia presentada
+por el reclamante en la que indica, entre otras, lo siguiente:
+“Que no existe política de privacidad donde se defina el fichero donde se registran los
+datos recogidos. Tampoco se define el dueño del fichero ni se definen o reconocen los
+derechos ARCO. Que se recogen cookies en la web ***URL.1 y no existe política de
+cookies. Que los términos y condiciones están definidos solo en inglés”.
+SEGUNDO: A la vista de los hechos expuestos en la reclamación y de los documentos
+aportados por el reclamante, la Subdirección General de Inspección de Datos procedió
+a realizar actuaciones para su esclarecimiento, al amparo de los poderes de investigación otorgados a las autoridades de control en el art 57.1 del Reglamento (UE)
+2016/679 (RGPD). Así, con fecha 29/03/19 y 04/11/19, se dirige un requerimiento informativo a la entidad reclamada.
+Según certificado del Servicio de Notificaciones Electrónicas y Dirección Electrónica
+Habilitada, el requerimiento enviado a la entidad reclamada, con fecha 29/03/19, a través del servicio de Notific@, resultó aceptada, con fecha 01/04/19 y el requerimiento
+enviado a la entidad reclamada el 04/11/19, fue aceptado en destino con fecha
+04/11/19.
+TERCERO: Con fecha 03/11/19, por la Subdirección General de Inspección de Datos,
+se comprueba, con relación a la web, ***URL.1, lo siguiente:
+1. NO existe ningún banner o aviso, en su primera capa, relativo a la existencia de
+cookies ni a la política sobre ellas.
+2. Al entrar en la web y sin ni realizar ninguna acción, se cargan en el navegador, entre
+otras, las siguientes cookies persistentes:
+-
+
+IDE, con caducidad el 27 de noviembre de 2020 y con finalidad publicitaria según ***URL.2
+_gads, con caducidad el 2 de noviembre de 2021 y con finalidad publicitaria según ***URL.2
+_ga, con caducidad el 2 de noviembre de 2021 y con finalidad de rendimiento
+según ***URL.2. Según ***URL.2 esta cookie está asociada a Google Analytics.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/6
+
+-
+
+_gid, con caducidad el 4 de noviembre de 2019 y con finalidad de rendimiento
+según ***URL.2. Según ***URL.2 esta cookie está asociada a Google Analytics.
+
+3. Se comprueba la existencia de una política de privacidad accesible en la url:
+***URL.3, pero redactado en lengua inglesa.
+CUARTO: A la vista de los hechos denunciados, y de conformidad con las evidencias
+de que se dispone, la Inspección de Datos de esta Agencia Española de Protección de
+Datos consideró que la actuación de la entidad reclamada no cumplía las condiciones
+que impone la normativa en vigor, por lo que procede la apertura de un procedimiento
+sancionador. Así, con fecha12/03/20, la Directora de la Agencia Española de Protección de Datos acordó iniciar procedimiento sancionador a la entidad reclamada por infracción del artículo 13) del RGPD, sancionable conforme a lo dispuesto en el art. 83
+de la citada norma, respecto de su Política de Privacidad y por infracción del artículo
+22.2) de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y
+Comercio Electrónico (LSSI), sancionable conforme a lo dispuesto en los art. 39) y 40)
+de la citada Ley, respecto a la “Política de Cookies” en la página web denunciada.
+QUINTO: Notificada la incoación del expediente el día 31/03/20, a fecha de hoy, no
+consta que respuesta alguna se haya dado a la incoación del expediente dentro, del
+periodo concedido para ello, a los efectos legales oportunos por la entidad reclamada.
+De las actuaciones practicadas en el presente procedimiento, de la información y documentación presentada por las partes, han quedado acreditados los siguientes:
+HECHOS PROBADOS
+1.- En la web: ***URL.3, existe información sobre términos y condiciones de uso pero
+se encuentra redactada en inglés. Dentro de esta página, existe un enlace en el link:
+“Privacy policy”, que redirige a otra página sobre la “política de privacidad”, pero
+también redactado en inglés.
+2.- Para registrarte en los servicios prestados por la entidad reclamada, se debe dar de
+alta en un cuestionario accesible a través de la web, introduciendo datos personales y
+aceptando las condiciones de uso de la entidad.
+3.- En página web, ***URL.1, NO existe ningún banner o aviso, en su primera capa,
+relativo a la existencia de cookies, pero si se cargan cookies sin realizar ninguna
+acción previa. Tampoco existe ningún link o mecanismo que permita aceptar, rechazar
+o gestionar la instalación de cookies.
+FUNDAMENTOS DE DERECHO
+I
+Competencia:
+-
+
+Sobre la Política de Privacidad:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/6
+
+Es competente para resolver este procedimiento la Directora de la Agencia Española
+de Protección de Datos, de conformidad con lo dispuesto en el art. 58.2 del RGPD en
+el art. 47 de LOPDGDD.
+-
+
+Sobre la Política de Cookies:
+
+Es competente para resolver este procedimiento la Directora de la Agencia Española
+de Protección de Datos, de conformidad con lo dispuesto en el art. art. 43.1, párrafo
+segundo, de la LSSI.
+II
+La valoración conjunta de la prueba documental obrante en el procedimiento trae a conocimiento de la AEPD una visión de la actuación denunciada que ha quedado reflejada en los hechos declarados probados arriba relatados.
+En el presente caso, se denuncian dos situaciones. En primer lugar, en la página web
+***URL.1, NO existe política sobre cookies y en segundo lugar, los términos y condiciones de su política de privacidad se encuentran redactados solo en inglés, estando la
+entidad radicada en territorio español.
+Se ha comprobado, por parte de esta Agencia que, en la página web: ***URL.3, existe
+información sobre términos y condiciones de uso pero se encuentra redactada en inglés. Dentro de esta página, existe un enlace en el link: “Privacy policy”, que redirige a
+otra página sobre la “política de privacidad”, pero también redactado en inglés.
+También se ha comprobado en la web, ***URL.1, que NO existe ningún banner o aviso, en su primera capa, relativo a la existencia de cookies, tampoco existe ningún link
+o mecanismo que permita aceptar, rechazar o gestionar la instalación de cookies, pero
+sí se cargan cookies sin ni realizar ninguna acción previa.
+III
+Así las cosas, los hechos conocidos, sobre la política de privacidad de la página web
+denunciada, son constitutivos de una infracción, imputable al reclamado, por vulneración del artículo 13 del RGPD, que establece la información que se debe proporcionar
+al interesado en el momento de recogida de sus datos personales.
+Por su parte, el artículo 72.1.h) de la LOPDGDD, considera muy grave, a efectos de
+prescripción, “la omisión del deber de informar al afectado acerca del tratamiento de
+sus datos personales conforme a lo dispuesto en los artículos 13 y 14 del RGPD”
+Esta infracción puede ser sancionada con multa de 20.000.000 € como máximo o, tratándose de una empresa, de una cuantía equivalente al 4 % como máximo del volumen de negocio total anual global del ejercicio financiero anterior, optándose por la de
+mayor cuantía, de acuerdo con el artículo 83.5.b) del RGPD.
+No obstante, El artículo 58.2) del RGPD dispone que: “Cada autoridad de control dispondrá de todos los siguientes poderes correctivos indicados a continuación: b) sancionar a todo responsable o encargado del tratamiento con apercibimiento cuando las
+operaciones de tratamiento hayan infringido lo dispuesto en el presente Reglamento;
+(…); i) imponer una multa administrativa con arreglo al artículo 83, además o en lugar
+de las medidas mencionadas en el presente apartado, según las circunstancias de
+cada caso particular, por lo que, la sanción que pudiera corresponder sería de apercibimiento, sin perjuicio de lo que resulte de la instrucción del presente expediente.
+IV
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/6
+
+Los hechos expuestos, sobre la política de cookies, en la web denunciada, suponen la
+comisión de una infracción, estipulada en el artículo 22.2 de la LSSI, según el cual:
+“Los prestadores de servicios podrán utilizar dispositivos de almacenamiento y recuperación de datos en equipos terminales de los destinatarios, a condición de que los mismos hayan dado su consentimiento después de que se les haya facilitado información
+clara y completa sobre su utilización, en particular, sobre los fines del tratamiento de
+los datos, con arreglo a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre,
+de protección de datos de carácter personal.
+Cuando sea técnicamente posible y eficaz, el consentimiento del destinatario para
+aceptar el tratamiento de los datos podrá facilitarse mediante el uso de los parámetros
+adecuados del navegador o de otras aplicaciones.
+Lo anterior no impedirá el posible almacenamiento o acceso de índole técnica al solo
+fin de efectuar la transmisión de una comunicación por una red de comunicaciones
+electrónicas o, en la medida que resulte estrictamente necesario, para la prestación de
+un servicio de la sociedad de la información expresamente solicitado por el destinatario”.
+Esta Infracción esta tipificada como “leve” en el artículo 38.4 g), de la citada Ley, que
+considera como tal: “Utilizar dispositivos de almacenamiento y recuperación de datos
+cuando no se hubiera facilitado la información u obtenido el consentimiento del destinatario del servicio en los términos exigidos por el artículo 22.2.”, pudiendo ser sancionada con multa de hasta 30.000 €, de acuerdo con el artículo 39 de la citada LSSI.
+Tras las evidencias obtenidas, se considera que procede graduar la sanción a imponer
+de acuerdo con los siguientes criterios que establece el art. 40 de la LSSI:
+-
+
+La existencia de intencionalidad, expresión que ha de interpretarse como equivalente a grado de culpabilidad de acuerdo con la Sentencia de la Audiencia
+Nacional de 12/11/07 recaída en el Recurso núm. 351/2006, correspondiendo a
+la entidad denunciada la determinación de un sistema de obtención del consentimiento informado que se adecue al mandato de la LSSI.
+
+-
+
+Plazo de tiempo durante el que ha venido cometiendo la infracción, al ser la reclamación febrero de 2019, (apartado b).
+
+Con arreglo a dichos criterios, se estima adecuado imponer a la entidad reclamada
+una sanción de 3.000 euros (tres mil euros).
+Vistos los preceptos citados y demás de general aplicación, la Directora de la Agencia
+Española de Protección de Datos.
+RESUELVE
+PRIMERO: IMPONER a la entidad JUST LANDED, S.L. con CIF: B83690131, titular de
+la página web, ***URL.1 una sanción de:
+a- Apercibimiento, por la infracción del artículo 13) del RGPD, respecto de su Política de Privacidad.
+b- 3.000 euros (tres mil euros), por la infracción del artículo 22.2) de la LSSI, respecto de su Política de Cookies.
+SEGUNDO: REQUERIR a la entidad JUST LANDED, S.L para que, en el plazo de un
+mes desde este acto de notificación, proceda a
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/6
+
+a- Tomar las medidas adecuadas para incluir en la página web de su titularidad,
+información sobre su “política de privacidad”, en castellano, en consonancia
+con lo estipulado en el artículo 13 del RGPD.
+b- Tomar las medidas adecuadas para incluir en la página web de su titularidad,
+información sobre las cookies que se instalan y un mecanismo que permita habilitar o rechazar todas las cookies y/o habilitar las cookies de forma granular,
+que permita administrar las preferencias del usuario, para lo cual, puede utilizar
+la información existente en la “Guía sobre Cookies” editada por la Agencia Española de Protección de Datos en noviembre de 2019. También se le requiere
+para tome las medidas necesarias para que no se instalen cookies NO necesarias con el mero hecho de acceder a la página web.
+TERCERO: NOTIFICAR la presente resolución a la entidad JUST LANDED, S.L y al
+reclamante sobre el resultado de la reclamación.
+Advertir al sancionado que la sanción impuesta deberá hacerla efectiva una vez sea
+ejecutiva la presente resolución, de conformidad con lo dispuesto en el artículo 98.1.b)
+de la ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (LPACAP), en el plazo de pago voluntario que señala el artículo 68 del Reglamento General de Recaudación, aprobado por Real Decreto 939/2005,
+de 29 de julio, en relación con el art. 62 de la Ley 58/2003, de 17 de diciembre, mediante su ingreso en la cuenta restringida nº ES00 0000 0000 0000 0000 0000, abierta
+a nombre de la Agencia Española de Protección de Datos en el Banco CAIXABANK,
+S.A. o en caso contrario, se procederá a su recaudación en período ejecutivo.
+Recibida la notificación y una vez ejecutiva, si la fecha de ejecutividad se encuentra
+entre los días 1 y 15 de cada mes, ambos inclusive, el plazo para efectuar el pago voluntario será hasta el día 20 del mes siguiente o inmediato hábil posterior, y si se encuentra entre los días 16 y último de cada mes, ambos inclusive, el plazo del pago
+será hasta el 5 del segundo mes siguiente o inmediato hábil posterior.
+De conformidad con lo establecido el artículo 82 de la Ley 62/2003, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, la presente Resolución se
+hará pública, una vez haya sido notificada a los interesados. La publicación se realizará conforme a lo previsto en la Instrucción 1/2004, de 22 de diciembre, de la Agencia
+Española de Protección de Datos sobre publicación de sus Resoluciones.
+Contra esta resolución, que pone fin a la vía administrativa, y de conformidad con lo
+establecido en los artículos 112 y 123 de la LPACAP, los interesados podrán interponer, potestativamente, recurso de reposición ante la Directora de la Agencia Española
+de Protección de Datos en el plazo de un mes a contar desde el día siguiente a la notificación de esta resolución, o, directamente recurso contencioso administrativo ante la
+Sala de lo Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley
+29/1998, de 13/07, reguladora de la Jurisdicción Contencioso-administrativa, en el plazo de dos meses a contar desde el día siguiente a la notificación de este acto, según
+lo previsto en el artículo 46.1 del referido texto legal.
+Finalmente, se señala que conforme a lo previsto en el art. 90.3 a) de la LPACAP, se
+podrá suspender cautelarmente la resolución firme en vía administrativa si el interesado manifiesta su intención de interponer recurso contencioso-administrativo. De ser
+éste el caso, el interesado deberá comunicar formalmente este hecho mediante escrito
+dirigido a la Agencia Española de Protección de Datos, presentándolo a través del ReC/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/6
+
+gistro Electrónico de la Agencia [https://sedeagpd.gob.es/sede-electronicaweb/], o a
+través de alguno de los restantes registros previstos en el art. 16.4 de la citada Ley
+39/2015, de 1 de octubre. También deberá trasladar a la Agencia la documentación
+que acredite la interposición efectiva del recurso contencioso-administrativo. Si la
+Agencia no tuviese conocimiento de la interposición del recurso contencioso-administrativo en el plazo de dos meses desde el día siguiente a la notificación de la presente
+resolución, daría por finalizada la suspensión cautelar.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

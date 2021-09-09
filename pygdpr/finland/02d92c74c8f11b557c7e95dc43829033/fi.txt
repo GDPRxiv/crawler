@@ -1,0 +1,28 @@
+Euroopan tietosuojaneuvosto keskusteli tietosuoja-asetuksen toimivuudesta sekä yritysfuusioiden vaikutuksesta tietosuojaan
+
+
+   
+
+24.2.2020
+ 9.28
+
+Tiedote
+var snoobiSection="Tiedote";
+
+
+ Euroopan tietosuojaneuvosto (EDPB) kokoontui 18. ja 19. helmikuuta täysistuntoon, jonka aiheina olivat muun muassa Euroopan komissiolle laadittava raportti tietosuoja-asetuksen toimivuudesta, ohjeistus henkilötietojen siirrosta kolmansien maiden viranomaisille sekä lausunto yritysfuusioiden vaikutuksista tietosuojaan. Osana EU:n yleisen tietosuoja-asetuksen arviointia ja uudelleentarkastelua tietosuojaneuvosto on laatinut oman raporttinsa asetuksen toimivuudesta. Neuvosto katsoo, että asetuksen soveltaminen ensimmäisten 20 kuukauden aikana on onnistunut hyvin. Vaikka valvontaviranomaisten resurssien riittävyys on edelleen huolenaiheena ja joitakin mm. maiden erilaisista tulkintakäytännöistä aiheutuvia haasteita on tunnistettu, tietosuojaneuvosto on vakuuttunut siitä, että valvontaviranomaisten välinen yhteistyö johtaa yhteiseen tietosuojakulttuuriin ja johdonmukaisiin tulkintoihin. Näihin tunnistettuihin haasteisiin ollaan myös parhaillaan etsimässä ratkaisuja. Tietosuojaneuvosto katsoo, että tietosuoja-asetuksen tarkistaminen olisi tässä vaiheessa ennenaikaista. Ohjeistus viranomaisten välisille tiedonsiirroille kolmansiin maihin Kokouksessaan tietosuojaneuvosto hyväksyi luonnoksen ohjeeksi, joka käsittelee henkilötietojen siirtoja ETA-maiden viranomaisilta kolmansien maiden viranomaisille tai kansainvälisille järjestöille silloin, kun nämä siirrot eivät tapahdu tietosuojan riittävyyttä koskevan päätöksen perusteella. Ohje esittää suosituksia takeista, jotka tulisi täyttää hyödynnettäessä viranomaisten välisiä oikeudellisesti sitovia välineitä (art. 46:2 (a)) tai hallinnollisissa järjestelyissä olevia säännöksiä (46:3 (b)) sen varmistamiseksi, että luonnollisten henkilöiden tietosuojan tasoa ei heikennetä. Ohjeesta järjestetään julkinen kuuleminen. Lausunto yritysfuusioiden vaikutuksista tietosuojaan Kun Google oli ilmoittanut aikovansa ostaa älylaitteita valmistavan Fitbitin, Euroopan tietosuojaneuvosto antoi lausunnon, jossa se korosti, että arkaluonteisten henkilötietojen yhdistäminen ja kerääminen voi aiheuttaa suuren riskin Euroopassa asuvien tietosuojaa koskeville perusoikeuksille. Tietosuojaneuvosto muistuttaa suunnitteilla olevan fuusion osapuolia siitä, että niitä koskevat tietosuoja-asetuksen mukaiset velvoitteet ja että fuusiosta tietosuojalle aiheutuvia vaikutuksia on arvioitava kattavasti ja avoimesti. Tietosuojaneuvosto kehottaa osapuolia myös alentamaan fuusiosta mahdollisesti aiheutuvia tietosuojariskejä ennen Euroopan komissiolle tehtävää ilmoitusta fuusiosta. Tietosuojaneuvosto tarkastelee fuusion mahdollisia vaikutuksia henkilötietojen suojaan Euroopan talousalueella ja on pyydettäessä valmis antamaan asiasta lausunnon komissiolle. Lisätietoja: apulaistietosuojavaltuutettu Anu Talus, puh. 029 566 6766, anu.talus(at)om.fi Euroopan tietosuojaneuvosto (EDPB) on riippumaton EU:n elin, joka koostuu EU:n kansallisista tietosuojaviranomaisista ja Euroopan tietosuojavaltuutetun edustajista. Myös ETA-maat Islanti, Norja ja Liechtenstein ovat tietosuojaneuvoston jäseniä. Euroopan tietosuojaneuvosto vastaa EU:n yleisen tietosuoja-asetuksen ja poliisi- ja rikosoikeusviranomaisia koskevan tietosuojadirektiivin yhdenmukaisesta soveltamisesta. 
+
+
+
+
+
+
+
+
+
+
+
+EU-maat
+tietosuoja
+
+

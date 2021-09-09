@@ -1,0 +1,63 @@
+
+                                    [pic]
+                     HELLENIC DATA PROTECTION AUTHORITY
+
+                                                            Athens 14-1-2020
+                                                               Ref. No.: 279
+
+
+                                Press release
+
+   Investigation regarding access to and inspection by the employer of an
+  employee’s emails on a company server, illegal installation and operation
+ of a closed-circuit video-surveillance system and infringement of the right
+                                  of access
+
+       The  Ηellenic  DPA  in  response  to   a   complaint   conducted   an
+investigation regarding the lawfulness of  personal  data  processing  on  a
+server of ‘ALLSEAS MARINE S.A.’, as well as the lawfulness of access to  and
+inspection of deleted  emails  of  a  senior  manager  for  whom  there  was
+suspicion  that  he  had  committed  unlawful  acts  against  the  company’s
+interests.
+     The Authority found that the company as a controller had complied  with
+the requirements of the GDPR and that its internal policies and  regulations
+provided for a ban on the use of  the  company’s  electronic  communications
+and networks for private purposes, and for the possibility of  carrying  out
+internal  inspections.  The  company  therefore  had  a  legal  right  under
+Articles  5(1)  and  6(1)(f)  of  the  GDPR  to  carry   out   an   internal
+investigation searching and retreating employee’s emails.
+      The DPA, on the other  hand,  found  that  the  closed-circuit  video-
+surveillance system had  been  installed  and  operated  illegally  and,  in
+addition, the recorded material submitted to the  Authority  was  considered
+to be illegal.
+      Finally, the Authority found that the  company  did  not  satisfy  the
+employee’s right of access to his personal data contained in  his  corporate
+PC.
+     Following the finding that the GDPR had been infringed,  the  Authority
+decided in this particular case to  exercise  its  corrective  powers  under
+Article 58(2) of the GDPR by means of corrective measures, and decided to:
+
+i) order the company to comply immediately with  the  complainant’s  request
+to exercise his right to access  and  information  concerning  his  personal
+data stored in the company’s computer that the complainant used, and  inform
+the Authority thereof;
+ii) ensure within one  (1)  month  of  receipt  of  the  decision  that  the
+processing operations which take place by means of  its  video  surveillance
+system comply with the provisions of the  GDPR,  and  inform  the  Authority
+thereof, and, in particular:
+(a) restore the application of the provisions of Article 5(1)(a) and (2)  of
+the GDPR in accordance with the grounds of the judgement;
+(b) also restore the application of the other  provisions  of  subparagraphs
+(b) to (f) of Article 5(1) of the GDPR in so far as the  infringement  found
+affects the internal organisation and compliance with the provisions of  the
+GDPR  by  taking   all   necessary   measures   under   the   principle   of
+accountability;
+iii) impose on  the  company  an  effective,  proportionate  and  dissuasive
+administrative fine, as appropriate in the case of illegal installation  and
+operation of a closed-circuit video-surveillance system, in accordance  with
+the specific circumstances of  this  case,  amounting  to  fifteen  thousand
+euros (EUR 15,000.00).
+
+     Decision 43/2019 is available in Greek on www.dpa.gr ( “Decisions”.
+
+                                                   Communications Department

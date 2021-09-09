@@ -1,0 +1,76 @@
+
+
+L’Autorité de protection des données (APD) publie ce 12 décembre 2019 un projet de plan stratégique 2019-2025. Le texte définit des priorités et recense les moyens nécessaires pour parvenir à guider organisations et citoyens vers un monde numérique dans lequel la vie privée serait une réalité pour tous. L’accent sera mis sur 5 secteurs principaux : le secteur des télécommunications et des médias, les autorités publiques, le marketing direct, l’enseignement et les PME, mais également sur d’importants sujets de société comme les données en ligne et les données sensibles. Le plan stratégique sera soumis jusqu’au 7 janvier 2020 à une consultation publique. Une version finale sera publiée à l’issue de cette consultation.
+
+
+Vision et mission
+A l’heure actuelle, notre droit à la vie privée est de plus en plus sous pression. Nous laissons sans cesse des « traces » derrière nous qui peuvent, par exemple, être utilisées pour prévoir et influencer nos comportements. En parallèle, les entreprises et organisations sont en recherche constante de moyens de se développer dans le respect des citoyens et de leurs données personnelles.
+Les défis sont considérables et l’APD en est parfaitement consciente, c’est pourquoi elle s’est fixée une mission ambitieuse : guider citoyens et organisations vers un monde numérique où la vie privée est une réalité pour tous.
+Pour mener à bien cette mission, l’APD s’efforce de trouver un équilibre entre, d’une part, bien informer sur les règles en vigueur, et d’autre part, les faire appliquer. Concrètement, l’APD veut (au travers de son Service de Première Ligne, son Centre de Connaissances et son Secrétariat Général) guider, conseiller et sensibiliser les acteurs privés et publics, ainsi qu’interpréter la réglementation. En parallèle, elle va surveiller et contrôler grâce à son Service d’Inspection, mais aussi sévir en imposant des sanctions via sa Chambre Contentieuse quand cela s’avère nécessaire.
+Grâce à cette approche globale, l’APD veut aussi amorcer un changement culturel en encourageant citoyens et organisations qui traitent leurs données à développer un "réflexe vie privée".
+Priorités 2019-2025
+Les priorités 2019-2025 sont réunies en trois catégories principales :  
+
+Priorités axées sur les secteurs :
+
+    Télécommunications et médias
+    Autorités publiques
+    Marketing direct
+    Enseignement
+    PME
+
+Priorités axées sur les thèmes du RGPD (Règlement général sur la protection des données) :
+
+    Rôle du délégué à la protection des données (aussi appelé « DPO »)
+    Légitimité du traitement
+    Droits des citoyens (droits d’accès, d’opposition, de rectification, etc.)
+
+Priorités sociétales
+
+    Photos et caméras
+    Protection des données en ligne
+    Données sensibles (comme les données biométriques, les données de santé, etc.)
+Ces priorités ont été définies grâce à différents critères comme les risques liés à une éventuelle infraction (par exemple : le nombre de personnes touchées, la sensibilité des données ou encore leur caractère intrusif), mais aussi l’importance du sujet pour les citoyens et/ou responsables du traitement (par exemple : des sujets pour lesquels nous recevons beaucoup de questions ou plaintes, ou encore qui ont soulevé l’opinion publique).
+L’APD insiste sur le fait que priorité ne veut pas dire sanctions. Cela signifie plutôt que toutes les activités de l’APD (la surveillance, mais aussi l’information, la sensibilisation et la recommandation par exemple) se concentreront en priorité sur ces secteurs et sujets afin de protéger au mieux les citoyens. Seuls une approche globale et un bon équilibre entre les différents dispositifs de l’APD permettra de faire bouger les choses.
+David Stevens, Président du comité de direction de l’APD : « Ces 11 priorités sont ambitieuses, nous n’avons donc pas perdu une minute pour les mettre en œuvre. Le projet BOOST, qui a pour but de soutenir les PME, commencera dès janvier 2020. Nous préparons également à la même période une toute nouvelle recommandation sur le marketing direct. Cette année déjà, nous avons lancé le site www.maitrisermesdonnees.be pour mieux informer les citoyens sur leurs droits en matière de protection des données personnelles. »
+L’APD, une organisation en pleine transformation
+Le 25 Mai 2018, date d’entrée en vigueur du RGPD, l’ancienne Commission de la protection de la vie privée est devenue l’Autorité de protection des données. Ce changement de nom reflète également un changement dans la structure et les compétences de l’organisation : l’APD a ainsi en effet dû faire face à 6 nouvelles tâches (contre seulement 3 tâches supprimées), ainsi qu’à l’augmentation de la charge de travail sur plusieurs tâches existantes. Les demandes d’information ont par exemple augmenté de 21 %, les plaintes et requêtes de presque 68%, les demandes d’avis de 113% et les notifications de fuite de données de 3527 %. Les chiffres exacts sont disponibles dans le volet « notre organisation  » du plan stratégique. 
+L’APD a demandé au Parlement d’augmenter structurellement sa dotation et d’engager 20 temps plein d’ici 2025. Sans cette augmentation de moyens, le plan stratégique 2019-2025 pourra difficilement être mis en œuvre dans son intégralité. David Stevens : « Nous sommes convaincus que tout le monde comprend l’importance d’investir dans une plus grande protection de la vie privée. »
+Consultation publique
+Le plan stratégique 2019-2015 sera soumis à consultation publique du 12 décembre au 7 janvier 2020 inclus.
+David Stevens : « Nous encourageons fortement le public à nous donner son avis sur le plan stratégique. L’APD est au service des citoyens, il est donc normal que ceux-ci puissent se prononcer sur la manière dont nous comptons protéger leurs droits en matière de protection des données personnelles pour les années à venir ».
+Après analyse des commentaires, l’APD rédigera une version définitive du plan stratégique 2019-2025. La version finale est attendue dans le courant du mois de janvier 2020.
+Un plan stratégique porté par une toute nouvelle Autorité
+Le plan stratégique a été rédigé par le nouveau comité de direction de l’APD, désigné en avril 2019. Ce nouveau comité de direction s’articule en 5 différents services qui travaillent ensemble à mettre en œuvre la mission de l’APD. Il s’agit du Secrétariat Général, du Centre de Connaissances, du Service de Première Ligne, du Service d’Inspection et de la Chambre Contentieuse.
+Alexandra Jaspar, directrice du Centre de Connaissances : « Le Centre de Connaissances va, d’une part, émettre des prises de position et recommandations quant à la manière d’implémenter en pratique certaines dispositions du RGPD (notamment en cas de recours à des technologies nouvelles) et, d’autre part, agir comme garde-fou afin que les textes de loi belges en projet n’instituent pas d’ingérence injustifiée dans le droit des citoyens au respect de leur vie privée.»
+Peter Van den Eynde, Inspecteur Général : « En plus des enquêtes basées sur les plaintes que reçoit l’APD, le Service d’inspection compte ces prochaines années fonctionner de manière beaucoup plus proactive. Protéger les citoyens, c’est aussi pouvoir rapidement faire des vérifications quand nous pensons que la réglementation n’a pas été respectée. »
+Hielke Hijmans, président de la Chambre Contentieuse : « L’application de la loi et le règlement des litiges sont la pierre angulaire d’une protection effective de la vie privée. Je considère que ma mission est de traiter les litiges avec une grande expertise, avec impartialité et dans des délais acceptables. Si nous constatons une infraction à la loi, nous agirons avec fermeté.»
+****
+UPDATE 11 mars 2020
+Le Plan Stratégique 2020-2025 est désormais finalisé.
+Nos priorités restent inchangées.
+
+
+Liens intéressants
+
+
+
+
+
+
+
+Plan Stratégique 2020-2025
+
+
+
+
+
+
+
+
+Synthèse du Plan Stratégique 2020-2025
+
+
+
+
+

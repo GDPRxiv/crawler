@@ -1,0 +1,31 @@
+
+
+L’APD s’inquiète suite aux reportages parus sur les contrôles de température effectués à Brussels Airport. Selon l’APD, il n’existe à l’heure actuelle pas de base légale permettant la prise de température des personnes souhaitant accéder aux locaux de l’aéroport au moyen de technologies numériques avancées. Elle a pris contact avec l’aéroport pour mieux comprendre le système mis en place et le raisonnement juridique sur lequel il repose.
+
+
+Système de mesure de la température
+Brussels Airport semble avoir installé depuis quelques jours des scanners de température sophistiqués. Ceux-ci permettraient de filtrer des personnes ayant plus de 38°C de température pour ensuite les contrôler une seconde fois et leur soumettre un questionnaire sur de possibles symptômes liés au coronavirus. Selon les médias, une personne aurait déjà été écartée de l’aéroport suite à ce système.   
+L’APD s’interroge quant à cette pratique. En effet, la prise de température d’une personne au moyen de technologies numériques avancées est un « traitement » au sens du RGPD (Règlement Général sur la Protection des Données). Et dès que les personnes faisant l’objet de la mesure sont identifiables (via une lecture de leur carte d’embarquement ou d’identité, une prise de vue par une caméra les rendant reconnaissables, etc.) ou même dès qu’elles font l’objet d’un filtrage à l’entrée, ce traitement est considéré comme portant sur une « donnée à caractère personnel », relative à la santé qui plus est. Or, le RGPD interdit en principe le traitement des données de santé, sauf dans un nombre très restreint d’exceptions. La liste de ces exceptions se trouve à l’article 9.2 du RGPD.
+Selon l’APD, il ne semble actuellement pas exister d’exception, comme par exemple une disposition législative de droit belge, qui permette un tel traitement, celui-ci ne repose donc a priori sur aucune base légale valable.
+L’APD avait déjà publié début juin des lignes directrices à ce sujet.
+L’APD a pris contact avec Brussels Airport afin de bien comprendre la technologie utilisée par l’aéroport, la manière dont est organisé le second contrôle de température, ainsi que la base légale sur laquelle repose ce système de filtrage des voyageurs sur la base de leur température.
+Respect de la protection des données à caractère personnel et santé publique ne sont pas incompatibles
+L'APD estime que la santé publique est primordiale et que sa préservation n’est pas incompatible avec la protection des données personnelles. Toutefois, dans la mise en place de mesures de prévention, il convient de respecter une série de balises prévues par le droit.
+David Stevens, Président de l’Autorité de protection des données : « Si les autorités estiment que de tels systèmes doivent pouvoir être mis en place au vu de la nature exceptionnelle de la crise, et aussi longtemps que la crise dure, nous les invitons à adopter une législation qui autoriserait ce genre de traitements de données. Cela pourrait se faire assez rapidement, si celles-ci estiment que ce genre de traitements est nécessaire. Notre Autorité se tient prête à examiner la proposition de texte en urgence.»
+Dans le cadre de la rédaction d’une telle norme réglementaire, si celle-ci a lieu, il faudra également prendre en considération les différents principes de la protection des données. L’Etat devra ainsi notamment justifier la proportionnalité et la nécessité d’une telle mesure. 
+
+
+Liens intéressants
+
+
+
+
+
+
+
+Prise de température dans le cadre de la lutte contre le COVID-19
+
+
+
+
+

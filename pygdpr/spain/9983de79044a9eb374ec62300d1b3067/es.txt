@@ -1,0 +1,254 @@
+1/7
+
+
+
+Procedimiento nº.: PS/00373/2019
+
+180-100519
+
+Recurso de reposición Nº RR/00212/2020
+Examinado el recurso de reposición interpuesto por Doña A.A.A., en
+representación de Doña B.B.B., contra la resolución dictada por la Directora de la
+Agencia Española de Protección de Datos en el procedimiento sancionador
+PS/00373/2019, y en base a los siguientes
+HECHO
+PRIMERO: Con fecha 17 de marzo de 2020, se dictó resolución por la Directora de la
+Agencia Española de Protección de Datos en el procedimiento sancionador
+PS/00373/2019, en virtud de la cual se imponía a una sanción de 1000 euros, por la
+vulneración de lo dispuesto en los artículos 5.1.c) y 13 del Reglamento (UE) 2016/679
+del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección
+de las personas físicas en lo que respecta al tratamiento de datos personales y a la
+libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (en lo
+sucesivo RGPD), infracción tipificada en el artículo 83.5 del RGPD y calificadas de
+muy graves, a efectos de prescripción, en la Ley Orgánica 3/2018, de 5 de diciembre,
+de Protección de Datos Personales y garantía de los derechos digitales (en adelante,
+LOPDPGDD).
+Dicha resolución, que fue notificada al recurrente en fecha 3 de junio de 2020,
+fue dictada previa la tramitación del correspondiente procedimiento sancionador, de
+conformidad con lo dispuesto en la LOPDPGDD, y supletoriamente en la LPACAP, en
+materia de tramitación de procedimientos sancionadores.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/7
+
+SEGUNDO: Como hechos probados del citado
+PS/00373/2019, quedó constancia de los siguientes:
+
+procedimiento
+
+sancionador,
+
+<<PRIMERO: La Agencia Española de Protección de Datos apercibió a la
+reclamada por tener orientadas las cámaras de forma que captaban imágenes
+desproporcionadas y carentes de cartel informativo, tras la tramitación del
+procedimiento A/00456/2017.
+SEGUNDO: En el procedimiento de apercibimiento mencionado se la requería
+para que en el plazo de un mes justificase la retirada de la cámara exterior que se
+orienta hacia la vía pública, o bien su reubicación o reorientación para que no pueda
+captar imágenes desproporcionadas de la vía pública. Pudiendo acreditar la adopción
+de estas medidas, por medio, por ejemplo, de fotografías que evidencien la retirada de
+la cámara o fotografías que muestren lo que capta la cámara una vez se haya
+reubicado o reorientado.
+.
+TERCERO: Con fecha 20 de septiembre de 2019, tuvo entrada en esta
+Agencia Española de Protección de Datos un escrito presentado por la Dirección
+General de la Guardia Civil - Puesto de Cea, mediante el que formula reclamación
+contra la reclamada, por la instalación de un sistema de videovigilancia instalado en
+***DIRECCIÓN.1, ***LOCALIDAD.1, existiendo indicios de un posible incumplimiento
+de lo dispuesto en la normativa de protección de datos. Añaden que no ha adoptado
+las medidas requeridas en el apercibimiento anterior.
+CUARTO: La reclamada recibió el acuerdo de inicio de este procedimiento y no
+se han recibido alegaciones al mismo.
+TERCERO: Doña A.A.A., en representación de Doña B.B.B. (en lo sucesivo el
+recurrente) ha presentado en fecha 8 de junio de 2020, en esta Agencia Española de
+Protección de Datos, recurso de reposición fundamentándolo en lo siguiente:
+Tras la recepción del apercibimiento, presentó en la Agencia Española de
+Protección de Datos un escrito indicando las modificaciones que había realizado con
+las cámaras objeto del procedimiento. Indican que existe un cartel avisando de que es
+zona video vigilada de Securitas Direct. Asimismo, aportan fotografías de las imágenes
+que captan las cuatro cámaras que tiene instaladas en su vivienda la ahora recurrente.
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver el presente recurso la Directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 48.1
+de la LOPDPGDD.
+II
+En relación con las manifestaciones efectuadas por el recurrente debe señalarse que ya fueron analizadas en los Fundamentos de Derecho de la resolución recurrida.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/7
+
+<<El artículo 6.1 del RGPD establece los supuestos que permiten considerar lícito el tratamiento de datos personales.
+Por su parte, el artículo 5.1.c) del RGPD, relativo a los principios del
+tratamiento, dispone que los datos personales serán “adecuados, pertinentes y
+limitados a lo necesario en relación con los fines para los que son tratados
+(“minimización de datos”).” Este artículo consagra el principio de minimización de
+datos en el tratamiento de los datos personales. Supone que dicho tratamiento sea
+ajustado y proporcional a la finalidad a la que se dirige, debiendo restringirse el
+tratamiento de los datos excesivos o bien procederse a la supresión de los mismos.
+La pertinencia en el tratamiento de los datos debe producirse tanto en el ámbito de la recogida de los datos como en el posterior tratamiento que se realice de los
+mismos.
+El artículo 13, apartados 1 y 2, del RGPD, establece la información que debe
+facilitarse al interesado en el momento de la recogida de sus datos. En el caso de tratamientos de datos personales con fines de vigilancia a través de sistemas de cámaras o videocámaras, el deber de información puede cumplirse mediante la colocación,
+en las zonas videovigiladas, de un distintivo informativo ubicado en lugar suficientemente visible, tanto en espacios abiertos como cerrados, y sirviéndose de impresos en
+los que se detalle la información prevista, que el responsable deberá poner a disposición de los interesados.
+Por otra parte, conforme a lo establecido en el artículo 22 de la LOPDGDD, referido específicamente a los “Tratamientos con fines de videovigilancia”, el tratamiento
+de imágenes en lugares públicos sólo puede ser realizado -en su caso y previo el
+cumplimiento de los requisitos legalmente exigibles-, por las Fuerzas y Cuerpos de
+Seguridad, a menos que opere la excepción establecida en el citado artículo 22 de la
+LOPDGDD para las personas físicas o jurídicas, públicas o privadas, respetando las
+condiciones exigidas en dicho artículo.
+En algunas ocasiones la protección de los espacios privados sólo es posible si
+las cámaras se ubican en espacios como las fachadas. A veces también resulta necesario captar los accesos, puertas o entradas, de modo que, aunque la cámara se encuentre en el interior del edificio, resulta imposible no registrar una parte mínima e imprescindible de la vía pública, que inevitablemente se capta.
+Para que esta excepción sobre la protección de espacios privados resulte aplicable, no deberá existir una posibilidad de instalación alternativa. En estos casos, el
+responsable del tratamiento realizado a través de cámaras adecuará el uso de la instalación, de modo que el impacto en los derechos de terceros (viandantes) sea el mínimo posible. En ningún caso se admitirá el uso de prácticas de vigilancia más allá del
+entorno objeto de la instalación, no pudiendo afectar a los espacios públicos circundantes, edificios contiguos y vehículos distintos de los que accedan al espacio vigilado.
+III
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/7
+
+De conformidad con lo expuesto, el tratamiento de imágenes a través de un
+sistema de videovigilancia, para ser conforme con la normativa vigente, debe cumplir
+los requisitos siguientes:
+- Respetar el principio de proporcionalidad.
+- Cuando el sistema esté conectado a una central de alarma, únicamente podrá
+ser instalado por una empresa de seguridad privada que reúna los requisitos contemplados en el artículo 5 de la Ley 5/2014 de Seguridad Privada, de 4 de abril.
+- Las videocámaras no podrán captar imágenes de las personas que se encuentren fuera del espacio privado en donde esté instalado el sistema de videovigilancia, ya que el tratamiento de imágenes en lugares públicos sólo puede ser realizado,
+salvo que concurra autorización gubernativa, por las Fuerzas y Cuerpos de Seguridad.
+Tampoco pueden captarse ni grabarse espacios propiedad de terceros sin el consentimiento de sus titulares, o, en su caso, de las personas que en ellos se encuentren.
+Esta regla admite alguna excepción ya que, en algunas ocasiones, para la protección de espacios privados, donde se hayan instalado cámaras en fachadas o en el
+interior, puede ser necesario para garantizar la finalidad de seguridad la grabación de
+una porción de la vía pública. Es decir, las cámaras y videocámaras instaladas con fines de seguridad no podrán obtener imágenes de la vía pública salvo que resulte imprescindible para dicho fin, o resulte imposible evitarlo por razón de la ubicación de
+aquéllas y extraordinariamente también se recogerá el espacio mínimo para dicha finalidad. Por lo tanto, las cámaras podrían excepcionalmente captar la porción mínimamente necesaria para la finalidad de seguridad que se pretende.
+- Se deberá cumplir el deber de informar a los afectados previsto en los artículos 12 y 13 del RGPD.
+En concreto se deberá colocar en las zonas videovigiladas, al menos un distintivo informativo ubicado en lugar suficientemente visible, tanto en espacios abiertos
+como cerrados, en el que se identificará, al menos, la existencia de un tratamiento, la
+identidad del responsable y la posibilidad de ejercitar los derechos previstos en dichos
+preceptos. Asimismo, deberá mantenerse a disposición de los afectados la información a la que se refiere el citado RGPD.
+- El responsable deberá llevar un registro de actividades de los tratamientos
+efectuados bajo su responsabilidad en el que se incluya la información a la que hace
+referencia el artículo 30.1 del RGPD.
+- Las cámaras instaladas no pueden obtener imágenes de espacio privativo de
+tercero y/o espacio público sin causa justificada debidamente acreditada, ni pueden
+afectar a la intimidad de transeúntes que transiten libremente por la zona. No está permitida, por tanto, la colocación de cámaras hacia la propiedad privada de vecinos con
+la finalidad de intimidarlos o afectar a su ámbito privado sin causa justificada.
+- En ningún caso se admitirá el uso de prácticas de vigilancia más allá del entorno objeto de la instalación y en particular, no pudiendo afectar a los espacios públicos circundantes, edificios contiguos y vehículos distintos de los que accedan al espaC/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/7
+
+cio vigilado.
+IV
+La reclamación se basa en la ilicitud de la instalación por parte de la reclamada
+de un sistema de videovigilancia, ya que la videocámara se encuentra en el exterior de
+la vivienda grabando la vía pública y los viandantes. Consta la ausencia de autorización del Ministerio del Interior para la colocación de la misma. Consta la inexistencia
+de carteles informativos conformes a la normativa actual de protección de datos sobre
+la presencia de videocámaras ubicadas en el exterior de la vivienda, propiedad de la
+reclamada, sita en ***DIRECCIÓN.1, ***LOCALIDAD, que captaría imágenes de zonas públicas de forma desproporcionada; sin que haya alegado lo contrario la reclamada.
+Además, el reclamante advierte que el inmueble reseñado no dispone de cartel
+en el que se informe sobre la presencia de las cámaras y sobre la identidad del responsable del tratamiento de los datos, para que las personas interesadas puedan ejercitar los derechos previstos en los arts. 15 a 22 del RGPD.
+Conforme a lo expuesto, esta Agencia considera que se ha incumplido la normativa de protección de datos por la existencia de cámaras de videovigilancia instaladas en el exterior de la vivienda de la reclamada, ubicada en ***DIRECCIÓN.1, ***LOCALIDAD, que captan imágenes de vía pública en exceso, así como la ausencia del
+necesario distintivo informativo.>>
+III
+Desde que se realizó el primer procedimiento sancionador con resultado de
+apercibimiento ya se indicaba que el cartel informativo debía ser el establecido por la
+normativa de protección de datos, en el cual se indicase que el responsable del
+tratamiento es la dueña de la casa, en este supuesto, y la dirección a la que se
+pueden dirigir para el ejercicio de los derechos referidos a este tratamiento. El cartel
+sigue sin estar disponible, manteniendo el de la empresa que realizó la instalación.
+Por otro lado, de las imágenes aportadas con el recurso de reposición, se
+verifica que las cámaras 1 y 2 siguen grabando espacio excesivo fuera de la vivienda
+de la persona responsable de la videovigilancia.
+En consecuencia, en el presente recurso de reposición, la recurrente no ha
+aportado nuevos hechos o argumentos jurídicos que permitan reconsiderar la validez
+de la resolución impugnada.
+Vistos los preceptos citados y demás de general aplicación,
+La Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: DESESTIMAR el recurso de reposición interpuesto por Doña A.A.A., en
+representación de Doña B.B.B., contra la resolución de esta Agencia Española de
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/7
+
+Protección de Datos dictada con fecha 17 de marzo de 2020, en el procedimiento
+sancionador PS/00373/2019.
+SEGUNDO: NOTIFICAR la presente resolución a Doña A.A.A., en representación de
+Doña B.B.B.
+TERCERO: Advertir al sancionado que la sanción impuesta deberá hacerla efectiva
+una vez sea ejecutiva la presente resolución, de conformidad con lo dispuesto en el
+artículo 98.1.b) de la ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, en el plazo de pago voluntario que señala el
+artículo 68 del Reglamento General de Recaudación, aprobado por Real Decreto
+939/2005, de 29 de julio, en relación con el art. 62 de la Ley 58/2003, de 17 de
+diciembre, mediante su ingreso en la cuenta restringida nº ES00 0000 0000 0000 0000
+0000, abierta a nombre de la Agencia Española de Protección de Datos en el Banco
+CAIXABANK, S.A. o en caso contrario, se procederá a su recaudación en período
+ejecutivo.
+Recibida la notificación y una vez ejecutiva, si la fecha de ejecutividad se
+encuentra entre los días 1 y 15 de cada mes, ambos inclusive, el plazo para efectuar el
+pago voluntario será hasta el día 20 del mes siguiente o inmediato hábil posterior, y si
+se encuentra entre los días 16 y último de cada mes, ambos inclusive, el plazo del
+pago será hasta el 5 del segundo mes siguiente o inmediato hábil posterior.
+De conformidad con lo establecido en el artículo 50 de la LOPDPGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa conforme al art.
+48.6 de la LOPDPGDD, y de acuerdo con lo establecido en el artículo 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas (LPACAP), los interesados podrán interponer recurso
+contencioso-administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Finalmente, se señala que conforme a lo previsto en el art. 90.3 a) LPACAP, se
+podrá suspender cautelarmente la resolución firme en vía administrativa si el
+interesado manifiesta su intención de interponer recurso contencioso-administrativo.
+De ser éste el caso, el interesado deberá comunicar formalmente este hecho mediante
+escrito dirigido a la Agencia Española de Protección de Datos, presentándolo a través
+del Registro Electrónico de la Agencia [https://sedeagpd.gob.es/sede-electronicaweb/], o a través de alguno de los restantes registros previstos en el art. 16.4 de la
+citada LPACAP. También deberá trasladar a la Agencia la documentación que acredite
+la interposición efectiva del recurso contencioso-administrativo. Si la Agencia no
+tuviese conocimiento de la interposición del recurso contencioso-administrativo en el
+plazo de dos meses desde el día siguiente a la notificación de la presente resolución,
+daría por finalizada la suspensión cautelar.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/7
+
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

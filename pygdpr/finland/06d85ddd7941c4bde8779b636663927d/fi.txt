@@ -1,0 +1,29 @@
+Euroopan tietosuojaneuvosto tukee komission ehdotusta tartuntaketjujen jäljittämiseen tarkoitettujen sovellusten vapaaehtoisesta käyttöönotosta
+
+
+   
+
+16.4.2020
+ 10.30
+
+Tiedote
+var snoobiSection="Tiedote";
+
+
+ Euroopan tietosuojaneuvosto on julkaissut kirjeen, jossa se ottaa kantaa Euroopan komission ohjeluonnokseen koronaviruspandemian torjumiseen tarkoitetuista sovelluksista. Tietosuojaneuvosto korostaa, että ihmisten perusoikeuksia on kunnioitettava myös koronaviruspandemian aikana uusia sovelluksia kehitettäessä. Euroopan tietosuojaneuvosto laati kirjeen komission pyynnöstä. Tietosuojaneuvosto suhtautuu myönteisesti komission aloitteeseen torjua koronaviruspandemiaa eurooppalaisessa yhteistyössä. Euroopan tietosuojaneuvosto keskittyy kirjeessään kontaktien jäljittämiseen tarkoitettuihin sovelluksiin. Tietosuojaneuvosto tukee komission ehdotusta siitä, että sovellusten käyttöönotto olisi vapaaehtoista. Neuvoston mukaan sovelluksissa on kiinnitettävä erityistä huomiota siihen, että vaikka henkilötietoja käsitellään kansanterveyden suojelemiseksi, ihmisten yksityisyyteen puututtaisiin mahdollisimman vähän. Kontaktien jäljittämiseen tarkoitettujen sovellusten tavoitteena ei ole seurata tai valvoa yksittäisten käyttäjien sijaintia. Sovellukset eivät myöskään vaadi tällaista yksilöiden sijainnin seurantaa. Euroopan tietosuojaneuvosto muistuttaa, että tietosuoja on huomioitava sovellusten suunnittelussa alusta alkaen. Henkilötietojen käsittelystä on tehtävä EU:n yleisen tietosuoja-asetuksen mukainen vaikutustenarviointi. Lisäksi sovellusten lähdekoodin pitäisi olla julkisesti tutkijoiden saatavavilla. Euroopan tietosuojaneuvosto julkaisee lähipäivinä laajemman ohjeen paikannus- ja jäljitystietojen käytöstä koronaviruspandemian yhteydessä. Tietosuojaneuvosto valmistelee myös koronavirukseen liittyvää ohjetta tieteellisestä tutkimuksesta ja tietosuojasta. Euroopan tietosuojaneuvoston kirje: EDPB Letter concerning the European Commission's draft Guidance on apps supporting the fight against the COVID-19 pandemic (14.4.2020) Euroopan tietosuojaneuvoston tiedote: Twenty-first plenary session of the European Data Protection Board - Letter concerning the European Commission's draft Guidance on apps supporting the fight against the COVID-19 pandemic (15.4.2020) Usein kysyttyä tietosuojasta ja koronaviruksesta Lisätietoja: tietosuojavaltuutettu Reijo Aarnio, puh. 040 520 7068, reijo.aarnio(at)om.fi Euroopan tietosuojaneuvosto (EDPB) on riippumaton EU:n elin, joka koostuu EU:n kansallisista tietosuojaviranomaisista ja Euroopan tietosuojavaltuutetun edustajista. Myös ETA-maat Islanti, Norja ja Liechtenstein ovat tietosuojaneuvoston jäseniä. Euroopan tietosuojaneuvosto vastaa EU:n yleisen tietosuoja-asetuksen ja poliisi- ja rikosoikeusviranomaisia koskevan tietosuojadirektiivin yhdenmukaisesta soveltamisesta. 
+
+
+
+
+
+
+
+
+
+
+
+koronavirukset
+mobiilisovellukset
+tietosuoja
+
+

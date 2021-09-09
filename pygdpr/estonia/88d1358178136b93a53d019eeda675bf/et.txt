@@ -1,0 +1,62 @@
+Kui veebil või mobiilirakendusel puuduvad juhised ringiliikumiseks või info on „ära maetud“ menüüde sügavustesse, on mõistlik läbi viia uuenduskuur, sest peagi hakkab veebilehtedele juurdepääsetavuse nõuete täitmist kontrollima Andmekaitse Inspektsioon.
+ 
+Astudes sisse võõrasse hoonesse, otsib pilk enamasti ikka esimese asjana majajuhist. Sealt leiame info, millisele korrusele vaja minna ja seejärel uurime, kas majas lift töötab või kust läheb trepp üles.
+ 
+Kui aga mõnes hoones ei antagi võimalust valida trepist üles minemise või lifti vahel?  Muidugi pole see tänapäevastes hoonetes just väga reaalne, aga kui oleks nii, tekitaks ju meelehärmi. Analoogses olukorras leiavad aga end pahatihti erivajadusega inimesed, kes soovivad jõuda vajaliku infoni oma  digiekraani taga. Veebiküljele jõuab, aga tema jaoks vajaliku infoni väga raskesti või koguni üldse mitte.
+ 
+Peamised probleemid
+Maailmas, kus järjest enam teenuseid ja infot on kolinud internetti ja kust ka erivajadusega inimesed oma info ammutavad, peab olema veebileht ka nende jaoks kasutatav ilma meelehärmita. Kuigi võib tunduda, et veebis olevale infole on palju lihtsam juurde pääseda kui kaldteeta hoonesse ratastooliga, pole see kaugeltki üheselt nii must-valge.
+ 
+Jättes hetkeks kõrvale erivajadusega inimesed, on paljudel veebilehtedel isegi igati korras silmanägemise ja tajuvõimega inimesel raske navigeerida, sest tekst on liiga väike või uppunud plinkivate bännerite või tähelepanu hajutavate animatsioonide keskele. Veebil puuduvad lihtsasti arusaadavad viited või juhised ringiliikumiseks ja info on „ära maetud“ menüüde sügavustesse. Probleemiks on sageli ka kontaktvormid, kust ei pruugi ka kullipilguga kasutaja leida kontaktinfot, ammugi veel vaegnägija.
+ 
+Veebilehtede koolitajate erinevates artiklites välja öeldud märkusi resümeerides koondab suuremate puuduste nimekiri julgesti kuni paarkümmend kasutajamugavust mõjutavat probleemi.  Eks koguarv sõltub sellest, kelle ootustest või millistest eesmärkidest lähtutakse. Erivajadustega inimeste eest seisja saaks ilmsesti nimekirja oluliselt pikendada.
+ 
+Mis asi on juurdepääsetavus?
+Juurdepääsetavus tähendab kõige laiemas mõistes kättesaadavust alates tehnilisest poolest kuni sisu mõistmiseni. 
+ 
+Selleks, et veebisisu oleks kasutaja meeltele arusaadav ja lihtsasti kasutatav, on avaliku teabe seadusesse üle võetud Euroopa Liidu direktiiv (EL 2016/2102), mis käsitleb avaliku sektori asutuste veebisaitide ja mobiilirakenduste juurdepääsetavust. Kui hoone muudab juurdepääsetavaks esmalt trepp ja uks, seejärel viited, kus mis asub, siis veebi puhul on see sarnane. Sisuliselt on vaja veebileht teha juurdepäästavaks nii aeglases internetiühenduses vanema seadega kui inimeste jaoks, kel on keerulisem navigeerida kas nägemis-, kuulmis-, kõne-, tajupuude tõttu, samuti mõne füüsilise ning neuroloogilise puude pärast.
+ 
+Avalikku teabe seadusesse üle võetud üleeuroopaline direktiiv põhineb omakorda rahvusvahelisel suuniste standardil WCAG (Web Content Accessibility Guidelines ), mis on välja töötatud veebidele ja mobiilirakendustele.
+ 
+WCAG ei anna veebilehtedele ette nõudeid tehnoloogia valikuks, vaid kirjeldab arendajatele, disaineritele ja sisutoimetajatele kriteeriume, mida tuleb saavutada selleks, et kasutaja saaks veebisaidi ja mobiilirakenduse sisu paremini tajuda, lihtsamini kasutada, selgemalt tõlgendada ja mõista ning kätte saada ka väiksemate internetikiiruste juures.Fotol näide kontrastsest vaatest
+ 
+Kellele ja millal?
+Ennekõike tuleb olla kõigi inimeste jaoks võrdselt olemas nii veebis kui mobiilirakendustes avalikul sektoril, mistõttu on WCAG juurdepääsetavuse nõuete viimane versioon 2.1 tehtud kohustuslikuks ennekõike neile, kes tegutsevad riigi- ja kohaliku omavalitsuse asutustena, avalik-õiguslike juriidiliste isikutena või eraõigusliku avaliku ülesande täitjana (eraõiguslik juriidilise isik või füüsiline isik), sh kui nad osutavad avalikke teenuseid.
+ 
+Kohustuslikus korras nõuete täitjate nimekirja kõrval seisab ka veel nimekiri eranditega. Näiteks ei kehti nõuded avaliku sektori ringhäälingule, kelleks Eestis on ERR. Täies mahus ei pea nõudeid arvestama tavakoolid ja koolieelsed asutused. Haridusasutused peavad tagama nõuetekohase juurdepääsu vaid üldinfole, milleks on tavaliselt asukoha ja asutuse kontaktid koos avatud olemise aegadega. Erandite alla kuuluvad ka need teabevaldajaga võrdsustatud isikud, kelleks saab olla näiteks juriidiline isik, kes kasutab riigi või omavalitsuse eelarvest saadud vahendeid või omab tegevuses eri- või ainuõigust või monopoolset turuosa (vt täpsemalt avaliku teabe seaduse § 5 lõiget 3).  
+ 
+Erandeid on tehtud ka teatavale veebilehe või mobiilirakenduse sisule. Kõikide erandite kohta on mõistlik vaadata täpset loetelu otse direktiivi 2016/2102 artikkel 1 lõikest 4, kuid mõned näited saab siia artiklisse tuua.
+ 
+Mõistlik viia läbi hindamine
+Näiteks ei pea ainult asutuse või ettevõtte sisekasutuseks tehtud veeb või mobiilirakendus olema juurdepääsetav vastavalt WCAG. 2.1 nõuetele. Ka kultuuripärandi kogude veebiküljel või mobiilirakenduses, näiteks raamatukogude või muuseumide puhul, ei tule kõikidest WCAG 2.1 nõuetest rangelt kinni pidada, aga kui selleks ressurssi ja tahet on, pole see keelatud. Küll aga peab teave olema avaldatud kooskõlas oma valdkonna õigusaktidega ja kui kehtivad varasemad WCAG nõuded, siis samuti nendega.
+ 
+Erandeid on teisigi, millele 100%-se juurdepääsu tagamine pole nõutud, näiteks internetipõhised kaardistamisteenused.  Selle erandi puhul tuleb arvestada, et kui kogu sisule kõiki nõudeid rakendama ei pea, siis mingile osale ikkagi peab. Kaartide juures tuleb teha kõigile kätte saadavaks ehk juurdepääsetavaks esmatähtis teave navigeerimise kohta.
+ 
+Seadusandja on näinud ette, et kui tegemist on asutuse või ettevõttega, kellel tuleb täita WCAG 2.1 nõudeid, siis peab veebikülje või mobiilirakenduse haldaja ise hindama, mil määral on mõistlik ja ühtlasi võimalik tagada inimese erivajadusi arvestav ligipääs veebisisule. Kui ikka info sihtgrupiks on erivajadusega inimesed, siis ilmselgelt tuleb veebilehele või mobiilirakendusele juurdepääs võimaldada. Kui hindamise tulemusena selgub, et sisu juurdepääsetavaks tegemine nõuab liiga suuri pingutusi, siis tuleb juurdepääsetavuse avalduses seda selgitada ning pakkuda juurdepääsuks alternatiive.
+ 
+Nõuded hakkavad kehtima eri aegadel
+Juurdepääsetavuse nõuete kehtima hakkamiseks kulub veel aega ja jõustumine toimub omakorda erinevatel aastatel. Seda vastavalt sellele, kas tegemist on sisuga mobiilrakenduses või sisuga veebilehel.
+ 
+Kui veebileht on esmakordselt avaldatud enne 23.09.2018, peavad nõuded olema tagatud alates 23.09.2020. Kui veebileht on esmakordselt avaldatud pärast 23.09.2018, peavad nõuded olema tagatud alates 23.09.2019. Mobiilirakenduste kooskõlla viimiseks WCAG 2.1 nõuetega antakse kõige rohkem aega. Kuupäev, millest alates peavad olema WCAG 2.1 nõudeid mobiilirakendustes täidetud, on 23.06.2021. Kui mobiilirakendust ei ole, pole kohustust seda spetsiaalselt luua. Juurdepääsetavaks peab tegema olemasolevad mobiilirakendused.
+ 
+WCAG juurdepääsetavuse nõuetele hakkab 2020. aastast järelevalvet tegema Andmekaitse Inspektsioon.
+ 
+Signe Heiberg
+ 
+avalike suhete nõunik
+ 
+
+
+Kolm põhimõtet
+ 
+
+
+Veebis olev info peab olema kättesaadav ka vanemates seadmetes, erivajadustega inimestele ja eriolukordades, kus internetikiirus on väga väike.
+Veebis olev info peab olema lihtsasti mõistetav ja leitav arvestades ka erivajadustega inimeste huve.
+Kui pingutusi tuleb nõuetekohaseks kättesaadavaks tegemiseks teha liiga palju, tuleb leida alternatiiv ja seda kasutajatele selgitada.
+
+
+ 
+Lugege täpsemalt veebilehtedele ja mobiilirakendustele juurdepääsetavuse nõuetest 
+ 
+

@@ -1,0 +1,337 @@
+1/7
+
+
+
+Procedimiento Nº: E/04699/2019
+
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de
+Datos y teniendo como base los siguientes
+HECHOS
+PRIMERO: La reclamación interpuesta por Doña A.A.A. (en adelante, el reclamante)
+tiene entrada con fecha 21 de marzo de 2019 en la Agencia Española de Protección
+de Datos. La reclamación se dirige contra HISPAKOM INTERMEDIARIOS JURÍDICOS
+S.L. (en adelante, el reclamado).
+Los motivos en que basa la reclamación son que, el día 18 de marzo, en torno
+a las 13:30h recibe una llamada publicitaria desde el número de teléfono
+***TELEFONO.2 en su línea ***TELEFONO.1 que tiene contratada con Orange. En
+dicha llamada una comercial de la supuesta empresa SALUD CENTER de Granada,
+de la cual no es cliente, intentó convencerla de que les permitiese la entrada en su
+domicilio al día siguiente, después de sacar información como su edad, estado de
+salud y personas que viven en casa. A fecha de 19 de marzo vuelven a llamar hacia
+las 10:30h.
+Que han podido comprobar en internet el enorme historial de estafas desde al
+menos 2016.
+Que la persona llamante no ha utilizado ningún sistema que le permita como
+consumidor dejar constancia de su oposición a seguir recibiendo sus propuestas
+comerciales.
+SEGUNDO: Con fecha 29 de abril de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó admitir a trámite la reclamación presentada por el
+reclamante.
+TERCERO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+1. Con fecha 8 de noviembre de 2019, se comprueba en la url
+https://www.listaspam.com/busca.php?Telefono=***TELEFONO.2 la existencia de
+diversas quejas respecto a las llamadas desde el número ***TELEFONO.2.
+2. Con fecha 8 de noviembre de 2019, se remite requerimiento de información
+a SALUD CENTER, S.L. La notificación se realiza electrónicamente a través de
+notific@. Según este sistema de notificación, se ha producido el rechazo automático al
+haber transcurrido diez días naturales desde su puesta a disposición.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/7
+
+3. Con fecha 12 de noviembre de 2019, ALISYS DIGITAL, S.L.U., remite a esta
+Agencia la siguiente información y manifestaciones:
+1. Que carecen de relación contractual directa con el titular del número
+***TELEFONO.2.
+2. Que prestan, respecto al número indicado, el servicio de mayorista a la
+mercantil PISTA CERO, S.L. cuyos datos se han incluido en el apartado de
+Entidades Investigadas.
+3. Que la sociedad PISTA CERO, S.L. presta a su vez presumiblemente los
+servicios al titular del número de teléfono y debería proporcionar los datos
+precisos para identificarle.
+4. Que la línea fue portada el 12 de abril de 2019 siendo el operador donante
+IBERCOM TELECOM, S.A.U.
+4. Con fecha 19 de noviembre de 2019, ORANGE ESPAGNE S.A.U. remite a
+esta Agencia la siguiente información y manifestaciones:
+1. Que los datos que constan en sus ficheros relativos al tráfico entrante del
+número ***TELEFONO.1 procedente del número ***TELEFONO.2 reflejan una
+llamada el día 18 de marzo de 2019 a las 13:04:32h y otra llamada el día 19 de
+marzo de 2019 a las 10:20:50h
+5. Con fecha 14 de febrero de 2020, XFERA MÓVILES, S.A.U. remite a esta
+Agencia la siguiente información y manifestaciones:
+1. Que en respuesta a la pregunta sobre los datos del titular de la línea
+***TELEFONO.2 a fecha de 18 y 19 de marzo de 2019, contestan que
+corresponde a PISTA CERO, S.L.
+Aporta copia de la primera página del contrato firmado entre XTRA TELECOM,
+S.A.U. (GRUPO MASMOVIL) y PISTA CERO, S.L.
+Aporta sendas copias de facturas con fechas de emisión 1 de marzo de 2019 y
+1 de abril de 2019 dirigidas a PISTA CERO, S.L.
+2. Que la línea fue portada en fecha 12 de abril de 2019 siendo el operador
+donante IBERCOM y el operador receptor ALISYS DIGITAL, S.L.U.
+6. Con fecha 9 de marzo de 2020, PISTA CERO S.L. remite a esta Agencia la
+siguiente información y manifestaciones:
+1. Que el pasado 1 de diciembre de 2018, PISTA CERO S.L,. suscribió un
+acuerdo de prestación de servicios de telefonía IP con la empresa HISPAKOM
+INTERMEDIARIOS JURÍDICOS S.L.
+Aporta copia de contrato firmado de prestación de servicio Voz IP de fecha 1 de
+diciembre de 2018 entre PISTA CERO S.L. como prestador de servicios,
+B.B.B. con NIF ***NIF.1 como revendedor del servicio e HISPAKOM
+INTERMEDIARIOS JURÍDICOS S.L. como cliente del servicio, en el cual se
+recoge:
+a. En su punto 6 “La instalación del servicio será realizada por el
+revendedor…”
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/7
+
+b. En su punto 7 “El mantenimiento del servicio al cliente será prestado
+por el revendedor…”
+c. En su punto 12 “Uso del Servicio”, se recoge que:
+i. “El CLIENTE es el único responsable de cualquier uso que se
+haga del nombre de usuario y contraseña facilitados y del
+servicio en sí…”
+ii. “El CLIENTE será responsable por el uso no autorizado del
+Servicio que pueda realizar un tercero con fines maliciosos o
+fraudulentos.”
+iii. “PISTA CERO no se hace responsable en ningún caso de
+ningún daño que se pudiera causar a un tercero o a sus propios
+clientes como consecuencia del uso ilegal o inadecuado del
+mismo, ni como consecuencia de cualquier actuación de
+hacking o uso fraudulento.”
+d. En su punto 17 “Condiciones para la prestación del servicio”, se recoge
+que:
+i. “El cliente manifiesta que es el titular de la numeración de
+cabecera que solicita, y por tanto es el único responsable de los
+daños y/o perjuicios que puedan surgir en caso contrario, así
+como del uso que haga de la misma. El cliente informará a
+PISTA CERO inmediatamente en caso de que deje de ser titular
+de alguno de los números solicitados como números de
+cabecera. El cliente se compromete a controlar la numeración y
+a utilizarla en la forma establecida en la regulación vigente.”
+2. Que no tiene conocimiento de la actividad empresarial de HISPAKOM
+INTERMEDIARIOS JURÍDICOS S.L.
+FUNDAMENTOS DE DERECHO
+I
+De conformidad con lo dispuesto en el artículo 84.3 de la LGT, se atribuye a la
+Agencia Española de Protección de Datos la facultad para imponer las sanciones
+establecidas por la vulneración de los derechos de los usuarios finales, reconocidos en
+el artículo 48 de la citada LGT.
+II
+Los hechos que son objeto de esta resolución son los referentes a la recepción
+de llamadas publicitarias.
+El artículo 95 del Reglamento (UE) 2016/679 del Parlamento Europeo y del
+Consejo de 27 de abril de 2016 relativo a la protección de las personas físicas en lo
+que respecta al tratamiento de datos personales y a la libre circulación de estos datos
+y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de
+datos, RGPD), referido a la relación con la Directiva 2002/58/CE, del Parlamento
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/7
+
+Europeo y del Consejo, de 12 de julio de 2002, relativa al tratamiento de los datos
+personales y a la protección de la intimidad en el sector de las comunicaciones
+electrónicas (Directiva sobre la privacidad y las comunicaciones electrónicas),
+establece lo siguiente:
+El presente Reglamento no impondrá obligaciones adicionales a las personas
+físicas o jurídicas en materia de tratamiento en el marco de la prestación de servicios
+públicos de comunicaciones electrónicas en redes públicas de comunicación de la
+Unión en ámbitos en los que estén sujetas a obligaciones específicas con el mismo
+objetivo establecidas en la Directiva 2002/58/CE.
+Con carácter general, si una persona física no desea recibir llamadas
+comerciales o publicitarias de carácter promocional debe dirigirse, previamente, a la
+persona física o jurídica, sea o no cliente de la misma, identificándose como titular de
+la línea telefónica en la que no desea recibir llamadas comerciales y, manifestada
+dicha oposición, sus datos personales no podrán ser utilizados con dicha finalidad.
+Tanto el RGPD como la nueva Ley Orgánica 3/2018, de 5 de diciembre, de
+Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD)
+regulan el derecho de oposición.
+De conformidad con lo señalado en el apartado 1 del artículo 21 del RGPD, el
+responsable del tratamiento estará obligado a dejar de tratar los datos personales del
+interesado que se haya opuesto por motivos relacionados con su situación particular,
+salvo que acredite motivos legítimos imperiosos para el tratamiento que prevalezcan
+sobre los intereses, los derechos y las libertades del interesado, o para la formulación,
+el ejercicio o la defensa de reclamaciones. Es decir, será el responsable del
+tratamiento el que tenga la carga de acreditar que sus intereses prevalecen sobre los
+del interesado.
+En el apartado 2 del artículo 21 se establece que, cuando el tratamiento de
+datos personales tenga por objeto la mercadotecnia directa, el interesado tendrá
+derecho a oponerse en todo momento al tratamiento de los datos personales que le
+conciernan, incluida la elaboración de perfiles en la medida en que esté relacionada
+con la citada mercadotecnia.
+Y en el apartado 3 se determina que cuando el interesado se oponga al
+tratamiento de sus datos con fines de mercadotecnia directa, los datos personales
+dejarán de ser tratados para dichos fines.
+El artículo 18 de la LOPDGDD, referido al “Derecho de Oposición”, remite
+específicamente al articulado del RGPD.
+Debe también tenerse en cuenta que el artículo 23 de la LOPDGDD establece
+en cuanto a los sistemas de exclusión publicitaria, que será lícito el tratamiento de
+datos personales que tenga por objeto evitar el envío de comunicaciones comerciales
+a quien se hubiesen opuesto a recibirlas, de modo que se podrán conservar parte de
+los datos en sistemas de exclusión publicitaria que deberán ser previamente
+consultados por quienes pretendan realizar comunicaciones de mercadotecnia directa,
+para que se puedan excluir a aquellos afectados que manifestasen su oposición.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/7
+
+III
+Sentado lo anterior, la conducta objeto de reclamación, consistente en la
+realización de llamadas comerciales efectuada por una persona jurídica a terceros (el
+reclamante no facilitó esos datos de terceros), podría vulnerar el artículo 48 de la LGT.
+La Ley 9/2014, de 9 de mayo, dedica el Capítulo V del Título III a los “Derechos
+de los usuarios finales” y les otorga, entre otros, el derecho a oponerse a las llamadas
+no deseadas con fines publicitarios o comerciales. Así, el artículo 48.1.b) de la LGT,
+bajo la rúbrica “Derecho a la protección de datos personales y la privacidad en relación
+con las comunicaciones no solicitadas con los datos de tráfico y de localización y con
+las guías de abonados”, dispone:
+“1. Respecto a la protección de datos personales y la privacidad en relación
+con las comunicaciones no solicitadas los usuarios finales de los servicios de
+comunicaciones electrónicas tendrán los siguientes derechos:
+a)
+(…)
+b)
+A oponerse a recibir llamadas no deseadas con fines de comunicación
+comercial que se efectúen mediante sistemas distintos de los establecidos en la letra
+anterior y a ser informado de este derecho.” (El subrayado es de la Agencia Española
+de Protección de Datos)
+En el Anexo II de la LGT se recogen, entre otras, las siguientes definiciones:
+“Abonado: cualquier persona física o jurídica que haya celebrado un contrato
+con un proveedor de servicios de comunicaciones electrónicas disponibles para el
+público para la prestación de dichos servicios.”
+“Usuario: una persona física o jurídica que utiliza o solicita un servicio de
+comunicaciones electrónicas disponible para el público.”
+“Usuario final: el usuario que no explota redes públicas de comunicaciones ni
+presta servicios de comunicaciones electrónicas disponibles para el público ni
+tampoco los revende.”
+En el presente supuesto, de lo actuado no se desprenden elementos de
+prueba, ni tan siquiera a nivel indiciario, de que, con anterioridad a la recepción de las
+llamadas analizadas, los destinatarios de las mismas hubieran manifestado ante el
+reclamado su oposición a la recepción de llamadas no deseadas con fines de
+comunicación comercial, de forma que quedase constancia de esta oposición y
+pudiese acreditarse tal oposición. El ejercicio de los derechos es personalísimo,
+debiendo efectuarse por el afectado o por quien le represente.
+El derecho de oposición está expresamente previsto, en particular, en la
+normativa específica de telecomunicaciones, respecto de las llamadas telefónicas no
+deseadas con fines de comunicación comercial. Con carácter general, si no desea
+recibir llamadas comerciales de carácter promocional puede dirigirse a la entidad
+promocionada, sea o no cliente de la misma, identificándose como usuario de la línea
+telefónica en la que no desea recibir las llamadas y manifestándole su negativa u
+oposición al tratamiento de sus datos personales con fines publicitarios.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/7
+
+Si sus datos personales identificativos figuran en las guías de
+telecomunicaciones disponibles al público, también puede ejercitar sus derechos ante
+el operador que le presta el servicio de telefonía, para que le excluya de los ficheros
+que emplean las entidades autorizadas por la Comisión Nacional de los Mercados y la
+Competencia para elaborar las guías de abonados o bien para que se haga constar en
+los mismos su oposición al tratamiento comercial de los datos. De la misma forma,
+puede solicitar la omisión en las guías de algunos de sus datos.
+Los afectados también pueden registrar sus datos en sistemas de exclusión
+publicitaria como el gestionado por la Asociación Española de Economía Digital
+(www.listarobinson.es), con objeto de limitar la publicidad de las empresas adheridas
+que no hayan obtenido directamente del afectado el consentimiento para el tratamiento
+de sus datos personales con fines publicitarios o con las que el afectado no mantenga
+o no haya mantenido ninguna relación comercial, resultando eficaz transcurridos tres
+meses desde la fecha de la inscripción. La reclamada expone que cruza los datos de
+los potenciales receptores de sus ofertas con la Lista Robinson, como figura en su
+protocolo de actuación.
+Lo anteriormente expuesto, ha de conectarse con la vigencia en nuestro
+Derecho Administrativo sancionador del principio de presunción de inocencia
+reconocido en el artículo 24.2 de la Constitución Española, de modo que el ejercicio de
+la potestad sancionadora del Estado, en sus diversas manifestaciones, está
+condicionado al juego de la prueba y a un procedimiento contradictorio en el que
+puedan defenderse las propias posiciones. El principio de presunción de inocencia
+impide imputar una infracción administrativa cuando no se haya obtenido y constatado
+una prueba de cargo que acredite los hechos que motivan la imputación o la
+intervención en los mismos del presunto infractor.
+El Tribunal Constitucional (SSTC 131/2003 y 242/2005, por todas) se ha
+pronunciado en ese sentido al indicar que una de las exigencias inherentes al derecho
+a la presunción de inocencia es que la sanción esté fundada en actos o medios
+probatorios de cargo o incriminadores de la conducta imputada y que recae sobre la
+Administración pública actuante la carga probatoria de la comisión del ilícito
+administrativo y de la participación en él del denunciado.
+Por su parte, el artículo 28.1 de la Ley 40/2015, de 1 de octubre, de Régimen
+Jurídico del Sector Público establece como uno de los principios de la potestad
+sancionadora el de la “Responsabilidad”, determinando al respecto que:
+“Sólo podrán ser sancionadas por hechos constitutivos de infracción
+administrativa las personas físicas y jurídicas, así como, cuando una Ley les
+reconozca capacidad de obrar, los grupos de afectados, las uniones y entidades sin
+personalidad jurídica y los patrimonios independientes o autónomos, que resulten
+responsables de los mismos a título de dolo o culpa”.
+Igualmente, se debe tener en cuenta lo que establece el artículo 53.2 la ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, establece que: “Además de los derechos previstos en el
+apartado anterior, en el caso de procedimientos administrativos de naturaleza
+sancionadora, los presuntos responsables, tendrán los siguientes derechos: (…) b) A
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/7
+
+la presunción de no existencia de responsabilidad administrativa mientras no se
+demuestre lo contrario”.
+Con arreglo a lo previsto en los preceptos anteriormente citados, procede
+acordar el archivo de este procedimiento sancionador al no estimarse probado que por
+parte del reclamado se haya vulnerado el derecho de los receptores de las llamadas
+publicitarias, en su condición de usuario final de los servicios de comunicaciones
+electrónicas, según lo dispuesto en el artículo 48.1.b) de la LGT.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución al reclamante.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

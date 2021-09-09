@@ -1,0 +1,11 @@
+google-cloud-translate==2.0.1
+nltk==3.5
+sklearn==0.0
+textract==1.6.3
+pdf2image==1.12.1
+pytesseract==0.3.4
+dataparser==0.7.4
+striprtf==0.0.10
+selenium==3.141.0
+graphviz==0.14
+imblearn==0.0

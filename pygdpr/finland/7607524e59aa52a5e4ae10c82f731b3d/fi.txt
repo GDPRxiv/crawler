@@ -1,0 +1,33 @@
+Euroopan tietosuojaneuvosto pidentää julkisia kuulemiskierroksiaan koronatilanteen vuoksi
+
+
+   
+
+20.3.2020
+ 12.01
+
+Uutinen
+var snoobiSection="Uutinen";
+
+
+ Euroopan tietosuojaneuvosto on päättänyt pidentää ohjeluonnostensa julkisia kuulemiskierroksia kuudella viikolla, jotta sidosryhmillä olisi tarpeeksi aikaa kommentoida niitä. Kuulemiskierroksella olevat ohjeet koskevat verkkoon liitettyjä ajoneuvoja sekä henkilötietojen siirtoja ETA-maiden viranomaisilta kolmansien maiden viranomaisille tai kansainvälisille järjestöille. Verkkoon liitettyjä ajoneuvoja koskeva ohje keskittyy henkilötietojen käsittelyyn silloin, kun rekisteröidyt käyttävät verkkoon liitettyjä ajoneuvoja muuhun kuin ammattimaiseen käyttöön. Ohje koskee ajoneuvon käsittelemiä henkilötietoja ja tietoja, joita ajoneuvo välittää verkkoon liitettynä laitteena. Ohjetta voi kommentoida Euroopan tietosuojaneuvoston verkkosivuilla 1.5.2020 saakka.
+
+Guidelines 1/2020 on processing personal data in the context of connected vehicles and mobility related applications (Euroopan tietosuojaneuvoston verkkosivuilla)
+ Henkilötietojen siirtoja koskeva ohje käsittelee siirtoja ETA-maiden viranomaisilta kolmansien maiden viranomaisille tai kansainvälisille järjestöille silloin, kun siirrot eivät tapahdu tietosuojan riittävyyttä koskevan päätöksen perusteella. Ohje esittää suosituksia takeista, jotka tulisi täyttää hyödynnettäessä viranomaisten välisiä oikeudellisesti sitovia välineitä tai hallinnollisissa järjestelyissä olevia säännöksiä. Ohjetta voi kommentoida Euroopan tietosuojaneuvoston verkkosivuilla 18.5.2020 asti.
+
+Guidelines 2/2020 on articles 46 (2) (a) and 46 (3) (b) of Regulation 2016/679 for transfers of personal data between EEA and non-EEA public authorities and bodies (Euroopan tietosuojaneuvoston verkkosivuilla)
+ Euroopan tietosuojaneuvosto (EDPB) on riippumaton EU:n elin, joka koostuu EU:n kansallisista tietosuojaviranomaisista ja Euroopan tietosuojavaltuutetun edustajista. Myös ETA-maat Islanti, Norja ja Liechtenstein ovat tietosuojaneuvoston jäseniä. Euroopan tietosuojaneuvosto vastaa EU:n yleisen tietosuoja-asetuksen ja poliisi- ja rikosoikeusviranomaisia koskevan tietosuojadirektiivin yhdenmukaisesta soveltamisesta. 
+
+
+
+
+
+
+
+
+
+
+
+tietosuoja
+
+

@@ -1,0 +1,28 @@
+Euroopan tietosuojaneuvosto hyväksyi ensimmäisen osan ohjeesta koskien oikeutta tulla unohdetuksi hakukoneiden tuloksissa
+
+
+   
+
+23.7.2020
+ 9.25
+
+Tiedote
+var snoobiSection="Tiedote";
+
+
+ Euroopan tietosuojaneuvosto on hyväksynyt ensimmäisen osan ohjeesta, joka käsittelee rekisteröidyn oikeutta tulla unohdetuksi hakukoneisiin liittyvissä tapauksissa. Ohjeistusta on tarkoitus soveltaa tilanteissa, joissa rekisteröidyt pyytävät oman nimensä tuottamien hakutulosten poistamista hakukonepalvelun tarjoajalta. Tietosuojaneuvoston ohjeistus kiteyttää EU:n yleisen tietosuoja-asetuksen mukaiset perusteet, jotka otetaan huomioon rekisteröidyn pyytäessä hakutuloksen poistamista hakukoneen listauksesta. Lisäksi ohje käsittelee asetuksessa säädettyjä poikkeuksia näihin perusteisiin. Pääsääntöisesti oikeus pyytää hakutuloksen poistamista hakukoneelta koskee rekisteröidyn omalla nimellä tehtyä hakua. Kyseessä on ohjeistuksen julkisen kuulemisen läpi käynyt ensimmäinen osa, jonka luonnos hyväksyttiin neuvoston täysistunnossa joulukuussa 2019. Hakutuloksia koskee rekisteröidyn oikeus pyytää tietojensa poistamista Ohje tulkitsee oikeutta tulla unohdetuksi hakukoneissa erityisesti yleisen tietosuoja-asetuksen artiklan 17 ensimmäisen kohdan valossa, jossa säädetään rekisteröidyn oikeudesta tietojensa poistamiseen. Tietojen poistamisen perusteena voi toimia myös 21 artiklassa säädetty oikeus vastustaa henkilötietojen käsittelyä. Rekisteröity voi pyytää hakukonepalvelun tarjoajalta erityisesti sellaisen sisällön poistamista hakutuloksista, joka on selvästi vanhentunutta tai muuttunut virheelliseksi ajan saatossa. Tällainen tilanne voi olla esimerkiksi, kun yrityksen julkisesta rekisteristään poistamat tiedot näkyvät hakutuloksissa tai linkki organisaation sivulle sisältää edelleen rekisteröidyn yhteystiedot, vaikka tämä ei enää työskentele kyseisessä paikassa. Poistamisen perusteena voi olla myös se, että oikeudellisten velvoitteiden vuoksi verkossa julkaistut tiedot ovat olleet julkisina internetissä kauemmin kuin laki vaatii. Pyynnöstä kieltäytyminen vaatii perustellun syyn Oikeuteen tulla unohdetuksi hakukoneissa sovelletaan 17 artiklan 3 kohdassa säädettyjä poikkeuksia, joiden perusteella hakukonepalvelun tarjoaja voi kieltäytyä rekisteröidyn pyynnöstä poistaa hakutuloksia. Niihin voi vedota artiklan mukaisina tärkeinä ja perusteltuina syinä. Ohjeistus kuitenkin painottaa, että suurin osa näistä poikkeuksista vaikuttaa soveltuvan huonosti hakutuloksen poistopyyntöihin. Poikkeuksia oikeuden käyttämiseen voivat asetuksen mukaan olla muun muassa tietojen käsittely sanan- tai tiedonvälityksen vapauden nimissä tai lakisääteisen velvoitteen noudattamiseksi. Ohjeessa muistutetaan, että listauksesta poistetut tulokset ovat edelleen löydettävissä esimerkiksi muilla hakusanoilla, eikä tietojen poistaminen hakutuloksista tarkoita kyseisen linkin sisällön poistamista verkkosivustoilta. Joissakin poikkeustapauksissa hakukoneet voidaan kuitenkin velvoittaa poistamaan tiedot täydellisesti myös hakuindeksistään.  Lisätietoja: Euroopan tietosuojaneuvoston ohje: Guidelines 5/2019 on the criteria of the Right to be Forgotten in the search engines cases under the GDPR (Part 1) Euroopan tietosuojaneuvosto (EDPB) on riippumaton EU:n elin, joka koostuu EU:n kansallisista tietosuojaviranomaisista ja Euroopan tietosuojavaltuutetun edustajista. Myös ETA-maat Islanti, Norja ja Liechtenstein ovat tietosuojaneuvoston jäseniä. Euroopan komissiolla on läsnäolo- ja puheoikeus EDPB:n kokouksissa. Euroopan tietosuojaneuvosto vastaa EU:n yleisen tietosuoja-asetuksen ja poliisi- ja rikosoikeusviranomaisia koskevan tietosuojadirektiivin yhdenmukaisesta soveltamisesta. 
+
+
+
+
+
+
+
+
+
+
+
+hakusanat
+ohjeet
+
+

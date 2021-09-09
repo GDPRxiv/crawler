@@ -1,0 +1,339 @@
+1/8
+
+Procedimiento Nº: A/00149/2017
+
+RESOLUCIÓN: R/01770/2017
+
+En el procedimiento A/00149/2017, instruido por la Agencia Española de
+Protección de Datos ante Don A.A.A., vista la denuncia presentada por Don B.B.B., y
+en virtud de los siguientes
+ANTECEDENTES
+
+PRIMERO: Con fecha 6 de junio de 2016, tiene entrada en esta Agencia un escrito
+remitido por Don B.B.B., en la que manifiesta lo siguiente:
+Que Don A.A.A., abogado del Ilustre Colegio Provincial de Abogados de
+Cáceres, con fecha de 31 de marzo del 2016, remitió un correo electrónico desde la
+dirección ***EMAIL.1 a la dirección del denunciante ***EMAIL.2 en que se adjuntaba
+el archivo “***ARCHIVO.1”, en los que figura una relación de asuntos judiciales entre
+los cuales se encuentra el relativo al denunciante.
+Y, entre otra, anexa la siguiente documentación:
+
+Copia del correo electrónico de fecha 31 de marzo de 2016 en el que se
+adjunta dos archivos, entre ellos el archivo “***ARCHIVO.1” en el que consta
+los datos de nombre y apellidos asociados a unos asuntos judiciales de
+unas ..... personas.
+El correo electrónico tiene fecha de 31 de marzo de 2016.
+
+SEGUNDO: Tras la recepción de la denuncia la Subdirección General de Inspección
+de Datos procedió a la realización de actuaciones previas de investigación para el
+esclarecimiento de los hechos denunciados, teniendo conocimiento de los siguientes
+extremos:
+Con fecha 15 de julio de 2016 se requiere información a Don A.A.A. y de su
+respuesta se desprende:
+1.
+Don A.A.A. manifiesta que por error adjuntó el archivo “***ARCHIVO.1”
+que contenía una relación de asuntos de oficio pendientes de Justificación al
+correo electrónico del denunciante; a la dirección de correo ***EMAIL.2.
+2.
+A este respecto, Don A.A.A. manifiesta que, con fecha 5 de febrero de
+2016, fue designado por el Turno de Oficio, Letrado de Justicia Gratuita en un
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+2/8
+
+asunto del denunciante en el Juzgado de Primera Instancia e Instrucción
+número 4 de Cáceres.
+El denunciado no es competente en este partido judicial. Por ello, puso en
+conocimiento del denunciante que había un error en la designación y por vía
+telefónica también lo comunicó al Colegio de Abogados de Cáceres para que
+se procediera a una nueva designación.
+No obstante, Don A.A.A. recibió de nuevo una nueva designación errónea por
+parte del Juzgado por lo que contactó con el denunciante, el cual le solicita la
+remisión de un correo electrónico con ambas designaciones del Juzgado. Por
+este motivo, se remitió el correo electrónico a la dirección ***EMAIL.2 con dos
+archivos, uno de los cuales contenía, efectivamente, la primera designación de
+Letrado, de fecha 5 de febrero, y el segundo archivo, que debía contener la
+segunda designación de fecha 23 de febrero, por error, se adjuntó el listado de
+las Justificaciones pendientes de sus actuaciones como Letrado del Turno de
+Oficio.
+Don A.A.A. ha aportado copia de las Designaciones realizadas por el Turno de
+Oficio.
+3.
+Don A.A.A. manifiesta que, a pesar de haber recibido diversas
+comunicaciones del denunciante, en ningún momento le ha sido informado por
+su parte la recepción del archivo remitido erróneamente.
+Don A.A.A. ha aportado copia de dos correos electrónicos remitidos por el
+denunciante, en fechas 13 de abril y 4 de mayo de 2016 dirigidos a su dirección
+***EMAIL.1 en los que no se informa de la recepción del archivo recibido.
+
+TERCERO: Con fecha 12 de mayo de 2017, la Directora de la Agencia Española de
+Protección de Datos acordó someter a trámite de audiencia previa el presente
+procedimiento de apercibimiento A/00149/2017. Dicho acuerdo fue notificado al
+denunciado.
+
+CUARTO: Con fecha 14 de junio de 2017, se recibe en esta Agencia escrito del
+denunciado en el que comunica lo siguiente: que como profesional que trata datos
+personales contenidos en ficheros papel y automatizados ha procedido al registro de
+los mismos: Clientes y Proveedores. Ha elaborado un documento de seguridad e
+implantado las medidas adecuadas al tipo de datos que trata. Acompaña fotografías de
+los carteles informativos que ha colocado para que lo vean los clientes. También ha
+incluido la leyenda informativa a la que obliga el artículo 5 de la LOPD en el “Aviso
+Legal” que se incluye en los correos electrónicos, en la parte inferior de las Minutas de
+honorarios; ha elaborado modelos de ejercicio de los derechos ARCO.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+3/8
+
+HECHOS PROBADOS
+PRIMERO: Don A.A.A. fue designado por el Turno de Oficio, con fecha 5 de febrero
+de 2016, Letrado de Justicia Gratuita en un asunto del denunciante en el Juzgado de
+Primera Instancia e Instrucción número 4 de Cáceres.
+Don A.A.A. no es competente en este partido judicial. Por ello, puso en conocimiento
+del denunciante que había un error en la designación y por vía telefónica también lo
+comunicó al Colegio de Abogados de Cáceres para que se procediera a una nueva
+designación.
+
+SEGUNDO: Don A.A.A. recibió de nuevo una nueva designación errónea por parte del
+Juzgado por lo que contactó con el denunciante, quien le solicitó la remisión de un
+correo electrónico con ambas designaciones del Juzgado.
+TERCERO: Don A.A.A., con fecha de 31 de marzo del 2016, remitió un correo
+electrónico desde la dirección ***EMAIL.1 a la dirección del denunciante ***EMAIL.2
+en que se adjuntaba el archivo “***ARCHIVO.1”, en los que figura una relación de
+asuntos judiciales con datos de ..... personas, entre los cuales se encuentra el relativo
+al denunciante.
+
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver este procedimiento la Directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 37. g)
+en relación con el artículo 36 de la Ley Orgánica 15/1999, de 13 de diciembre, de
+Protección de Datos de Carácter Personal (en lo sucesivo LOPD).
+II
+El artículo 10 de la LOPD dispone:
+“El responsable del fichero y quienes intervengan en cualquier fase del
+tratamiento de los datos de carácter personal están obligados al secreto profesional
+respecto de los mismos y al deber de guardarlos, obligaciones que subsistirán aun
+después de finalizar sus relaciones con el titular del fichero o, en su caso, con el
+responsable del mismo”.
+El deber de confidencialidad obliga no sólo al responsable del fichero sino a
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+4/8
+
+todo aquel que intervenga en cualquier fase del tratamiento y ha de entenderse que el
+mismo tiene como finalidad evitar que, por parte de quienes están en contacto con los
+datos personales se realicen comunicaciones de los datos no consentidas por los
+titulares de los mismos.
+Este deber de secreto comporta que el responsable de los datos almacenados
+no pueda revelar ni dar a conocer su contenido, teniendo el “deber de guardarlos,
+obligaciones que subsistirán aún después de finalizar sus relaciones con el titular del
+fichero o, en su caso, con el responsable del mismo”. Este deber es una exigencia
+elemental y anterior al propio reconocimiento del derecho fundamental a la libertad
+informática, a que se refiere la Sentencia del Tribunal Constitucional 292/2000, de
+30/11, y, por lo que ahora interesa, comporta que los datos tratados no pueden ser
+conocidos por ninguna persona o entidad ajena fuera de los casos autorizados por la
+Ley, pues en eso consiste precisamente el secreto.
+Este deber de sigilo resulta esencial en las sociedades actuales cada vez más
+complejas, en las que los avances de la técnica sitúan a la persona en zonas de riesgo
+para la protección de derechos fundamentales, como la intimidad o el derecho a la
+protección de los datos que recoge el artículo 18.4 de la Constitución Española. En
+efecto, este precepto contiene un “instituto de garantía de los derechos de los
+ciudadanos que, además, es en sí mismo un derecho o libertad fundamental, el
+derecho a la libertad frente a las potenciales agresiones a la dignidad y a la libertad de
+la persona provenientes de un uso ilegítimo del tratamiento mecanizado de datos”
+(Sentencia del Tribunal Constitucional 292/2000, de 30/11). Este derecho fundamental
+a la protección de datos persigue garantizar a esa persona un poder de control sobre
+sus datos personales, sobre su uso y destino que impida que se produzcan
+situaciones atentatorias con la dignidad de la persona, es decir, el poder de resguardar
+su vida privada de una publicidad no querida.
+En el presente caso, el denunciado, con la incorporación de los datos de .....
+clientes al correo que envió al denunciado permitió el acceso por parte de terceros a
+datos personales relativos a sus clientes, según el detalle que consta en los hechos
+probados, sin que hubiesen prestado su consentimiento para ello.
+Por tanto, queda acreditado que por parte de Don A.A.A. se vulneró el deber
+de secreto, garantizado en el artículo 10 de la LOPD, al haber posibilitado el acceso
+por terceros a datos personales sin contar con el consentimiento del titular de tales
+datos.
+La vulneración del deber de secreto aparece tipificada como infracción grave
+en el artículo 44.3.d) de la LOPD. En este precepto se establece lo siguiente:
+“d) La vulneración del deber de guardar secreto acerca del tratamiento de los
+datos de carácter personal al que se refiere el artículo 10 de la presente Ley”.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+5/8
+
+En el presente caso, según ha quedado expuesto, la divulgación al denunciante
+de los datos personales de varios clientes del denunciado se ajusta a la tipificación
+prevista en el 44.3.d) de la LOPD.
+III
+Por otra parte, se tuvo en cuenta que el denunciado no ha sido sancionado o
+apercibido con anterioridad por esta Agencia, por lo que de conformidad con lo
+establecido en el artículo 45.6 de la LOPD, se acordó someter a la citada entidad a
+trámite de audiencia previa al apercibimiento, en relación con la denuncia por
+infracción del artículo 10 de la LOPD.
+El artículo 45.6 de la LOPD establece lo siguiente:
+“Excepcionalmente el órgano sancionador podrá, previa audiencia de los
+interesados y atendida la naturaleza de los hechos y la concurrencia significativa de
+los criterios establecidos en el apartado anterior, no acordar la apertura del
+procedimiento sancionador, y en su lugar, apercibir al sujeto responsable a fin de que,
+en el plazo que el órgano sancionador determine, acredite la adopción de las medidas
+correctoras que en cada caso resultasen pertinentes, siempre que concurran los
+siguientes presupuestos:
+a)
+que los hechos fuesen constitutivos de infracción leve o grave conforme
+a lo dispuesto en esta Ley.
+b)
+Que el infractor no hubiese sido sancionado o apercibido con
+anterioridad.
+Si el apercibimiento no fuera atendido en el plazo que el órgano sancionador hubiera
+determinado procederá la apertura del correspondiente procedimiento sancionador por
+dicho incumplimiento”.
+A este respecto, procede considerar lo establecido en el artículo 45.4 y 5 de la
+LOPD, que establecen lo siguiente:
+“4. La cuantía de las sanciones se graduará atendiendo a los siguientes
+criterios:
+a) El carácter continuado de la infracción.
+b) El volumen de los tratamientos efectuados.
+c) La vinculación de la actividad del infractor con la realización de tratamientos
+de datos de carácter personal.
+d) El volumen de negocio o actividad del infractor.
+e) Los beneficios obtenidos como consecuencia de la comisión de la infracción.
+f) El grado de intencionalidad.
+g) La reincidencia por comisión de infracciones de la misma naturaleza.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+6/8
+
+h) La naturaleza de los perjuicios causados a las personas interesadas o a
+terceras personas.
+i) La acreditación de que con anterioridad a los hechos constitutivos de
+infracción la entidad imputada tenía implantados procedimientos adecuados de
+actuación en la recogida y tratamiento de Ios datos de carácter personal, siendo la
+infracción consecuencia de una anomalía en el funcionamiento de dichos
+procedimientos no debida a una falta de diligencia exigible al infractor.
+j) Cualquier otra circunstancia que sea relevante para determinar el grado de
+antijuridicidad y de culpabilidad presentes en la concreta actuación infractora.
+5. El órgano sancionador establecerá la cuantía de la sanción aplicando la
+escala relativa a la clase de infracciones que preceda inmediatamente en gravedad a
+aquella en que se integra la considerada en el caso de que se trate, en los siguientes
+supuestos:
+a) Cuando se aprecie una cualificada disminución de la culpabilidad del
+imputado o de la antijuridicidad del hecho como consecuencia de la concurrencia
+significativa de varios de los criterios enunciados en el apartado 4 de este artículo.
+b) Cuando la entidad infractora haya regularizado la situación irregular de
+forma diligente.
+c) Cuando pueda apreciarse que la conducta del afectado ha podido inducir a
+la comisión de la infracción.
+d) Cuando el infractor haya reconocido espontáneamente su culpabilidad.
+e) Cuando se haya producido un proceso de fusión por absorción y la
+infracción fuese anterior a dicho proceso, no siendo imputable a la entidad
+absorbente”.
+En el presente supuesto se cumplen los requisitos recogidos en los apartados
+a) y b) del citado artículo 45.6 de la LOPD, por cuanto la infracción de la que se
+responsabiliza al denunciado es una infracción “grave” y que no ha sido sancionado o
+apercibido por este organismo en ninguna ocasión anterior. Junto a ello se constata
+una cualificada disminución de la culpabilidad del denunciado por la concurrencia de
+varios criterios de los enunciados en el artículo 45.4 de la LOPD, concretamente, el
+volumen de tratamientos y la actividad del infractor, el carácter puntual del hecho, la
+falta de intencionalidad y que no constan beneficios obtenidos por el denunciado como
+consecuencia de la infracción cometida.
+Todo ello, justifica que la AEPD no haya acordado la apertura de un
+procedimiento sancionador y que opte por aplicar el artículo 45.6 de la LOPD.
+Ahora bien, es obligado hacer mención a la Sentencia de la Audiencia Nacional
+de 29/11/2013, (Rec. 455/2011), Fundamento de Derecho Sexto, que sobre el
+apercibimiento regulado en el artículo 45.6 de la LOPD y a propósito de su naturaleza
+jurídica advierte que “no constituye una sanción” y que se trata de “medidas
+correctoras de cesación de la actividad constitutiva de la infracción” que sustituyen a la
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+7/8
+
+sanción. La Sentencia entiende que el artículo 45.6 de la LOPD confiere a la AEPD
+una “potestad” diferente de la sancionadora cuyo ejercicio se condiciona a la
+concurrencia de las especiales circunstancias descritas en el precepto.
+En congruencia con la naturaleza atribuida al apercibimiento como una
+alternativa a la sanción cuando, atendidas las circunstancias del caso, el sujeto de la
+infracción no es merecedor de aquella, y considerando que el objeto del
+apercibimiento es la imposición de medidas correctoras, la SAN citada concluye que
+cuando éstas ya hubieran sido adoptadas, lo procedente en Derecho es acordar el
+archivo de las actuaciones.
+En este caso, Don A.A.A. ha informado a esta Agencia de la implantación de
+medidas de seguridad en sus ficheros, e informativas para los clientes. Asimismo, hay
+que tener en consideración que se trató de un hecho puntual. Por tanto, no cabe
+imponer ninguna medida correctora dirigida a subsanar la incidencia apreciada en las
+presentes actuaciones.
+A la vista del pronunciamiento recogido en la SAN de 29/11/2013 (Rec.
+455/2011) referente a los supuestos en los que no procede la adopción de ninguna
+medida correctora, de acuerdo con lo señalado se debe acordar al archivo de las
+actuaciones.
+De acuerdo con lo señalado,
+Por la Directora de la Agencia Española de Protección de Datos,
+SE ACUERDA:
+1.- ARCHIVAR el procedimiento A/00149/2017 seguido contra Don A.A.A., con arreglo
+a lo dispuesto en el artículo 45.6 de la LOPD, en relación con la denuncia presentada
+por la infracción del artículo 6 de la citada Ley Orgánica.
+2.- NOTIFICAR el presente Acuerdo a Don A.A.A..
+De conformidad con lo establecido en el apartado 2 del artículo 37 de la LOPD,
+en la redacción dada por el artículo 82 de la Ley 62/2003, de 30 de diciembre, de
+medidas fiscales, administrativas y del orden social, la presente Resolución se hará
+pública, una vez haya sido notificada a los interesados. La publicación se realizará
+conforme a lo previsto en la Instrucción 1/2004, de 22 de diciembre, de la Agencia
+Española de Protección de Datos sobre publicación de sus Resoluciones y con arreglo
+a lo dispuesto en el artículo 116 del reglamento de desarrollo de la LOPD aprobado
+por el Real Decreto 1720/2007, de 21 diciembre.
+Contra esta resolución, que pone fin a la vía administrativa (artículo 48.2 de la
+LOPD), y de conformidad con lo establecido en los artículos 112 y 123 de la Ley
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+8/8
+
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, los interesados podrán interponer, potestativamente,
+recurso de reposición ante la Directora de la Agencia Española de Protección de Datos
+en el plazo de un mes a contar desde el día siguiente a la notificación de esta
+resolución, o, directamente recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de
+13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de
+dos meses a contar desde el día siguiente a la notificación de esta acto, según lo
+previsto en el artículo 46.1 del referido texto legal.
+
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+

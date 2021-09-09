@@ -1,0 +1,92 @@
+Privacy, il Garante Soro: "Bene Immuni. Se le altre app non
+hanno valutato i rischi, interverremo" - Intervista ad
+Antonello Soro - La Repubblica
+Privacy, il Garante Soro: "Bene Immuni. Se le altre app non hanno valutato i rischi, interverremo"
+Parla il Garante per la protezione dei dati personali: "Le piattaforme online hanno troppo potere sui
+nostri dati. La questione va portata in Europa". E poi: "Il ricorso a sistemi autogestiti e autoprodotti è
+avvenuto con poche garanzie"
+Intervista ad Antonello Soro, Presidente del Garante per la protezione dei dati personali
+(Di Arturo Di Corinto, La Repubblica, 5 giugno 2020)
+L'app Immuni ha avviato la settimana di sperimentazione in quattro regioni, la ministra Paola Pisano ieri sera in audizione
+parlamentare ha chiarito gli aspetti del suo utilizzo e annunciato perfino un voucher di 300 euro per pagare la connettività Internet a
+chi non può farlo da solo.
+Della norma riferita a Immuni il Parlamento si occupa già da due settimane, ma le opposizioni sono comunque sul piede di guerra
+tanto che la Lega ha disertato l'audizione. Sparuti ma aggressivi drappelli di critici dell'app di tracciamento nazionale continuano a
+puntare il dito contro il lavoro di Bending Spoons e dei 74 esperti, ma quasi nessuno discute dell'uso di decine di app regionali e
+comunali usate per la sorveglianza sanitaria. Come quella lombarda che nei termini di servizio chiarisce la sua funzione di controllo
+ad personam degli utilizzatori.
+Ne abbiamo parlato con il Presidente dell'Autorità Garante della Privacy, Antonello Soro. E abbiamo cominciato proprio
+da qui. Presidente, ancora ci si chiede se Immuni manda i dati all'estero e se ci geolocalizza. Ma non lo fanno già le app
+regionali?
+"Immuni non lo fa. Nelle prime settimane sotto la spinta emotiva, regioni, comuni e imprese hanno promesso il ricorso a un app
+salvifica usando come base giuridica l'ordinanza della Protezione civile recepita poi con decreto legge. Per alcuni è rimasto un
+progetto, altri ne hanno fatto uno strumento. Ma il ricorso a sistemi autogestiti e autoprodotti anche da società non italiane che
+hanno offerto tecnologie e servizi è avvenuto con poche garanzie".
+Complice l'opinione pubblica che non dava valore alla Privacy?
+"L'Italia sembrava innamorata della Corea del Sud e della Cina. Le misure di contrasto tecnologiche apparivano giustificate e illustri
+virologi hanno detto che era un babbeo chi si preoccupava della privacy e chi la definiva una fisima".
+Ma poi l'atteggiamento è cambiato.
+"Le forze politiche hanno preteso una norma primaria che attualmente è all'esame del Parlamento. Dalle agenzie apprendo che
+alcuni parlamentari non se ne sono accorti. Perfino il Copasir si è occupato del problema rivendicando la controllabilità di dati molto
+delicati".
+Grazie al vostro intervento: l'Autorità ha richiamato principi generali e declinato il comportamento virtuoso intervenendo
+anche nel Board europeo per un orientamento comune.
+"Principi sovrapponibili a quanto avevamo detto in audizione nella Commissione trasporti: meglio il tracciamento dei contatti invece
+della geolocalizzazione, meglio la volontarietà, la gestione pubblica dell'app, i server pubblici, la controllabilità e la trasparenza e
+
+poi il sistema decentralizzato, la pseudonimizzazione, fino al parere sulla norma e le misure di sicurezza".
+Così siamo arrivati a un prodotto la cui unica finalità è il tracciamento dei contatti.
+"Questo perché in un tempo di emergenza è possibile usare tecnologia anche per limitare i diritti ma il suo impiego deve essere
+proporzionato e a termine, lo dicono sia la Costituzione italiana che il Regolamento europeo. Parliamo di sostenibilità democratica.
+Mi pare che ci siamo riusciti".
+Ma continuano le polemiche.
+"È legittimo esprimere giudizi critici ma devono essere frutto di una conoscenza puntuale del tema e sulla base di argomenti
+concreti. In un momento difficile come questo alimentare sfiducia e assecondare gli umori negativi non serve, soprattutto per chi ha
+responsabilità verso il Paese, e questo vale pure per il mondo dell'informazione. Il mio appello è di non dare giudizi sommari
+decontestualizzati e privi di fondamento".
+Sì, ma il problema dell'invasività delle tecnologie è un tema vero, non crede?
+"Il ricorso necessitato alle tecnologie di distanza ha fatto crescere la confidenza degli italiani in una dimensione prima percepita
+solo come ludica e virtuale. Adesso è tempo di porre con forza il tema della dimensione digitale e il ricorso massiccio alle
+piattaforme online dovrebbe farci pretendere una maggiore garanzia di sicurezza per tutte le attività più rilevanti: si pensi al
+processo penale, alle riunioni del Consiglio dei ministri fino al consiglio comunale, alle attività di Camera e Senato".
+Cosa vuole dire?
+"Le piattaforme che usiamo hanno una natura non direttamente controllabile. Bisogna aprire una discussione su questo. Bisogna
+promuovere una forte regolazione del digitale sia in Italia che in Europa, per proteggere i dati più rilevanti, dal dato sanitario a
+quello fiscale a quello che riguarda la sicurezza nazionale, e bisogna costruire garanzie ulteriori. Lo dico sommessamente, ma non
+possiamo sfuggirgli".
+Vuole regolare le piattaforme? E come?
+"Io dico che la dimensione digitale è cresciuta in maniera anarchica, guidata dai privati, e con regole molto lasche anche quando
+c'è stato un rilevante uso pubblico degli strumenti digitali. Per questo il primato del pubblico va riesaminato. I dati che circolano
+sono i dati riferiti alla nostra persona e il primo punto è proteggere la persona digitale. Per questo ci vuole un supplemento di
+iniziativa".
+Il Gdpr ha avviato un processo globale di regolazione informato ai suoi principi generali. Eppure il punto di debolezza è il
+one stop shop (il trattamento delle controversie nel paese dove le imprese hanno lo stabilimento principale).
+"Nessuna nazione, anche grande, può pensare che la gestione di procedure rilevanti a livello transnazionale possa essere affidata
+a un singolo paese. Quindi l'interlocutore delle grandi piattaforme dovrebbe essere una struttura con poteri e strumenti ad hoc
+come l'Europa. Per affrontare i giganti del web non basta una piccola Autorità con poche decine di dipendenti. L'Unione Europea
+ha dato al Board per la protezione dei dati personali un potere nuovo e strumenti nuovi. Dobbiamo andare avanti su questa strada".
+Insomma la gestione del rapporto con Big Tech deve essere europea. Presidente, sappiamo che Max Schrems, attivista
+per i diritti che ha dato tanti grattacapi a Facebook ha scritto ai presidenti delle Autorità per la privacy una lettera di
+rimostranze su come l'Irlanda gestisce le segnalazioni di violazione della privacy. Si riferisce a questo?
+"L'Italia ha sollevato questa discussione nel board. Ma, come nel caso di TikTok, non vorremmo che "dal porto sicuro" per le
+aziende si passasse al "porto delle nebbie".
+Possiamo tornare al tema delle app regionali? Sono una decina, che fine faranno adesso che c'è Immuni?
+"Molte delle app sono rimaste a livello progettuale, nate sull'onda emergenziale e con interpretazioni troppo estese anche in base
+al Dpcm citato. Oggi che esiste una norma che definisce le modalità di tracciamento voglio ribadire che parliamo di tracciamento
+dei contatti e non di tracciamento delle persone e che non possono raccogliere dati sulla salute se non si rispetta la norma primaria
+
+invocata in coro in parlamento".
+Ma sembra che le Regioni vadano per conto proprio. Come escludere che ci siano dei rischi per la privacy?
+"Nel nostro ordinamento ora esiste un principio di "accountability", di responsabilità, per cui chi mette in piedi sistemi di
+tracciamento deve fare una valutazione di impatto che il Garante valuterà, anche nel prossimo futuro. Se la valutazione non è stata
+fatta su misura dei rischi, interverremo".
+Però lei Presidente è in regime di prorogatio.
+"Giusto, c'è un tempo per iniziare e un tempo per finire. Entro due mesi dalla fine dell'emergenza verranno nominati i nuovi
+componenti dell'Autorità Garante per la Privacy. Immagino in agosto".
+Nel frattempo non si placano gli attacchi informatici alla Sanità. Prima lo Spallanzani, poi il San Raffaele, l'altro ieri anche
+la Regione Lazio attaccata dagli Anonymous.
+"Su questi ultimi casi riportati da voi di Repubblica ci sono istruttorie aperte. Il San Raffaele ha notificato l'incidente ma non posso
+parlarne. Sono tuttavia convinto che il tema della protezione dei dati più rilevanti e delicati in termini di cybersecurity vada
+considerato nella sua interezza. Qualunque server è vulnerabile, anche i più importanti, perciò va fatta una verifica generale. Tenga
+presente che i dati sulla salute valgono doppio dal punto di vista economico e della privacy. Nel mercato nero dei dati quelli sulla
+salute sono i più preziosi".

@@ -1,0 +1,28 @@
+Sähkölukkojärjestelmän käyttö taloyhtiössä ei vastannut tietosuojalainsäädäntöä
+
+
+   
+
+13.8.2020
+ 9.46
+
+Tiedote
+var snoobiSection="Tiedote";
+
+
+ Asunto-osakeyhtiö oli arvioinut virheellisesti, ettei sähkölukkojärjestelmän käyttöön ja ovenavaustietojen tallentamiseen liity henkilötietojen käsittelyä. Sähköavainten käyttäjät voidaan kuitenkin tunnistaa, kun avaimen yksilöintitieto yhdistetään tiettyyn asuntoon. Apulaistietosuojavaltuutettu määräsi yhtiön muuttamaan henkilötietojen käsittelytoimet yleisen tietosuoja-asetuksen mukaisiksi. Tietosuojavaltuutettuun yhteydessä ollut henkilö kertoi epäilevänsä, etteivät asunto-osakeyhtiön sähkölukkojärjestelmä ja sen käyttöönottomenettely täytä tietosuojasääntelystä tulevia vaatimuksia. Vireillesaattajan mukaan asukkaita ei esimerkiksi informoitu järjestelmän yksityiskohdista. Lukkojärjestelmän käyttöönotosta oli päätetty taloyhtiön kokouksessa. Yhtiöltä saadun selvityksen mukaan taloyhtiössä on käytössä asuinrakennuksen ulko-oviin asennettu sähkölukitusjärjestelmä. Taloyhtiö ei saa tietoja lukkorungosta, ja järjestelmää hallinnoiva lukkoliike lukee avaustietoja ainoastaan poliisin pyynnöstä. Ovenavaustiedot ovat henkilötietoja Rekisterinpitäjänä toimiva taloyhtiö arvioi, ettei ovenavauksista kerättävistä tiedoista muodostu henkilörekisteriä. Tietojen ei kuitenkaan tarvitse olla yhdistettävissä suoraan rekisteröityyn, jotta ne olisivat henkilötietoja. Ovenavauksen suorittanut asukas on mahdollista saada selville, kun avaimen yksilöintitieto yhdistetään tiettyyn asuntoon. Erityisesti yksin asuvien henkilöiden kohdalla ovenavaustiedot voidaan käytännössä varmuudella yhdistää yksittäiseen henkilöön. Henkilötietojen käsittely edellyttää aina käsittelyperustetta ja muun tietosuojasääntelyn noudattamista. Asunto-osakeyhtiö ei ollut määritellyt käsittelyperustetta tai huolehtinut muistakaan tietosuoja-asetuksesta tulevista velvoitteista, joten sen suorittama henkilötietojen käsittely on ollut lainvastaista. Taloyhtiön olisi pitänyt arvioida muun muassa tiedonkeruun tarpeellisuutta ja tietojen säilytysajan rajoittamista. Yhtiö ei myöskään kertonut henkilötietojen käsittelystä avaimia käyttäville asukkaille läpinäkyvästi tietosuoja-asetuksen velvoittamalla tavalla. Apulaistietosuojavaltuutettu määräsi yhtiön saattamaan henkilötietojen käsittelytoimet yleisen tietosuoja-asetuksen mukaisiksi. Päätöksestä voi valittaa hallinto-oikeuteen, joten se ei ole lainvoimainen. Apulaistietosuojavaltuutetun päätös Finlexissä Lisätietoja: apulaistietosuojavaltuutettu Jari Råman, jari.raman(at)om.fi, puh. 029 566 6757 
+
+
+
+
+
+
+
+
+
+
+
+lukot
+tietosuoja
+
+

@@ -1,0 +1,246 @@
+1/5
+
+
+
+Procedimiento Nº: E/07942/2019
+
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes:
+HECHOS
+PRIMERO: La reclamación interpuesta por D. A.A.A. (en adelante, el reclamante)
+tiene entrada con fecha 26 de junio de 2019 en la Agencia Española de Protección de
+Datos. La reclamación se dirige contra G&C BUSINESS SL (en adelante, la
+reclamada).
+Los motivos en que basa la reclamación son que han cedido sus datos
+personales, CV, copia del DNI por ambas caras y selfi con el DNI al anunciante de una
+oferta de trabajo “Conductores y Agente de Vigilancia” en el sitio web “es.jooble.org”.
+Añade, que hasta el momento de la interposición de la presente reclamación no
+ha vuelto a saber nada más, por lo que sospecha que se vaya a hacer un uso
+fraudulento de sus datos. Ha interpuesto denuncia ante la Dirección General de la
+Policía. No sabe a quién han cedido sus datos.
+Que según el reclamante los hechos tuvieron lugar el 15 de junio de 2019.
+Y, entre otra, aporta la siguiente documentación:
+
+
+Captura de pantalla del anuncio.
+
+ Denuncia presentada ante la Dirección General de la Policía, con número de atestado
+8307/19, el 21 de junio 2019.
+SEGUNDO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+
+
+En la captura de pantalla enviada por el reclamante de la oferta de trabajo,
+aparece como titular de la misma la entidad G&C Business, S.L. Realizadas
+búsquedas en las bases de datos del Registro Mercantil Central (en adelante,
+RMC) y del proveedor AXESOR, no se encuentra ninguna compañía con esa
+denominación.
+
+
+
+En el momento de iniciar estas actuaciones de investigación, el anuncio al que
+hace referencia el reclamante ya no se encuentra disponible. No obstante, se
+encuentran tres anuncios similares en el sitio web “www.iberempleos.es” en las
+direcciones:
+***URL.1
+***URL.2
+***URL.3
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/5
+
+
+
+Realizado requerimiento de información a Prensa Ibérica Media, S.L.,
+responsable del tratamiento de datos personales en el portal de ofertas de
+trabajo “www.iberempleos.com”, sobre el titular de los anuncios referidos en el
+punto anterior, con fecha de 6 de noviembre de 2019 se recibe en esta Agencia
+escrito remitido por Iberanuncios S.L., filial de Prensa Ibérica Media, S.L.,
+manifestando que los anuncios señalados en el requerimiento fueron
+insertados por Ladoburn Europe LTD (en adelante, Ladoburn), compañía
+chipriota y propietaria de portal de empleos “es.jooble.org”, con la que
+mantiene acuerdo de intercambio de anuncios. Facilita la identificación
+completa de Ladoburn los datos de los que dispone de los anuncios señalados
+en el requerimiento.
+Los anuncios, exactamente iguales, corresponden a:
+o Joyería Phill, S.L., con correo de contacto joyeriaphillp@gmail.com
+
+
+
+o
+
+G&C
+Business,
+S.L.
+con
+gregory.business.clarck@gmail.com
+
+o
+
+Jewelry Internacional
+
+correo
+
+de
+
+contacto
+
+Ninguna de estas empresas se ha podido encontrar en el RMC ni en AXESOR
+Se localizan dos nuevos anuncios aún vigentes y exactamente iguales en las
+direcciones:
+***URL.4
+***URL.5
+y se realiza requerimiento de información a Ladoburn, mediante carta
+certificada internacional, sobre la titularidad de estos anuncios.
+
+
+
+Con fecha de 17 de agosto de 2020 se recibe por correo electrónico,
+contestación al requerimiento realizado a Ladoburn informando de los datos
+que les consta del titular de los anuncios. Entre estos datos en los que se
+observa una dudosa veracidad, consta el nombre de B.B.B. y el número de
+teléfono ***TELEFONO.1.
+
+
+
+Realizado requerimiento a Xfera Móviles, S.A. sobre la titularidad del número
+indicado en el punto anterior, con fecha de 9 de septiembre de 2020 se recibe
+en esta Agencia, respuesta remitido por la operadora indicando que el número
+en cuestión se comercializa a través de la marca Lebara y se trata de un
+numero en modalidad prepago. En el momento de producirse la cesión de los
+datos del reclamante el titular del referido número era:
+C.C.C. con número de pasaporte ***PASAPORTE.1 y nacionalidad BS
+(Bahamas)
+Durante el periodo de asignación de este número a este titular, que inicialmente
+tenía saldo 0 euros, no se realizó ninguna recarga de saldo.
+
+
+
+Dada la disparidad e incoherencia de los datos hallados, no se ha podido
+acreditar la autoría de los anuncios.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/5
+
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+De conformidad con lo establecido en el artículo 55 del RGPD, la Agencia
+Española de Protección de Datos es competente para desempeñar las funciones que
+se le asignan en su artículo 57, entre ellas, la de hacer aplicar el Reglamento y
+promover la sensibilización de los responsables y los encargados del tratamiento
+acerca de las obligaciones que les incumben, así como tratar las reclamaciones
+presentadas por un interesado e investigar el motivo de las mismas.
+Corresponde, asimismo, a la Agencia Española de Protección de Datos ejercer
+los poderes de investigación regulados en el artículo 58.1 del mismo texto legal, entre
+los que figura la facultad de ordenar al responsable y al encargado del tratamiento que
+faciliten cualquier información que requiera para el desempeño de sus funciones.
+Correlativamente, el artículo 31 del RGPD establece la obligación de los
+responsables y encargados del tratamiento de cooperar con la autoridad de control
+que lo solicite en el desempeño de sus funciones. Para el caso de que éstos hayan
+designado un delegado de protección de datos, el artículo 39 del RGPD atribuye a
+éste la función de cooperar con dicha autoridad.
+Del mismo modo, el ordenamiento jurídico interno también prevé la posibilidad
+de abrir un período de información o actuaciones previas. En este sentido, el artículo
+55 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, otorga esta facultad al órgano competente con el fin de
+conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el
+procedimiento.
+III
+En el presente caso, se ha recibido en esta Agencia la reclamación presentada
+por la reclamante contra la reclamada por una presunta vulneración del artículo 6 del
+RGPD que regula la licitud del tratamiento.
+En concreto se reclama que han cedido los datos personales del reclamante.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/5
+
+IV
+
+La LOPDGDD, en su artículo 67 indica:
+“1. Antes de la adopción del acuerdo de inicio de procedimiento, y una vez
+admitida a trámite la reclamación si la hubiese, la Agencia Española de Protección de
+Datos podrá llevar a cabo actuaciones previas de investigación a fin de lograr una
+mejor determinación de los hechos y las circunstancias que justifican la tramitación del
+procedimiento.
+La Agencia Española de Protección de Datos actuará en todo caso cuando sea
+precisa la investigación de tratamientos que implique un tráfico masivo de datos
+personales.
+2. Las actuaciones previas de investigación se someterán a lo dispuesto en la
+Sección 2.ª del Capítulo I del Título VII de esta ley orgánica y no podrán tener una
+duración superior a doce meses a contar desde la fecha del acuerdo de admisión a
+trámite o de la fecha del acuerdo por el que se decida su iniciación cuando la Agencia
+Española de Protección de Datos actúe por propia iniciativa o como consecuencia de
+la comunicación que le hubiera sido remitida por la autoridad de control de otro Estado
+miembro de la Unión Europea, conforme al artículo 64.3 de esta ley orgánica”.
+Todas las actuaciones se han realizado en cumplimiento de lo establecido
+legalmente, y con la finalidad de determinar, con la mayor precisión posible, las
+circunstancias relevantes que pudieran concurrir en el caso, resultando infructuosa la
+investigación. De ahí que no se den las condiciones para iniciar un procedimiento
+sancionador por infracción de la LOPDGDD, ni continuar las actuaciones
+investigadoras.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución al reclamante.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/5
+
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

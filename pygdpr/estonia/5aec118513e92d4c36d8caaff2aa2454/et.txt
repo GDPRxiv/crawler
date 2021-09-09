@@ -1,0 +1,9 @@
+Kohus leidis, et kui Google rahuldab inimese taotluse ja eemaldab tema isikuandmeid sisaldava lingi, ei pea seda eemaldama otsingumootori kõikidelt versioonidelt vaid ainult neist, mis on kättesaadavad Euroopa Liidu liikmesriikides.
+Otsingumootorist lingi kustutamiseks peab tulema alus isikuandmete kaitse üldmääruse artiklist 17, kuid kuna kaalutlusotsuse teisel pool on sõna- ja teabevabadus, siis üldjuhul kustutavad otsingumootorid linke väga harva.  Esmalt on mõistlik alati pöörduda algse võrgulehe poole, mis on andmed avaldanud.
+Kuna Euroopa territooriumilt tulnud kustutamise nõude põhjal ei kohustu otsingumootor eemaldama isikuandmeid sisaldavat linki nendelt versioonidelt, mis avanevad väljapool EL liikmesriiki, siis tähendab meie jaoks see seda:
+kui Eesti inimene on teinud taotluse otsingumootorist lingi eemaldamiseks, saab otsingumootor eemaldada lingi kõikidelt võrgulehtedelt, mis avanevad mistahes EL liikmesriigis,
+kui aga sama päring teha nt USAs avaneva otsingumootori lehe kaudu, on link jätkuvalt leitav.
+Samuti leidis kohus täiendavalt, et liikmesriikide järelevalveasutusele või kohtule jääb siiski pädevus kaalutlusotsusele tuginedes kohustada otsingumootori haldajat eemaldama lingid kõikidest otsingumootori versioonidest.
+Otsingumootori poole on mõistlik ennekõike pöörduda olukorras, kui isikuandmete avaldamine on ilmselgelt inimese õigusi kahjustatud ja andmed avaldanud võrguleht asub väljaspool EL mõjupiirkonda, millega ei saa kas ühendust või keeldutakse andmete kustutamisest või otsingumootoritele peitmisest. Muul juhul on võrgulehega suhtlus alati mõjusam ja tulemuslikum.
+Praktiline info:kas ja mismoodi saab otsingumootorisse jõudnud andmed ära kustutada
+

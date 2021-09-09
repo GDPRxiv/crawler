@@ -1,0 +1,34 @@
+Tietosuojavaltuutetun toimiston seuraamuskollegio määräsi kolme seuraamusmaksua tietosuojarikkomuksista
+
+
+   
+
+22.5.2020
+ 14.39
+
+Tiedote
+var snoobiSection="Tiedote";
+
+
+ Seuraamuskollegio määräsi 18. toukokuuta seuraamusmaksun kolmelle yritykselle tietosuojalainsäädännön rikkomisesta. Rikkomukset koskevat puutteellista informointia tietosuojaoikeuksista, vaikutustenarvioinnin tekemättä jättämistä ja tarpeettomien henkilötietojen keräämistä. Puutteita muuttoilmoitusta tehneiden informoinnissa Tietosuojavaltuutetulle kannelleet henkilöt olivat tehneet muuttoilmoituksen Posti Oy:lle, minkä jälkeen he olivat saaneet yhteydenottoja ja suoramarkkinointia eri yrityksiltä. Tietosuojavaltuutetun toimiston selvityksessä kävi ilmi, ettei Posti ollut kertonut rekisteröidyille heidän oikeuksistaan, muun muassa oikeudesta kieltää tietojen luovuttaminen, muuttoilmoituksen tekemisen yhteydessä. Yrityksen olisi pitänyt kertoa selkeästi, että asiakkailla on oikeus vastustaa henkilötietojen käsittelyä. Posti oli ilmoittanut oikeudesta ainoastaan niille asiakkaille, jotka ostivat lisäpalveluita muuttoilmoituksen tekemisen lisäksi. Posti oli ilmoittanut tietosuojavaltuutetulle selvittävänsä mahdollisuuksia parantaa henkilötietojen käsittelyn läpinäkyvyyttä jo vuonna 2017. Asiakkaiden informointia parannettiin lopulta tammikuussa 2020, kun tietosuojavaltuutetun toimisto oli ollut uudestaan yhteydessä Postiin. Rikkomus koski 161 000 asiakasta pelkästään vuoden 2019 aikana. Seuraamuskollegio määräsi Posti Oy:lle 100 000 euron suuruisen seuraamusmaksun. Tietosuojaa koskevaa vaikutustenarviointia ei ollut tehty, vaikka työntekijöiden sijaintitietojen käsittely sitä edellyttää Toisessa päätöksessä tietosuojavaltuutetulle oli kanneltu siitä, että Kymen Vesi Oy käsitteli työntekijöidensä sijaintitietoja paikantamalla ajoneuvoja ajotietojärjestelmän avulla. Rekisterinpitäjä ei ollut tehnyt EU:n yleisen tietosuoja-asetuksen mukaista vaikutustenarviointia ennen sijaintitietojen käsittelyn aloittamista. Sijaintitietoja käytettiin muun muassa työajanseurantaan. Vaikutustenarviointi on tehtävä, kun käsittelystä todennäköisesti seuraa korkea riski rekisteröidyn henkilön oikeuksille ja vapauksille. Arviointi on tehtävä muun muassa, jos käsitellään heikommassa asemassa olevien rekisteröityjen sijaintitietoja tai sijaintitietoja käytetään järjestelmälliseen valvontaan. Tieto tilanteista, joissa sijaintitietojen käsittelyyn perustuva vaikutustenarviointi on tehtävä, on julkaistu muun muassa tietosuojavaltuutetun verkkosivuilla. Seuraamuskollegio määräsi Kymen Vesi Oy:lle 16 000 euron suuruisen seuraamusmaksun. Työnhakijoiden henkilötietoja kerättiin tarpeettomasti Kolmannessa tapauksessa tietosuojavaltuutetulle oli ilmoitettu, että yritys keräsi työnhakijoiden ja työntekijöiden henkilötietoja tarpeettomasti. Työelämän tietosuojalain mukaan työnantaja saa käsitellä vain työntekijän työsuhteen kannalta tarpeellisia tietoja. Puutteita todettiin myös tietosuoja-asetuksen noudattamiseen liittyvässä dokumentoinnissa. Yritys oli kysynyt tietoja muun muassa uskonnollisesta vakaumuksesta, terveydentilasta, mahdollisesta raskaudesta ja perhesuhteista. Tietosuojavaltuutettu määräsi yrityksen poistamaan tarpeettomat tiedot ja antoi huomautuksia puutteellisesta dokumentoinnista. Lisäksi seuraamuskollegio määräsi yritykselle 12 500 euron suuruisen seuraamusmaksun. Päätökset eivät ole lainvoimaisia. Niihin voi hakea muutosta valittamalla hallinto-oikeuteen. Tietosuojavaltuutetun toimisto nimeää seuraamusmaksun saaneen organisaation tiedotteissaan silloin, kun asia arvioidaan yleisesti merkittäväksi tai organisaatio voitaisiin sekoittaa toiseen toimijaan. Seuraamusten on oltava oikeasuhtaisia, tehokkaita ja varoittavia Seuraamuskollegio määräsi seuraamusmaksuja tietosuojalainsäädännön rikkomisesta nyt ensimmäistä kertaa. Kollegio on toimivaltainen määräämään hallinnollisia seuraamusmaksuja todetuista tietosuojarikkomuksista. Seuraamusmaksujen enimmäismäärä voi olla 4 % yrityksen liikevaihdosta tai 20 miljoonaa euroa. Seuraamuskollegion muodostavat tietosuojavaltuutettu ja kaksi apulaistietosuojavaltuutettua. Puheenjohtajana toimii tietosuojavaltuutettu. Seuraamuskollegion päätöksenteosta ja rekisterinpitäjien oikeusturvasta säädetään kansallisessa tietosuojalaissa. Päätökset
+
+Henkilötietojen käsittelyn läpinäkyvyys ja rekisteröidylle toimitettavat tiedot (pdf)
+Työntekijöiden sijaintitietojen käsittely ja vaikutustenarviointi (pdf)
+Työnhakijoiden henkilötietojen kerääminen tarpeettomasti (pdf)
+ Lisätietoja: tietosuojavaltuutettu Reijo Aarnio, puh. 029 566 6730, reijo.aarnio(at)om.fi 
+
+
+
+
+
+
+
+
+
+
+
+rikkomukset
+seuraamukset
+tietosuoja
+
+

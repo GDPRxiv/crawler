@@ -1,0 +1,150 @@
+
+
+L’Autorité de protection des données (APD) a été consultée en urgence afin de rendre un avis sur deux avant-projets d’arrêtés royaux portant respectivement sur l’utilisation d’applications de traçage et sur la constitution d’une base de données « afin de prévenir la propagation du coronavirus ». La protection des données personnelles n’est pas un obstacle à la mise en place d’outils technologiques dans le cadre de la lutte contre l’épidémie COVID-19, tant que ceux-ci respectent certains principes fondamentaux. Les textes normatifs qui prévoient et encadrent l’utilisation de ces outils doivent notamment être précis et complets pour assurer une transparence optimale vis-à-vis du citoyen et la nécessité de recourir à une application de traçage doit être démontrée, estime l’APD.
+
+
+Des garanties supplémentaires pour le citoyen
+Le sujet a fait couler beaucoup d’encre : dans le cadre de la lutte contre la propagation du coronavirus, il est envisagé de retracer les contacts qu’une personne testée positive pourrait avoir contaminés. Ce traçage pourrait se faire en tentant de se souvenir des personnes que l’on a croisées et, complémentairement, via une application (qui fonctionnerait sur base de clés numériques ne permettant pas d’identifier directement les personnes concernées).
+Le Centre de Connaissances de l’APD, qui est compétent pour formuler des avis sur des projets normatifs, a été consulté quant à deux avant-projets d’arrêtés royaux permettant d’encadrer, d’une part l’utilisation d’applications numériques de traçage de contacts et, d’autre part la création d’une base de données par Sciensano. Ses avis sur ces avant-projets contiennent de nombreuses considérations qui peuvent être résumées en deux points essentiels :
+
+Il faut démontrer la nécessité et la proportionnalité des applications de traçage et de la création d’une base de données auprès de Sciensano :
+	
+Les ingérences dans la vie privée des citoyens que permettent ces arrêtés royaux ne sont admissibles que si elles sont nécessaires et proportionnées à la réalisation de l’objectif d’intérêt général qu’est la lutte contre la propagation du virus.
+La mise en place d’un système de traçage par le biais d’applications n’est admissible que si celui-ci constitue le moyen le moins intrusif pour atteindre l’objectif poursuivi, et qu’il existe un juste équilibre entre les intérêts en présence (proportionnalité).
+
+
+
+
+Les projets doivent fournir des garanties supplémentaires pour les citoyens :
+	
+Les textes doivent être davantage précisés pour éviter toute dérive. L’ arrêté relatif à la création d’une base de données par Sciensano doit notamment être plus clair concernant la provenance des données collectées, les tiers à qui ces données médicales pourront être transmises et les usages qu’ils pourront en faire.
+Les textes doivent également prévoir qu’aucun recoupement ne pourra se faire entre les différentes bases de données constituées dans le cadre de la lutte contre l’épidémie (ou avec toute autre base de données), ou encore que les données récoltées ne pourront être réutilisées à d’autres fins.
+
+
+
+Exigences minimales pour une application de traçage
+En plus des remarques qu’elle a fournies relatives aux avant-projets, l’APD rappelle que toute application de traçage doit être conforme aux règles et spécifications définies par l’EDPB  (Comité Européen de la protection des données dans lequel l’APD joue un rôle actif), qui a récemment publié des lignes directrices et une « boîte à outils » à ce sujet.
+Il est par exemple nécessaire de s’assurer que le téléchargement et l’utilisation d’une application de traçage se fassent réellement sur base volontaire et qu’aucun citoyen refusant de l’utiliser ne puisse subir un quelconque désavantage (comme par exemple se voir refuser l’accès à un bien ou à un service).
+Le code source de toute application devra également être publié au préalable, afin de laisser un délai raisonnable à des experts pour contrôler son fonctionnement. Chaque application devra également faire l’objet d’une analyse d’impact avant son lancement et, dans le cas où cette analyse viendrait à révéler l’existence de risques élevés, être soumise à l’avis du Secrétariat Général de l’APD.
+La santé publique est essentielle pour l’APD
+Pour l’APD, la santé publique est primordiale et sa préservation n’est pas incompatible avec le droit à la vie privée.
+
+David Stevens, Président de l’APD rappelle : « Le sujet du traçage en vue de préserver la santé publique nous tient très à cœur. Nous touchons ici à deux grandes priorités de l’APD : les données sensibles (médicales) d’une part, et le traitement de données par des autorités publiques d’autre part. »
+
+L’APD travaille d’arrache-pied depuis le début de la crise du coronavirus afin de contribuer à trouver des solutions à la fois efficaces contre le COVID-19, mais aussi respectueuses des données personnelles des citoyens. A côté de sa participation aux réflexions européennes sur le sujet, de la fourniture, dans des délais extrêmement courts, d’avis sur des projets normatifs ou sur des analyses d’impact, l’APD a également publié sur son site internet un dossier entièrement dédié au coronavirus.
+ 
+Alexandra Jaspar, directrice du Centre de Connaissances de l’APD, conclut : « Les règles en matière de protection des données ne s’opposent pas par principe à la création d’un cadre permettant l’utilisation d’une application de traçage. Ce cadre doit cependant respecter une série de balises prévues par le Règlement général sur la protection des données, et précisées par les différentes autorités européennes regroupées au sein du Comité européen de la protection des données. »
+Questions
+
+
+
+Puis-je fournir les données à caractère personnel (telles que le numéro de téléphone, le nom et le prénom) des personnes avec qui j’ai été en contact pour répondre aux questions d’un ‘contact tracer’ ? Est-ce que dans ce cas, je n’enfreins pas le RGPD ?
+
+
+
+
+Oui, vous pouvez le faire. Vous pouvez partager avec le ‘contact tracer’ les données à caractère personnel de vos contacts sans enfreindre le RGPD car les autorités ont adopté une réglementation légale particulière à cet effet.
+Une personne contaminée communique librement les données à caractère personnel de ses contacts à un "contact tracer" sur la base d’une autorisation légale, à savoir l’arrêté royal n° 44 du 26 juin 2020. Par conséquent, vous n’avez pas besoin du consentement de vos contacts pour communiquer ces informations au ‘contact tracer’.
+L’objectif est que sur la base des données à caractère personnel communiquées, le ‘contact tracer’ puisse retrouver les personnes avec lesquelles vous avez été en contact et qui, de ce fait, pourraient aussi avoir été contaminées, et leur transmettre les recommandations utiles (rester à la maison, faire du télétravail, etc.). Ceci est nécessaire afin d’éviter que ces personnes contaminent à leur tour encore d’autres personnes de leur entourage.
+Pour plus d’informations sur la recherche des contacts, veuillez consulter la page Internet du SPF Santé publique. 
+
+
+
+
+Les informations collectées par les autorités dans le cadre de la recherche des contacts peuvent-elles être utilisées ultérieurement pour me sanctionner s’il s’avère que je n’ai pas respecté les règles ?
+
+
+
+
+Non, les autorités ne peuvent pas faire cela.
+Les autorités ne peuvent pas utiliser ces informations pour vous sanctionner ultérieurement. Les informations collectées par les "contact tracers" sont stockées dans une banque de données fédérale créée par l’arrêté royal n° 44 du 26 juin 2020.
+Cette législation énumère toutes les finalités pour lesquelles les données à caractère personnel reprises dans cette banque de données peuvent être utilisées, à savoir : rechercher et contacter des personnes dans le cadre de la lutte contre le COVID-19, réaliser des études scientifiques et/ou d'appui à la politique et informer les services d'inspection de la santé des Régions. Les données à caractère personnel reprises dans la banque de données fédérale peuvent uniquement être utilisées pour ces finalités.
+La transmission des données à caractère personnel à la police ou à des instances judiciaires en vue de sanctionner le non-respect de certaines mesures liées au coronavirus est incompatible avec ces finalités initiales et constituerait une violation manifeste du principe de limitation des finalités. Les informations qu’une personne contaminée communique au "contact tracer" ne peuvent donc pas être utilisées pour contrôler si la personne concernée a respecté les mesures liées au coronavirus imposées par les autorités.
+
+
+
+
+Puis-je refuser de communiquer des contacts au "contact tracer" ?
+
+
+
+
+Oui, vous pouvez refuser.
+Vous n’êtes en effet pas obligé de répondre à toutes les questions du "contact tracer". Bien qu’il n’y ait pas d’obligation légale stricte de communiquer les coordonnées de vos contacts, les autorités comptent sur le sens civique de chaque personne contaminée pour qu’elle soit la plus transparente possible concernant ses contacts et ainsi limiter d’autres contaminations.
+Pour plus d’informations sur la recherche des contacts, veuillez consulter la page Internet du SPF Santé publique.
+
+
+
+
+Le "contact tracer" ne doit-il pas me faire savoir qui lui a communiqué mes coordonnées ?
+
+
+
+
+Non, le "contact tracer" ne doit pas vous donner cette information car les autorités ont adopté une réglementation légale particulière à cet effet.
+Dans le cas présent, le responsable du traitement (ici, le centre de contact) a obtenu vos données à caractère personnel indirectement auprès d’un tiers, à savoir la personne contaminée. L’article 14 du RGPD prévoit que normalement, le responsable du traitement destinataire doit informer les personnes concernées (en l’occurrence : vous) de la source des données à caractère personnel. Vous pourriez ainsi savoir quelle personne contaminée a transmis vos données à caractère personnel.
+Cette obligation d’information ne s’applique toutefois pas ici car l’article 14.5 c) du RGPD prévoit une exception lorsque l’obtention ou la communication des données sont expressément prévues par une réglementation légale qui prévoit des mesures appropriées visant à protéger les intérêts légitimes de la personne concernée. En Belgique, cette réglementation figure dans l’arrêté royal n° 44 du 26 juin 2020.
+Pour plus d’informations sur la recherche des contacts, veuillez consulter la page Internet du SPF Santé publique. 
+
+
+
+
+Est-ce que je viole mon secret professionnel lorsque je fournis les coordonnées des personnes avec qui je suis entré en contact dans le cadre de ma profession (par ex. en tant que travailleur social dans un service social, actif dans les soins à domicile, accompagnateur de parcours professionnel, médecin, ...) ?
+
+
+
+
+Non, vous ne violez pas votre secret professionnel. Si la personne contaminée est soumise au secret professionnel, il lui sera demandé, comme à tout autre citoyen contaminé, de communiquer au "contact tracer" les coordonnées des personnes avec qui elle est récemment entrée en contact.
+L’Autorité attire l’attention sur l’avis du 14 mai 2020 du bureau du conseil national de l’Ordre des médecins concernant cette problématique. Le bureau estime qu’il est recommandé sur le plan déontologique que le médecin coopère à la recherche de contacts, tant en ce qui concerne la notification obligatoire des patients susceptibles d’être contaminés par le COVID-19 qu’en ce qui concerne le suivi des contacts dans le cas où le médecin lui-même est atteint du COVID-19.
+Par analogie, l’Autorité considère que d’autres catégories professionnelles soumises au secret professionnel peuvent également collaborer au suivi des contacts sans violer leur secret professionnel.
+En outre, le "contact tracer" n’est pas en mesure de savoir quelles informations la personne contaminée communique en tant que personne soumise au secret professionnel (par ex. des noms de patients et de clients relevant du secret professionnel) ou en tant que citoyen (par ex. des noms d’amis, de collègues, de connaissances, de membres de la famille, etc.). 
+
+
+
+
+Les autorités publiques peuvent-elles m'obliger à transmettre mes données à caractère personnel et mes informations de voyage en complétant le formulaire "Passenger Locator Form" ?
+
+
+
+
+Oui, c’est possible.
+Si cette mesure est encadrée légalement et que le traitement est adéquat, pertinent et limité à ce qui est nécessaire au regard des finalités poursuivies, les autorités publiques peuvent demander de transmettre des données à caractère personnel au moyen du Passenger Locator Form.
+Le fondement juridique actuel de cette mesure est l'arrêté ministériel du 30 juin 2020 qui dispose que le voyageur qui revient en Belgique doit compléter et signer le Passenger Locator Form. L'Autorité n'a pas été sollicitée pour émettre un avis préalable à l'adoption de cet arrêté.
+ Comme indiqué sur le Passenger Locator Form, le Service public fédéral Santé publique, Sécurité de la chaîne alimentaire et Environnement intervient en tant que responsable du traitement. Vous pouvez exercer vos droits à l'égard de ce responsable du traitement en utilisant nos modèles de lettres et en envoyant un e-mail à l'adresse DPO.PHA@health.fgov.be. Vous trouverez des informations relatives au traitement de vos données à caractère personnel dans le cadre du Passenger Locator Form sur ce site Internet.
+
+
+
+
+
+Liens intéressants
+
+
+
+
+
+
+
+Covid-19
+
+
+
+
+
+
+
+
+Avis 34/2020
+
+
+
+
+
+
+
+
+Avis 36/2020
+
+
+
+
+

@@ -1,0 +1,154 @@
+1/4
+
+
+
+Procedimiento Nº: E/06100/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: La reclamación interpuesta por A.A.A. (en adelante, el reclamante) tiene
+entrada con fecha 15 de mayo de 2019 en la Agencia Española de Protección de
+Datos.
+La reclamación se dirige contra LÍNEA TELEFÓNICA ***TELÉFONO.1, (en adelante,
+el reclamado).
+Los motivos en que basa la reclamación son que recibe llamadas desde ese número y
+al descolgar preguntan por él con su nombre y apellidos indicando que ha sido el
+ganador de un premio y le piden el número de su cuenta bancaria supuestamente para
+ingresarle el premio.
+Concretamente recibió una llamada el 14 de mayo desde el número ***TELÉFONO.1 a
+su número ***TELÉFONO.2 del proveedor AMENA.
+No aporta documentación.
+SEGUNDO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+Con fecha 15 de junio de 2019 se inician las presentes actuaciones.
+ORANGE ESPAÑA, S.A. en respuesta al requerimiento de esta Agencia manifiesta
+que no puede confirmar la llamada objeto de esta denuncia al no conservar datos de
+tráfico de un periodo superior a doce meses conforme a la ley 25/2007 de 18 de
+octubre.
+La línea llamante se encuentra asociada al operador COLT TECHNOLOGY
+SERVICES S.A. según la web de la CNMC.
+Se remite requerimiento de información a COLT TECHNOLOGY SERVICES S.A.. La
+notificación consta “Entregada” pero no se ha recibido contestación.
+TERCERO: Con fecha 12 de junio de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó admitir a trámite la reclamación presentada por el
+reclamante.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/4
+
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+El tratamiento de datos personales con fines de mercadotecnia directa está
+expresamente previsto, con carácter general, en la normativa de protección de datos,
+no descartándose cuando concurra un interés legítimo del responsable del tratamiento,
+especialmente en aquellos supuestos en que exista una relación pertinente y
+apropiada con el interesado, por ejemplo, por su condición de cliente, que permita a
+este prever de forma razonable, en el momento y en el contexto de la recogida de
+datos personales, que pueda producirse el tratamiento con tales fines.
+No obstante, los afectados tienen derecho a oponerse en todo momento al
+tratamiento de los datos personales que le conciernan, incluida la elaboración de
+perfiles, en la medida en que esté relacionada con la citada mercadotecnia, ya sea con
+respecto a un tratamiento inicial o ulterior, y ello en cualquier momento y sin coste
+alguno.
+El derecho de oposición está expresamente previsto, en particular, en la
+normativa específica de telecomunicaciones, respecto de las llamadas telefónicas no
+deseadas con fines de comunicación comercial.
+Con carácter general, si no desea recibir llamadas comerciales de carácter
+promocional puede dirigirse a la entidad promocionada, sea o no cliente de esta,
+identificándose como usuario de la línea telefónica en la que no desea recibir las
+llamadas y manifestándole su negativa u oposición al tratamiento de sus datos
+personales con fines publicitarios.
+Debe saber que, si sus datos personales identificativos figuran en las guías de
+telecomunicaciones disponibles al público, también puede ejercitar sus derechos ante
+el operador que le presta el servicio de telefonía, para que le excluya de los ficheros
+que emplean las entidades autorizadas por la Comisión Nacional de los Mercados y la
+Competencia para elaborar las guías de abonados o bien para que se haga constar en
+los mismos su oposición al tratamiento comercial de los datos. De la misma forma,
+puede solicitar la omisión en las guías de algunos de sus datos.
+Los afectados también pueden registrar sus datos en sistemas de exclusión
+publicitaria como el gestionado por la Asociación Española de Economía Digital
+(www.listarobinson.es), con objeto de limitar la publicidad de las empresas adheridas
+que no hayan obtenido directamente del afectado el consentimiento para el tratamiento
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/4
+
+de sus datos personales con fines publicitarios o con las que el afectado no mantenga
+o no haya mantenido ninguna relación comercial, resultando eficaz transcurridos tres
+meses desde la fecha de la inscripción.
+Sin perjuicio de otras acciones, puede hacer uso de la funcionalidad que suelen
+ofrecer los sistemas operativos de los terminales móviles para bloquear de forma
+automática las llamadas no deseadas, particularmente cuando proceden de una
+determinada línea telefónica o cuando no figuran en su agenda de contactos. Puede
+consultar los detalles de esta funcionalidad a través del correspondiente canal de
+ajustes de llamadas y/o mensajes.
+III
+Así las cosas, tras el análisis realizado sobre los documentos aportados y las
+circunstancias concurrentes, no se aprecian indicios racionales de la existencia de una
+infracción en el ámbito competencial de la Agencia Española de Protección de Datos,
+por lo que, de acuerdo con lo previsto en el artículo 65.2 de la Ley Orgánica 3/2018, de
+5 de diciembre, de Protección de Datos Personales y garantía de los derechos
+digitales, ya que pese a las actuaciones de inspección realizadas, no se ha logrado
+encontrar a la entidad responsable de la llamada y el origen de los datos para su
+realización, y como consecuencia de ello, tampoco puede acreditarse que el número
+receptor de la llamada publicitaria estuviese incluido en los sistemas de exclusión de
+publicidad.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución al reclamante.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/4
+
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

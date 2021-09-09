@@ -1,0 +1,29 @@
+Apulaistietosuojavaltuutettu määräsi yrityksen poistamaan osoitetiedot autojen parkkilupalapuista
+
+
+   
+
+30.6.2020
+ 9.18
+
+Tiedote
+var snoobiSection="Tiedote";
+
+
+ Apulaistietosuojavaltuutettu antoi yritykselle huomautuksen ja määräyksen poistaa autoilijoiden osoite- ja asiointitiedot pysäköintiluvan osoittavista lapuista. Apulaistietosuojavaltuutetun selvityksen mukaan osoitetietojen merkitseminen parkkilupalappuihin ei ollut tarpeellista henkilötietojen käsittelyn tarkoituksen kannalta. Tietosuojavaltuutetulle kannellut henkilö oli kysynyt rekisterinpitäjänä toimivalta yritykseltä, voisiko hän peittää osoitetietonsa auton kojelaudalla pidettävästä lupalapusta. Yritys ei ollut suostunut ehdotukseen. Parkkilupalappuun oli merkitty pysäköintiluvan numero ja voimassaoloaika, rekisterinpitäjänä toimivan yrityksen nimi sekä pysäköintiluvan haltijan osoitetieto. Pysäköintipaikkoja vuokrannut yritys ei tietosuojavaltuutetulle antamassaan selvityksessä kertonut, että osoitetiedon merkitseminen parkkilappuun olisi välttämätöntä pysäköintiluvan osoittamiseksi. Yritys ilmoitti, että parkkilupalappuun voidaan tarvittaessa jatkossa merkitä osoitetiedon sijaan numeroista muodostuva yksilöintitunnus. EU:n yleisessä tietosuoja-asetuksessa määritelty tietojen minimoinnin periaate tarkoittaa, että käsiteltävien henkilötietojen on oltava tarpeellisia henkilötietojen käsittelyn tarkoituksen kannalta. Henkilötietoja ei saa kerätä tai käsitellä laajemmin kuin on välttämätöntä. Apulaistietosuojavaltuutettu antoi yritykselle huomautuksen ja määräyksen muuttaa henkilötietojen käsittelyä EU:n yleisen tietosuoja-asetuksen mukaiseksi. Selvityksen perusteella apulaistietosuojavaltuutettu totesi, että osoitetiedon merkitseminen parkkilappuihin ei ollut tarpeellista henkilötietojen käsittelyn tarkoituksen kannalta. Apulaistietosuojavaltuutettu määräsi yhtiön varmistamaan, että parkkilupalapuista ei jatkossa ilmene yksityishenkilöiden osoite- tai asiointitietoja. Päätöksessään apulaistietosuojavaltuutettu selvensi myös, että tietojen minimoinnin periaatetta on noudatettava, vaikka henkilötiedot olisivat julkisia tai muuten helposti saatavilla. Henkilötietoja saa käsitellä vain silloin, kun käsittelyn tarkoitusta ei ole mahdollista toteuttaa muulla tavalla. Päätöksestä voi valittaa hallinto-oikeuteen, joten se ei ole lainvoimainen. Päätös Finlexissä Lisätietoja: apulaistietosuojavaltuutettu Anu Talus, anu.talus(at)om.fi, puh. 029 566 6766 
+
+
+
+
+
+
+
+
+
+
+
+henkilötiedot
+pysäköinti
+tietosuoja
+
+

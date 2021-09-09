@@ -1,0 +1,30 @@
+Apulaistietosuojavaltuutettu määräsi perintätoimiston poistamaan vanhat henkilötiedot, joiden säilyttämistä kirjanpitolaki ei edellytä
+
+
+   
+
+31.3.2020
+ 9.09
+
+Tiedote
+var snoobiSection="Tiedote";
+
+
+ Apulaistietosuojavaltuutettu on antanut Intrum Oy:lle määräyksen poistaa rekisteröidyn pyynnöstä tämän henkilötiedot, jotka liittyvät yli viisi vuotta sitten päättyneisiin perintätoimiin ja joiden säilyttäminen ei perustu kirjanpitolainsäädäntöön. Rekisteröity oli pyytänyt ensin pääsyä itseään koskeviin, perintätoimiston hallussa oleviin tietoihin ja myöhemmin esittänyt lisäksi pyynnön saada tietonsa poistetuksi. Perintätoimisto oli kieltäytynyt poistopyynnöstä vedoten kirjanpitolakiin. Tietosuojavaltuutetun toimistolle antamassaan selvityksessä perintätoimisto ilmoitti säilyttävänsä tietoja aktiivitietokannassa kuusi kuukautta ja tämän jälkeen arkistotietokannassa kirjanpitolaissa määriteltyjen säilytysaikojen mukaisesti. Apulaistietosuojavaltuutetun päätöksen mukaan perintätoimistolla on peruste säilyttää päätöksessä tarkoitetut tiedot viiden vuoden ajan siitä, kun perintätoimenpiteet ovat päättyneet. Tätä pidempään voidaan säilyttää vain sellaisia henkilötietoja, jotka sisältyvät tositteisiin. Tositteella tarkoitetaan päivättyä ja yksilöityä liiketapahtuman todentavaa kirjallista ilmaisua, kuten kuittia, joiden säilyttämisestä on omat säännöksensä kirjanpitolaissa. Muiden kuin tositteisiin sisältyvien tietojen osalta tulee perintätoiminnassa noudattaa viiden vuoden säilytysaikaa. Tällaisia muita tietoja ovat esimerkiksi rekisteröidyn ja rekisterinpitäjän väliset sähköpostiviestit. Päätöksen tiivistelmä Finlex-tietokannassa Lisätietoja: apulaistietosuojavaltuutettu Anu Talus, puh. 029 566 6766, anu.talus(at)om.fi 
+
+
+
+
+
+
+
+
+
+
+
+arkistointi
+kirjanpito
+perintätoimistot
+tietosuoja
+
+

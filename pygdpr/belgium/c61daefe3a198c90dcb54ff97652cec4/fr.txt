@@ -1,0 +1,70 @@
+
+
+Le 5 juin 2018, la Cour de justice de l'Union européenne s'est prononcée dans l'affaire Wirtschaftsakademie (C-210/16).
+
+
+Par cet arrêt, la Cour de justice précise les compétences des autorités de contrôle nationales à l'égard des établissements locaux d'un responsable du traitement. Bien que le RGPD modifie les règles de compétence des autorités de contrôle nationales, l'arrêt constitue un précédent important pour les procédures nationales en cours à l'encontre de Facebook. Cet arrêt précise en outre aussi la notion de "responsable du traitement" qui reste importante également en vertu du RGPD.
+La Cour constate qu'en vertu de la directive sur la protection des données 95/46/CE, une autorité de contrôle nationale peut intervenir à l'encontre de l'établissement local d'une entreprise établie en dehors de l'UE (comme la société américaine Facebook), même si cet établissement - en vertu de la répartition des missions au sein du groupe - est chargé uniquement de la vente d’espaces publicitaires et d’autres activités de marketing. C'est même le cas lorsque l'entreprise dispose de plusieurs établissements européens et lorsque la responsabilité de la collecte et du traitement des données à caractère personnel incombe, pour l’ensemble du territoire de l’Union, à un établissement situé dans un autre État membre (en l’espèce Facebook Ireland).
+La Cour affirme également que l'autorité de contrôle nationale est dans ce cas compétente pour apprécier de manière autonome la licéité du traitement de données et pour exercer ses pouvoirs d’intervention à l’égard de l’entreprise établie sur son territoire sans préalablement appeler l’autorité de contrôle de l’autre État membre à intervenir.
+Pour l'Autorité belge de protection des données, cet arrêt constitue un coup de pouce dans la procédure en cours contre Facebook. "Même avec l'arrivée du RGPD, cet arrêt portant sur la compétence reste extrêmement pertinent pour l'affaire quant au fond qui est toujours en cours jusqu'à ce que Facebook mette ses pratiques en conformité avec la législation européenne en matière de vie privée. La Cour confirme ainsi le point de vue que nous défendons depuis 2015 quant à notre compétence d'intervenir de manière répressive à l'encontre de Facebook. Ce qui est également extrêmement important, c'est le fait que la Cour souligne la responsabilité partagée d'organisations qui utilisent des services et technologies de Facebook",  explique Willem Debeuckelaere.
+L'arrêt de la Cour de justice confirme le point de vue de l'avocat général du 24 octobre 2017.
+ 
+Précedemment...
+Le 24 octobre 2017, l'Avocat général Yves Bot a communiqué son point de vue dans l'affaire Wirtschaftsakademie, société de droit privé spécialisée dans le domaine de l’éducation (C-210/16).
+Dans cette affaire, il était demandé à la Cour de justice de déterminer quand le droit national au respect de la vie privée d'un État membre s'appliquait à un acteur international tel que Facebook. En outre, il était demandé à la Cour de préciser les compétences des commissions vie privées nationales une fois qu'il était établi que le droit national au respect de la vie privée était d'application.
+Dans son analyse, l'Avocat général souligne l'importance de cette affaire pour les procédures nationales en cours à l'encontre de Facebook :
+"À l’heure où les autorités de contrôle de plusieurs États membres ont décidé, au cours de ces derniers mois, d’infliger des amendes à Facebook en raison de la violation de règles relatives à la protection des données de ses usagers, l’affaire sous examen va permettre à la Cour de préciser l’étendue des pouvoirs d’intervention dont dispose une autorité de contrôle […]."
+L'Avocat général s'oppose à l'avis de Facebook selon lequel il serait uniquement soumis à la législation irlandaise en matière de vie privée et au contrôle de la Commission vie privée irlandaise. Il suit ainsi l'avis de la Commission vie privée belge selon lequel le législateur européen a laissé aux États membres la possibilité d'appliquer leur propre législation nationale, permettant ainsi l'application conjointe de la législation de plusieurs États membres.
+L'avis de l'Avocat général n'est pas contraignant pour la Cour de justice mais est souvent suivi dans la pratique.
+
+
+Liens intéressants
+
+
+
+
+
+
+
+Commission vie privée vs. Facebook : Procédure au fond
+
+
+
+
+
+
+
+
+La Cour d’appel rejette les arguments contre Facebook
+
+
+
+
+
+
+
+
+Le jugement dans l'affaire Facebook
+
+
+
+
+
+
+
+
+Le 13 mai, l'Autorité belge a adopté une première recommandation de principe relative à Facebook
+
+
+
+
+
+
+
+
+Recommandation 03/2017
+
+
+
+
+

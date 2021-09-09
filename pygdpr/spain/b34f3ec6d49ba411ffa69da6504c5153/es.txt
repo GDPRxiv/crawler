@@ -1,0 +1,190 @@
+1/4
+
+
+
+Procedimiento Nº: E/10487/2019
+
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: La reclamación interpuesta por A.A.A. Y OTROS tiene entrada con fecha
+25 de julio de 2019 en la Agencia Española de Protección de Datos. La reclamación se
+dirige contra la ASOCIACIÓN DE VECINOS CORTIJO ALTO y el AYUNTAMIENTO DE
+MÁLAGA. Vecinos de Málaga presentan una reclamación contra la Asociación de
+Vecinos Cortijo Alto y el Ayuntamiento porque señalan que este, ha cedido a la
+Asociación la gestión de la entrada a un recinto ferial durante la Feria de Málaga,
+facilitándoles una base de datos que entienden que pudiera ser el Padrón Municipal y
+entienden que vulnerando la normativa de protección de datos. Y señalan que se
+recogen datos para expedir tarjetas de acceso, sin facilitar la debida información en
+torno al uso de sus datos.
+SEGUNDO: Con fecha 3 de noviembre de 2019, la Directora de la Agencia Española
+de Protección de Datos acordó admitir a trámite la reclamación presentada por el
+reclamante.
+TERCERO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+
+
+
+
+El Ayuntamiento de Málaga expone que la reclamación parte de una base
+errónea ya que para poder realizar esta gestión, y, al carecer el departamento
+municipal encargado de esta actividad de medios personales y materiales para
+realizar las gestiones necesarias, se realiza una contratación, por parte del
+Ayuntamiento, relativa a “Servicios para el control de acceso a la Barriada
+Cortijo Alto durante la Feria de Málaga año 2019”, la empresa contratada ejerce
+de encargado de tratamiento del Ayuntamiento y, por tanto no se le ha
+encargado dicha tarea a la asociación de vecinos y no es ésta la que trata los
+datos propiedad del Ayuntamiento. La información que se le proporciona a la
+empresa encargada de tratamiento no se corresponde con el Padrón de
+Habitantes como cuestiona la asociación, sino con una base de datos
+alimentada años anteriores con esta información.
+Por parte del Ayuntamiento, se ha realizado una instrucción indicando las
+cláusulas necesarias a adjuntar en los contratos cuando se tratan datos de
+carácter personal, basado en la guía publicada por la Agencia Española de
+Protección de Datos. Si es cierto que el Distrito utilizó una plantilla obsoleta
+para la realización del contrato, por lo que se le han pasado las instrucciones
+oportunas para que utilicen la última versión existente para adjuntar las
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/4
+
+
+
+cláusulas de protección de datos a los contratos con encargados de
+tratamiento. Desconocemos de dónde parte el supuesto de dicha cesión ya que
+las personas encargadas de comprobar la información facilitada eran miembros
+de la empresa adjudicataria y no personal de la Asociación de Vecinos como se
+indica en la reclamación.
+Para que las instrucciones de protección de datos estén siempre accesibles a
+todo el personal, y puedan acceder siempre a la última versión de las mismas,
+además de su distribución a los responsables, como se venía haciendo, se han
+incorporado a un espacio de la intranet para su consulta por todo el personal.
+
+Por su parte, la A.V. CORTIJO ALTO ha informado: que el dispositivo de
+feria al que se hace referencia en dicha reclamación es un Dispositivo
+Municipal que se hace bajo unos parámetros internos y propios del
+Ayuntamiento de Málaga (a través de una contratación administrativa
+adjudicada a una empresa ajena a nuestra asociación) y que en ningún
+momento se ha cedido dicha competencia a nuestro colectivo en cuanto a la
+organización, reparto o petición de información a vecinos para el reparto de
+autorizaciones para la zona delimitada por el propio Ayuntamiento en los
+barrios anexos al recinto ferial y dentro de sus competencias legales y jurídicas
+en este tipo de eventos de interés municipal y de protección a los vecinos y
+vecinas, ya que es la empresa adjudicataria la que presta el servicio que le
+contrata el Ayuntamiento y no esta Asociación vecinal, si bien hicieran uso de
+un edificio municipal donde existe un cartel indicativo de que en dicho edificio
+está la sede de nuestro colectivo. La Asociación Vecinal
+Cortijo Alto
+simplemente no ha recibido cesión, encomienda o gestionado de forma alguna
+bases de datos, de vecinos ni de nadie, por parte del Ayuntamiento de Málaga
+o empresa vinculada.
+
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+En el presente caso se reclama la presunta vulneración del artículo 5.1.f) que
+establece que los datos personales serán tratados de tal manera que se garantice una
+seguridad adecuada de los datos personales, incluida la protección contra el
+tratamiento no autorizado o ilícito y contra su pérdida, destrucción o daño accidental,
+mediante la aplicación de medidas técnicas u organizativas apropiadas («integridad y
+confidencialidad»).
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/4
+
+III
+Una vez analizadas las razones expuestas por los reclamados, que obran en el
+expediente, se ha constatado la falta de indicios racionales de la existencia de una
+infracción en el ámbito competencial de la Agencia Española de Protección de Datos,
+no procediendo, en consecuencia, la apertura de un procedimiento sancionador.
+En este caso se considera que no existe comunicación de datos de acuerdo
+con lo previsto en el art. 33.1 de la Ley Orgánica 3/2018 de Protección de Datos
+Personales y garantía de los derechos digitales que establece que “El acceso por
+parte de un encargado de tratamiento a los datos personales que resulten necesarios
+para la prestación de un servicio al responsable no se considerará comunicación de
+datos siempre que se cumpla lo establecido en el Reglamento (UE) 2016/679, en la
+presente ley orgánica y en sus normas de desarrollo”.
+Se ha de tener en cuenta que al Derecho Administrativo Sancionador, por su
+especialidad, le son de aplicación, con alguna matización pero sin excepciones, los
+principios inspiradores del orden penal, resultando clara la plena virtualidad del
+principio de presunción de inocencia.
+En tal sentido, el Tribunal Constitucional, en Sentencia 76/1990 considera que
+el derecho a la presunción de inocencia comporta “que la sanción esté basada en
+actos o medios probatorios de cargo o incriminadores de la conducta reprochada; que
+la carga de la prueba corresponda a quien acusa, sin que nadie esté obligado a probar
+su propia inocencia; y que cualquier insuficiencia en el resultado de las pruebas
+practicadas, libremente valorado por el órgano sancionador, debe traducirse en un
+pronunciamiento absolutorio”. Este principio se encuentra expresamente recogido para
+los procedimientos administrativos sancionadores en el artículo 53.2.b) de la Ley
+39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las
+Administraciones Públicas, que reconoce al interesado el derecho “A la presunción de
+no existencia de responsabilidad administrativa mientras no se demuestre lo contrario”
+En definitiva, la aplicación del principio de presunción de inocencia impide
+imputar una infracción administrativa cuando no se hayan obtenido evidencias o
+indicios de los que se derive la existencia de infracción.
+En este caso, de las actuaciones realizadas y de la documentación obrante en
+el procedimiento no se infiere la existencia de una actuación infractora en el ámbito
+competencial de la Agencia Española de Protección de Datos, por lo que procede el
+archivo de la reclamación presentada.
+Todo ello sin perjuicio de que la Agencia, aplicando los poderes de
+investigación y correctivos que ostenta, pueda llevar a cabo posteriores actuaciones
+relativas al tratamiento de datos referido en la reclamación.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/4
+
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución al reclamante y reclamado.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

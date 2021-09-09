@@ -1,0 +1,301 @@
+1/8
+
+
+
+Procedimiento Nº: PS/00092/2020
+
+938-051119
+
+RESOLUCIÓN DE PROCEDIMIENTO SANCIONADOR
+En el procedimiento sancionador PS/00092/2020, instruido por la Agencia Española de
+Protección de Datos, ante la entidad, GROW BEATS SL., con CIF B02623601, titular
+de la página web, ***URL.1 (en adelante, “la entidad reclamada”), por presunta infracción al Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de
+27/04/16, relativo a la Protección de las Personas Físicas en lo que respecta al Tratamiento de Datos Personales y a la Libre Circulación de estos Datos (RGPD) y por presunta infracción a la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico (LSSI), en base a los siguientes:
+ANTECEDENTES
+PRIMERO: Con fecha 16/05/19, tiene entrada en esta Agencia, denuncia presentada
+por Dª A.A.A., (en adelante, “la reclamante”), en la que indicaba, entre otras, lo siguiente:
+“El día 1 de abril de 2019, realicé un pedido dos pares de auriculares en la página web
+***URL.1. En dicha página web no se constata en ningún apartado el nombre real de
+la empresa, el CIF, ni la dirección física de la entidad. Tampoco se indica ninguna referencia a la ley de protección de datos que las tiendas online tienen la obligación de indicar. A la hora de proceder al pago con tarjeta no te reenvía a una pasarela segura”.
+SEGUNDO: A la vista de los hechos expuestos en la reclamación y de los documentos
+aportados por el reclamante, la Subdirección General de Inspección de Datos procedió
+a realizar actuaciones para su esclarecimiento, al amparo de los poderes de investigación otorgados a las autoridades de control en el art 57.1 del Reglamento (UE)
+2016/679 (RGPD). Así, con fecha 12/07/19, 15/12/19 y 20/01/20 se dirigen requerimientos informativos a la entidad reclamada.
+TERCERO: Con fecha 25/02/20, la entidad reclamada, presenta escrito ante esta
+Agencia, en el cual, entre otras, indica:
+“Disculpen el retraso en la respuesta al mismo pero por diferentes motivos nos ha resultado imposible hacerlo con mayor prontitud. Del mismo modo, agradecemos la consideración de que enviaran copia del mismo en soporte papel pues al tratarse de una
+entidad de reciente creación todavía estamos en proceso de adaptación en cuanto a la
+nueva normativa sobre comunicación con las Administraciones.
+Con respecto a la información requerida por reclamación interpuesta ante esta AEPD
+en fecha de 16 de mayo de 2019, hemos de informar de que en la actualidad se cumple totalmente con las obligaciones impuestas en materia de Protección de Datos a
+quienes ostentan la titularidad de una página web en la que se pueden incorporar datos de carácter personal; habiendo sido verificado el cumplimiento del decálogo que
+Uds. mismos nos remiten.
+Así mismo, no debieran existir en la fecha en la que se realizó la queja ante la AEPD
+lagunas o incumplimientos en la web dado que la misma se aloja, y fue elaborada, en
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/8
+
+una plataforma de internet (SHOPIFY) especializada en poner a disposición de autónomos o nuevos emprendedores modelos de páginas web para abrir el comercio a internet, y partíamos de la presunción de que citada herramienta ya brindaba todos los
+avisos, modelos y garantías para servir al uso para el que se ofrece.
+De este modo, y según nos aseguran en la propia plataforma, si había sistemas seguros de pago que garantizaran la privacidad y protección de los datos de los usuarios
+de la web y de hecho, no se ha producido ningún quebranto ni perjuicio a ningún usuario. Aun así, se ha mejorado todo lo relativo a la plataforma de pago incorporando
+otras plataformas de pago seguras y se han revisado e implementado en la web todos
+los avisos advertencias y consentimientos que establece la normativa.
+Sin perjuicio de todo ello, y de que entendemos que se está cumpliendo con la normativa en materia de protección de datos, esta entidad ha encargado una evaluación de
+riesgos a una empresa especializada para que lleve a cabo un diagnóstico y proponga
+medidas correctoras en su caso.
+En cualquier caso, quiero de nuevo insistir en que ha sido y es voluntad de esta entidad la de actuar conforme a la normativa de protección de datos, que siempre confiamos en entidades especializadas del sector y que existe una total predisposición a colaborar con la AEPD para garantizar la protección de los datos de nuestra clientela y
+en base a ello agradeceríamos cualquier orientación o recomendación que desde la
+AEPD nos pudieran hacer”.
+CUARTO: Con fecha 24/03/20, se consulta la página web, comprobando los siguientes
+aspectos sobre la política de privacidad y la política de cookies de la página web:
+A) Respecto de la Política de Privacidad:
+En la parte inferior de la página inicial de la web, a través del link “legal”, se accede a
+la página titulada “Privacidad”, en la cual, la parte dedicada a la “política de privacidad”, proporciona la siguiente información:
+1º.- “En cumplimiento de la Ley 34/2002 de Servicios de la Sociedad de La Información y del Comercio Electrónico (LSSICE), te informamos que la titularidad del dominio
+de nuestra tienda virtual, ***URL.1, corresponde a Grow Beats SL con CIF B02623601
+con domicilio en ***DIRECCIÓN.1. Para cualquier consulta, puede contactar con Grow
+Beats en: ***EMAIL.1
+Tratamiento de datos: “En cumplimiento de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal (LOPD), se informa a las personas
+que procedan a facilitar sus datos a través de la web de Growbeats.com
+1- De la existencia de un fichero y tratamiento de los datos e información que se solicitan en este formulario, a efectos de hacer posible la intermediación en la compra de
+los productos que Grow Beats ofrece en su página web, así como poderle remitir información sobre las actividades del Responsable del Fichero. Su dirección de correo
+electrónico y restantes datos personales podrán ser utilizados como medio de comunicación para atender su solicitud, consintiendo Vd. expresamente, al facilitarnos sus
+datos, el tratamiento de los mismos y para las finalidades anteriormente indicadas.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/8
+
+2- Le informamos que sus datos serán comunicados a las empresas con las que Grow
+Beats tenga suscrito un Contrato de Colaboración, en concreto, la empresa de mensajería que se encarga de enviar las mercancías a los solicitantes.
+3- Tiene reconocidos los derechos de acceso, rectificación, cancelación y oposición,
+los cuales podrá ejercitar remitiendo una solicitud por escrito, con copia de su DNI, a
+la dirección del Responsable del Fichero, indicando el derecho o derechos que desea
+ejercitar. (…)
+B) Sobre la Política de Cookies de la página web:
+b.1.) Al acceder a la página web, existe un banner en la parte inferior de la página con
+la siguiente leyenda:
+“Utilizamos cookies propias y de terceros, tanto persistentes como de sesión. Si sigue
+navegando acepta su uso” --- “Más información” --- “Acepto”.
+b.2.) Si se accede a la política de cookies, a través del link “mas información”, se accede otra vez a la página de la “Política de Privacidad”, donde la parte dedicada a la utilización de cookies, indica:
+“ (…) Utilización de Cookies:
+La web de Grow beats utiliza Cookies y otras herramientas similares. Las Cookies son
+ficheros enviados a tu navegador para registrar tu actividad y ayudarte en la navegación.
+Las Cookies se asocian únicamente a un Usuario anónimo y su ordenador y no proporcionan referencias que permitan deducir datos personales del Usuario.
+Tipos y funciones de las Cookies:
+Existen unas Cookies de sesión que expiran cuando el usuario cierra el navegador y
+unas Cookies permanentes que se almacenan en el navegador y se pueden borrar
+manualmente.
+Grow beats gestiona su sitio web a través de Google analytics que instala Cookies de
+carácter analítico para permitir la identificación anónima, contabilizar el número de visitantes, su tendencia en el tiempo, contenidos más visitados… etc.
+Como deshabilitar las Cookies:
+-
+
+Internet Explorer: Herramientas -> Opciones de Internet -> Privacidad -> Configuración. Para más información, puede consultar el soporte de Microsoft o la
+Ayuda del navegador.
+Firefox: Herramientas -> Opciones -> Privacidad -> Historial -> Configuración
+Personalizada. Para más información, puede consultar el soporte de Mozilla o
+la Ayuda del navegador.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/8
+
+-
+
+Chrome: Configuración -> Mostrar opciones avanzadas -> Privacidad -> Configuración de contenido. Para más información, puede consultar el soporte de
+Google o la Ayuda del navegador.
+Safari: Preferencias -> Seguridad. Para más información, puede consultar el
+soporte de Apple o la Ayuda del navegador”.
+
+QUINTO: A la vista de los hechos denunciados y de conformidad con las evidencias de
+que se dispone, la Inspección de Datos de esta Agencia Española de Protección de
+Datos consideró que la actuación de la entidad reclamada no cumplía las condiciones
+que impone la normativa en vigor. Así, con fecha 03/04/20, la Directora de la Agencia
+Española de Protección de Datos acordó iniciar procedimiento sancionador a la entidad reclamada, por infracción de los artículos 13) del RGPD, sancionable conforme a
+lo dispuesto en el art. 83 de la citada norma, respecto de su Política de Privacidad, y
+artículo 22.2) de la LSSI, sancionable conforme a lo dispuesto en los art. 39) y 40) de
+la citada Ley, respecto de su Política de Cookies.
+CUARTO: Con fecha 13/06/20, se notificó la incoación de expediente a la entidad reclamada, que no ha presentado ante esta Agencia, ningún escrito o alegación, dentro
+del el periodo concedido al efecto.
+HECHOS PROBADOS
+1.- Sobre la política de privacidad de la página web denunciada, se ha comprobado
+que la página web, (***URL.1), tiene un apartado específico de "privacidad": ***URL.2,
+en el que, haciendo mención al cumplimiento de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal (LOPD), se identifica al responsable y se facilita un contacto, haciendo mención a la existencia de un fichero para el
+tratamiento de los datos obtenidos para atender las solicitudes.
+2.- Sobre la política de cookies de la página web denunciada, se ha comprobado que
+la página web, (***URL.1), tiene en su primera capa (página inicial), un banner sobre
+cookies con la siguiente leyenda: “Utilizamos cookies propias y de terceros, tanto persistentes como de sesión. Si sigue navegando acepta su uso”, pero sin proporcionar
+información de las finalidades de las cookies que se utilizarán.
+En su segunda capa (política de cookies), se proporciona información sobre: qué son
+las cookies; tipos de cookies y sus finalidades, pero NO se proporciona información
+sobre la identidad y las características de cookies propias que se instalan y del tiempo
+que permanecen activas en el equipo terminal ni tampoco sobre las cookies de terceros. Para su gestión sólo se remite al navegador que esté instalado en el equipo terminal, pero no incluye ni siquiera, un enlace a los diferentes navegadores. No existe tampoco, ningún mecanismo que permita rechazar todas las cookies.
+FUNDAMENTOS DE DERECHO
+I
+Competencia:
+En lo que se refiere a la Política de Privacidad, es competente para resolver este
+procedimiento la Directora de la Agencia Española de Protección de Datos, de
+conformidad con lo dispuesto en el art. 58.2 del RGPD en el art. 47 de LOPDGDD.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/8
+
+En lo que se refiere a la Política de Cookies, es competente para resolver este procedimiento la Directora de la Agencia Española de Protección de Datos, de conformidad
+con lo dispuesto en el art. 43.1 de la LSSI.
+II
+En el presente caso, se denuncia dos aspectos de la página web ***URL.1. Por un
+lado, en la política de privacidad hace referencia aún, al cumplimiento de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal
+(LOPD), y sin haber aplicado aún el nuevo RGPD, que conforme a su art. 99, entraría
+en vigor a partir del 25/05/18, constatándose que la entidad reclamada NO está aplicando lo estipulado en el artículo 13 del citado RGPD, donde se establece la información que se debe proporcionar al interesado en el momento de recogida de sus datos
+personales.
+Estos hechos son constitutivos de una infracción, imputable al reclamado, por vulneración del artículo 13 del RGPD, al no haber sido adaptada su página web al RGPD y no
+proporcionar al usuario la información establecida en el mismo, en el momento de la
+recogida de sus datos personales.
+Por su parte, el artículo 72.1.h) de la LOPDGDD, considera muy grave, a efectos de
+prescripción, “la omisión del deber de informar al afectado acerca del tratamiento de
+sus datos personales conforme a lo dispuesto en los artículos 13 y 14 del RGPD”.
+Esta infracción puede ser sancionada con multa de 20.000.000 € como máximo o, tratándose de una empresa, de una cuantía equivalente al 4 % como máximo del volumen de negocio total anual global del ejercicio financiero anterior, optándose por la de
+mayor cuantía, de acuerdo con el artículo 83.5.b) del RGPD.
+No obstante, El artículo 58.2) del RGPD dispone que: “Cada autoridad de control dispondrá de todos los siguientes poderes correctivos indicados a continuación: b) sancionar a todo responsable o encargado del tratamiento con apercibimiento cuando las
+operaciones de tratamiento hayan infringido lo dispuesto en el presente Reglamento;
+(…); i) imponer una multa administrativa con arreglo al artículo 83, además o en lugar
+de las medidas mencionadas en el presente apartado, según las circunstancias de
+cada caso particular, por lo que, la sanción que pudiera corresponder sería de apercibimiento, sin perjuicio de lo que resulte de la instrucción del presente expediente.
+El balance de las circunstancias contempladas en el artículo 83.2 del RGPD, con respecto a la infracción cometida al vulnerar lo establecido en su artículo 13 permite fijar
+una sanción de “Apercibimiento”.
+IV
+Por otra parte, sobre la Política de cookies de la página web reclamada, en su primera
+Capa (página inicial), NO se proporciona información de las finalidades de las cookies
+que se utilizarán y en la segunda capa (política de cookies), NO se proporciona información sobre la identidad y las características de cookies propias que se instalan y del
+tiempo que permanecen activas en el equipo terminal ni tampoco sobre las cookies de
+terceros y para su gestión sólo se remite al navegador que esté instalado en el equipo
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/8
+
+terminal, pero no incluye ni siquiera, un enlace a los diferentes navegadores. No existe
+tampoco, ningún mecanismo que permita rechazar todas las cookies.
+Estos hechos son constitutivos de una infracción, imputable al reclamado, por vulneración del artículo del artículo 22.2 de la LSSI, según el cual:
+“Los prestadores de servicios podrán utilizar dispositivos de almacenamiento y recuperación de datos en equipos terminales de los destinatarios, a condición de que los mismos hayan dado su consentimiento después de que se les haya facilitado información
+clara y completa sobre su utilización, en particular, sobre los fines del tratamiento de
+los datos, con arreglo a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre,
+de protección de datos de carácter personal.
+Cuando sea técnicamente posible y eficaz, el consentimiento del destinatario para
+aceptar el tratamiento de los datos podrá facilitarse mediante el uso de los parámetros
+adecuados del navegador o de otras aplicaciones.
+Lo anterior no impedirá el posible almacenamiento o acceso de índole técnica al solo
+fin de efectuar la transmisión de una comunicación por una red de comunicaciones
+electrónicas o, en la medida que resulte estrictamente necesario, para la prestación de
+un servicio de la sociedad de la información expresamente solicitado por el destinatario”.
+Esta Infracción está tipificada como “leve” en el artículo 38.4 g), de la citada Ley, que
+considera como tal: “Utilizar dispositivos de almacenamiento y recuperación de datos
+cuando no se hubiera facilitado la información u obtenido el consentimiento del destinatario del servicio en los términos exigidos por el artículo 22.2.”, pudiendo ser sancionada con multa de hasta 30.000 €, de acuerdo con el artículo 39 de la citada LSSI.
+Tras las evidencias obtenidas en la fase de investigaciones previas, se considera que
+procede graduar la sanción a imponer de acuerdo con los siguientes criterios que establece el art. 40 de la LSSI:
+-
+
+La existencia de intencionalidad, expresión que ha de interpretarse como equivalente a grado de culpabilidad de acuerdo con la Sentencia de la Audiencia
+Nacional de 12/11/07 recaída en el Recurso núm. 351/2006, correspondiendo a
+la entidad denunciada la determinación de un sistema de obtención del consentimiento informado que se adecue al mandato de la LSSI.
+
+-
+
+Plazo de tiempo durante el que ha venido cometiendo la infracción, al ser la reclamación mayo de 2019, (apartado b).
+
+Con arreglo a dichos criterios, se estima adecuado imponer a la entidad reclamada
+una sanción de 3.000 euros (tres mil euros), por la infracción del artículo 22.2 de la
+LSSI.
+Por lo tanto, a tenor de lo anteriormente expuesto, por la Directora de la Agencia Española de Protección de Datos,
+RESUELVE
+PRIMERO: IMPONER a la entidad, GROW BEATS SL., con CIF B02623601, titular de
+la página web, ***URL.1, dos sanciones, respecto de la política de privacidad y respecto de su política de cookies, consistente en:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/8
+
+a- Apercibimiento, por la infracción del artículo 13) del RGPD, respecto de su Política de Privacidad.
+b- 3.000 euros (tres mil euros), por la infracción del artículo 22.2) de la LSSI, respecto de su Política de Cookies.
+SEGUNDO: REQUERIR a la entidad GROW BEATS SL. para que, en el plazo de un
+mes desde este acto de notificación, proceda a:
+a. Tomar las medidas adecuadas para adecuar la página web de su titularidad a
+la nueva normativa vigente sobre protección de datos e incluir en la página
+web, información sobre su “política de privacidad”, tal y como se estipula o en
+el artículo 13 del RGPD.
+b. Tome las medidas adecuadas para incluir en la página web de su titularidad
+(primera capa), información de las finalidades de las cookies que se utilizarán y
+en la segunda capa (política de cookies), información sobre la identidad y las
+características de cookies propias que se instalan y del tiempo que permanecen activas en el equipo terminal; sobre las cookies de terceros y un mecanismo que permita rechazar todas las cookies, pudiendo utilizar para ello, la información existente en la “Guía sobre Cookies”, editada por la Agencia Española
+de Protección de Datos en noviembre de 2019.
+TERCERO: NOTIFICAR la presente resolución a la entidad GROW BEATS SL., y al
+reclamante sobre el resultado de la reclamación.
+Advertir al sancionado que la sanción impuesta deberá hacerla efectiva una vez sea
+ejecutiva la presente resolución, de conformidad con lo dispuesto en el artículo 98.1.b)
+de la ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (LPACAP), en el plazo de pago voluntario que señala el artículo 68 del Reglamento General de Recaudación, aprobado por Real Decreto 939/2005,
+de 29 de julio, en relación con el art. 62 de la Ley 58/2003, de 17 de diciembre, mediante su ingreso en la cuenta restringida nº ES00 0000 0000 0000 0000 0000, abierta
+a nombre de la Agencia Española de Protección de Datos en el Banco CAIXABANK,
+S.A. o en caso contrario, se procederá a su recaudación en período ejecutivo.
+Recibida la notificación y una vez ejecutiva, si la fecha de ejecutividad se encuentra
+entre los días 1 y 15 de cada mes, ambos inclusive, el plazo para efectuar el pago voluntario será hasta el día 20 del mes siguiente o inmediato hábil posterior, y si se encuentra entre los días 16 y último de cada mes, ambos inclusive, el plazo del pago
+será hasta el 5 del segundo mes siguiente o inmediato hábil posterior.
+De conformidad con lo establecido el artículo 82 de la Ley 62/2003, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, la presente Resolución se
+hará pública, una vez haya sido notificada a los interesados. La publicación se realizará conforme a lo previsto en la Instrucción 1/2004, de 22 de diciembre, de la Agencia
+Española de Protección de Datos sobre publicación de sus Resoluciones.
+Contra esta resolución, que pone fin a la vía administrativa, y de conformidad con lo
+establecido en los artículos 112 y 123 de la LPACAP, los interesados podrán interponer, potestativamente, recurso de reposición ante la Directora de la Agencia Española
+de Protección de Datos en el plazo de un mes a contar desde el día siguiente a la notificación de esta resolución, o, directamente recurso contencioso administrativo ante la
+Sala de lo Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo disC/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/8
+
+puesto en el artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley
+29/1998, de 13/07, reguladora de la Jurisdicción Contencioso-administrativa, en el plazo de dos meses a contar desde el día siguiente a la notificación de este acto, según
+lo previsto en el artículo 46.1 del referido texto legal.
+Finalmente, se señala que conforme a lo previsto en el art. 90.3 a) de la LPACAP, se
+podrá suspender cautelarmente la resolución firme en vía administrativa si el interesado manifiesta su intención de interponer recurso contencioso-administrativo. De ser
+éste el caso, el interesado deberá comunicar formalmente este hecho mediante escrito
+dirigido a la Agencia Española de Protección de Datos, presentándolo a través del Registro Electrónico de la Agencia [https://sedeagpd.gob.es/sede-electronicaweb/], o a
+través de alguno de los restantes registros previstos en el art. 16.4 de la citada Ley
+39/2015, de 1 de octubre. También deberá trasladar a la Agencia la documentación
+que acredite la interposición efectiva del recurso contencioso-administrativo. Si la
+Agencia no tuviese conocimiento de la interposición del recurso contencioso-administrativo en el plazo de dos meses desde el día siguiente a la notificación de la presente
+resolución, daría por finalizada la suspensión cautelar.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

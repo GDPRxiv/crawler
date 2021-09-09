@@ -1,0 +1,163 @@
+1/4
+
+
+
+Procedimiento Nº: E/12078/2019
+
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: Las reclamaciones interpuestas por reclamante 1 y reclamante 2 (cuyos
+datos figuran en el Anexo 1) (en adelante, los reclamantes) tiene entrada, con fecha 12
+de junio de 2019, en la Agencia Española de Protección de Datos.
+La reclamación se dirige contra la Asociación de Técnicos y Profesionales del
+Sector Aeroespacial (en lo sucesivo ATPSA), y contra el ***PUESTO.1 de dicha
+Asociación A.A.A..
+Los motivos en que basa la reclamación son los siguientes:
+El ***PUESTO.1 de la ATPSA en la empresa ITP Aero de ***LOCALIDAD.1, ha
+enviado por email el censo electoral, en el que están incluidos sus datos, a diferentes
+personas con direcciones de la empresa y de fuera de la empresa, sin su
+consentimiento. Lo ha notificado al Comité de ética de la empresa y al ***PUESTO.1.
+Este último no le ha contestado.
+El responsable de la línea ética de ITP Aero contestó a los dos reclamantes
+señalando lo siguiente:
+ El envío de correos electrónicos, incluyendo el censo electoral, por
+parte de un trabajador de la empresa, ***PUESTO.1, supone un
+tratamiento de datos personales y supone una vulneración de la
+seguridad debida a la custodia del censo electoral. ITP Aero ha
+registrado este incidente de seguridad para analizar sus causas; definir
+medidas correctoras para mitigar el impacto en los derechos de los
+afectados incluidos en el censo electoral; y evitar que vuelva a
+producirse.
+La compañía está adoptando medidas para contener el evento y prevenir que
+vuelva a producirse, que se concretan en:
+
+
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+Examinar si los hechos pudieran resultar constitutivos de infracción en
+materia laboral a los efectos oportunos.
+Analizar el proceso relacionado con el censo electoral y los
+mecanismos de publicación para minimizar el uso de datos personales
+a lo necesario y garantizar su custodia adecuada.
+www.aepd.es
+sedeagpd.gob.es
+
+2/4
+
+Posteriormente, el responsable de la línea ética de ITP Aero ha informado a los
+reclamantes lo siguiente:
+
+
+
+
+Recursos humanos ha tomado las medidas oportunas.
+Están trabajando en mejorar el proceso electoral para minimizar los
+riegos del tratamiento de datos personales.
+Tras el análisis del evento han considerado que es un incidente y no
+una brecha de seguridad. El análisis del impacto es de bajo riesgo para
+los datos ya que iba dirigido a personas con relación laboral con ITP
+Aero y previsiblemente no usarán estos datos de forma indebida.
+
+El reclamante 2 presenta la misma reclamación y la misma documentación que
+reclamante 1. El reclamante 3 aparece en las contestaciones de los correos de la
+empresa.
+SEGUNDO: De conformidad con el artículo 65.4 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+adelante LOPDGDD), con número de referencia E/06796/2019, se dio traslado de
+dicha reclamación al reclamado, para que procediese a su análisis e informase a esta
+Agencia en el plazo de un mes, de las acciones llevadas a cabo para adecuarse a los
+requisitos previstos en la normativa de protección de datos.
+TERCERO: Con fecha 15 de noviembre de 2019, la Directora de la Agencia Española
+de Protección de Datos acordó admitir a trámite la reclamación presentada por el
+reclamante.
+CUARTO: La Subdirección General de Inspección de Datos procedió a solicitar a la
+Agencia Estatal de Administración Tributaria el CIF de la Asociación de Técnicos y
+Profesionales del Sector Aeroespacial, al objeto de tener su completa identificación. Se
+ha recibido respuesta indicando que con los datos aportados no pueden facilitar ese
+Código identificativo.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+Con carácter previo al inicio de actuaciones sancionadoras, es necesario
+identificar al presunto responsable de la infracción administrativa.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/4
+
+El artículo 64 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, referido al Acuerdo de
+iniciación en los procedimientos de naturaleza sancionadora, establece lo siguiente:
+“1. El acuerdo de iniciación se comunicará al instructor del procedimiento, con
+traslado de cuantas actuaciones existan al respecto, y se notificará a los interesados,
+entendiendo en todo caso por tal al inculpado. Asimismo, la incoación se comunicará
+al denunciante cuando las normas reguladoras del procedimiento así lo prevean.
+2. El acuerdo de iniciación deberá contener al menos:
+a) Identificación de la persona o personas presuntamente responsables.
+…”
+Al carecer del NIF de la Asociación de Técnicos y Profesionales del Sector
+Aeroespacial, se solicitó el mismo a la Agencia Tributaria para su identificación (el
+envío del censo se realizó por un representante de esta Asociación).
+La Agencia Tributaria ha respondido a la Agencia Española de Protección de
+Datos que no ha podido localizar el NIF solicitado, cuyo objeto es identificar a las personas jurídicas y entidades sin personalidad jurídica a efectos fiscales.
+III
+Por lo tanto, aunque la reclamación presentada pudiera suponer una infracción
+a la normativa de protección de datos, no es posible iniciar actuaciones sancionadoras
+al no tener identificación fiscal del presunto responsable. Sin perjuicio de qué si ese
+dato fuese conocido por los reclamantes, puedan facilitarlo a esta Agencia que
+continuaría las actuaciones, tras su verificación.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución a los tres reclamantes.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/4
+
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

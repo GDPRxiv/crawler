@@ -1,0 +1,7 @@
+Ameerika Ühendriikidesse on alates juuli keskpaigast isikuandmete edastust veelgi karmistatud, sest Euroopa Kohus tühistas seni Euroopa Liidu ja USA ettevõtetele kindlust pakkunud andmekaitseraamistiku Privacy Shield.
+Alates 16. juulist 2020 on Privacy Shield´i nimekirja kantud USA ettevõtetega koostööd tegevatel andmetöötlejatel vaja üle vaadata, et andmete edastus toimuks Euroopa Komisjoni poolt aktsepteeritud andmekaitseklauslitel. See tähendab, et üks võimalus on sõlmida vastav leping, mis on etteantud Euroopa Komisjoni poolt. Võimalik on kasutada isikuandmete kaitse üldmääruse (IKÜM) artiklites teisi kaitsemeetmeid.
+Kõikidesse mittepiisava andmekaitsetasemega kolmandatesse riikidesse isikuandmete edastamisel tuleb arvestada, et oluline olla samuti ise veendunud kolmanda riigi piisavas isikuandmete kaitstuse tasemes. Seega, tuleb Euroopa Liidu ettevõtetel hinnata alati ka Euroopa Komisjoni andmekaitseklausleid ise. Hinnangu tegemise käigus peab selguma, kas andmekaitseklauslite tagamisega on võimalik edaspidi või tulevikus kaitsta eurooplaste isikuandmeid. Kui ei suudeta tagada isikuandmete kaitset, siis tuleb peatada andmete edastamine. Kui andmete edastust soovitakse jätkata, tuleb leida muu sobiv kaitsemeede.
+Kuidas käib isikuandmete edastus välisriikidesse ja kuidas saada aru, millise andmekaitsetasemega riik on, selle kohta saab infot AKI veebist artikli alt Andmete edastamine välisriiki.
+Euroopa Andmekaitsenõukogu korduma kippuvad küsimused pärast Schrems II kohtuotsust
+ 
+

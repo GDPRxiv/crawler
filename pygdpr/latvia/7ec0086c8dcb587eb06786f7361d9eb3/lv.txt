@@ -1,0 +1,31 @@
+SMOOTH projekta partneris NEC Corporation (Vācija) piedāvā  bezmaksas tiešsaistes vebināru mikrouzņēmumu pārstāvjiem par SMOOTH platformas iespējām identificēt slēptus personas datus mikrouzņēmumu datu bāzēs, SMOOTH projektu, projektā izstrādāto mākoņplatformu un tās atbalstu mikrouzņēmiem VDAR prasību īstenošanā.
+SMOOTH mākoņplatforma ir Eiropas Komisijas finansētā projekta Nr. 786741 “Mākoņplatforama mikrouzņēmumiem VDAR atbilstības nodrošināšanai” (“GDPR Compliance Cloud Platform for Micro Enterprises”) (akronīms – SMOOTH) ietvaros izstrādāts tiešsaistes rīks, kura mērķis ir analizēt mikrouzņēmumu personas datu apstrādes paradumus un sniegt rekomendācijas apstrādes atbilstībai VDAR prasībām. Mikrouzņēmēmumi tiek aicināti piedalīties platformas otrās testēšanas fāzē sākot no 2020. gada 1. jūlija. Platforma ir pieejama latviešu valodā.
+Vebināra temati:
+1. SMOOTH projekta pārskats (Roberto Gonzalez)
+2. Kas ir personas dati? (Roberto Gonzalez)
+3. Tehniskas iespējas identificēt personas datus datubāzēs (Roberto Gonzalez):
+
+Tipiskās frāzes
+Personas datu identificēšana pēc lietotās valodas
+Juridiskas terminoloģijas analīze
+
+4.Dalīšanās ar datiem? Risku identificēšana (Roberto Gonzalez)
+5. Kā piedalīties SMOOTH testēšanā? (Thomas Wilczek)
+6. Jautājumi un atbildes.
+Kad: Otrdien, 23. jūnijā, plkst. 12.00 (plkst. 13.00 pēc Latvijas laika)
+Darba valoda:  angļu valoda
+Reģistrēties vebināram iespējams šeit: https://bit.ly/2Bc5WCv
+Pasākuma vadošais lektors:
+Dr. Roberto Gonzalez ieguvis maģistra grādu telemātikas inženierzinātnēs Katalonijas Politehniskajā universitātē un Madrides Karlosa III universitātē 2011. gadā. 2014. gadā ieguvis doktora grādu Madrides Karlosa III universitātē. Pievienojās NEC Laboratories Europe 2014. gadā, kur tagad ir vecākais pētnieks. Viņa pētniecības intereses ir tiešsaistes privātums, mašīnmācīšanās, tīkla drošība un tīkla mērīšana, īpašu uzmanību pievēršot datu analītikai. Viņš ir prezentējis vairāk nekā 20 rakstus vadošās jomas tiešsaistes konferencēs (WWW, COSN) un tīklošanās konferencēs (TON, IMC, IEEE Networks, Computer Networks, P2P). 
+Par NEC Corporation
+NEC Corporation projekta ietvaros izstrādā SMOOTH mākoņplatformas automātiskas personas datu identificēšanas moduli. Uzņēmums strādā pie IT un tīkla tehnoloģiju integrācijas, kas tiek izmantoti uzņēmējdarbībā un cilvēku ikdienas vajadzībās visā pasaulē. NEC Corporation ir vairāk nekā 100 gadu pieredze tehnoloģisku jauninājumu radīšanā.
+ NEC grupa visā pasaulē piedāvā sabiedriski svarīgus risinājumus, kas veicina sabiedrības drošību, aizsardzību, efektivitāti un vienlīdzību. Grupas korporatīvais vēstījums ir “strādāt pie gaišākas pasaules”, lai risinātu plašu izaicinājumu loku un radītu jaunu sociālo vērtību sistēmu rītdienas mainīgajai pasaulei.
+ NEC Laboratories Europe GmbH atrodas Heidelbergā, Vācijā. Uzņēmums tika dibināts 1994. gadā, un kopš tā laika tā ir ieguvusi izcilu reputāciju starptautiskās pētniecības aprindās un ir starp vadošajiem partneriem Eiropas sadarbības pētniecības un attīstības projektos. NEC Laboratories Europe koncentrējas uz četrām galvenajām darbības nozarēm: datu zinātne, sistēmas platformas AI un IoT vajadzībām, drošība un 5G.
+Informācija par SMOOTH projektu:
+Par iespēju piedalīties SMOOTH platformas testēšanā: https://www.dvi.gov.lv/lv/1-lapa/par-smooth-projekta-makonplatformas-izstradi/
+SMOOTH platformas mājas lapa: https://smoothplatform.eu/
+SMOOTH sociālajos tīklos:
+ Instagram: https://www.instagram.com/smooth_gdpr/
+ Facebook: https://www.facebook.com/smoothgdpr/
+ Twitter: https://twitter.com/GDPR_Smooth 
+ LinkedIn: https://www.linkedin.com/company/smooth-gdpr/

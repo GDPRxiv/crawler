@@ -1,0 +1,27 @@
+Euroopan tietosuojaneuvoston asialistalla ohjeet älyautoista sekä henkilötietojen käsittelystä videolaitteiden välityksellä
+
+
+   
+
+27.1.2020
+ 15.15
+
+Tiedote
+var snoobiSection="Tiedote";
+
+
+ Euroopan tietosuojaneuvosto kokoontuu vuoden ensimmäiseen täysistuntoon 28.–29.1. Kokouksessa käsitellään mm. julkisen kuulemiskierroksen läpikäynyttä ohjetta henkilötietojen käsittelystä videolaitteiden välityksellä sekä älyautoihin liittyvää ohjeistusta. Kokouksen muina aiheina ovat muun muassa käytännesääntöjen noudattamista valvovien elinten sekä sertifiointielinten akkreditointivaatimukset. Lisäksi kokouksessa käsitellään Euroopan neuvostolle toimitettavaa kirjettä tietoverkkorikollisuutta koskevasta yleissopimuksesta. Suomea kokouksessa edustaa ylitarkastaja Anna Hänninen tietosuojavaltuutetun toimistosta. Kokouksen asialista on luettavissa Euroopan tietosuojaneuvoston verkkosivuilla 28.1. noin klo 13 alkaen. Lisätietoja: apulaistietosuojavaltuutettu Anu Talus, puh. 029 566 6766, anu.talus(at)om.fi Euroopan tietosuojaneuvosto (EDPB) on riippumaton EU:n elin, joka koostuu EU:n kansallisista tietosuojaviranomaisista ja Euroopan tietosuojavaltuutetun edustajista. Myös ETA-maat Islanti, Norja ja Liechtenstein ovat tietosuojaneuvoston jäseniä. Euroopan tietosuojaneuvosto vastaa EU:n yleisen tietosuoja-asetuksen ja poliisi- ja rikosoikeusviranomaisia koskevan tietosuojadirektiivin yhdenmukaisesta soveltamisesta. 
+
+
+
+
+
+
+
+
+
+
+
+tietosuoja
+
+

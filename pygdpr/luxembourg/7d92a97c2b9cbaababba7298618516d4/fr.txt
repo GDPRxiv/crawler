@@ -1,0 +1,222 @@
+Avis complémentaire de la Commission nationale pour la protection
+des données relatif au projet de loi n° 6961 portant 1. création de
+l'Autorité nationale de sécurité et 2. modification 1) de la loi modifiée
+du 15 juin 2004 relative à la classification des pièces et aux
+
+habilitations de sécurité; 2) du Code pénal
+Délibération n° 60/2019 du 17 décembre 2019
+
+Conformément à l'article 46, paragraphe 1er, lettre (e) de la directive (UE) n° 2016/680 du 27
+avril 2016 relative à la protection des personnes physique à l'égard du traitement des données
+à caractère personnel par les autorités compétentes à des fins de prévention des infractions
+
+pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et à
+la libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil
+(ci-après désignée « la Directive »), à laquelle se réfère l'article 8 de la loi du 1er août 2018
+
+portant organisation de la Commission nationale pour la protection des données et du régime
+général sur la protection des données (ci-après désignée «loi du 1er août 2018 portant
+organisation de la Commission nationale pour la protection des données et du régime général
+sur la protection des données »), la Commission nationale pour la protection des données (ciaprès désignée « la Commission nationale » ou « la CNPD »), «conseille la Chambre des
+
+députés, le Gouvernement et d'autres institutions et organismes au sujet des mesures
+législatives et administratives relatives à la protection des droits et libertés des personnes
+physiques à l'égard du traitement des données personnelles ».
+Par courrier du 18 novembre 2019, Monsieur le Premier Ministre a invité la Commission
+
+nationale à se prononcer au sujet d'amendements au projet de loi n° 6961 portant 1. création
+
+de l'Autorité nationale de sécuritéet 2. modification 1 ) de la loi modifiée du 15juin 2004 relative
+à la classification des pièces et aux habilitations de sécurité; 2) du Code pénal.
+
+En date du 16 juillet 2018, la CNPD avait rendu un premier avis au sujet du projet de loi n°
+69611.
+Par ailleurs, par un courrier du 8 juin 2016, Monsieur le Premier Ministre avait invité la
+
+Commission nationale à se prononcer au sujet du projet de règlement grand-ducal relatif aux
+modalités de traitement des données à caractère personnel par l'Autorité nationale de
+
+Sécurité, règlement à prendre en exécution de la loi du 15 juin 2004 relative à la classification
+des pièces et aux habilitations de sécurité. La CNPD avait avisé ledit projet de règlement
+grand-ducal en date du 13 juillet 20162.
+En 2013, la CNPD avait par ailleurs rendu un avis relatif à un avant-projet de règlement grandducal pris en exécution de l'articte 23 de la loi du 15 juin 2004 relative à la classification des
+pièces et aux habilitations de sécurité.3
+
+' Délibérationn° 444/2018du 16juillet 2018
+https://cnDd. Dublic. lu/fr/decisions-avis/20171/444-Dl6961-ANS. html
+
+2 Délibération n° 639/2016 du 13 juillet 2016
+httDS://cnDd.oublic. lu/fr/decisions-avis/2016/SRE.html
+
+3 Délibération n" 274/2013 du 28 juin 2013
+httDS://cnpd.publie. lu/fr/decisions-avis/2013/sre.html
+
+ÎÇNPD
+c'i.~T-:su"
+
+'.SEfiiîS; ."'"."K
+
+^cî" .. ^^
+
+Avis complémentaire de la Commission nationale pour la protection des
+données
+
+relatif au projet de loi n° 6961 portant 1. création de ['Autorité nationale de sécuritéet 2.
+modification 1 ) de la loi modifiée du 15 juin 2004 relative à la classification des pièces et aux
+habilitations de sécurité;2) du Code pénal
+
+1/4
+
+Article 28 paragraphe (1) projeté de la loi modifiée du 15 juin 2004 relative à la
+classification des pièces et aux habilitations de sécurité
+
+L'article 28 paragraphe (1) alinéa 1 lettre i) projeté de la loi modifiée du 15 juin 2004 relative à
+la classification des pièces et aux habilitations de sécurité prévoit que, dans le cadre des
+
+enquêtes de sécurité ou des enquêtes de sécurité ultérieures, l'ANS a un accès direct, par un
+système informatique, à la partie «recherche» de la banque de données nominatives de police
+générale. Par ailleurs, l'alinéa2 de l'article 28 paragraphe (1 ) prévoit que l'ANS peut s'adresser
+au Procureur général afin d'obtenir des informations provenant de la partie «documentaire»
+de la banque de données.
+Il convient de rappeler que ladite banque données était jadis régie par le règlement grandducal du 2 octobre 1992 relatif à la création et à l'exploitation d'une banque de données
+nominatives de police générale. Ledit règlement est abrogé implicitement depuis rentrée en
+
+application de la loi du 1er août 2018 portant organisation de la Commission nationale pour la
+protection des données et du régime général sur la protection des données ce qui pose des
+questions sérieuses quant à la base légale du traitement de données en question4.
+La loi se réfère donc à un traitement de données qui n'est expressément prévu par aucun texte
+
+légal et dont certains éléments clés relèvent désormais de la pratique administrative de la
+Police grand-ducale. Tel est par exemple le cas de la division de la banque de données en
+une partie «recherche» et une partie «documentaire»
+l'artide 28 paragraphe (1).
+
+auxquelles il est fait référence dans
+
+Article 28 paragraphe (5) projeté de la loi modifiée du 15 juin 2004 relative à la
+classification des pièces et aux habilitations de sécurité
+
+L'article 28 paragraphe (5) projeté de la loi modifiée du 15 juin 2004 relative à la classification
+des pièces et aux habilitations de sécurité tel qu'amendé donne à la CNPD la compétence de
+surveiller l'accès prévu par le paragraphe (1) du même article 28.
+La CNPD tient cette même compétence générale de surveillance déjà en vertu de l'article 8
+de la loi du 1er août 2018 portant organisation de la Commission nationale pour la protection
+des données et du régime général sur la protection des données.
+Les articles 24 et 28 de la to; du ïef août 2018 relative à la protection des personnes physiques
+a l'égard du traitement des données à caractère personnel en matière pénale ainsi qu'en
+matière de sécurité nationale prescrivent des fichiers de journalisation en matière d'accès à
+des données tels que ceux prévus par l'article 28 paragraphe (1) projeté de la loi modifiée du
+
+15 juin 2004. Cependant, afin de garantir un contrôle utile et efficace a posteriori des accès
+via les fichiers de journalisation, il conviendrait de fixer, dans la loi modifiée du 1 5 juin 2004,
+la durée de conservation des fichiers de journalisation à 5 ans, qui correspond par ailleurs à
+la durée de prescription des délits5.
+
+4 voir à ce sujet l'avis de la CNPD au sujet du fichier central de la Police grand-ducale au regard de la
+législation en matière de protection des données, délibération n° 45/2019 du 13 septembre 2019
+https://cn0d.public, lu/fr/decisions-avis/2019/45-fichier-central-oolice.html
+
+5 Parexemple des infractions prévues par les articles 509-1 et suivants du Code pénal ou celles prévues
+par l'article 47 paragraphe (3) de la loi du 1er août 2018 relative à la protection des personnes physiques
+à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu'en matière de
+sécurité nationale
+
+fcCNPD
+BSH
+fSm^
+
+Avis complémentaire de la Commission nationale pour la protection des
+données
+
+relatif au projet de loi n° 6961 portant 1. création de l'Autorité nationale de sécuritéet 2.
+modification 1 ) de la loi modifiée du 15 juin 2004 relative à la classification des pièces et aux
+habilitations de sécurité;2) du Code pénal
+
+2/4
+
+Article 29 projeté de la loi modifiéedu 15 juin 2004 relative à la classification des pièces
+et aux habilitations de sécurité(Amendement 20)
+En matière de durée de conservation, l'amendement remplace la référence à la loi du 1er août
+2018 relative à la protection des personnes physiques à regard du traitement des données à
+caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale, référence
+
+contenue dans l'article 29 paragraphe (3) projeté de la loi modifiée du 15 juin 2004 relative à
+la classification des pièces et aux habilitations de sécurité, par le passage suivant :
+« Les données relatives à /'enquête de sécurité sont détruites ou effacées conformément aux
+
+dispositions de la loi du 1er août 2018 jj/mm/aaaa relative à la protection des personnes
+physiques à /'égard du traitement des données à caractère personnel en matière pénale ainsi
+qu'en matière de sécurité nationale. :
+
+- endéans les six mois suivant la décision de refus sauf si les raisons pour lesquelles elles ont
+été recueillies sont toujours d'actualité :
+
+- endéans les cinq ans après que le candidat ait cessé son activité requérant /'accès à des
+pièces classifiées.»
+
+Si la formulation actuelle est certes préférable à la simple référence à la loi contenue dans
+l'artjcle 29 projeté avant les amendements sous avis, la CNPD se demande cependant ce qu'il
+faut comprendre précisément par « raisons pour lesquelles elles ont été recueillies sont
+toujours d'actualité ». En effet, si la raison de la collecte des données était une demande
+
+d habilitation, celle-ci n'existe plus puisque le passage en question se rapporte précisément à
+['hypothèse d'un refus.
+
+Article 31 projeté de la loi modifiéedu 15 juin 2004 relative à la classification des pièces
+et aux habilitations de sécurité (Amendement 21)
+
+L'amendement 20 rajoute aux critères d'appréciation(que l'ANS prend en compte en matière
+de garanties de discrétion, loyauté, fiabilité et intégrité) les critères suivants:
+« n) l'existence d'un ou de plusieurs incidents de sécurité :
+
+o) le fait d'avoir ou avoir eu des comportements de nature à entraîner un risque de
+vulnérabilité au chantage ou à des pressions ;
+
+p) le fait d'avoirfait preuve, en acte ou en parole, d'un manque d'honnêteté, de loyauté ou
+de fiabilitéou de s'être montré indigne de confiance. ».
+La CNPD estime que les libellés sont assez vagues même si elles trouvent leur source en
+partie dans des textes juridiques européens. Cette imprécision peut être source d'incertitudes
+et d'insécurité juridique.
+
+:CNPD
+523SÏ'. ''
+
+Avis complémentaire de la Commission nationale pour la protection des
+données
+relatif au projet de loi n" 6961 portant 1. création de l'Autorité nationale de sécurité et 2.
+
+modification 1 ) de la loi modifiée du15juin2004 relative à la classification des pièces et aux
+habilitations de sécurité; 2) du Code pénal
+
+3/4
+
+Ainsi décidé à Esch-sur-Alzette en date du 17 décembre 2019.
+
+La Commission nationale pour la protection des données
+
+Tine A. Larsen
+Présidente
+
+SCNPD
+e*. "
+SSf'Aj;- '.
+
+Thierry Lallemang
+Commissaire
+
+CKf'istophe Buschmann
+Commissaire
+
+larc Lemmer
+Commissaire
+
+Avis complémentaire de la Commission nationale pour la protection des
+données
+
+relatif au projet de loi n° 6961 portant 1. création de l'Autorité nationale de sécuritéet 2.
+modification 1) de la loi modifiée du 15 juin 2004 relative à la classification des pièces et aux
+habilitations de sécurité; 2) du Code pénal
+
+4/4
+
+

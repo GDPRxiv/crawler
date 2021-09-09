@@ -1,0 +1,72 @@
+
+
+Le 19 décembre 2018, l’Avocat général Bobek a communiqué ses conclusions dans l’affaire C-40/17 Fashion ID GmbH & Co. KG/Verbraucherzentrale NRW eV.
+
+
+Faits
+Fashion ID est une société de vente en ligne d’articles de mode. Elle a intégré sur son site Internet le bouton « j’aime » de Facebook aussi appelé « plugiciel » ou « third party plugin». Il s’ensuit que lorsqu’un utilisateur se rend sur le site Internet de Fashion ID, des informations sur son adresse IP et la chaîne de caractères (type de donnée dans de nombreux langages informatiques) de son navigateur  sont transmises à Facebook. Cette transmission se fait automatiquement lorsque le site Internet de Fashion ID est chargé, indépendamment du fait que l’utilisateur ait cliqué ou non sur le bouton « j’aime » de Facebook et qu’il dispose ou non d’un compte Facebook.
+Une association allemande de protection des consommateurs a intenté une action à l’encontre de Fashion ID au motif que l’utilisation de ce plugiciel était contraire aux lois sur la protection des données à caractère personnel.
+Saisi du litige, le tribunal régional supérieur de Düsseldorf demande à la Cour de justice d’interpréter plusieurs dispositions de l’ancienne directive de 1995 sur la protection des données (qui reste applicable à cette affaire et qui a été remplacée par le règlement général de 2016 sur la protection des données  applicable depuis le 25 mai 2018).
+Conclusions
+L’Avocat général considère que le gestionnaire d’un site Internet ayant inséré le plugiciel d’un tiers, comme le bouton « j’aime » de Facebook qui collecte et transmet des données à caractère personnel de l’utilisateur, est responsable conjointement de cette phase du traitement des données. Toutefois, la responsabilité (conjointe) de ce gestionnaire est limitée aux seules opérations pour lesquelles il est effectivement codécideur des finalités et des moyens du traitement des données à caractère personnel. Dans ce cas, l’Avocat général a considéré que Facebook Ireland et Fashion ID semblent avoir délibérément été à l’origine de la collecte et transmission des données et qu’à défaut d’identité de finalité, il existe une unité de finalité : une finalité commerciale et publicitaire.
+Cette qualification entraine pour le gestionnaire du site Internet l’obligation :
+
+de fournir aux utilisateurs les informations requises sur les opérations de traitement des données et,
+lorsqu’il est exigé, de recevoir le consentement des utilisateurs avant la collecte et la transmission des données.
+
+L’Avocat général précise également que les intérêts légitimes des deux responsables conjoints des traitements en cause doivent être pris en compte et mis en balance au regard des droits des utilisateurs du site Internet.
+Lien avec la procédure Facebook
+Les positions prises par l’Avocat général Bobek font échos aux positions prises par l’Autorité dans les recommandations n° 01/2015  et n° 04/2015  dans lesquelles elle recommandait que les boutons de réseaux sociaux ne soient activés que lorsque le consentement spécifique de l'utilisateur a été obtenu.
+Les conclusions de l’Avocat général, si elles sont suivies par la Cour, pourraient avoir des répercussions importantes pour les nombreux gestionnaires de sites Internet qui utilisent le bouton « j’aime » de Facebook ou des outils similaires.  
+
+
+Liens intéressants
+
+
+
+
+
+
+
+L'Avocat général de la Cour de justice confirme la compétence pour intervenir à l'encontre Facebook
+
+
+
+
+
+
+
+
+Commission vie privée vs. Facebook : Procédure au fond
+
+
+
+
+
+
+
+
+La Cour d’appel rejette les arguments contre Facebook
+
+
+
+
+
+
+
+
+Le jugement dans l'affaire Facebook
+
+
+
+
+
+
+
+
+Le 13 mai, l'Autorité belge a adopté une première recommandation de principe relative à Facebook
+
+
+
+
+

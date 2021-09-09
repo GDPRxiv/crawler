@@ -1,0 +1,304 @@
+1/8
+
+
+
+Procedimiento Nº: E/09386/2019
+
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y teniendo como base los siguientes
+HECHOS
+PRIMERO: La reclamación interpuesta en un mismo escrito por Don A.A.A., y Don B.B.B. (en adelante, los reclamantes) tiene entrada con fecha 22 de abril de 2019 en la
+Agencia Española de Protección de Datos. La reclamación se dirige contra
+CIUDADANOS PARTIDO DE LA CIUDADANÍA, con NIF G64283310 (en adelante, el
+reclamado).
+Los motivos en que basan la reclamación son los siguientes:
+<<1. La intromisión en chats privados para expedientar a afiliados.
+Se ha podido conocer que Ciudadanos mantiene una red de chivatos, de informantes de las actividades privadas de los afiliados y opiniones expresadas en chats
+privados. Si no son proclives a la cúpula del partido en Cantabria, se abren expedientes sancionadores (suspensión de derechos por seis meses; no pueden votar en actos
+del partido. Dicen acompañar dos expedientes con pantallazos de chats privados, que
+fundamentan la expulsión (se revuelven contra quienes denuncian irregularidades).
+Se incumplió el secreto de los disciplinarios: se mencionan en un chat de la agrupación de Santander.
+Aporta: escritos de B.B.B. (uno de los reclamantes) a la Agrupación de Santander (Comisión disciplinaria): son escritos del expedientado (recusación de la instructora y contra la medida cautelar de suspensión, que le impide participar en las primarias
+-habla de manifestaciones en un chat).
+2. Control de las claves de afiliados.
+Era una voz que corría por el partido que se controlaban las claves y que las
+votaciones telemáticas eran un fraude. Cuando uno de los reclamantes se presentó a
+las primarias comprobó que había aumentado el control.
+Añade que en Ciudadanos no se cumple la normativa de protección de datos
+No ha informado de la identidad del DPD, ni los fines, cuando el RGPD exige consentimiento expreso y una declaración de conformidad.
+Algunos afiliados han solicitado averiguaciones a la Comisión de Garantías,
+que no ha encontrado irregularidad.
+Como prueba de lo manifestado, la concentración de votos en un candidato de
+Cantabria desde varias IPs (muchos votos desde cada una). Solo conociendo las claC/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/8
+
+ves puede accederse al espacio personal). Aporta informes de los votos.
+Se interfiere el sistema informático de la web y se conculca el derecho de sufragio, se perjudica la democracia.
+Otra prueba de estos hechos fue lo sucedido en Murcia, donde casi la mitad de
+los votos se emitieron desde fuera de la región. Así lo dice el informe de Oficia Sistemas, SL (rastrea las IPs con un geolocalizador externo y de uso público).
+Así lo indicó C.C.C. en declaraciones a Telemadrid: los votos tienen un traking,
+sabemos de qué IP ha salido. También se publicaron declaraciones no desmentidas
+en el diario El Mundo.
+En resumen: Ciudadanos incumple la normativa y repite que no ha informado
+de la identidad del DPD, ni los fines, cuando el RGPD exige consentimiento expreso y
+una declaración de conformidad.
+Aporta
+- Informe de Oficia Sistemas, S.L., señalando que el listado de IPs facilitado no
+ofrece garantías y que la geolocalización de esas direcciones no se corresponde con
+las fechas de la encuesta.
+- Acta de la Comisión de Garantías, de fecha 19/03/2019, sobre la votación telemática de primarias: se emitieron actas para posibilitar la impugnación; el candidato
+de Castilla y León denunció y se anularon 82 votos (no dice el motivo). Acuerda dar
+traslado a la Comisión de Régimen disciplinario.
+-Votos obtenidos por D.D.D. en Cantabria: listado de IPs, algunas con 20, 13,
+9, 8 y 7 votos; el resto figura con 1, 2, 3 o 4. La mayoría, 1 voto.
+3. No notificar una supuesta quiebra de seguridad, en relación con una supuesta intromisión informática en las primarias de Castilla y León. Advierte que se detectaron ataques informáticos
+Votaciones primarias en Castilla y León, en las que, fuentes autorizadas de
+Ciudadanos, admitieron la intromisión ilegal informática de votos, que se rectificaron y
+dieron otro ganador. No se denunció. 82 votos que nadie sabe cómo y quién.
+Acompaña Acta de la Comisión de Garantías, de fecha 19/03/2019, sobre la
+votación telemática de primarias: se emitieron actas para posibilitar la impugnación; el
+candidato de Castilla y León denunció y se anularon 82 votos (no dice el motivo).
+Acuerda dar traslado a la Comisión de Régimen disciplinario.>>
+SEGUNDO: De conformidad con el artículo 65.4 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+adelante LOPDGDD), con número de referencia E/04827/2019, se dio traslado de dicha reclamación al reclamado, para que procediese a su análisis e informase a esta
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/8
+
+Agencia en el plazo de un mes, de las acciones llevadas a cabo para adecuarse a los
+requisitos previstos en la normativa de protección de datos. No se recibió respuesta en
+el plazo señalado, al pedir la documentación completa de la reclamación y ampliación
+de plazo.
+TERCERO: Con fecha 3 de octubre de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó admitir a trámite la reclamación presentada por el reclamante.
+CUARTO: Con fecha 23 de octubre de 2019, el DPD de Ciudadanos-Partido de la
+Ciudadanía, presentó alegaciones a la reclamación, que indica recibió el día 9 de
+octubre de 2019.
+Las alegaciones presentadas, en síntesis, indican lo siguiente:
+<<1. Acerca del hecho denunciado, relativo a la intromisión en chats, chivatazos, hay que señalar que el partido fue notificado por varias personas vía correo electrónico que habían sido incluidas en un chat grupal, el cual parecía propiedad de Ciudadanos; ellos no lo habían autorizado; el chat fue creado por B.B.B. (uno de los reclamantes), sin autorización del partido, con su propia agenda; el partido procedió a
+las correspondientes aclaraciones con las personas que se dirigieron al mismo.
+La información no fue obtenida mediante intromisión ilegítima, sino a través de
+las quejas de los integrantes del grupo.
+Por ese comportamiento y otros el reclamante fue expulsado del partido.
+2. En relación al Control de las claves de afiliados, Ciudadanos responde que
+los hechos se encuentran judicializados.
+La documentación de los reclamantes no aporta información decisiva sobre los
+procesos electorales internos.
+Aporta escrito de la Gerente del partido indicando que existen diligencias de investigación solicitadas por la Fiscalía de Valladolid y en el Juzgado de Instrucción 5 de
+Cartagena (investiga la IP de cada voto, fecha y hora; listado de identificadores de
+voto asociado a la IP); se ha encomendado a un laboratorio forense la realización de
+un informe pericial.
+3. Por último, en cuanto a no notificar una supuesta quiebra de seguridad, en
+relación con una supuesta intromisión informática en las primarias de Castilla y León,
+no lo han notificado porque no se ha detectado violación de seguridad.>>
+.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/8
+
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para resolver
+estas actuaciones de investigación la Directora de la Agencia Española de Protección
+de Datos.
+II
+El primer hecho denunciado es que Ciudadanos mantiene una red de chivatos,
+informantes de las actividades privadas de los afiliados y opiniones expresadas en
+chats privados. Si no son proclives a la cúpula del partido en Cantabria, se abren expedientes sancionadores.
+El Partido indicó que varias personas, vía correo electrónico, les informaron
+que habían sido incluidas en un chat grupal, el cual parecía propiedad de Ciudadanos.
+Se comprobó que el chat fue creado por B.B.B. (uno de los reclamantes), sin autorización del partido, con su propia agenda. El partido procedió a las correspondientes aclaraciones con las personas que se dirigieron al mismo.
+La información no fue obtenida mediante intromisión ilegítima, sino a través de
+las quejas de los integrantes del grupo.
+El artículo 5 del RGPD establece que los datos personales serán:
+“a) tratados de manera lícita, leal y transparente en relación con el interesado
+(«licitud, lealtad y transparencia»);
+(…)
+f) tratados de tal manera que se garantice una seguridad adecuada de los
+datos personales, incluida la protección contra el tratamiento no autorizado o ilícito y
+contra su pérdida, destrucción o daño accidental, mediante la aplicación de medidas
+técnicas u organizativas apropiadas («integridad y confidencialidad»).
+No se ha producido ninguna vulneración de la confidencialidad denunciada, ya
+que el responsable de evitar accesos indebidos en el chat sería el responsable del
+mismo. Ciudadanos aclaró a los miembros del chat que le informaron de su existencia,
+que no era el responsable.
+III
+En segundo lugar, los reclamantes indican que el partido controla las claves de
+afiliados y, añaden, que en Ciudadanos no se cumple la normativa de protección de
+datos No ha informado de la identidad del DPD, ni los fines, cuando el RGPD exige
+consentimiento expreso y una declaración de conformidad.
+El control de las claves de los afiliados en las votaciones telemáticas, las
+sustentan en las votaciones celebradas en Cantabria y de Murcia, al votar desde una
+misma IP al mismo candidato.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/8
+
+Los votos pudieron emitirse por los titulares de las claves (reunidos para emitir
+el voto en un mismo lugar). Aunque fuese cierta la manipulación, no aportan ninguna
+prueba de que se realizara por el partido. Las declaraciones en televisión y prensa no
+suponen una admisión de los hechos denunciados.
+No obstante, sobre este particular, están conociendo la Fiscalía de Valladolid y
+el Juzgado de Instrucción número 5 de Cartagena, en el que se ha presentado el
+partido como acusación particular en la investigación por un supuesto fraude.
+Por otro lado, reclaman el incumplimiento del nombramiento de DPD y de
+informar sobre la política de privacidad.
+El artículo 13 del RGPD, referido a la información que deberá facilitarse cuando
+los datos personales se obtengan del interesado, establece lo siguiente:
+“1. Cuando se obtengan de un interesado datos personales relativos a él, el
+responsable del tratamiento, en el momento en que estos se obtengan, le facilitará
+toda la información indicada a continuación:
+a) la identidad y los datos de contacto del responsable y, en su caso, de su
+representante;
+b) los datos de contacto del delegado de protección de datos, en su caso;
+c) los fines del tratamiento a que se destinan los datos personales y la base
+jurídica del tratamiento;
+d) cuando el tratamiento se base en el artículo 6, apartado 1, letra f), los
+intereses legítimos del responsable o de un tercero;
+e) los destinatarios o las categorías de destinatarios de los datos personales,
+en su caso;
+f) en su caso, la intención del responsable de transferir datos personales a un
+tercer país u organización internacional y la existencia o ausencia de una decisión de
+adecuación de la Comisión, o, en el caso de las transferencias indicadas en los
+artículos 46 o 47 o el artículo 49, apartado 1, párrafo segundo, referencia a las
+garantías adecuadas o apropiadas y a los medios para obtener una copia de estas o
+al hecho de que se hayan prestado.
+2. Además de la información mencionada en el apartado 1, el responsable del
+tratamiento facilitará al interesado, en el momento en que se obtengan los datos
+personales, la siguiente información necesaria para garantizar un tratamiento de datos
+leal y transparente:
+a) el plazo durante el cual se conservarán los datos personales o, cuando no
+sea posible, los criterios utilizados para determinar este plazo;
+b) la existencia del derecho a solicitar al responsable del tratamiento el acceso
+a los datos personales relativos al interesado, y su rectificación o supresión, o la
+limitación de su tratamiento, o a oponerse al tratamiento, así como el derecho a la
+portabilidad de los datos;
+c) cuando el tratamiento esté basado en el artículo 6, apartado 1, letra a), o el
+artículo 9, apartado 2, letra a), la existencia del derecho a retirar el consentimiento en
+cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el
+consentimiento previo a su retirada;
+d) el derecho a presentar una reclamación ante una autoridad de control;
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/8
+
+e) si la comunicación de datos personales es un requisito legal o contractual, o
+un requisito necesario para suscribir un contrato, y si el interesado está obligado a
+facilitar los datos personales y está informado de las posibles consecuencias de que
+no facilitar tales datos;
+f) la existencia de decisiones automatizas, incluida la elaboración de perfiles, a
+que se refiere el artículo 22, apartados 1 y 4, y, al menos en tales casos, información
+significativa sobre la lógica aplicada, así como la importancia y las consecuencias
+previstas de dicho tratamiento para el interesado.
+3. Cuando el responsable del tratamiento proyecte el tratamiento ulterior de
+datos personales para un fin que no sea aquel para el que se recogieron,
+proporcionará al interesado, con anterioridad a dicho tratamiento ulterior, información
+sobre ese otro fin y cualquier información adicional pertinente a tenor del apartado 2.
+4. Las disposiciones de los apartados 1, 2 y 3 no serán aplicables cuando y en
+la medida en que el interesado ya disponga de la información”
+En la fecha de elaboración de esta resolución, se ha constatado que en la
+página web de Ciudadanos se incluye el apartado Condiciones de uso y Política de
+Privacidad, que recoge la información indicada.
+IV
+Por último, los reclamantes exponen que el reclamado no notificó una supuesta
+quiebra de seguridad, en relación con una posible intromisión informática en las primarias de Castilla y León. Advierten que se detectaron ataques informáticos. No aportan
+ninguna acreditación de ello.
+El artículo 33 del RGPD establece los supuestos de Notificación de una violación de la seguridad de los datos personales a la autoridad de control, en el sentido siguiente:
+“1. En caso de violación de la seguridad de los datos personales, el responsable del tratamiento la notificará a la autoridad de control competente de conformidad
+con el artículo 55 sin dilación indebida y, de ser posible, a más tardar 72 horas después de que haya tenido constancia de ella, a menos que sea improbable que dicha
+violación de la seguridad constituya un riesgo para los derechos y las libertades de las
+personas físicas. Si la notificación a la autoridad de control no tiene lugar en el plazo
+de 72 horas, deberá ir acompañada de indicación de los motivos de la dilación.
+2. El encargado del tratamiento notificará sin dilación indebida al responsable
+del tratamiento las violaciones de la seguridad de los datos personales de las que tenga conocimiento.
+3. La notificación contemplada en el apartado 1 deberá, como mínimo:
+a) describir la naturaleza de la violación de la seguridad de los datos personales, inclusive, cuando sea posible, las categorías y el número aproximado de interesados afectados, y las categorías y el número aproximado de registros de datos personales afectados;
+b) comunicar el nombre y los datos de contacto del delegado de protección de
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/8
+
+datos o de otro punto de contacto en el que pueda obtenerse más información;
+c) describir las posibles consecuencias de la violación de la seguridad de los
+datos personales;
+d) describir las medidas adoptadas o propuestas por el responsable del tratamiento para poner remedio a la violación de la seguridad de los datos personales, incluyendo, si procede, las medidas adoptadas para mitigar los posibles efectos negativos.
+4. Si no fuera posible facilitar la información simultáneamente, y en la medida
+en que no lo sea, la información se facilitará de manera gradual sin dilación indebida.
+5. El responsable del tratamiento documentará cualquier violación de la seguridad de los datos personales, incluidos los hechos relacionados con ella, sus efectos y
+las medidas correctivas adoptadas. Dicha documentación permitirá a la autoridad de
+control verificar el cumplimiento de lo dispuesto en el presente artículo.”
+Ciudadanos en sus alegaciones han indicado que no se ha detectado violación
+de seguridad en las elecciones primarias celebradas en Castilla y León, por o que no
+notificaron quiebra de seguridad, añadiendo que conoce el caso la Fiscalía de Valladolid.
+En fecha 10 de marzo de 2020, se ha publicado en el diario La Nueva Crónica,
+Diario Leonés de Información General, la noticia siguiente:
+La Fiscalía de Valladolid archivó las diligencias de investigación abiertas a raíz
+de la denuncia anónima de presunto ‘pucherazo’ en el proceso de elección de
+primarias en Ciudadanos Castilla y León, por la forma telemática para designar
+el candidato de dicha formación a la presidencia de la Junta para las elecciones de mayo de 2019, al apreciar que “no existen indicios bastantes de infracción
+penal”.
+De la investigación realizada por los presuntos delitos de daños informáticos y
+falsedad documental “no se ha acreditado que se haya producido el uso de
+programa, instrumento o mecanismo apto para dañar, alterar o suprimir datos
+informáticos o los programas informáticos utilizados para la votación”.
+A juicio del ministerio público “no se realizaron accesos no autorizados al sistema” ni “se alteraron documentos electrónicos ajenos”.(…)
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución a los reclamantes y al reclamado.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/8
+
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y de conformidad con lo establecido
+en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los interesados podrán interponer, potestativamente, recurso de reposición ante la Directora de la Agencia Española de Protección de Datos en el plazo de un mes a contar desde el día siguiente a la notificación de esta resolución o directamente recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional, con
+arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de la disposición adicional
+cuarta de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el día siguiente a la notificación
+de este acto, según lo previsto en el artículo 46.1 de la referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

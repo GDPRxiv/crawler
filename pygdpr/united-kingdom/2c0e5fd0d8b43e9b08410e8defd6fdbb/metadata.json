@@ -1,0 +1,91 @@
+{
+    "charLength": 29258,
+    "estReadTime": 20.4,
+    "gdprArticleRefs": null,
+    "gdprRefsCount": 0,
+    "keywords": {
+        "en": [
+            "commissioner",
+            "marketing",
+            "dtl",
+            "penalty",
+            "direct",
+            "information",
+            "monetary",
+            "subscriber",
+            "email",
+            "consent",
+            "may",
+            "notice",
+            "office",
+            "list",
+            "ico",
+            "pecr",
+            "regulation",
+            "owner",
+            "appeal",
+            "contravention"
+        ]
+    },
+    "md5": "2c0e5fd0d8b43e9b08410e8defd6fdbb",
+    "releaseDate": "02/07/2020",
+    "sentLength": 215,
+    "summary": {
+        "en": "ICO. (3) A person may send or instigate the sending of electronic mail for\n\nthe purposes of direct marketing where\u2014\n\n(a) that person has obtained the contact details of the recipient\nof that electronic mail in the course of the sale or\nnegotiations for the sale of a product or service to that\n\nrecipient;\n\n(b) the direct marketing is in respect of that person\u2019s similar\n\nproducts and services only; and\n\n(c) the recipient has been given a simple means of refusing\n(free of charge except for the costs of the transmission of\nthe refusal) the use of his contact details for the purposes\nof such direct marketing, at the time that the details were\ninitially collected, and, where he did not initially refuse the\nuse of the details, at the time of each subsequent\n\ncommunication."
+    },
+    "timeline": [
+        {
+            "date": "20/11/2018",
+            "texts": {
+                "en": [
+                    "Given the concerns held by the Commissioner regarding the privacy\n\npolicy of aa, an initial letter was sent to DTL on 20 November 2018\n\nto investigate its compliance with PECR."
+                ]
+            }
+        },
+        {
+            "date": "11/12/2018",
+            "texts": {
+                "en": [
+                    "DTL\u2019s response of 11 December 2018 confirmed that between 1 June\n\n2017 and 1 June 2018 it had utilised the email marketing services of\n\nSS \u00b0\u00b0 2) \"2\u00b0\n\ncollectively as the \u201cAggregators\u201d) who had themselves used a series of\n\nList Owners to engage in the actual sending of the direct marketing."
+                ]
+            }
+        },
+        {
+            "date": "18/01/2019",
+            "texts": {
+                "en": [
+                    "The Commissioner sent a further letter to DTL on 18 January 2019 with\nsome additional queries, including for clarity as to whether there was\nany direct relationship between DTL and the List Owners; the volume\nof messages sent by some of the List Owners on DTL\u2019s behalf; and\ndetails as to whether there had been any due diligence carried out by\nDTL itself beyond the implementation of contracts with the\n\nAggregators."
+                ]
+            }
+        },
+        {
+            "date": "08/02/2019",
+            "texts": {
+                "en": [
+                    "Information Commissioner's Office\n\n \n\nIn its response of 8 February 2019, DTL confirmed that its contracts\n\nare with the Aggregators, who themselves engage the List Owners to\nsend the direct marketing."
+                ]
+            }
+        },
+        {
+            "date": "03/08/2020",
+            "texts": {
+                "en": [
+                    "Conclusion\n\nThe monetary penalty must be paid to the Commissioner\u2019s office by\nBACS transfer or cheque by 3 August 2020 at the latest."
+                ]
+            }
+        },
+        {
+            "date": "31/07/2020",
+            "texts": {
+                "en": [
+                    "If the Commissioner receives full payment of the monetary penalty by\n31 July 2020 the Commissioner will reduce the monetary penalty by\n20% to \u00a372,000 (Seventy two thousand pounds)."
+                ]
+            }
+        }
+    ],
+    "title": {
+        "en": "Decision Technologies Limited"
+    },
+    "url": "https://ico.org.uk/action-weve-taken/enforcement/decision-technologies-limited/",
+    "wordLength": 5406
+}

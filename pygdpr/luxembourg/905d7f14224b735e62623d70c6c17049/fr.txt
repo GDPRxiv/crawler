@@ -1,0 +1,1442 @@
+Avis de la Commission nationale pour la protection des données relatif
+1. au projet de loi n°7475 portant modification de la loi modifiée du 26
+
+juillet 2002 sur la police et sur l'exploitation de l'aéroport de
+Luxembourg ainsi que sur la construction d'une nouvelle aérogare ; 2.
+au projet de règlement grand-ducal relatif à la sûreté de l'aviation civile
+
+et aux conditions d'accès à l'aéroport de Luxembourg.
+Délibération n° 59/2019 du 17 décembre 2019
+
+Conformément à l'article 57 paragraphe (1) lettre (e) du règlement européen 2016/679 du 27 avril
+2016 relatif à la protection des personnes physiques à l'égard du traitement des données à
+caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE
+
+(ci-après désigné« le RGPD »), ainsi qu'à l'article 46, paragraphe 1er, lettre (e) de la directive
+(UE) n° 2016/680 du 27 avril 2016 relative à la protection des personnes physique à l'égard du
+traitement des données à caractère personnel par les autorités compétentes à des fins de
+prévention des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de
+sanctions pénales, et à la libre circulation de ces données, et abrogeant la décision-cadre
+2008/977/JAI du Conseil, chaque autorité de contrôle a pour mission de conseiller
+« conformément au droit de l'Etat membre, le parlement national, le gouvernement et d'autres
+institutions et organismes au su/ef des mesures législatives et administratives relatives à la
+
+protection des droits et libertés des personnes physiques à l'égard du traitement. »
+
+[-'article 7 de la loi du 1er août 2018 portant organisation de la Commission nationale pour la
+protection des données et du régime général sur la protection des données prévoit précisément
+que la Commission nationale pour la protection des données (ci-après désignée « la Commission
+nationale » ou « la CNPD ») exerce les missions dont elle est investie en vertu de l'article 57 du
+
+RGPD, tandis que l'article 8 point 3° de ladite loi du 1er août 2018 se base sur l'article 46,
+paragraphe 1er, lettre (e) de la directive (UE) n° 2016/680 précitée en prévoyant que la CNPD
+
+« conseille la Chambre des députés, le Gouvernement et d'autres institutions et organismes au
+sujet des mesures législatives et administratives relatives à la protection des droits et libertés des
+personnes physiques à f égard du traitement des données personnelles ».
+Par courrier en date du 23 septembre 2019, Monsieur le Ministre de la Mobilité et des Travaux
+
+publics a invité la Commission nationale à se prononcer sur le projet de loi n°7475 portant
+modification de la loi modifiéedu 26 juillet 2002 sur la police et sur l'exploitation de l'aéroportde
+Luxembourgainsi que sur la construction d'une nouvelle aérogare,d'une part, et sur le projet de
+règlementgrand-ducal relatif à la sûretéde l'aviation civile et aux conditionsd'accèsà l'aéroport
+de Luxembourg, d'autre part.
+
+Par courrier en date du 09 décembre 2019, Monsieur le Ministre de la Mobilité et des Travaux
+
+publics a invité la Commission nationale à se prononcer sur l'amendement gouvernemental relatif
+
+I.CNPD
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiée du 26 juillet 2002 sur la
+police et sur l'expioitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûretéde l'aviation civile et
+aux conditions d'accèsà l'aéroport de Luxembourg.
+
+1/24
+
+au projet de règlement grand-ducal relatif à la sûreté de l'aviation civile et aux conditions d'accès
+à l'aéroport de Luxembourg.
+
+Au niveau européen, la sûretéde l'aviation civile est réglementée par le règlement (CE) 300/2008
+du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
+l'aviation civile, ainsi que par le règlement d'exécution (DE) 2015/1998 de la Commission
+européenne du 5 novembre 2015 en ce qui concerne la clarification, l'harmonisation et la
+
+simplification ainsi que le renforcement de certaines mesures de sûreté aérienne spécifiques.
+Compte tenu des menaces terroristes dans toute l'Europe et du nombre grandissant d'infractions
+liées à des activités terroristes, la Commission européenne a récemment modifié le règlement
+
+(UE) 2015/1998 précité par le règlement d'exécution(UE) 2019/103 du 23 janvier 2019. D'après
+l'exposé des motifs du projet de loi n°7475, le texte législatif et réglementaire en projet sous
+examen visent précisément à mettre en ouvre ladite modification du règlement d'exécution
+2015/1998 « en ce qui concerne la clarification, l'harmonisation et la simplification ainsi que le
+renforcement de certaines mesures de sûreté aérienne spécifique et plus particulièrement des
+dispositions concernant la vérification des antécédents pour déterminer la fiabilité d'une
+personne ».
+
+La Commission nationale entend limiter ses observations aux dispositions des deux projets, y
+compris aux dispositions de l'amendement gouvernemental relatif au projet de règlement grandducal, lui soumis pour avis qui ont une répercussion sur le respect de la vie privée et la protection
+des données à caractère personnel.
+1.
+
+Remarques préliminaires
+
+L'article unique du projet de loi n°7475 portant modification de la loi modifiée du 26 juillet 2002
+sur la police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+
+nouvelle aérogare (ci-après : « le projet de loi ») vise à remplacer l'article premier de la loi précitée
+du 26 juillet 2002. D'après les auteurs du projet de loi, cet article a pour objet d'opérer deux
+changements fondamentaux:
+La fiabilité d'une personne n'est plus constatée par un contrôle préalable à l'embauche
+
+effectué par l'employeur et, le cas échéant, par une vérification des antécédentseffectuée
+par la Police grand-ducale1, mais selon les circonstances, par une vérification des
+antécédents ordinaire, voire même une vérification des antécédents renforcée. Selon le
+règlement d'exécution 2019/103 de la Commission européenne, les contrôles préalables
+à l'embauche doivent cesser avant le 31 juillet 2019. Les personnes ayant subi un contrôle
+préalable à l'embauche doivent faire l'objet d'une vérification des antécédents le 30 juin
+2020 au plus tard.
+Un changement des compétences aura lieu en ce sens que même si la Police grandducale continuera d'effectuer la vérification des antécédents, il revient au ministre ayant
+
+1 Tel que prévu actuellement par l'article 12. 3 paragraphe (1), alinéa 4 du règlement grand-ducaf du 24 février 2016
+relatif aux conditions d'accès à l'aéroport de Luxembourg et aux contrôles de sûreté y applicables.
+
+.
+
+CNPD
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de ta loi modifiée du 26 juillet 2002 sur la
+police et sur ['exploitation de t'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûretéde l'aviation civile et
+aux conditions d'accèsà l'aéroport de Luxembourg.
+2/24
+
+la Police grand-ducale dans ses attributions (ci-après : le « ministre » ou le « ministère »)
+d en prendre la décision finale. Les auteurs justifient cette modification par « la sensibilité
+ef /'importance cfes décisions à prendre, et afin de renforcer la légalité des actes
+administratifs relatifs à la vérification des antécédents et ainsi accroître
+
+la sécurité
+
+juridique, la compétence finale ne devrait plus relever de la Police grand-ducale, mais
+devra être élevée au niveau ministériel. ».
+
+A titre liminaire, il convient de rappeler que la directive (DE) n°2016/680 du 27 avril 20162 (ciaprès désignée « la Directive 2016/680 »), établit des règles relatives à la protection des
+personnes physiques à l'égard du traitement des données à caractère personnel qui sont à
+respecter par les autorités compétentes à des fins de prévention et de détection des infractions
+
+pénales, d enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, y
+compris la protection contre les menaces pour la sécurité publique et la prévention de telles
+
+menaces.3 Comme une directive européenne ne lie les Étatsmembres que quant au résultat à
+atteindre, tout en laissant aux instances nationales la compétence quant à la forme et aux
+
+moyens4, ladite Directive2016/680 laisseclairement une marge de manouvre au profit des Etats
+membres en son article 1erparagraphe (3) qui précise qu'elle « n'empêche pas les Étatsmembres
+
+de prévoir des garanties plus étendues que celles établies dans la présente directive pour la
+protection des droits et des libertés des personnes concernées à /'égard du traitement des
+donnéesà caractèrepersonnel par les autoritéscompétentes. ».
+Par ailleurs, la Directive 2016/680 dispose que pour être licite, le traitement doit être nécessaire
+
+à l exécutiond'une mission de l'autoritécompétente, correspondre auxfinalitéspour lesquelles il
+a été mis en place, mais aussi et surtout, il doit être prévu soit par le droit de l'Union, soit par le
+droit d'un Etat membre5.
+
+En outre, la Directive 2016/680
+
+précise
+
+que la
+
+disposition
+
+nationale qui
+
+réglemente ledit traitement doit au moins préciser : les objectifs du traitement, les données à
+caractère personnel devant faire l'objet du traitement et les finalités du traitement6. Il ressort de
+
+cette disposition que ces trois éléments constituent le seuil minimal qu'une disposition nationale
+réglementant un traitement tombant dans le champ d'application de la Directive 2016/680 doit
+respecter. La CNPD tient à renvoyer à ses observations formulées à cet égard dans son avis
+
+relatifau fichiercentral de la Police grand-ducaleau regard de la législationsur la protection des
+données émis le 13 septembre 20197.
+
+La Directive 2016/680 a été transposée par le législateur luxembourgeois par la loi du 1er août
+2018 relative à la protection des personnes physiques à l'égard du traitement des données à
+caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale (ci-après : « la loi
+
+du 1er août 2018 en matière pénale ainsi qu'en matière de sécurité nationale »). Dans le
+2 Directive (UE) n° 2016/680 du 27avril 2016 relative à la protection des personnes physique à l'égarddu traitement
+
+des données à caractère personnel par les autorités compétentes à des fins de prévention des infractions pénales,
+d'enquêteset de poursuites en la matièreou d'exécutiondesanctions pénales, et à la librecirculation deces données,
+et abrogeant la décision-cadre 2008/977/JAI du Conseil.
+
+3 Article 1er paragraphe (1) de la Directive 2016/680.
+
+4 Prévuparl'article288,alinéa3 duTraitésurlefonctionnementdel'Untoneuropéenne.
+5 Article 8 paragraphe (1) de la Directive 2016/680.
+6 Article 8 paragraphe (2) de la Directive 2016/680.
+7 Délibération n°45/2019 du 13 septembre 2019.
+
+;CNPD
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiée du 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûreté de l'aviation civile et
+aux conditions d'accès à l'aéroport de Luxembourg.
+
+3/24
+
+commentaire des articles du projet de loi n°7168 devenu la loi du 1er août 2018 en matière pénale
+
+ainsi qu'en matière de sécuriténationale, les auteurs avaient préciséque le rapport entre le RGPD
+et la future loi est précisément celui d'une « lex generalis » par rapport à une « lex specialis » en
+ce sens que tous les traitements de données à caractère personnel relèvent du RGPD « sauf si
+deux conditions sont remplies cumulativement : 1) il faut que les données soient traitées par une
+autorité compétente au sens de la directive (UE) n° 2016/680 telle que définie à l'article 3, point
+
+7), du projet de loi sous examen, et 2) il faut que tes données soient traitées pour une des finalités
+visées à l'article 1er du projet de loi. ».
+L'article 6 du RGPD définit les différentes conditions de licéité pour lesquelles un traitement est
+
+possible. En d'autres termes, le responsable du traitement doit préalablement et pour chaque
+traitement de données personnelles, déterminer la condition de licéité y applicable. En particulier,
+il convient de rappeler que le traitement de données à caractère personnel collectées et traitées
+dans le cadre de l'exécution d'une mission d'intérêt public ou relevant de l'exercice de l'autorité
+publique dont est investi le responsable du traitement doit reposer sur une base légale
+conformément à l'article6 paragraphe (3) du RGPD, lu ensemble avec son paragraphe (1) lettres
+
+e)et e)8 qui dispose que : « Le fondement du traitement visé au paragraphe 1, points e) et e), est
+défini par :
+a. le droit de l'Union; ou
+
+b. le droit de l'Etat membre auquel le responsable du traitement est soumis.
+Les finalités du traitement sont définies dans cette base juridique ou, en ce qui
+concerne le traitement visé au paragraphe 1, point e), sont nécessaires à l'exécution
+d'une mission d'inférêt public ou relevant de l'exercice de /'autorité publique dont est
+investi le responsable du traitement. Cette base juridique peut contenir des
+dispositions spécifiques pour adapter l'application des règles du présent règlement,
+entre autres: les conditions générales régissant la licéité du traitement par le
+
+responsable du traitement; les types de données qui font l'objet du traitement; les
+personnes concernées; les entités auxquelles les données à caractère personnel
+peuvent être communiquées et les finalités pour lesquelles elles peuvent l'être: la
+limitation des finalités; les durées de conservation: et tes opérations et procédures de
+traitement, y compris les mesures visant à garantir un traitement licite et loyal, telles
+que celles prévues dans d'autres situations particulières de traitement comme le
+prévoit le chapitre IX. »
+
+Il résulte de ce qui précèdeque cet article prévoit une contrainte particulière liée à la licéité d'un
+traitement de données nécessaire au respect d'une obligation légale ou à l'exécution d'une
+mission d'intérêt public ou relevant de l'exercice de l'autorité publique dont est investi le
+responsable du traitement. Dans ces deux cas de figure, le fondement et les finalités des
+8 (-'article 6, paragraphe (1), lettres e) et e) dispose que : « Le traitement n'est iici'te que si, et dans la mesure où, au
+mo/ns une des conditions suivantes est remplie : (.. .) e) le traitement est nécessaireau respect d'une obligation légale
+à laquelle le responsable du traitement est soumis: (... ) e) le traitement est nécessaire à {'exécution d'une mission
+d'intérêtpublic ou relevant de l'exercice de l'autohté publique dont est investi le responsable du traitement; (... ) »
+
+ÇCNPD
+is^?^b
+
+ÎO^y.
+
+ui QH
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiée du 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûretéde l'aviation civile et
+aux conditions d'accèsà l'aéroport de Luxembourg.
+4/24
+
+traitements de données doivent spécifiquement être définis soit par le droit de ['Union
+européenne, soit par le droit de l'Etat membre auquel le responsable du traitement est soumis.
+
+De plus, le considérant (45) du RGPD précise qu'il devrait «[... ] appartenir au droit de l'Union ou
+au droit d'un Etat membre de déterminer la finalité du traitement. Par ailleurs, ce droit pourrait
+préciser les conditions générales du présent règlement régissant la licéité du traitement des
+données à caractère personnel, établir les spécifications visant à déterminer le responsable du
+traitement, le type de données à caractère personnel faisant l'objet du traitement, les personnes
+concernées, les entités auxquelles les données à caractère personnel peuvent être
+communiquées, les limitations de la finalité, la durée de conservation et d'autres mesures visant
+à garantir un traitement licite et loyal. [... } ».
+
+En vertu des dispositions précitées, ces bases légales devraient établir des dispositions
+spécifiques visant à déterminer, entre autres, les types de données traitées, les personnes
+concernées, les entités auxquelles les données peuvent être communiquées et pour quelles
+finalités, les durées de conservation des données ou encore les opérations et procédures de
+traitement.
+
+Le considérant (41) du RGPD énonce encore que «cette base juridique ou cette mesure
+législative devrait être claire et précise et son application devrait être prévisible pour tes
+justiciables, conformément à la jurisprudence de la Cour de Justice de l'Union européenne et de
+la Cour européenne des droits de /'homme. ».
+
+Ainsi, la Commission nationale se doit de souligner l'importance fondamentale du principe de
+licéité d'un traitement de données à caractère personnel qui doit être lu à la lumière de l'article 8
+paragraphe (2) de la Convention européenne des droits de l'homme concernant le droit au
+
+respect de la vie privée, ainsi que de l'article 52 paragraphes (1) et (2) de la Charte des droits
+fondamentaux de l'Union européenne. En substance, ces deux articles, ensemble avec la
+jurisprudence constante de la Cour européenne des droits de l'Homme, retiennent qu'un
+traitement de données effectué par une autorité publique peut constituer une ingérence dans le
+droit au respect de la vie privée ou limiter l'exercice du droit à la protection des données. Cette
+ingérence ou limitation peut être justifiée à condition qu'elle:
+
+soit prévue par une loi accessible aux personnes concernées et prévisible quant à ses
+répercussions, c'est-à-dire formulée avec une précision suffisante ;
+
+soit nécessaire dans une société démocratique, sous réserve du principe de
+proportionnalité ;
+
+respecte le contenu essentiel du droit à la protection des données ;
+
+réponde effectivement à des objectifs d'intérêt général ou au besoin de protection des
+droits et libertés d'autrui.
+
+;CNPD
+siï». (.t
+
+.
+
+la^?
+
+Avis de la Commission nationale pour la protection des données
+
+",
+
+'".
+
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiée du 26 juillet 2002 sur la
+police et sur l'exploitation de i'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûreté de ['aviation civile et
+
+aux conditions d'accès à ['aéroport de Luxembourg,
+
+5/24
+
+En ce qui concerne la première condition, selon la jurisprudence de la Cour européenne des
+droits de l'Homme, une ingérence au droit au respect de la vie privée n'est « prévue parla loi »,
+au sens de l'article 8 paragraphe (2) de la Convention européenne des droits de l'homme9, que
+si elle repose sur un article du droit national qui présente certaines caractéristiques. L'expression
+« prévue par la loi » implique donc notamment que la législation interne doit user de termes assez
+clairs pour indiquer à tous de manière suffisante en quelles circonstances et sous quelles
+conditions elle habilite la puissance publique à recourir à des mesures affectant leurs droits
+
+protégés par la Convention10. La loi doit être « accessible aux personnes concernées et prévisible
+quant à ses répercussions . »". Une règle est prévisible « si elle est formulée avec une précision
+suffisante pour permettre à toute personne - bénéficiant éventuellement d'une assistance
+appropriée - d'adapter son comportement »'î ainsi que « Le degré de précision requis de la "loi"
+à ce( égard dépendra du sujet en question. »n.
+Afin de remplir ces critères d'accessibilité et de prévisibilité de la loi, d'une part, et ainsi limiter
+d'éventuels comportements arbitraires et abusifs de la part des autorités publiques, d'autre part,
+le droit national peut donc prévoir et encadrer plus spécifiquement les traitements de données à
+caractère personnel effectués par de telles autorités, comme le ministre ou la Police grandducale. Cet encadrement légal serait par ailleurs un garant du principe de sécurité juridique au
+profit des personnes concernées, ainsi que des différents responsables du traitement. La sécurité
+juridique constitue même un principe général du droit de l'Union européenne, exigeant
+notamment qu'une réglementation entraînant des conséquences défavorables à l'égard de
+particuliers soit claire et précise et son application prévisible pour les justiciables. La
+réglementation doit permettre aux intéressés de connaître avec exactitude ('étendue des
+obligations qu'elle leur impose, doit leur permettre de connaître sans ambiguïté leurs droits et
+leurs obligations ainsi que leur permettre de prendre leurs dispositions en conséquence1 4.
+C'est la raison pour laquelle, la Cour européenne des droits de l'homme au sein de sa
+jurisprudence affirme que « le droit interne doit offrir une certaine protection contre des atteintes
+
+arbitraires de la puissance publique aux droits garantis par l'article 8 paragraphe 1 »15. Par
+conséquent, la loi « doit définir l'étendue et les modalités d'exercice du pouvoir avec une netteté
+9 L'article 8 paragraphe (2) de la Convention européenne des droits de l'homme dispose que : « // ne peut y avoir
+ingérence d'une autorité publique dans l'exercice de ce droit qae pour autant que cette ingérence est prévue par la
+loi et qu 'elle constitue une mesure qui, dans ime société démocratiqiie, est nécessaire à fa sécurité nationale, à la
+sûretépublique, au bien-être économique dit pays, à la défense de l'ordre et à Ja prévention des infractions pénales,
+à Sa protection de la santé oit de la morale, oif à la protection des droits et libertés d'autrui »
+10 CouEDH, Femândez Martinczc. Espagne [GC], n°56030/07, para. 117
+" CouEDH, Amann e. Suisse [GC], n° 27798/95, 16 février2000, para. 50 ; voir également CouEDH, Kopp e. Suisse,
+n" 23224/94, 25 mars 1998, para, 55 et CouEDH, lordachi et autres e. Moldavie, n° 25198/02, 10 février 2009, para.
+50.
+" CouEDH, Amann e. Suisse [GC], n° 27798/95, 16 février 2000, para. 56 ; voir également CouEDH, Malone e.
+Royaume-Uni, n° 8691/79, 26 avril 1985, para. 66 ; CouEDH, Silver et autres e, Royaume-Uni, n° 5947/72, 6205/73,
+7052/75, 7061/75, 7107/75, 7113/75. 25 mars 1983, para. 88.
+13 CouEDH, The Sunday Times e. Royaume-Uni, n° 6538/74, 26 avril 1979, para. 49 ; voir également CouEHD, Silver
+et autres e. Royaume-Uni, n° 5947/72, 6205/73, 7052/75, 7061/75, 7107/75, 7113/75, 25 mars 1983, para. 88.
+14 Voir p. ex. CourED/-/, AurubisBalgariadu31 mars 2011, C-546/09, points 42-43 ; Arrêt, Alfamicro e. Commission du
+14 novembre 2017, T-831/14, points 155-157.
+15 Cour EDH, Amann e. Suisse [GC], n°27798/95 para 56.
+
+ÏCNPD
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiéedu 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlementgrand-ducal relatif à la sûretéde t'aviation civile et
+aux conditions d'accèsà l'aéroport de Luxembourg.
+6/24
+
+suffisante - compte tenu du but légitime poursuivi - pour fournir à l'individu une protection
+adéquate contre l'arbitraire »w. La Cour de justice de l'Union européenne estime qu'en cas de
+limitation de la protection des données à caractère personnel ou du droit au respect de la vie
+privée un texte légal « doit prévoir des règles claires et précises régissant la portée et l'application
+
+de la mesure en causeet imposantun minimum d'exigencesde sorte que les personnes dont les
+données ont été conservées disposent de garanties suffisantes permettant de protéger
+efficacement leurs données à caractère personnel contre les risques d'abus ainsi que contre tout
+accès et toute utilisation illicites de ces données »'7.
+
+Par ailleurs, la protection des données à caractère personnel constitue au niveau national une
+
+matièreréservéeà la loi en ce qu'elle touche à la protection de la vie privéedes citoyens (article
+11 paragraphe (3) de la Constitution). En vertu de l'article 32, paragraphe (3), de la Constitution,
+
+dans lesdites matièresréservéesà la loi par la Constitution, « te Grand-Ducne peut prendre des
+règlementset arrêtésqu'en vertu d'une disposition légaleparticulièrequi fixe, outre tes objectifs,
+tes principes et points essentiels des mesures d'exécution. »1a.
+Les éléments essentiels1 9, les objectifs et les principes20 doivent
+
+dès lors
+
+figurer
+
+dans la loi
+
+au
+
+sens stricte du terme.
+
+Il ne fait aucun doute que les traitements de donnéeseffectuéspar le ministre et la Police grandducale dans te cadre des vérificationsdes antécédentsconstituent une ingérencedans le droit
+au respect de la vie privée et le droit à la protection des données, de sorte que les conditions et
+les modalités de ces traitements doivent obligatoirement être prévues dans la loi.
+
+Ceci étant dit, la CNPD souhaite attirer l'attention sur le fait que le projet de loi lui soumis pour
+avis devrait nécessairement préciser quelle est la finalité poursuivie par le traitement de données
+à caractère personnel opéré dans le cadre des vérifications des antécédents et qui a la qualité
+
+de responsable du traitement pour les opérations précitées comme expliqué ci-dessous aux
+points 1. 1 et 1. 2. de l'avis. Cette précision est d'autant plus importante dans le cadre des deux
+textes sous avis, car elle entraîne potentiellement l'application d'un cadre juridique différent en
+
+matièrede protection des données. En effet, tandisque le RGPDs'appliquede manièregénérale
+au traitement des données à caractère personnel effectué par un responsable du traitement ou
+un sous-traitant établi sur le territoire de l'Union européenne, la Directive 2016/680 établit des
+16 Ibidem. Voir également Cour EDH, Malonec. Royaume-Uni, sérieAn°82, du 2 août 1984, pp. 31-32. para. 66 ; Cour
+EDH. Fernândez Martinez e. Espagne CE:ECHR:2014:0612JUD005603007,
+
+12 juin 2014 para. 117; Cour EDH,
+
+Liberty et autres e. Royaume-Uni, n° 58243/00, du 1erjuillet 2008, para. 62 et 63; Cour EDH, Rotaru e. Roumanie. App.
+28341/95, 4 mai 2000, para. 57 à 59 et Cour EDH, S et Marperc. Royaume-Uni, Requêtes n° 30562/04 et 30566/04,
+du 4 décembre 2008 para. 99. ; Dimitrov-Kazakov e. Bulgarie n°11379/03, du 10 février 201 1.
+
+17Arrêt du 8 avril 2014, Digital Rights Ireland e. a. C-293/12 et C-594/12, EU :C :2014 :238, point 54.
+
+" Avis n° 52976 du Conseil d'Etat du 24juillet 2018 relatif au Projet de règlement grand-ducal 1. modifiant le règlement
+grand-ducal modifié du 10 août 2005 relatif au fonctionnement du lycée-pilote, et 2. abrogeant le règlement grandducaldu 27 août 2012 portant sur les classes de la division supérieure de ['enseignement secondaire dans le cycle de
+formation du lycée Ermesinde.
+
+19 Arrêt de la Cour constitutionnelle - Arrêts n° 00132 et 00133 du 2 mars 2018.
+
+Avis n° 52976du Conseil d'Etatdu24juillet 2018relatifau Projet de règlementgrand-ducal 1, modifiant le règlement
+grand-ducal modifié du 10 août 2005 relatif au fonctionnement du lycée-pilote, et 2. abrogeant le règlement grandducal du 27 août 2012 portant sur les classes de la division supérieure de renseignement secondaire dans le cycle de
+formation du lycée Ermesinde.
+
+^CNPD
+SBf "S
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiée du 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlementgrand-ducal relatif à la sûretéde l'aviation civile et
+aux conditions d'accèsà l'aéroport de Luxembourg.
+
+7/24
+
+règles spécifiques de protection des données lorsque le traitement est effectué par un
+responsable du traitement qui agit comme autorité compétente « à des fins de prévention et de
+détection des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de
+
+sanctions pénales, y compris la protection contre les menaces pour la sécurité publique et la
+prévention de telles menaces. » (article 1er paragraphe (1) de la Directive 2016/680).
+1. 1.
+
+Quant à la finalité poursuivie
+
+En ce qui concerne tout d'abord la finalité poursuivie par le traitement de données à caractère
+
+personnel opéré dans le cadre des vérifications des antécédents d'une personne qui est obligée
+de par la réglementation européenne et nationale de se soumettre à une telle vérification, la
+CNPD constate que ladite finalité n'est pas préciséedans le corps des projets de textes. Or, elle
+est d'avis qu'il ressort de l'économie généraledu règlement d'exécution 2015/1998 modifié par le
+règlement 2019/103 de la Commission européenne, règlement que les deux textes sous examen
+visent à mettre en ouvre, que ces vérifications visent à renforcer la sécurité sur les aéroports ce
+
+qui peut être considéré comme une mesure de prévention contre les menaces pour la sécurité
+publique. En effet, en raison de révolution récente des technologies et équipements de sûreté,
+nécessaires afin de faire face aux nouveaux visages de la menace terroriste, il est d'autant plus
+
+important que les personnes travaillant dans la zone aéroportuaire fournissent un degré
+cf'assurance et de fiabilité élevé, tout en possédant les capacités et aptitudes physiques et
+
+mentales requises pour s'acquitter de manière efficace des tâches qui leur sont confiées. La
+Commission européenne a précisément estimé que les modifications des normes de base
+communes dans le domaine de la sûreté aérienne concernent, entre autres, « la révision des
+
+rêgtes relatives à la vérification des antécédents afin de renforcer la culture de la sûreté et la
+résilience. »21.
+
+Ainsi, sur base des considérations susmentionnées et sans explications supplémentaires par les
+
+auteurs du projet de loi, la CNPD est d'avis que la finalité poursuivie par le traitement de données
+à caractère personnel effectué dans le cadre des vérifications des antécédents entre a priori dans
+
+te champ d'application matériel de la loi du 1er août 2018 en matière pénale ainsi qu'en matière
+de sécurité nationale. Comme susmentionné, elle recommande aux auteurs de préciser la finalité
+
+poursuivie par le traitement de données à caractère personnel dans le corps du texte du projet
+de loi.
+
+Or, encore faut-il que la deuxième condition dudit champ d'application, tel que mentionné plus
+haut, soit remplie, c'est-à-dire le traitement de données à des fins pénales et de sécurité nationale
+doit être mis en ouvre par « toute autorité publique compétente ou tout autre organisme ou entité
+
+a qui a été confié, à ces mêmes fins, l'exercice de /'autorité publique et des prérogatives de
+puissance publique »22. C'est précisément à cet égard que la définition du responsable du
+traitement joue un rôle crucial et la CNPD se permet de relever les potentielles configurations en
+la matière avec les implications et problématiques que ces dernières peuvent engendrer au
+
+21 Considérant (4) du règlement d'exécution 2019/103 de la Commission du 23 janvier 2019.
+22 Article 1 paragraphe (1) de la loi du 1er août 2018 en matière pénale ainsi qu'en matière de sécurité nationale.
+
+CNPD
+a.
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiéedu 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûretéde l'aviation civile et
+aux conditions d'accès à l'aéroport de Luxembourg.
+8/24
+
+niveau législatif. Or, faute de précision dans les projets de textes, elle ne peut qu'esquisser
+différentes options.
+1. 2.
+
+Quant au responsable du traitement
+
+D après la loi du 1er août 2018 en matière pénale ainsi qu'en matière de sécurité nationale, le
+responsable du traitement est ['autorité compétente qui, seule ou conjointement avec d'autres,
+
+détermine les finalités et les moyens du traitement de données à caractère personnel23. En vertu
+du RGPD, le responsable du traitement est défini comme la personne physique ou morale,
+l'autorité publique, le service ou un autre organisme qui détermine seul ou conjointement avec
+d'autres les finalités et les moyens du traitement24.
+
+Tout d'abord, comme la fiabilité d'un employé futur de l'aéroport n'est plus constatée par un
+contrôle préalable à l'embauche effectué par l'employeur, qui semble être en espèce la société
+de l'Aéroport de Luxembourg (la sociétédite « lux-Airport »)25, celle-ci ne peut pas être considérée
+comme responsable du traitement des données effectué dans le cadre des vérifications des
+antécédents.
+
+Ensuite, il est important de rappeler que le ministre ayant la Police grand-ducale dans ses
+attributions assure la responsabilité finale de la Police grand-ducale en matière de décisions
+concernant l'octroi ou le refus d'une vérification des antécédents. Si la Police grand-ducale est
+actuellement compétente pour prendre les décisions relatives aux vérifications des antécédents,
+le projet de loi transfère cette compétence dorénavant au ministre. En effet, le commentaire de
+
+l'article unique paragraphe (2) du projet de loi mentionne expressément que « vu la sensibilité et
+l importance de ces décisions, il a été décidé d'un commun accord entre les entités concernées
+
+que la compétence finale en matière de vérification des antécédents ne devra plus relever de la
+Police grand-ducale, mais devra être élevée au niveau ministériel, et le Ministère de la Sécurité
+intérieure a été identifia comme ministère le plus approprié pour assumer cette mission. ».
+
+Ainsi, faute de précision dans le texte du projet de loi, il n'est pas évident d'identifier le ou les
+responsable(s) du traitement au sens de l'article 4 point 7) du RGPD et de l'article 2 point 8 de la
+loi du 1er août 2018 en matière pénale ainsi qu'en matière de sécurité nationale. Il est donc
+
+primordial de connaître plus en détail les opérations du traitement de données en question.
+Quelles données et informations la Police grand-ducale continue-t-elle au ministre et sur base de
+quels éléments ce dernier va prendre sa décision suite à une demande de vérification des
+
+antécédents ? Est-ce que la Police se contente de regrouper de manière objective toutes les
+informations trouvées sur la personne ayant introduite une demande de vérification et de les
+envoyer au ministre ou effectue-t-elle déjà une première évaluation desdites informations ? En
+
+fonction des réponses à ces questions, développées encore plus en détail sous le point « Ad. Art.
+13. Demande de vérification des antécédents », trois différentes hypothèses sont envisageables :
+23Article 2 paragraphe (1) point 8° de la loi du 1er août2018en matière pénale ainsi qu'en matière de sécuriténationale.
+24 Article 4 point 7 du RGPD.
+
+25 II s'agit de l'organisme désigné en vertu de la loi modifiée du 26 juillet 2002 sur la police et sur l'exploitation de
+l'aéroport de Luxembourg ainsi que sur la construction d'une nouvelle aérogare de l'exploitation de l'Aéroport de
+Luxembourg.
+
+WPD
+vs
+^F^
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiée du 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à fa sûreté de l'aviation civile et
+
+aux conditions cf'accèsà l'aéroport de Luxembourg.
+
+9/24
+
+1. Le ministre pourrait être considéré comme responsable du traitement des données
+effectué dans le cadre de la décision finale, alors que la Police grand-ducale serait
+responsable du traitement des données effectué dans le cadre de la vérification-même
+des antécédents. Dans l'hypothèse où le ministre serait à considérer comme autorité
+compétente au sens de la loi du 1er août 2018 en matière pénale ainsi qu'en matière de
+sécurité nationale, les deux opérations de traitement de données tomberaient sous le
+champ d'application de ladite loi du 1er août 2018, la Police étant clairement à qualifier
+comme une telle autorité compétente au sens de cette loi. Si le ministre ne serait pas à
+considérer comme « autorité compétente » au sens de la loi du 1er août 2018 en matière
+pénale ainsi qu'en matière de sécurité nationale, le traitement effectué par lui tomberait
+dans le champ cf'application du RGPD, ce qui ne serait pas judicieux au vu des finalités
+poursuivies qui tombent clairement dans le champ d'application de ladite loi. La CNPD
+recommande ainsi aux auteurs du projet de loi de prévoir dans la loi que le ministre est à
+considérer comme autorité compétente au sens de l'article 2 paragraphe (1) point 7 de la
+loi du 1er août 2018 en matière pénale ainsi qu'en matière de sécurité nationale. L'article
+2 paragraphe (1) point 8° de la loi précitée du 1er août 2018 prévoit même expressément
+que si « tes finalités et les moyens du traitement de données sont déterminés par le droit
+de l'Union européenne ou le droit luxembourgeois, le responsable du traitement ou les
+critères spécifiques applicables à sa désignation peuvent être prévus par le droit de
+l'Union européenne ou le droit luxembourgeois. »
+2. La notion de « responsabilité conjointe » introduite par l'article 20 de la loi du 1er août 2018
+en matière pénale ainsi qu'en matière de sécurité nationale2 6, pourrait aussi être prise en
+compte dans ce contexte. La Commission nationale est d'avis qu'il pourrait, le cas
+échéant, ressortir de l'économie générale des deux textes lui soumis que le ministre d'un
+côté, et la Police grand-ducale de l'autre côté, participent conjointement à la réalisation
+des finalités et des moyens du traitement de données à caractère personnel opéré dans
+le cadre des vérifications des antécédents.
+
+3. Il pourrait aussi être envisagé que la Police grand-ducale agisse en tant que sous- traitant
+du ministre, au cas où le ministre puisse être qualifié comme autorité compétente au sens
+de l'article 2 paragraphe (1) point 7 de la loi du 1er août 2018 en matière pénale ainsi
+qu'en matière de sécurité nationale.
+
+26 Article 20 de la loi du 1er août2018 en matière pénaleainsi qu'en matière de sécuriténationale dispose que : « (1)
+Lorsque deux responsables du traitement ou plus déterminent conjointement les finalités et les moyens du traitement,
+ils sont les responsables conjoints du traitement. Les responsables conjoints du traitement définissent de manière
+transparente leurs obligations respectives aux fins d'assurer le respect de la toi, notamment en ce qui concerne
+l'exercice des droits de la personne concernée, et leurs obligations respectives quant à ta communication des
+informations visées aux articles 11 et 12, par voie d'accord entre eux, Le point de contact unique pour les personnes
+concernées, afin que celles-ci puissent exercer leurs droits, est désigné dans l'accord. (2) Indépendamment des termes
+
+de l'accord visé au paragraphe 1 er, ta personne concernée peut exercer tes droits que lui confère la présente toi à
+l'égard de et contre chacun des responsables du traitement. »
+
+CNPD
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiéedu 26 juillet 2002 sur la
+police et sur t'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûretéde l'aviation civile et
+aux conditions d'accèsà l'aéroport de Luxembourg.
+
+10/24
+
+La CNPD recommande donc aux auteurs du projet de loi de préciser dans le corps du texte du
+projet de loi qui a la qualité de responsable du traitement et, le cas échéant, de sous-traitant, en
+matière de vérifications des antécédents.
+
+2. Quant au projet de règlement arand-ducal relatif à la sûreté de l'aviation civile et aux
+conditions d'accès à l'aérooort de Luxembourg, tel que modifié par l'amendement
+gouvernemental du 09 décembre 2019
+
+Le projet de règlement grand-cfucal relatif à la sûreté de l'aviation civile et aux conditions d'accès
+
+à l'aéroport de Luxembourg, tel que modifié par l'amendement gouvernemental du 09 décembre
+2019 (ci-après : le « projet de règlement grand-ducal ») vise à abroger le règlement grand-ducal
+du 24 février 2016 relatif aux conditions d'accès à l'aéroport de Luxembourg et aux contrôles de
+sûreté y applicables (ci-après : « le règlement grand-ducal du 24 février 2016 ») et à aligner la
+législation nationale existante au cadre européen actuel.
+Ad art. 6. Le laissez-passer journalier
+
+L'article 6 paragraphe (3) du projet de règlement grand-ducal prévoit qu'un laissez-passer
+journalier est délivré par lux-Airport en échanged'une pièce officielle d'identification émise par les
+autorités luxembourgeoises ou étrangères. Comme lux-Airport ne devrait a priori pas être
+considéré comme « autorité compétente » au sens de la loi du 1er août 2018 en matière pénale
+ainsi qu'en matière de sécurité nationale, le traitement effectué par ladite société devrait tomber
+
+dans le champ d'applicationdu RGPD. La CNPDtient à soulignerdans ce contexte l'importance
+du principe de minimisation des données prévu à l'article 5 paragraphe (1) lettre e) du RGPD,
+prévoyant que les données doivent êtreadéquates, pertinentes et limitées à ce qui est nécessaire
+au regard des finalités pour lesquelles elles sont traitées. La CNPD comprend dans ce contexte
+que la carte d'identité est conservée jusqu'à remise du laissez-passer. Or, elle doute que le fait
+de demander en échange du laissez-passer journalier la remise d'un document d'identité est
+proportionnel et nécessaire, surtout si on prend en compte l'article 15 paragraphe (1) de la loi
+modifiée du 19juin 2013 relative à ['identification des personnes physiques prévoyant que la carte
+d identité est « obligatoire à partir de /'âge de quinze ans pour les ressortissants luxembourgeois
+
+qui résidenthabituellement dans une commune sur le territoire du Luxembourg et est exigible à
+toute réquisition de la Police grand-ducale. » II découle implicitement de cet article que tous les
+résidents luxembourgeois âgés de 15 ans et plus doivent à tout moment pouvoir s'identifier au
+moyen de leur carte d'identité.
+
+En plus des dispositions de l'article 6 paragraphe (3) du projet de règlement grand-ducal, le
+paragraphe (4) dudit article prévoit que l'identité du titulaire du laissez-passer journalier et de son
+accompagnateur, ainsi que les heures d'entrée et de sortie sont consignées dans un répertoire
+
+tenu au point d'entrée des zones de sûreté aéroportuaires. La CNPD considère qu'au vu du
+principe de minimisation des données, il apparaît dès lors excessif de conserver le document
+
+pendant le temps de présence de la personne en cause dans la zone aéroportuaire, alors que
+lux-Airport n'est pas en mesure de vérifier si le document d'identité est, le cas échéant, falsifié, et
+
+qu'il serait suffisant, après vérification de l'identité de la personne à l'aide de la pièce d'identité,
+
+d'ajouter le numéro du document d'identité dans le répertoire précité à côté de l'inscription du
+titulaire du laissez-passer.
+
+ICNPD
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiée du 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûretéde ['aviation civile et
+aux conditions d'accèsà l'aéroport de Luxembourg.
+
+11/24
+
+Par ailleurs, il échet de constater que le projet de texte ne prévoit pas cette exigence d'échanger
+un document d'identité contre un laissez-passer zone délimitée sur base de l'article 8 du projet
+
+de règlement grand-ducal et dont la validité est de trois mois. En effet, ledit article ne fait que
+préciser que l'identité du porteur et de son accompagnateur, ainsi que les heures d'entrée et de
+sortie sont consignées dans un répertoire tenu aux postes d'entrée aux zones délimitées, ce qui
+semble être en conformité avec le principe précité de la minimisation des données.
+
+La même remarque s'impose pour l'artide 9 du projet de règlement grand-ducal concernant le
+laissez-passer pour véhicules, qui prévoit qu'il peut être délivré en échange de la carte grise de
+la voiture ou du permis de conduire du chauffeur. De nouveau, au vu du fait que lux-Airport n'est
+pas en mesure de vérifier si le permis de conduire ou la carte grise sont, le cas échéant, falsifiés,
+et en prenant en compte le principe de minimisation des données, il apparaît excessif de
+conserver les documents en cause. Il paraît suffisant de noter dans le répertoire qui est tenu au
+
+point d'entrée des zones délimitées en vertu de l'article 9 paragraphe (3) alinéa 2 du projet de
+règlement grand-ducal, à côté de l'inscription du titulaire d'un laissez-passer pour véhicules et
+des heures d'entrée et de sortie, le numéro du permis de conduire, respectivement le numéro
+d'identification du véhicule qui figure sur la carte grise.
+Ad art. 7. Les visiteurs et la presse
+
+Selon l'article 7 du projet de règlement grand-ducal, les visiteurs et les membres de la presse
+désirant procéder à des prises de vues peuvent se voir délivrer un laissez-passer journalier, sous
+condition de l'octroi d'une autorisation spécifique préalable par la Police grand-ducale. Le
+commentaire de l'article en question mentionne à cet égard que comme « tes visiteurs et les
+
+membres de la presse ne disposent pas de véritable besoin opérationnel dans le sens d'une
+activité aéroportuaire, mais que leurs visites correspondent néanmoins à une raison légitime
+seton la réglementation européenne, ils nécessitent une autorisation spécifique préalable de la
+part de la Police grand-ducale avant de pouvoir demander un laissez-passer journalier. ».
+L'article 20 du règlement grand-ducal du 24 février2016, règlement qui sera abrogé par le présent
+projet, prévoit déjà que les visiteurs et les membres de la presse, désirant procéder à des prises
+de vues à l'intérieur de l'enceinte aéroportuaire, peuvent se voir accorder par la Police grandducale une autorisation d'accéder aux zones de sûreté aéroportuaires. Néanmoins, ni l'article 20
+
+du texte réglementaire actuel, ni l'article 7 du projet de règlement grand-ducal sous avis ou son
+commentaire ne précisent sur base de quels critères la Police grand-ducale prendra la décision
+si oui ou non elle délivrera cette autorisation et si, le cas échéant, elle consultera des fichiers
+
+nationaux ou des systèmes d'information européens et internationaux comme le système
+d'information Schengen, le système d'information de l'Agence de l'Union européenne pour la
+coopération des services répressifs (Europol) ou de l'Organisation internationale de police
+criminelle (INTERPOL) pour prendre la décision susmentionnée. La CNPD tient à renvoyer dans
+ce contexte à ses commentaires formulés sous le point « Ad. Art. 13. Demande de vérification
+des antécédents ».
+
+CNPD
+!'l;t£WB;
+
+Ss^
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiée du 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûreté de l'aviation civile et
+aux conditions d'accèsà l'aéroport de Luxembourg.
+
+12/24
+
+En outre, il serait important de savoir si d'autres données à caractère personnel que celles
+mentionnées à l'article 7, alinéa 2 du projet de règlement grand-ducal seront traitées dans le
+cadre de cette procédure et ce qu'il advient des données traitées des visiteurs et membres de la
+
+presse une fois que l'autorisation par la Police a été accordée ou non. Est-ce que la Police grandducale va créer un nouveau fichier propre avec les données à caractère personnel collectées
+dans le cadre des autorisations en cause ? Si tel est le cas, se pose notamment la question de
+savoir qui aura accès aux données et combien de temps elles seront conservées.
+
+Il ressort par ailleurs implicitement du texte de l'article 7 du projet de règlement grand-ducal que
+le ministre n'est pas impliqué dans la procédure des autorisations spécifiques à accorder, le cas
+échéant, par la Police grand-ducale auxvisiteurs et membres de la presse qui en font la demande.
+Ainsi, il apparaît qu'en vertu de l'article 2 paragraphe (1) point 8 de la loi du 1er août 2018 en
+matière pénale ainsi qu'en matière de sécurité nationale, la Police est à considérer comme
+responsable des traitements de données opérés dans le cadre desdites autorisations. La CNPD
+
+recommande donc aux auteurs de le préciser dans le corps du texte du projet sous avis.
+Finalement, la CNPD a constaté que, contrairement à l'article 6 du règlement grand-ducal sous
+avis, son article 7 ne précise pas qui est responsable pour délivrer les laissez-passer journalier
+pour les visiteurs et la presse. Est-ce qu'il s'agit de la société lux-Airport ? L'article 8 du projet de
+règlement grand-ducal prévoit dans ce contexte que les laissez-passer zone délimitée peuvent
+être délivrés par le responsable sûretéde chaque entité présente dans les zones délimitées. Estce que ces entités appartiennent dans leur ensemble à lux-Airport ou est-ce que d'autres sociétés
+seront présentes dans la zone aéroportuaire et qui seraient alors, le cas échéant, compétentes
+
+en la matière ? Si tel est le cas, la Commission nationale recommande de le préciser plus
+clairement dans le projet de texte réglementaire.
+Ad. Art. 13. Demande de vérification des_antécédents
+
+1. La collecte initiale des données à caractère personnel par la Police arand-ducale
+Selon l'article 13 paragraphe (2) du projet de règlement grand-ducal, une demande de vérification
+des antécédents est introduite par le requérant auprès de la Police-grand-ducale et non pas
+auprès du ministre. Suite à une telle demande, la Police grand-ducale recueillera différentes
+
+données à caractère personnel directement auprès des requérants (une collecte dite « directe »
+des données) (1. 1. ), mais elle procédera aussi à des collectes dites « indirectes » des données
+
+(1. 2. ).
+1. 1.
+
+La collecte directe de données à caractère personnel par la Police arand-ducale
+
+L'alinéa 3 du paragraphe (2) de l'article 13 du projet de règlement grand-ducal énumère en douze
+points quels éléments une demande de vérification des antécédents doit contenir. La Police
+
+grand-ducale reçoit donc directement des personnes en cause les données à caractère personnel
+
+;CNPD
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n'7475 portant modification de la loi modifiée du 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûretéde l'aviation civile et
+aux conditions d'accèsà l'aéroport de Luxembourg.
+
+13/24
+
+figurant dans une telle demande, comme par exemple l'identité du requérant, une liste des lieux
+de résidences des cinq dernières années ou encore un extrait du bulletin n°3 du casier judiciaire.
+La CNPD constate que le règlement modifié d'exécution 2015/1998 ne contient pas de liste à cet
+égard et elle salue ainsi le degré de détail avec lequel les auteurs du projet de règlement grandducal précisent les données à caractère personnel que ladite demande doit contenir. Pour ce qui
+est de l'exigence d'ajouter à la demande « un questionnaire biographique dûment rempli », la
+CNPD se demande toutefois quelles données à caractère personnel, en sus de celles déjà
+énumérées audit article 13 paragraphe (2) du projet de règlement grand-ducal, les demandeurs
+doivent fournir.
+1. 2.
+
+La collecte indirecte de données à caractère personnel par la Police grand-ducale
+
+En sus des informations collectées directement auprès des demandeurs et faute de précisions
+dans le texte du projet de règlement grand-ducal, la CNPD se demande si la Police grand-ducale
+procédera aussi à une collecte indirecte et quelles sont les sources de cette collecte indirecte de
+données. Il convient de scinder l'analyse de cette question en deux, en visant d'abord la
+vérification ordinaire des antécédents (1. 2. 1) et ensuite la vérification renforcée des antécédents
+(1. 2. 2). La CNPD abordera ensuite, à défaut de précisions dans le texte du projet de règlement
+grand-ducal, la question de la durée de validité des différentes vérifications des antécédents
+
+(1. 2. 3. ).
+1. 2. 1. La vérification ordinaire des antécédents
+
+Selon l'article 11. 1. 2 du règlement d'exécution 2019/103, les Etats membres peuvent décider de
+soumettre les personnes recrutées pour mettre en ouvre ou être responsables de la mise en
+ouvre de l'inspection/filtrage, du contrôle d'accès ou d'autres contrôles de sûreté « ailleurs que
+dans une zone de sûreté à accès réglementé, ou disposant d'un accès non accompagné au fret
+aérien et au courrier aérien, au courrier des transporteurs aériens et au matériel des transporteurs
+aériens, aux approvisionnements de bord et aux fournitures destinées aux aéroports qui ont fait
+l'objet des contrôles de sûreté requis » soit à une vérification ordinaire des antécédents, soit
+renforcée. Les auteurs du projet de règlement grand-ducal ont opté dans ce cas pour une
+vérification des antécédents ordinaire (article 14 du projet de règlement grand-ducal).
+L'article 13 paragraphe (3) alinéa 2 du projet de règlement grand-ducal précise que toute
+vérification ordinaire des antécédents doit établir l'identité de la personne sur la base de
+documents, prendre en considération le casier judiciaire dans tous les Etats de résidence au
+cours des cinq dernières années, ainsi que les emplois, les études et les interruptions au cours
+des cinq dernières années. Ladite vérification doit par ailleurs tenir compte des infractions
+mentionnées au paragraphe (4) de l'article en cause.
+
+t CNPD
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiéedu 26 juillet 2002 sur la
+police et sur ['exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûreté de l'aviation civile et
+
+aux conditions d'accèsà l'aéroport de Luxembourg.
+
+14/24
+
+Il ressort a priori des dispositions susmentionnées du projet de règlement grand-ducal que la liste
+des élémentsà prendre en compte par la Police grand-ducale dans le cadre d'une vérification
+ordinaire des antécédents est à considérer comme exhaustive, c'est-à-dire que la Police grandducale ne devrait pas prendre en compte d'autres informations qui lui sont directement ou
+indirectement disponibles ou accessibles.
+1. 2. 2. La vérification renforcée des antécédents
+
+Le paragraphe (3) alinéa 1er de l'article 13 du projet de règlement grand-ducal énumère quels
+éléments la vérification renforcée des antécédents doit contenir. Tout comme la vérification
+
+ordinaire, la vérification renforcée des antécédents doit tout d'abord permettre d'établir l'identité
+de la personne sur la base de documents, prendre en considération le casierjudiciaire dans tous
+les Etats de résidence au cours des cinq dernières années, les emplois, les études et les
+interruptions au cours des cinq dernières années et prendre en compte les infractions
+mentionnées audit paragraphe (4). Or, à la différence de la vérification ordinaire, une vérification
+
+renforcée des antécédents doit prendre en considération en plus des éléments précités « les
+informations des services de renseignement et toute autre information pertinente dont les
+autorités nationales compétentes disposent et estiment qu'elles peuvent présenter un intérêtpour
+apprécier l'aptitude d'une personne à exercer une fonction qui requiert une vérification renforcée
+de ses antécédents. »
+
+La CNPD constate que tous ces éléments sont repris textuellement du point 11. 1.3 de l'annexe
+du règlement d'exécution 2015/1998 tel que modifié par le règlement d'exécution 2019/103 de la
+Commission européenne. Elle souhaite à cet égard formuler des observations liées à deux
+différentes problématiques :
+
+1. l'éventuel accès de la Police grand-ducale à ses fichiers nationaux et aux systèmes
+d'information européens et internationaux ;
+
+2. les informations des services de renseignement et « toute autre information pertinente
+dont les autorités nationales compétentes disposent ».
+
+Les remarques concernant le premier point sont aussi pertinentes pour les demandes de
+vérification ordinaire des antécédents, mais elles ont une plus grande importance pour la
+vérification renforcée qui apparaît encore plus intrusive pour les droits et libertés des personnes
+concernées que la vérification ordinaire.
+
+r
+
+'problématique: les éventuels accès de la Police arand-ducale
+
+Il ressort de l'article 13 paragraphe (3) du projet de règlement grand-ducal que la liste des
+éléments à prendre en considération dans le cadre d'une vérification renforcée des antécédents
+
+I^CNPD
+Wjatisst ...
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiéedu 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûreté de l'aviation civile et
+aux conditions d'accès à l'aéroport de Luxembourg.
+
+15/24
+
+ne semble pas être exhaustive, car il y est prévu que « toute vérification renforcée des
+antécédents doit au moins [... ] » prendre en compte lesdits éléments. Cette formulation a aussi
+
+été reprise mot par mot du règlement d'exécution de la Commission euopéenne précité. Il ne
+ressort pas clairement du projet du texte réglementaire sous avis si la Police grand-ducale entend
+dans le cadre d'une demande de vérification renforcée des antécédents accéder aux données à
+
+caractère personnel contenues dans ses propres fichiers ou traitements de données nationaux
+
+(au nombre de 6227), comme par exemple le fichierdit « central »,28 le « fichier stupéfiants»29 le
+« fichier des avertissements
+
+taxés s30, etc., ainsi qu'aux données issues des systèmes
+
+d'information européens et internationaux comme les systèmes d'information précitésSchengen,
+Europol ou INTERPOL. Au vu des inquiétudes récentes des citoyens quant au respect des
+libertés publiques et la protection de leurs données personnelles dans le domaine policier et
+judiciaire, il est d'autant plus important que des clarifications sur les accès aux fichiers et
+systèmes susmentionnés se retrouvent au niveau de la loi au sens formel, donc dans le projet de
+loi n° 7475 également sous avis, surtout si on considère le communiqué du 22 juillet 2019 du
+ministère ayant la Police grand-ducale dans ses attributions sur la refonte complète de la
+législation nationale relative à la vérification des antécédents à l'aéroport de Luxembourg qui
+précise ce qui suit : « Vu la complexité du dossier, bon nombre de questions se posent et doivent
+être tranchées, notamment dans le contexte de /'accès au fichier central de la Police et de la
+conservation des données. »31.
+
+En France, les articles L. 6342-2 et L. 6342-3 du Code des transports précisent que les accès
+
+aux zones de sûreté à accès réglementé d'un aérodrome sont soumis à une habilitation qui est
+précédéed'une enquête administrative donnant lieu, le cas échéant, à consultation du bulletin n°
+2 du casierjudiciaire et des traitements automatisés de données à caractère personnel gérés par
+27 Comme révélé dans un article d'actualité intitulé « 62 TYPES DE FICHIERS » publié le 7 novembre 2019 sur le
+site de la Chambre des députés :
+
+httDS://www. chd. lu/wDS/DOrtal/Dublic/Accueil/Actualite/ALaUne/?current=true&urile=wcm%3ADath%3Aactualite. publie.
+chd. lu/ST-www.chd. lu/sa-actualites/3532efOa-6f63-45c6-9894-186e876dd120(onsulté en dernier lieu le 5 décembre
+2019).
+28 D'après la réponse commune de monsieur le ministre ayant la Police grand-ducale dans ses attributions François
+BAUSCH et de monsieur le ministre de la Justice Félix BRAZ à la question parlementaire n°752 du 4 juin 2019 le
+
+ff fichier dit « central » comporte tous les procès-verbaux et rapports rédigés par les officiers et agents de police
+Judiciaire dans le cadre de leur mission de police judiciaire. »
+
+29 Qui d'après la réponse du ministre ayant la Police grand-ducale dans ses attributions à question 1190 du 10
+septembre 2019 concernant le fichier en matière de stupéfiants auprès de la Police grand-ducale contient « des
+informations pertinentes en matière de lutte contre te trafic illicite de stupéfiants qui peuvent ou non être des données
+à caractère personnel. »
+
+30 D'après la réponse de monsieur le ministre ayant la Police grand-ducale dans ses attributions François BAUSCH à
+la question parlementaire n'1068 du 16 août 2019, le « fichier des avertissements taxés (AT) a étécréé dans le cadre
+du règlement grand-ducal du 21 décembre 2004 portant autorisation de la création d'un fichier des personnes ayant
+subi un avertissement taxé en matière de circulation routière et modification du règlement grand-ducai du 7 juin 1979
+déterminant les actes, documents et fichiers autorisés à utiliser le numéro d'identité des personnes physiques et
+morales. »
+
+31 Communiqué par le ministère ayant [a Police grand-ducale dans ses attributions du 22 juillet 2019 disponible sur le
+site Internet du gouvernement : httDS://aouvemement. lu/fr/actualites/toutes ac1:ualites/articles/2019/07-iuilleV22bausch-leaislation-aeroDort.html (accédéen dernier lieu le 17 octobre 2019).
+
+tCNPD
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiée du 26 juillet 2002 sur la
+police et sur l'expioitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûreté de l'aviation civile et
+aux conditions d'accès à l'aéroport de Luxembourg.
+
+16/24
+
+les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la
+loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception
+des fichiers d'identification. D'après ledit article, les traitements de données à caractère personnel
+mis en ouvre pour le compte de l'Etat et qui soit intéressent la sûreté de l'Etat, la défense ou la
+sécurité publique, soit ont pour objet la prévention, la recherche, la constatation ou la poursuite
+des infractions pénales ou l'exécution des condamnations pénales ou des mesures de sûreté,
+incluant ainsi les traitements opérés par les services de police et de gendarmerie nationales,
+doivent être autorisés par arrêté du ou des ministres compétents, pris après publication d'un avis
+motivé de la Commission nationale de l'informatique et des libertés (l'homologue français de la
+CNPD). Lesdits traitements sont ainsi tous encadrés légalement, comme par exemple le fichier
+des antécédents judiciaires32, le fichier d'analyse sérielle33 ou encore le fichier des personnes
+recherchées34.
+
+Par ailleurs, se pose la question de savoir si la Police grand-ducale procédera au contrôle de
+l'exactitude et de la véracité des indications des demandeurs concernant leurs emplois, études
+et interruptions au cours des cinq dernières années. La CNPD se demande ainsi si la Police
+accédera, le cas échéant, au fichier relatif aux affiliations des salariés, des indépendants et des
+employeurs géré par le Centre commun de la sécurité sociale sur base de l'artide 413 du Code
+de la Sécurité sociale qui lui est accordé par l'article 43 point 2° de la loi modifiée du 18 juillet
+2018 sur la Police grand-ducale et si, en sus, elle accédera dans ce contexte à d'autres bases de
+données que celles mentionnées audit article 43, comme par exemple la base de données de
+l'Agence pour le développement de l'emploi (ADEM). Il serait aussi pertinent de savoir comment
+la Police grand-ducale vérifiera, le cas échéant, l'exactitude des données indiquées par les
+travailleurs non-résidents dans leurs demandes. A priori, comme la Police grand-ducale ne
+dispose pas d'accès aux fichiers correspondants des pays étrangers, ce contrôle peut paraître
+moins efficace et moins intrusif que celui pour les travailleurs résidents.
+^ems problématique : les services de renseignement
+compétentes »
+
+et les « autorités nationales
+
+[-'article 13 paragraphe (3), point 4° du projet de règlement grand-ducal prévoit que toute
+vérification renforcée des antécédents doit « prendre en considération les informations des
+services de renseignement et toute autre information pertinente dont les autorités nationales
+compétentes disposent et estiment qu'elles peuvent présenter un intérêt pour apprécier l'aptitude
+d'une personne à exercer une fonction qui requiert une vérification renforcée de ses
+antécédents. ». Cette disposition est reprise intégralement de l'article 11. 1. 3 lettre d) de l'annexe
+du règlement d'exécution 2019/103 de la Commission européenne et le commentaire des articles
+reste totalement muet à cet égard. Or, la Commission nationale souhaite mettre en exergue trois
+points.
+32 Prévu par les articles 230-6 à 11 du Code de procédure pénale français.
+33 Prévu par les articles 230-12 à 18 du Code de procédure pénaie français.
+
+34 Prévu par ['article 230-19 du Code de procédure pénalefrançais.
+
+.
+
+CNPD
+
+"9
+.... fiBM
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1, projet de loi n°7475 portant modification de la loi modifiée du 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûreté de ['aviation civile et
+aux conditions d'accès à l'aéroport de Luxembourg.
+
+17/24
+
+Tout d'abord, même si l'article en question mentionne les services de renseignement au pluriel,
+la Commission nationale comprend qu'au niveau national est visé uniquement le Service de
+
+renseignement de l'Etat réglementé par la loi modifiée du 5 juillet 2016. L'article 9 de ladite loi
+prévoit même expressément en son paragraphe (2) que le Service de renseignement de l'Etat
+« communique dans les meilleurs délais les renseignements collectés dans le cadre de ses
+missions aux autorités judiciaires, aux services de la police grand-ducale et aux administrations
+dans la mesure où ces renseignements paraissent utiles à l'accomplissement de leurs missions
+respectives. » Pour éviter toute ambiguïté, la CNPD recommande aux auteurs de remplacer dans
+le texte les mots « les services de renseignement » par « le Service de renseignement de l'Etat ».
+Ensuite, le point 4° sous revue mentionne que la Police grand-ducale doit prendre en compte
+« toute autre information pertinente dont les autorités nationales compétentes disposent». Il
+paraît indispensable pour la CNPD que le texte précise quelles sont les entités visées par les
+termes susmentionnés « tes autorités nationales compétentes ». En effet, il ne devrait pas y avoir
+de difficultés pour identifier les autorités compétentes dans ce contexte. A titre de comparaison,
+la loi allemande concernant la sécurité aérienne (« Luftsicherheitsgesetz ») énumère en sa
+section 7 paragraphe (3) quelles autorités nationales l'administration de la sûreté du transport
+aérien (« Luftsicherheitsbehôrde ») peuvent contacter dans le cadre d'une vérification des
+antécédents et pour autant que ceci soit nécessaire pour l'évaluation de la fiabilité de la personne
+en
+
+cause3 5.
+
+Sur base de la section 2 de la loi modifiée du 22 février 2018 relative à l'échange de données à
+caractère personnel et d'informations en matière policière, la transmission de données à
+caractère personnel et d'informations de la Police grand-ducale aux autres administrations de
+l'Etat est possible, si une loi autorise ce transfert et si les autres conditions cumulativement
+prévues à l'article 24 de ladite loi sont respectées. Or, il ne ressort pas clairement de l'article 13
+paragraphe (4) du projet de règlement grand-ducal s'il vise effectivement la transmission de
+données de la Police grand-ducale vers ces autorités nationales compétentes, ou plutôt l'inverse,
+c'est-à-dire le transfert de données desdites autorités vers la Police grand-ducale. Dans les
+amendements gouvernementaux du 1er août 2017, les auteurs du projet de loi n-6976 devenu la
+loi du 22 février 2018 précitée ont précisé que la section 2 vise uniquement les « transmissions
+« à sens unique », c'est-à-dire de la part de la Police grand-ducale vers des administrations de
+l'Etat - la transmission des données et informations dans l'autre sens étant d'ores et déjà prévue
+par l'article 23, paragraphe 2, du Code de procédure pénale. ». Or, comme les autorités
+compétentes n'auront pas connaissance si une personne déterminée a introduit une demande de
+vérification des antécédents auprès de la Police grand-ducale, cette dernière devra les contacter
+de sa propre initiative. Ainsi, il apparaît nécessaire d'inclure dans le projet de règlement grand35
+
+s'agit des autorités suivantes : « Polizeivollzugs- und den Verfsssungsschutzbehôrdender Làndersowie, soweit
+
+im Einzelfall erforderlich. dem Bundeskriminalamt, dem Zollknminaiamt, dem Bundesamt fur Verfassungsschutz, dem
+Bundesnachrichtendienst, dem Militàrischen Abschirmdienst und der Bundesbeauftragten fur die Unterlagen des
+Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik. »
+
+ïCNPD
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiéedu 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûretéde l'aviation civile et
+aux conditions d'accèsà l'aéroport de Luxembourg.
+
+18/24
+
+ducal une liste qui détermine les autorités que la Police grand-ducale devra contacter
+systématiquement en cas de réception d'une demande de vérification des antécédents.
+
+Pour conclure et résumer les observations relatives à cette partie, la CNPD estime que le projet
+de loi n°7475 devrait préciser les éventuels accès de la Police grand-ducale à ses propres
+fichiers, à d'autresfichiers nationauxet auxsystèmesd'information européenset internationaux
+dans le cadre des vérifications des antécédents. Le projet de règlement grand-ducal devrait
+également indiquer quelles sont les entités visées par les termes « les autorités nationales
+compétentes », ainsi que les conditions et modalités du transfert de données de ces autorités
+vers la Police grand-ducale.
+1. 2. 3. La durée de validité des différentes vérifications des antécédents
+
+Par ailleurs, selon ['alinéa 2 du paragraphe (2) de l'article 13 du projet de règlement grand-ducal
+sous avis, le titulaire d'une décision positive relative à la vérification des antécédents doit
+introduire une demande de renouvellement au moins trois mois avant la fin de validité de la
+
+vérification des antécédents actuelle. Le point 11. 1. 7 de l'annexe au règlement d'exécution
+2015/1998 de la Commission européenne du 5 novembre 2015, tel que modifié par le règlement
+d'exécution 2019/103 de la Commission européenne du 23 janvier 2019, laisse en effet le choix
+aux Etats membres soit de mettre en place un mécanisme de contrôle continu des éléments
+
+examinés dans le cadre d'une vérification ordinaire et renforcée des antécédents grâce à la
+notification rapideà « /'autoritécompétente, à l'exploitantou à l'entitéde délivrance, selon le cas,
+de tou( événementsusceptible d'avoir une incidence sur la fiabilitéde la personne concernée»,
+soit de prévoir un renouvellement à intervalles réguliers ne dépassantpas douze mois pour les
+vérifications renforcées des antécédents et trois ans pour les vérifications ordinaires des
+
+antécédents.Ce n'est qu'en lisant le commentaire des articles qu'on comprend que les auteurs
+ont l'intention de reprendre lesdites durées de validité, et que donc la vérification des antécédents
+
+ordinaires a une durée de validité de 3 ans, tandis que la vérification renforcée expire déjà après
+12 mois.
+
+2. Les critères à prendre en compte par la Police arand-ducale pour émettre son avis
+
+Le texte du projet de règlement grand-ducal ne précise nul part quels critères ou quel degré de
+gravité des antécédents sont pris en compte par la Police grand-ducale pour apprécier une
+demande de vérification des antécédents, c'est-à-dire pour émettre son avis en la matière. La
+
+CNPD s'interroge notamment si toute inscription au casier judiciaire par exemple entraîne
+automatiquement une appréciation négative en matière de vérification des antécédents ou si, par
+
+contre, les inscriptionsdoivent avoiratteint un certain niveau de gravité.La loi allemande précitée
+concernant la sécurité aérienne prévoit par exemple en sa section 7 paragraphe (1a) qu'une
+personne n'a pas atteint le niveau de fiabilité requis si, entre autres, elle a été condamnée lors
+
+des dernières dix années à une peine d'emprisonnement d'au moins un an.
+
+;CNPD
+aa~
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiée du 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûreté de l'aviation civile et
+aux conditions cf'accès à l'aéroport de Luxembourg.
+
+19/24
+
+A titre de comparaison, il convient de relever que l'article 26 de la loi modifiée du 8 juillet 2018
+sur la Police grand-ducale confère une nouvelle mission à la Police grand-ducale, qui consiste à
+réaliser sur demande des vérifications de sécuritédu personnel externe des institutions, organes
+et organismes de l'Union européenne qui ont leur siège au Luxembourg, comme par exemple la
+Cour de Justice de ['Union européenne, la Cour des Comptes européennes ou encore la Banque
+européenne d'investissement. L'article 3 du règlement grand-ducal du 28 juillet 2018 portant
+exécution dudit article 26 de la loi du 18 juillet 2018 sur la Police grand-ducale prévoit que ces
+vérifications de sécurité sont réalisées sur base de critères ciblés et spécifiques, indiqués par
+l'institution, l'organe ou l'organisme requérant en concertation avec la Police. La disposition en
+question précise qu'au « terme de la vérification la Police émet un avis basé sur les critères visés
+
+à f alinéa ter qu'elle transmet à l'institution, organisme ou organe pour le compte de laquelle la
+vérification a été faite ». Dans le commentaire des articles, les auteurs dudit règlement grandducal ont expliqué que cette disposition vise précisément à assurer que la Police n'ait à répondre
+que par rapport à l'existence des critères d'exclusion préalablement fixés.
+Afin d'éviter l'arbitraire et de respecter le principe de transparence vis-à-vis des demandeurs
+d'une vérification ordinaire et renforcée des antécédents, le texte du projet de règlement grandducal devrait aux yeux de la CNPD définir en détail quels sont les critères à prendre en compte
+par la Police grand-ducale pour aviser une telle demande.
+Dans cet ordre d'idée, une référence à l'avis de la Cour de Justice de l'Union européenne du 26
+
+juillet 2017 concernant l'accord envisagé entre le Canada et l'Union européenne sur le transfert
+et le traitement de données des dossiers passagers s'avère pertinente. En effet, la Cour a estimé
+
+que pour que l'accord envisagé soit compatible avec les articles 7 et 8, ainsi qu'avec l'article 52
+paragraphe (1) de la Charte européenne des droits de l'homme, il doit, entre autres, « prévoir que
+tes modèles et les critères utilisés dans le cadre du traitement automatisé des données PNR
+
+seront spécifiques et fiables ainsi que non discriminatoires » et « que les bases de données
+utilisées seront limitées à celles exploitées par le Canada en rapport avec la lutte contre le
+terrorisme et la criminalité transnationale grave. »36. Le Contrôleur européen de la protection des
+données avait noté dans ce contexte qu'une évaluation sur base de critères inconnus en
+constante évolution suscite d'importantes inquiétudes en matière de transparence et de
+proportionnalité37.
+Il convient de citer par ailleurs l'article 12 de la loi du 1er août 2018 en matière pénale ainsi qu'en
+
+matière de sécurité nationale, qui énumère, sauf exceptions prévues dans son paragraphe (3),
+les informations à mettre à disposition de la personne concernée par le responsable du
+traitement, comme par exemple les finalités du traitement, la base juridique du traitement, la
+
+36 Avis 1/15 de la CJUE du 26 juillet 2017 concernant l'accord envisagé entre le Canada et l'Union européenne sur le
+transfert et le traitement de données des dossiers passagers, paragraphe 232.
+
+37 Avis 2011/C 181/02 du 22 juin 2011 du Contrôleur européen de la protection des données sur la proposition de
+directive du Parlement européen et du Conseil relative à l'utilisation des données des dossiers passagers pour la
+prévention et la détectiondes infractions terroristes et desformes graves de criminalité, ainsi que pour les enquêtes et
+les poursuites en la matière, paragraphe 16.
+
+. CNPD
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiéedu 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûretéde l'aviation civile et
+aux conditions d'accès à l'aéroport de Luxembourg.
+20/24
+
+durée de conservation des données ou encore les catégories de destinataires des données à
+caractère personnel, ainsi qu'au besoin, des informations complémentaires. Pour les raisons
+susmentionnées de transparence, la CNPD est d'avis que les demandeurs d'une vérification des
+antécédents doivent être informés des critères sur lesquels la Police grand-ducale avise leur
+demande et le ministre prend sa décision.
+
+Dans un souci de transparence et de sécurité juridique, la CNPD recommande d'intégrer les
+durées de validité des différentes vérifications des antécédents dans le corps du texte du projet
+de règlement grand-ducal.
+
+3. Les données traitées dans le cadre de l'avis de la Police arand-ducale et de la décision du
+ministre
+
+La CNPD relève qu'il semble exister une contradiction entre l'article 1er paragraphe (2) du projet
+de loi n°7475 qui prévoit que le ministre prend les décisions relatives à la vérification des
+
+antécédents sur «avis» de la Police grand-ducale, et l'article 13 paragraphe (1), deuxième
+phrase du projet de règlement grand-ducal qui impose non seulement à la Police grand-ducale
+la transmission d'un avis au ministre, mais également de « toutes tes données émanant de la
+recherche des antécédents ».
+
+Les textes sous avis étant plus que vagues, un certain nombre de questions se posent à cet
+égard :
+
+Y a-t-il création d'un nouveau fichier par la Police grand-ducale dans la mesure où celleci procède à la collecte directe et indirecte de données dans le cadre des vérifications des
+antécédents des demandeurs ?
+
+Le fait-elle à titre de responsable du traitement ou à titre de sous-traitant pour le compte
+du ministre ? (cf. point « 1. 2. Quantau responsable du traitement » du présentavis)
+L'avis à émettre par la Police grand-ducale sur base du nouvel article 1er paragraphe (2)
+du projet de loi n°7475 est-il limité à une appréciation positive ou négative relative à la
+demande, dans la mesure où l'avis doit a priori être accompagnéde toutes les données
+émanant de la recherche des antécédents ?
+
+Dans la mesure où l'article 13 paragraphe(1) du projet de règlementgrand-ducal prévoit
+que la Police grand-ducale doit continuer toutes les données émanant de la recherche
+
+des antécédents au ministre ayant la Police grand-ducale dans ses attributions, créera-t-
+
+il égalementunfichierdansle cadredu traitementde donnéesen questionou supprimerat-il les données après sa prise de décision ?
+
+Enfin, l'article 13 paragraphe (1) du projet de règlement grand-ducal prévoit que dans le cadre
+des décisions relatives à la vérification des antécédents, le ministre peut demander à la Police
+grand-ducale « toute information supplémentaire qu'il Juge nécessaire. » Le commentaire des
+
+articles ne donne pas plusd'explicationsà cet égard.Cetteformulation étanttrèsvague, la CNPD
+se demande dans quel mesure le ministre demandera des informations supplémentaires.
+
+CNPD
+
+Bi
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiée du 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûreté de l'aviation civile et
+aux conditions d'accès à l'aéroport de Luxembourg.
+
+21/24
+
+Pourrait-il estimer que les informations prévues aux paragraphes (2) à (4) de l'article 13 du projet
+de règlement grand-ducal ne sont pas suffisantes pour évaluer la fiabilité d'un demandeur d'une
+vérification des antécédents ou pourrait-il estimer que le dossier du demandeur lui transmis par
+la Police grand-ducale est incomplet ou que la Police grand-ducale n'aurait pas vérifié ou pris en
+compte toutes les informations nécessaires ?
+Afin de répondre aux exigences de prévision et de prévisibilité auxquelles doit répondre un texte
+légal, la CNPD estime nécessaire que les textes sous avis soient clarifiés par rapport aux
+questions soulevées ci-avant.
+4.
+
+La durée de conservation des données
+
+L'artide 3 paragraphe (1) lettre e) de la loi du 1er août 2018 en matière pénale ainsi qu'en matière
+de sécurité nationale prévoit que le responsable du traitement peut seulement conserver les
+données à caractère personnel sous une forme permettant l'identification des personnes
+concernées pendant une durée n'excédant pas celle nécessaire au regard des finalités pour
+lesquelles les données sont traitées.
+Ni le projet de loi n°7475, ni le projet de règlement grand-ducal sous examen ne précisent une
+durée de conservation des données à caractère personnel traitées dans le cadre des demandes
+de vérification des antécédents.
+
+La CNPD rappelle dans ce contexte que dans son avis du 28 décembre 2017 relatif au projet de
+loi n°7168 de transposition de la Directive 2016/68038, la CNPD avait estimé que l'article 5 de la
+Directive 2016/680 n'était pas correctement transposé en droit national en ce sens qu'il ne devrait
+pas appartenir à chaque responsable du traitement de fixer les délais de conservation des
+données, mais qu'il devrait revenir au législateur de les fixer de manière précise dans des lois
+spéciales et ceci pour chaque traitement de données. Le législateur n'avait cependant pas suivi
+l'argumentation de la CNPD en choisissant de confier au responsable du traitement la fixation
+des délais de conservation des données ainsi que les règles procédurales en vue d'assurer le
+respect de ces délais38.
+Or, dans le contexte des discussions actuelles relatives au fichier central de la Police grandducale, le ministre ayant la Police grand-ducale dans ses attributions a informé la Chambre des
+députés qu'un projet de loi précisant le cadre législatif du fichier central de la Police grand-ducale
+et, le cas échéant, d'autres fichiers de la Police, et prenant en compte les recommandations de
+la CNPD, serait soumis à la Chambre des députés avant les vacances de Noël. 40 Dans cette
+38 Délibération n° 1049/2017 du 28 décembre 2017.
+
+39 Article 4 de la loi du 1er août 2018 en matière pénale ainsi qu'en matière de sécurité nationale.
+40 Comme révélé dans un article d'actualité publié le 25 septembre 2019 sur le site de la Chambre des députés ;
+https://cnpd. msD. etat. lu/DocrdD/2018/2gi9%2009%2026%20CHD%20Chambre%20des%20D%C3%A9DUt%C3%A9
+s%20du%20Grand-Duch%C3%A9%20de%20Luxemboura.
+Ddf (consulté en dernier lieu le 5 décembre 2019).
+
+CNPD
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiéedu 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûreté de l'aviation civile et
+
+aux conditions d'accèsà l'aéroport de Luxembourg.
+
+22/24
+
+optique, la CNPD estime nécessaire que le projet de loi n°7475 devrait préciser les délais de
+conservation des données.
+
+D autres pays ont précisé des durées de conservation spécifiques dans leurs lois nationales,
+comme par exemple l'Allemagne. En effet, le paragraphe (11) 1er point de la section 7 de la loi
+
+allemande précitée concernant la sécurité aérienne prévoit que les administrations de la sûreté
+du transport aérien sont obligées de supprimer les données collectées dans le cadre de la
+
+vérification des antécédentstrois ans après la durée de validité de la vérification. En cas de
+décision négative, la suppression des données s'impose deux ans après le refus ou la révocation
+et en cas de retrait d'une demande par la personne concernée, immédiatement après ledit retrait
+au cas où la demande n'a pas encore ététraitée. Le point 2 du paragraphe (11) de la section 7
+précitée prévoit des durées de conservation spécifiques pour différentes autorités publiques, qui
+sont limitativement énumérées par la loi en question, et auxquelles les administrations de la
+sûreté du transport aérien peuvent demander des renseignements, comme par exemple aux
+autorités répressives. Ces autorités sont obligées de supprimer les données traitées dans le
+
+cadre d'une vérification des antécédents trois mois après la fin de validité d'une vérification,
+calculéà partir du moment de la demandede renseignement par une administration de la sûreté
+du transport aérien, ou, immédiatement après avoir été informé par une telle administration d'un
+refus, retrait ou d'une révocation d'une demande de vérification des antécédents.
+Ainsi, la CNPD rappelle sa recommandation émise dans le cadre de son avis relatif au fichier
+
+central de la Police grand-ducale dans lequel elle estime que « tes dé/a/s de conservation ou du
+mo/ns tes critères applicables pour déterminer la durée de conservation ainsi que les procédures
+permettant la vérification régulière de la nécessité lesdits délais mériteraient d'être précisés par
+te législateur a fin de limiter au maximum la marge de manoeuvre du responsable du traitement et
+garantir la transparence, l'accessibilité et la proportionnalité desdits délais. »41.
+
+En conclusion, la CNPD estime qu'en l'état actuel, les textes sous avis ne respectent pas les
+exigences de précision et de previsibilité auxquelles doit répondre un texte légal. Elle estime
+nécessaire que les textes soient précisés sur les points suivants :
+la détermination du responsable du traitement et de l'éventuel sous-traitant. voire même
+d'une responsabilité conjointe dans le cadre du traitement des demandes de vérification
+des antécédents ;
+
+les finalités poursuivies par te traitement de données ;
+
+41 Délibération n°45/2019 du 13septembre2019, p. 30.
+
+1CNPD
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiée du 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûreté de l'aviation civile et
+aux conditions d'accès à l'aéroport de Luxembourg.
+
+23/24
+
+les éventuels accès de la Police grand-ducale à ses propres fichiers, aux autres fichiers
+nationaux et aux systèmes d'information européens et internationaux dans le cadre des
+demandes de vérifications des antécédents ;
+
+les modalités d'accès et d'échangede données entre la Police grand-ducale et le ministre
+dans ce contexte et l'éventuelle création de nouveaux fichiers ;
+la durée de conservation des données ;
+
+les critères à prendre en compte par la Police grand-ducale pour aviser une demande de
+vérification des antécédents ;
+
+les critères à prendre en compte par le ministre pour accorder ou refuser une demande
+de vérification des antécédents ;
+
+les entités visées à l'article 13 paragraphe (3) point 4" du projet de règlement grand-ducal
+
+par les termes « autorités nationales compétentes », ainsi que les conditions et modalités
+du transfert de données de ces autorités vers la Police grand-ducale ;
+les durées de validité des différentes vérifications des antécédents ;
+
+les critères à prendre en compte par la Police grand-ducale dans le cadre des
+autorisations spécifiques accordées, le cas échéant, aux visiteurs et membres de la
+
+presse, ainsi que des précisions sur l'autorité compétente pour délivrer des laissez-passer
+journalier pour les visiteurs et membres de la presse.
+
+Ainsi décidé à Esch-sur-Alzette en date du 17 décembre 2019.
+
+La Commission nationale pour la protection des données
+
+)^ U"W,^
+Tine A. Lar'sen
+Présidente
+
+ICNPD
+
+Thierry Lallemang
+Commissaire
+
+(nStophe Buschmann
+Commissaire
+
+Marc Lemmer
+Commissaire
+
+Avis de la Commission nationale pour la protection des données
+relatif au 1. projet de loi n°7475 portant modification de la loi modifiée du 26 juillet 2002 sur la
+police et sur l'exploitation de l'aéroport de Luxembourg ainsi que sur la construction d'une
+nouvelle aérogare ; 2. projet de règlement grand-ducal relatif à la sûreté de l'aviation civile et
+aux conditions d'accès à l'aéroport de Luxembourg.
+
+24/24
+
+

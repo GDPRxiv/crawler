@@ -1,0 +1,233 @@
+1/5
+
+ Procedimiento Nº: E/07939/2019
+940-0419
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes:
+HECHOS
+PRIMERO: La reclamación interpuesta por Dña. A.A.A. (en adelante, la reclamante)
+tiene entrada con fecha 1 de abril de 2019 en la Agencia Española de Protección de
+Datos.
+La reclamación se dirige contra Energya Vm Gestión De Energía S.L.U., con
+NIF B83393066 (en adelante, el reclamado).
+La reclamante manifiesta que recibió un escrito de bienvenida del reclamado,
+indicando ser su nueva compañía de suministro de electricidad y gas. Adjuntando unos
+contratos donde figuran tanto sus datos personales, como los bancarios.
+Posteriormente, el 12 de marzo de 2019, le informan que se había producido
+un incumplimiento contractual; y en este sentido le indican que si no firma el
+documento adjunto "Acuerdo de restablecimiento del contrato de suministro" tendría
+que abonar una indemnización. Es más, se generaron dos facturas, siendo una de
+ellas del día 15 de marzo del 2019 y la otra del día 22 del mismo mes y año.
+Y, a estos efectos, la reclamante desconoce cómo han podido obtener sus
+datos, ya que nunca ha sido cliente de dicha compañía y tampoco ha suscrito ningún
+contrato con el reclamado.
+Aporta, entre otra, la siguiente documentación:
+-
+
+Comunicación de bienvenida
+
+-
+
+Contratos de suministro de electricidad y gas de fecha 19 de febrero de
+2019
+
+-
+
+Advertencia para la aceptación del restablecimiento del servicio de fecha 12
+de marzo de 2019
+
+-
+
+Facturas de 15 y 22 de marzo de 2019
+
+-
+
+Escrito de queja presentado ante el reclamado el 28 de marzo de 2019.
+
+SEGUNDO: De conformidad con el artículo 65.4 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+adelante LOPDGDD), con número de referencia E/05120/2019, se dio traslado de
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/5
+
+dicha reclamación al reclamado, para que procediese a su análisis e informase a esta
+Agencia en el plazo de un mes, de las acciones llevadas a cabo para adecuarse a los
+requisitos previstos en la normativa de protección de datos.
+TERCERO: Con fecha 9 de agosto de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó admitir a trámite la reclamación presentada por la
+reclamante.
+CUARTO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+Con fecha 23 de agosto de 2019, el reclamado manifiesta a esta Agencia que
+el proceso de contratación de la reclamante ha sido correcto conforme a sus
+mecanismos de validación.
+Así consta que contrató el suministro el 19 de febrero de 2019, que lo realizó y
+se validó telefónicamente, empleando para la validación la intervención de un tercero
+de confianza, regulado en el artículo 25 de la Ley 34/2002, de 11 de julio, quien remite
+al número de teléfono móvil facilitado por el Cliente en la contratación un SMS
+certificado con la información precontractual y una URL personalizada con información
+adicional.
+Añaden que la aceptación de la contratación se produce con la contestación
+afirmativa del cliente al SMS certificado. Con la recepción del SMS se genera un
+certificado electrónico acreditativo de dicha aceptación en el que figuran las
+Condiciones Generales y los Anexos que procedan según los servicios contratados o
+exigencias normativas. Tras ello, envían el contrato al domicilio del cliente.
+Por otra parte, señalan que anularon la penalización por baja anticipada de
+contrato, que actualmente sus contratos se encuentran finalizados, y que han
+contestado a la reclamante.
+Asimismo, en el contrato de servicio está recogido el concurso de un tercero de
+confianza para perfeccionar el contrato, se comprueban verbalmente los datos
+personales, bancarios y los puntos de suministro de la reclamante.
+Por último, con respecto a la solicitud de cambio de suministradora de energía,
+se puede comprobar en esta grabación que se informa a la reclamante del cambio de
+suministradora, de las condiciones del contrato, las tarifas aplicables, y de la
+validación de la contratación mediante SMS, manifestando la reclamante su acuerdo
+con estos aspectos. Se le informa también que dispone de un periodo de
+desistimiento de catorce días.
+Y aportan la siguiente documentación:
+Contestación de fecha 2 de abril de 2019 a la reclamación formulada por la
+reclamante.
+Copia del contrato.
+Grabación telefónica de la contratación.
+Certificado electrónico de aceptación del contrato.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/5
+
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+De conformidad con lo establecido en el artículo 55 del RGPD, la Agencia
+Española de Protección de Datos es competente para desempeñar las funciones que
+se le asignan en su artículo 57, entre ellas, la de hacer aplicar el Reglamento y
+promover la sensibilización de los responsables y los encargados del tratamiento
+acerca de las obligaciones que les incumben, así como tratar las reclamaciones
+presentadas por un interesado e investigar el motivo de estas.
+Corresponde, asimismo, a la Agencia Española de Protección de Datos ejercer
+los poderes de investigación regulados en el artículo 58.1 del RGPD, entre los que
+figura la facultad de ordenar al responsable y al encargado del tratamiento que faciliten
+cualquier información que requiera para el desempeño de sus funciones.
+Correlativamente, el artículo 31 del RGPD establece la obligación de los
+responsables y encargados del tratamiento de cooperar con la autoridad de control
+que lo solicite en el desempeño de sus funciones. Para el caso de que éstos hayan
+designado un delegado de protección de datos, el artículo 39 del RGPD atribuye a
+éste la función de cooperar con dicha autoridad.
+Del mismo modo, el ordenamiento jurídico interno también prevé la posibilidad
+de abrir un período de información o actuaciones previas. En este sentido, el artículo
+55 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, otorga esta facultad al órgano competente con el fin de
+conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el
+procedimiento.
+III
+El artículo 6 del RGPD, regula la licitud del tratamiento estableciendo lo
+siguiente:
+“1. El tratamiento solo será lícito si se cumple al menos una de las siguientes
+condiciones:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/5
+
+a) el interesado dio su consentimiento para el tratamiento de sus datos personales
+para uno o varios fines específicos;
+b) el tratamiento es necesario para la ejecución de un contrato en el que el
+interesado es parte o para la aplicación a petición de este de medidas
+precontractuales;
+c) el tratamiento es necesario para el cumplimiento de una obligación legal
+aplicable al responsable del tratamiento;
+d) el tratamiento es necesario para proteger intereses vitales del interesado o de
+otra persona física;
+e) el tratamiento es necesario para el cumplimiento de una misión realizada en
+interés público o en el ejercicio de poderes públicos conferidos al responsable del
+tratamiento;
+f) el tratamiento es necesario para la satisfacción de intereses legítimos
+perseguidos por el responsable del tratamiento o por un tercero, siempre que
+sobre dichos intereses no prevalezcan los intereses o los derechos y libertades
+fundamentales del interesado que requieran la protección de datos personales, en
+particular cuando el interesado sea un niño.
+Lo dispuesto en la letra f) del párrafo primero no será de aplicación al tratamiento
+realizado por las autoridades públicas en el ejercicio de sus funciones.”
+IV
+En el presente caso, la reclamante presenta reclamación contra el reclamado,
+por una presunta vulneración del artículo 6 del RGPD en relación con la licitud del
+tratamiento de sus datos personales porque se han utilizado sus datos personales sin
+su consentimiento para la contratación de suministros.
+De la documentación obrante en el expediente se desprende ausencia del
+elemento subjetivo de culpabilidad necesario en la actuación del reclamado para
+ejercer la potestad sancionadora.
+En este sentido, el reclamado manifiesta que tomaron todas las medidas de
+seguridad, ya que el contrató se realizó y se validó telefónicamente, empleando para la
+validación la intervención de un tercero de confianza, regulado en el artículo 25 de la
+Ley 34/2002, de 11 de julio, quien remite al número de teléfono móvil facilitado por el
+Cliente en la contratación un SMS certificado con la información precontractual y una
+URL personalizada con información adicional.
+Cabe además tener en cuenta que anularon la penalización por baja anticipada
+de contrato y que actualmente sus contratos se encuentran finalizados.
+Todas estas actuaciones indican el cumplimiento de una diligencia razonable
+por parte del reclamado.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/5
+
+En consecuencia, procede el archivo de las presentes actuaciones previas de
+investigación al no advertir incumplimiento alguno de la normativa de protección de
+datos, puesto que los hechos constatados no evidencian conducta subsumible en el
+catálogo de infracciones previstas y sancionadas en dicha normativa.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución al reclamante y reclamado.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

@@ -1,0 +1,304 @@
+1/6
+
+
+
+Procedimiento Nº: E/11882/2019
+
+907-141019
+
+RESOLUCIÓN ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes:
+HECHOS
+PRIMERO: Con fecha 15/10/19, se reciben en esta Agencia escrito de A.A.A., (en
+adelante, “el reclamante”), en la que se indica, entre otras, lo siguiente:
+“La empresa/empresas que actúan como emisor de correos publicitarios no deseados
+casi diarios se trata de. www.fabricaiphone.com y www.reacondicionadoiphone.com ,
+son dos webs gemelas ya que su diseño y los datos y correos de contacto que
+proporcionan son iguales. He intentado solicitar la baja de correos comerciales en
+diferentes ocasiones sin respuesta alguna. Respondiendo a sus correos comerciales
+mostrando interés por alguno de sus productos hacen caso omiso. El canal de acceso
+a mi correo electrónico es a través de mi página web www.selecinstalaciones.com y
+correo electrónico info@selecinstalaciones.com”.
+SEGUNDO: A la vista de los hechos expuestos en la reclamación y de los documentos
+aportados por el reclamante, la Subdirección General de Inspección de Datos procedió
+a realizar actuaciones para su esclarecimiento, al amparo de los poderes de
+investigación otorgados a las autoridades de control en el artículo 57.1 del Reglamento
+(UE) 2016/679 (RGPD). Así, con fecha 08/01/20, se accede a las páginas “Aviso
+Legal”, “Términos y condiciones” del sitio web www.fabricaiphone.com, donde se
+indica lo siguiente:
+“a).- Aviso Legal:
+En cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la
+Sociedad de la Información y Comercio Electrónico (LSSI) se exponen los datos
+identificativos de la empresa.
+Nombre: www.fabricaiphone.com
+Email: postmaster@fabricaiphone.com
+Propiedad Intelectual Todas las fotos publicadas en estas páginas web pertenecen
+a FabricaiPhone.com.
+Queda terminantemente prohibida la reproducción, copia, manipulación o difusión de
+las fotografías sin el consentimiento expreso de su titular. FabricaiPhone.com se
+reserva las acciones legales pertinentes en caso de utilización no autorizada de las
+obras publicadas en esta web. Contenido, términos legales y responsabilidades
+El titular de la web Tienda Online de FabricaiPhone.com, los colaboradores, sus
+socios, empleados y representantes no podrán ser considerados responsables por
+cualesquiera daños derivados de la utilización de esta web, ni por cualquier actuación
+realizada sobre la base de la información que en ella se facilita. Protección de datos
+de carácter personal
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/6
+
+En cumplimiento de lo estipulado en la Ley Orgánica 15/1999, de 13 de diciembre de
+Protección de Datos de Carácter Personal (LOPD), y demás legislación que sea de
+aplicación y/o sustituya aquella, toda aquella información recibida en la web, a través
+de consultas, envío de datos, o cualquier otro medio, será tratada con la más estricta y
+absoluta confidencialidad. Todos aquellos usuarios que faciliten sus datos a través de
+la web tendrán los derechos de acceso, recticación y/o cancelación de sus datos tal y
+como reconoce la LOPD, sin oposición alguna, así como el derecho a revocar el
+consentimiento prestado para la cesión de sus datos.
+Los derechos mencionados podrán ser ejercitados por escrito, en el domicilio del
+titular de la web, facilitado en el apartado I de este aviso (Condiciones de uso). Los
+datos personales de los usuarios se pueden obtener en varios momentos y a través de
+diversas formas, tales como procesos de registro, formularios online, encuestas que
+se realicen o participación en concursos, entre otros. Sus datos personales quedarán
+recogidos, bajo la responsabilidad de esta empresa, en los cheros debidamente
+registrados.
+Para el ejercicio de Derechos de Acceso, Recticación, Cancelación y Oposición
+(ARCO), en cumplimiento de la Ley Orgánica 15/1999 de Protección de Datos de
+Carácter
+Personal,
+póngase
+en
+contacto
+en
+la
+dirección postmaster@FabricaiPhone.com
+Seguridad de la información Para proteger la información almacenada en esta web,
+instamos a nuestros clientes a mantener su clave de acceso absolutamente
+confidencial.
+Usted es responsable del uso de la información que haga cualquier usuario utilizando
+su clave de acceso. Le rogamos que se ponga en contacto con nosotros de manera
+inmediata si cree que su clave ha sido utilizada de forma ilícita.
+b).- Términos y Condiciones:
+Generales Las presentes condiciones generales de venta se aplican estrictamente a
+todas las ventas de productos efectuadas en España, incluido las Islas Canarias y las
+Islas Baleares por FabricaiPhone.com, con destino a personas físicas.
+Todo pedido realizado a FabricaiPhone.com conlleva la aceptación tácita, obligatoria y
+sin reserva alguna de las Condiciones de Venta de FabricaiPhone.com vigentes el día
+de realización del mismo por parte del Cliente
+Además, el Cliente reconoce que la aceptación de las presentes condiciones implicará
+la aplicación de éstas al pedido al que se reeren, así como a todo pedido posterior,
+con excepción de aquellos casos en que nuevas condiciones sean puestas en su
+conocimiento por FabricaiPhone.com. El hecho que FabricaiPhone.com no recurra en
+un momento dado a cualquiera de las presentes condiciones no puede ser
+interpretado ni equivaldrá a renunciar a recurrir a ellas en el futuro o en el pasado. El
+cliente renuncia a cualquier reclamación a FabricaiPhone.com por copia, imitación o
+similitud de sus modelos a cualquier modelo existente en el mercado.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/6
+
+Ley aplicable y jurisdicción competente. La interpretación y la ejecución de las
+condiciones, así como todos los actos que se sean consecuencia de ellas, quedarán
+sometidos al derecho español, salvo que existan disposiciones de orden público
+contrarias a ello (…)”.
+TERCERO: Con fecha 08/02/20, se dirige requerimiento informativo a la entidad
+SOLUCIONES CORPORATIVAS IP, S.L. para que remita a esta Agencia información
+relativa a los dominios “www.fabricaiphone.com” y “www.reacondicionadoiphone.com”
+registrados por dicha compañía en TUCOWS.INC, en particular, los datos relativos a la
+titularidad, contacto técnico y administrativo de los referidos dominios; nombre
+completo o razón social, DNI/CIF.
+CUARTO: Con fecha 11/02/20, la entidad SOLUCIONES CORPORATIVAS IP, SL.,
+remite a esta Agencia, escrito de contestación donde, entre otras, indica que:
+“les informamos que dichos dominios están registrados por la empresa TUCOWS
+DOMAINS INC.,( 96 Mowat Avenue, Toronto, Ontario, M6K 3M1, Canadá) y con la que
+nuestra empresa Soluciones Corporativas IP, no guarda ninguna relación”.
+QUINTO: Con fecha 18/02/20, se dirige requerimiento informativo a la entidad
+TELEFÓNICA ESPAÑA SAU, para que remita a esta Agencia información relativa a
+titularidad del número ***TELÉFONO.1, concretamente desde el día 3 de abril de 2019
+hasta el 15 de octubre de 2019, especificando nombre/razón social, NIF/CIF, domicilio
+del titular, y en su caso, domicilio de instalación si fuera diferente de el del titular.
+SEXTO: Con fecha 24/03/20, la entidad la entidad TELEFÓNICA DE ESPAÑA SAU,
+remite a esta Agencia, escrito de contestación donde, entre otras, indica que:
+Los datos de la titularidad del número ***TELÉFONO.1, concretamente desde el día 3
+de abril de 2019 hasta el día 15 de octubre de 2019, son: Nombre: B.B.B. • Fecha alta:
+2 de julio de 2018 • Fecha baja: cliente actual • Documento de identidad: NIF ***NIF.1 •
+Domicilio y domicilio de instalación: ***DIRECCIÓN.1.
+FUNDAMENTOS DE DERECHO
+I
+La Directora de la Agencia Española de Protección de Datos es competente para
+resolver estas actuaciones, de conformidad con lo establecido en el artículo 43.1,
+párrafo segundo, de la Ley 34/2002, de 11 de Julio, de servicios de la sociedad de la
+información y de comercio electrónico (LSSI). El mencionado artículo dispone:
+“1. La imposición de sanciones por el incumplimiento de lo previsto en esta Ley
+corresponderá, en el caso de infracciones muy graves, al Ministro de Industria,
+Energía y Turismo, y en el de infracciones graves y leves, al Secretario de Estado de
+Telecomunicaciones y para la Sociedad de la Información. No obstante lo anterior, la
+imposición de sanciones por incumplimiento de las resoluciones dictadas por los
+órganos competentes en función de la materia o entidad de que se trate a que se
+refieren los párrafos a) y b) del artículo 38.2 de esta Ley corresponderá al órgano que
+dictó la resolución incumplida. Igualmente, corresponderá a la Agencia de Protección
+de Datos la imposición de sanciones por la comisión de las infracciones tipificadas en
+los artículos 38.3 c), d) e i) y 38.4 d), g) y h) de esta Ley.”
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/6
+
+II
+El Artículo 47 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos
+Personales y garantía de los derechos digitales (LOPDGDD), establece, sobre la
+Funciones y potestades de la Agencia Española de Protección de Datos que:
+“Corresponde a la AEPD supervisar la aplicación de esta ley orgánica y del
+Reglamento (UE) 2016/679 y, en particular, ejercer las funciones establecidas en el
+artículo 57 y las potestades previstas en el artículo 58 del mismo reglamento, en la
+presente ley orgánica y en sus disposiciones de desarrollo. Asimismo, corresponde a
+la Agencia Española de Protección de Datos el desempeño de las funciones y
+potestades que le atribuyan otras leyes o normas de Derecho de la Unión Europea.”
+El Art. 67 de la LOPDGDD, sobre las actuaciones previas de investigación, indica que:
+“1. Antes de la adopción del acuerdo de inicio de procedimiento, y una vez admitida a
+trámite la reclamación si la hubiese, la AEPD podrá llevar a cabo actuaciones previas
+de investigación a fin de lograr una mejor determinación de los hechos y las
+circunstancias que justifican la tramitación del procedimiento. La Agencia Española de
+Protección de Datos actuará en todo caso cuando sea precisa la investigación de
+tratamientos que implique un tráfico masivo de datos personales. 2. Las actuaciones
+previas de investigación se someterán a lo dispuesto en la Sección 2.ª del Capítulo I
+del Título VII de esta ley orgánica y no podrán tener una duración superior a doce
+meses a contar desde la fecha del acuerdo de admisión a trámite o de la fecha del
+acuerdo por el que se decida su iniciación cuando la Agencia Española de Protección
+de Datos actúe por propia iniciativa o como consecuencia de la comunicación que le
+hubiera sido remitida por la autoridad de control de otro Estado miembro de la Unión
+Europea, conforme al artículo 64.3 de esta ley orgánica.
+Por su parte, la Disposición adicional cuarta de la LOPDGDD determina, sobre el
+Procedimiento en relación con las competencias atribuidas a la AEPD, por otras leyes,
+que: “Lo dispuesto en el Título VIII y en sus normas de desarrollo será de aplicación a
+los procedimientos que la Agencia Española de Protección de Datos hubiera de
+tramitar en ejercicio de las competencias que le fueran atribuidas por otras leyes.”
+III
+En el presente caso, de la documentación e información existente en el expediente, se
+pueden constatar los siguientes hechos:
+a).- En todos los correos presentados por el reclamante, aparece en el pie del correo
+el mensaje de que el correo electrónico se ha enviado a través del formulario de
+contacto que aparece en la página web del reclamante, pero las cabeceras de los
+mismos incluyen campos que no aparecen en el formulario, por lo que podría tratarse
+de correos personalizados dirigidos a la dirección del reclamante mediante un robot o
+técnica similar.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/6
+
+b).- Hay que señalar que la dirección de correo indicada por el reclamante como
+receptora de estos correos no deseados es pública en el sitio web junto con un
+teléfono móvil. Además, el formulario de contacto no dispone de ningún mecanismo
+contra robots.
+c).- No se ha podido identificar el objeto por el que el reclamante denuncia el dominio
+“reacondicionadoiphone.com”, dado que este no figura en ninguno de los correos
+facilitados a esta Agencia. No obstante, se ha comprobado que, a día de hoy, dicho
+dominio ha caducado no existiendo ningún tipo de información sobre él.
+d).- El sitio web al que hace referencia los correos publicitarios
+“www.fabricaiphone.com” no ofrece la información requerida en su Aviso Legal, carece
+de Política de Privacidad. El aviso emergente remite a la inexistente política de
+privacidad y la única opción que ofrece es cerrar esa ventana emergente, sin ofrecer
+da opción a su rechazo.
+e).- Requerida información a la entidad SOLUCIONES CORPORATIVAS IP, S.L. sobre
+la explotación del dominio “fabricaiphone.com”, se recibe en esta Agencia, escrito
+remitido por esa compañía indicando en el mismo que, “su compañía no ha registrado
+el dominio investigado en el registrador TUCOWS y señalan que no guardan ningún
+tipo de relación con esta compañía”.
+f).- Puestos en contacto con el registrador de los dominios fabricaiphone.com y reacondicionadoiphone.com (TUCOWS, INC), este remite a esta Agencia, la siguiente
+información:
+-Domain Name: fabricaiphone.com
+-
+
+Registrant Name: SOLUCIONES CORPORATIVAS IP, SL
+Registrant Organization: SOLUCIONES CORPORATIVAS IP, SL
+Registrant Address: ***DIRECCIÓN.2
+Registrant Phone: ***TELÉFONO.2 Email: ***EMAIL.2.
+
+-Domain Name: re-acondicionadoiphone.com
+-
+
+Registrant Name: C.C.C.
+Registrant Organization: C.C.C.
+Creation Date: 2019-04-03T10:10:07Z
+Registrant Address: ***DIRECCIÓN.3
+Registrant Phone: ***TELÉFONO.1 Email: ***EMAIL.1
+
+g).- En la información facilitada por TUCOWS, se puede apreciar que, en el registro del
+dominio “fabricaiphone.com”, se han facilitado datos erróneos, como un teléfono
+inexistente, con11 dígitos.
+h).- Requerida a la compañía TELEFÓNICA MÓVILES ESPAÑA S.A.U. la titularidad
+del número de
+teléfono informado por TUCOWS para el dominio “reacondicionadoiphone.com”,***TELÉFONO.1, esta remite la siguiente información:
+-
+
+Nombre: B.B.B.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/6
+
+-
+
+Fecha alta: 2 de julio de 2018 o Fecha baja: cliente actual
+Documento de identidad: NIF ***NIF.1
+Domicilio y domicilio de instalación: ***DIRECCIÓN.1
+
+Dado que, la información obtenida en los diferentes requerimientos realizados a los
+diferentes proveedores del servicio, no guarda coherencia, no se puede determinar
+con la debida precisión el titular de las direcciones de correo electrónico desde donde
+se enviaron mensajes. Todo parece indicar que se facilitaron datos inexactos al
+registrador de dominio de forma deliberada cuando las cuentas fueron dadas de alta.
+Por tanto, en el presente caso, después del análisis realizado de la información, los
+documentos aportados y las circunstancias concurrentes, no es posible identificar con
+claridad los elementos que permitan evidenciar una posible vulneración de los
+derechos reconocidos en el ámbito competencial de la Agencia Española de
+Protección, por lo que, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución a A.A.A..
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la presente
+Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado por
+el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, y de conformidad con lo establecido en los
+arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los interesados podrán
+interponer, potestativamente, recurso de reposición ante la Directora de la Agencia
+Española de Protección de Datos en el plazo de un mes a contar desde el día
+siguiente a la notificación de esta resolución o directamente recurso contencioso
+administrativo ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional,
+con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de la disposición
+adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción
+Contencioso-Administrativa, en el plazo de dos meses a contar desde el día siguiente
+a la notificación de este acto, según lo previsto en el artículo 46.1 de la referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

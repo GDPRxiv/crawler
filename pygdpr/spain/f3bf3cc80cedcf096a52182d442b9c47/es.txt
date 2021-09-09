@@ -1,0 +1,399 @@
+1/13
+
+
+
+Procedimiento Nº: E/06099/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: El 03/04/2019 tiene entrada en la AEPD escrito del reclamante 1; también
+el 10/04/2019 y el 22/04/2019 tienen entrada en la AEPD escrito Acta-Denuncia y
+Petición de inicio de procedimiento por infracción de la normativa de protección de
+datos y la ampliación del Acta-Denuncia anterior remitidos por el Puesto de la Guardia
+Civil de Bolaños de Calatrava derivado de las denuncias realizadas por reclamante 1,
+reclamante 2, reclamante 3, reclamante 4 y reclamante 5. Tanto el escrito como las
+manifestaciones vertidas en el atestado instruido por la G.C. se dirigen contra el
+Ayuntamiento de BOLAÑOS DE CALATRAVA, con NIF P1302300G (en adelante, el
+reclamado). Los motivos en los que se basa las reclamaciones, en síntesis, son el
+hacerse público a través de Whatsapp del listado de las mesas electorales constituidas
+en el municipio para las elecciones de 28/04/2019 encontrándose incluidos los
+reclamantes como segundos vocales publicándose información del nombre, DNI y
+dirección completa; que esta información fue fotografiada y distribuida por alguien que
+tenía acceso a la misma dentro del Ayuntamiento.
+El 10/04/2019 la GUARDIA CIVIL del PUESTO DE BOLAÑOS manifiesta que no hay
+ningún dato identificativo del denunciado; que han incoado atestado ***ATESTADO.1
+por un supuesto delito contra la intimidad remitido al Juzgado de Primera Instancia e
+Instrucción número 1 de ***LOCALIDAD.1 (Ciudad Real) derivado de la denuncia
+interpuesta por reclamante 1, reclamante 2 y reclamante 3.
+Se aporta copia de atestado con las siguientes manifestaciones:
+El reclamante 1 manifiesta:
+ Que los hechos ocurrieron entre el 31/03/2019 16h y el 01/04/2019 13:22h.
+ Que desconoce la autoría.
+ Hacerse público a través de Whatsapp el listado de las mesas electorales
+constituidas para el municipio de las próximas elecciones de 28 de abril en el
+cual se encuentra incluido como segundo vocal donde sale publicada su
+información de nombre, DNI, dirección.
+El reclamante 2 manifiesta:
+ Difusión a través de Whatsapp el listado de las mesas electorales constituidas
+para el municipio de Bolaños de Calatrava (Ciudad Real) en el cual se
+encuentra incluido como segundo vocal donde sale publicada su información
+de nombre, DNI, dirección.
+ Que le ha llegado la información a través de whatsapp.
+El reclamante 3 manifiesta:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/13
+
+ Difusión a través de Whatsapp el listado de las mesas electorales constituidas
+para el municipio de Bolaños de Calatrava (Ciudad Real) en el cual se
+encuentra incluido como vocal donde sale publicada datos personales y
+domicilios.
+ Que le ha llegado la información a través de whatsapp.
+Se aportan 15 fotografías de listados de la composición de mesas electorales del
+municipio de Bolaños de Calatrava donde consta cargo en la mesa, nombre y
+apellidos, DNI, número de elector y dirección. Que la dirección solo se visualiza 3
+fotografías.
+El 22/04/2019 la GUARDIA CIVIL del PUESTO DE BOLAÑOS manifiesta que no hay
+ningún dato identificativo del denunciado y aporta datos ampliatorios y alegaciones de
+otras personas en relación con los hechos denunciados.
+Se aporta copia de atestado con las siguientes manifestaciones:
+El reclamante 4 manifiesta:
+ Haber recibido a través de Whatsapp mensajes cuyo contenido versa sobre los
+ciudadanos que en las próximas elecciones generales han sido designados para
+realizar alguna función en las mesas electorales del municipio de Bolaños de
+Calatrava y que en dicho mensaje aparece sus datos personales y domicilio.
+El reclamante 5 manifiesta:
+ Que habiendo sido seleccionados para formar parte de la composición de las mesas
+electorales constituidas para los comicios del próximo 28/04/2019 se ha visto
+sorprendida por la difusión de sus datos: nombre, apellidos, DNI y dirección a través
+de redes sociales sin su consentimiento.
+SEGUNDO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+El 24/05/2019 el reclamado remite a esta Agencia la siguiente información:
+1. Se aporta copia de informe de fecha 30/04/2019 firmado por la Secretaría accidental
+del Ayuntamiento manifestando que:
+a) Se realizaron cuatro copias de los listados de los miembros de las mesas
+electorales:
+i. Una para el presidente de la secretaría que quedó debidamente custodiada.
+ii. Otra para la persona firmante del informe que presentó en la Junta electoral de
+zona.
+iii. Otra para el grupo municipal partido socialista.
+iv. Otra para el grupo municipal partido popular.
+Con la advertencia de que tenían que guardar reserva en relación con las
+informaciones facilitadas en virtud del cargo de representante municipal o concejal que
+ostentan y a fin de que pudieran detectar a alguien que a priori ya se pudiera conocer
+una incapacidad manifiesta para ostentar el cargo de miembro de la mesa.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/13
+
+b) Que una vez finalizó el sorteo se dio por terminado el Pleno no habiéndose dado
+ninguna instrucción que amparase la difusión de los miembros de las mesas
+electorales a través de whatsapp ni por ningún otro medio.
+2. Que han realizado investigación interna con los siguientes resultados:
+a) D. F.F.F., concejal, manifiesta que:
+i. Que el Sr. Alcalde fue la persona encargada de hacerse cargo de esa lista que le fue
+entregada a su partido, llevándosela del salón de plenos y dejándola en una carpeta
+de su despacho en ese mismo momento.
+ii. Que no realizó fotografías de esa lista.
+iii. Que no ha mandado por whatsapp las listas de los miembros de las mesas
+electorales.
+iv. Que las listas se las mandó un amigo llamado D. G.G.G.
+v. Que dichas fotografías están realizadas sobre el regazo de una persona en la que
+se visualiza unas rodillas con medias negras en la parte superior de la fotografía y en
+la parte inferior de la fotografía se aprecia color verde.
+vi. Que recuerda que una persona asistente a la sesión plenario del 30/03/2019
+llevaba una prenda de ese color así como medias negras. Que la identidad de esa
+persona es Dña. H.H.H.
+b) D. I.I.I., alcalde, manifiesta que:
+i. Que él custodió la copia de las listas de los miembros que le fueron entregados a su
+partido político. Que la metió en un cajón de la mesa de su despacho con llave.
+ii. Que no realizó fotografías de la lista.
+iii. Que no ha mandado por whatsapp las listas de los miembros de las mesas
+electorales.
+iv. Que ha recibido las fotografías de las listas de los miembros de las mesas
+electorales por numerosos y diferentes grupos de whatsapp.
+v. Que en las fotografías aparece alguna de las hojas sobre el regazo de las piernas y
+se aprecia una vestimenta de tela color verde y unas medias color negro que debería
+vestir la persona que estuviera realizando las fotos.
+vi. Que no recuerda si alguno de los asistentes a la sesión plenaria del día 30/03/2019
+llevaba alguna prenda de ese color.
+vii. Pero que se puede contrastar que el día del suceso había una componente de la
+corporación que llevaba esa vestimenta verde y medias negras y se publicaron unas
+fotos de un acto público en la que esa misma persona miembro de la corporación
+llevaba una vestimenta que aparentemente coincidía con la que aparece en las
+fotografías. Que la identidad de esa persona es Dña. H.H.H.
+Con fecha 30/06/2020, el reclamado remite a esta Agencia la siguiente información:
+1. Que no tiene conocimiento de que se hayan tramitado actuaciones judiciales.
+2. Que la Alcaldía se compromete a proponer al Pleno la creación de una Comisión
+Especial de Investigación como órgano competente para realizar averiguaciones
+precisas sobre la difusión por Whatsapp del listado de los miembros de las mesas
+electorales. Que en esta propuesta de Alcaldía se propondrá también que esta
+Comisión de Investigación realice sus conclusiones finales en el plazo de un mes
+desde su creación. Que estas conclusiones serán remitidas a esta Agencia en el plazo
+máximo de diez días desde su adopción.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/13
+
+Con fecha 01/07/2020 el reclamante 5 remite a esta Agencia la siguiente información:
+Que el mensaje se lo envió una amiga a su teléfono móvil. Que a esa amiga la
+identifica como “J.J.J.” cuyo número de teléfono es ***TELÉFONO.1
+Aporta captura de pantalla con un mensaje de Whatsapp de fecha 30/03/2019 donde
+constan adjuntas 15 imágenes constando como remitente “J.J.J.”. Aporta asimismo
+copia de 13 imágenes con los listados.
+Con fecha 01/07/2020 el reclamante 4 remite a esta Agencia la
+siguiente información:
+Que el mensaje se lo enviaron a su teléfono móvil.
+Aporta captura de pantalla con un mensaje de Whatsapp de fecha 30/03/2019 remitido
+por el número de teléfono ***TELÉFONO.2 y donde constan adjuntas 13 imágenes.
+Aporta asimismo copia de las 13 imágenes con los listados.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+De la documentación obrante en el expediente se desprende ausencia del
+elemento subjetivo de culpabilidad necesario para ejercer la potestad sancionadora al
+no haberse podido desvelar la autoría de los hechos reclamados.
+En el presente caso, los reclamantes manifiestan que sus datos de carácter
+personal han sido objeto de tratamiento al ser difundidos a través de la red social
+Whatsapp el listado de las mesas electorales constituidas en el municipio para las
+elecciones de 28/04/2019, mesas en las que se encontraban incluidos como segundos
+vocales publicándose la información relativa al nombre, DNI y dirección completa;
+además, esta información fue fotografiada y distribuida por alguien que tenía acceso a
+la misma dentro del Ayuntamiento, si bien no se ha aportado documentación alguna
+que justifique lo anterior.
+Hay que señalar que las actuaciones inspectoras llevadas a cabo ante la
+entidad denunciada, el Ayuntamiento, no han dado sus frutos puesto que no se ha
+logrado determinar, desvelar o identificar al responsable del tratamiento efectuado.
+De la documentación aportada, se desprende la ilicitud del tratamiento de los
+datos de carácter personal de los reclamantes.
+La Secretaria habilitada del Ayuntamiento aporta informe en el que señala que
+se realizaron cuatro copias del listado de las mesas electorales con la advertencia de
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/13
+
+guardar confidencialidad en relación con la información facilitada y que no se impartió
+instrucción alguna que amparase la difusión de los miembros de las mesas electorales
+a través de whatsapp ni por ningún otro medio.
+La propia Alcaldía se ha comprometido en llevar al Pleno del Ayuntamiento la
+creación de una Comisión Especial de Investigación para realizar averiguaciones
+precisas sobre la difusión por la red social Whatsapp del listado de los miembros de
+las mesas electorales en las elecciones llevadas a cabo el 28/04/2019; en esta
+propuesta se propone que la Comisión de Investigación realice una serie conclusiones
+finales en el plazo de un mes desde su creación y estas conclusiones serán remitidas
+a esta Agencia en el plazo máximo de diez días desde su adopción.
+Se hace necesario señalar que al Derecho Administrativo Sancionador, por su
+especialidad, le son de aplicación, con alguna matización pero sin excepciones, los
+principios inspiradores del orden penal, resultando claro la plena virtualidad del
+principio de presunción de inocencia.
+El Tribunal Constitucional en su Sentencia 76/1990, de 26 de abril, en relación
+con el derecho a la presunción de inocencia y del principio de culpabilidad establece:
+“No puede suscitar ninguna duda que la presunción de inocencia rige sin excepciones
+en el ordenamiento sancionador y ha de ser respetada en la imposición de
+cualesquiera sanciones, sean penales, sean administrativas en general o tributarias en
+particular, pues el ejercicio del ius puniendi en sus diversas manifestaciones está
+condicionado al juego de la prueba y a un procedimiento contradictorio en el que
+puedan defenderse las propias posiciones. En tal sentido, el derecho a la presunción
+de inocencia comporta: que la sanción esté basada en actos o medios probatorios de
+cargo o incriminadores de la conducta reprochada; que la carga de la prueba
+corresponda a quien acusa, sin que nadie esté obligado a probar su inocencia; y que
+cualquier insuficiencia en el resultado de las pruebas practicadas, libremente valorado
+por el órgano sancionador, debe traducirse en un pronunciamiento absolutorio.”
+La Sentencia del Tribunal Constitucional de 20/02/1989 indica que “Nuestra
+doctrina y jurisprudencia penal han venido sosteniendo que, aunque ambos puedan
+considerarse como manifestaciones de un genérico favor rei, existe una diferencia
+sustancial entre el derecho a la presunción de inocencia, que desenvuelve su eficacia
+cuando existe una falta absoluta de pruebas o cuando las practicadas no reúnen las
+garantías procesales y el principio jurisprudencial in dubio pro reo que pertenece al
+momento de la valoración o apreciación probatoria, y que ha de juzgar cuando,
+concurre aquella actividad probatoria indispensable, exista una duda racional sobre la
+real concurrencia de los elementos objetivos y subjetivos que integran el tipo penal de
+que se trate.”
+En definitiva, aquellos principios impiden imputar una infracción administrativa
+cuando no se haya obtenido y acreditado una prueba de cargo acreditativa de los
+hechos que motivan esta imputación o de la intervención en los mismos del presunto
+infractor, aplicando el principio “in dubio pro reo” en caso de duda respecto de un
+hecho concreto y determinante, que obliga en todo caso a resolver dicha duda del
+modo más favorable al interesado.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/13
+
+Por todo lo cual, se ha de concluir, que tras el análisis de los hechos
+denunciados y de las actuaciones llevadas a cabo por esta Agencia, no se han
+acreditado elementos probatorios que permitan atribuir la vulneración de la normativa
+en materia de protección de datos, ya que no se ha podido acreditar al responsable del
+tratamiento que ha dado lugar a los hechos reclamados.
+No obstante, lo anterior se produce sin perjuicio de las posibles actuaciones
+que esta Agencia pudiera llevar a cabo ante el responsable del tratamiento en el
+hipotético caso de que el Ayuntamiento, que tiene iniciada investigación a fin de
+conocer al autor de la filtración llegara a averiguarlo, por lo que deberá informar a este
+centro directivo del resultado de las mismas. Si así ocurriera, esta Agencia acordará la
+iniciación de las actuaciones correspondientes sobre los tratamientos de datos de
+carácter personal efectuados y las posibles actuaciones sancionadoras y correctivas
+que procedieran.
+Por lo tanto, de acuerdo con lo señalado,
+Por la Directora de la Agencia Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución al Ayuntamiento de BOLAÑOS DE
+CALATRAVA, con NIF P1302300G junto con el ANEXO 1 y a cada uno de los
+reclamantes con el ANEXO que le corresponda en el que se incluye su identificación.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/13
+
+ANEXO I
+-
+
+Reclamante 1: D. A.A.A.
+
+-
+
+Reclamante 2: Dña. B.B.B.
+
+-
+
+Reclamante 3: Dña. C.C.C.
+
+-
+
+Reclamante 4: D. D.D.D.
+
+-
+
+Reclamante 5: Dña. E.E.E.
+
+-
+
+PUESTO DE LA GUARDIA CIVIL DE BOLAÑOS DE CALATRAVA
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/13
+
+ANEXO II
+Reclamante 1: D. A.A.A.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/13
+
+ANEXO III
+Reclamante 2: Dña. B.B.B.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/13
+
+ANEXO VI
+Reclamante 3: Dña. C.C.C.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+11/13
+
+ANEXO V
+Reclamante 4: D. D.D.D.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+12/13
+
+ANEXO VI
+Reclamante 5: Dña. E.E.E.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+13/13
+
+ANEXO VI
+-
+
+PUESTO DE LA GUARDIA CIVIL DE BOLAÑOS DE CALATRAVA
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

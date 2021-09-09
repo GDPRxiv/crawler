@@ -1,0 +1,288 @@
+1/6
+
+
+
+Procedimiento Nº: E/02356/2020
+
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: La reclamación interpuesta por Don A.A.A. (en adelante, el reclamante)
+tiene entrada con fecha 26 de septiembre de 2019 en la Agencia Española de
+Protección de Datos. La reclamación se dirige contra AYUNTAMIENTO DE
+CEDRILLAS, con NIF P4407400C (en adelante, el reclamado).
+Los motivos en que basa la reclamación son los siguientes expuestos en su
+escrito ante este organismo “Sin mi consentimiento han difundido mi identificación con
+mis datos personales nombre, apellidos, foto y dni, como posible estafador en redes
+sociales dando así una falsa información y ocasionando unos perjuicios a mi persona y
+ahora debido a esta información he recibido denuncias por posible estafa como
+instalador de gas” (folio nº 1).
+Junto a la reclamación aporta prueba documental consistente en certificado
+emitido por la Jefa del Servio Territorial de Industria (Valencia Conselleria de
+Economía, Industria, Turismo y Ocupación) de fecha 09/01/13 que plasma que el
+dicente ha superado las pruebas oportunas para realizar actividades de Gas categoría
+B.
+SEGUNDO. En fecha 05/11/19 se procede a dar TRASLADO de la reclamación a la
+entidad denunciada para que alegue lo que estime oportuno en relación a los hechos
+objeto de reclamación.
+En fecha 03/12/19 se recibe contestación de la denunciada manifestando lo
+siguiente:
+“Se pone de manifiesto que solicitado Informe de la guardia Civil acerca de los
+hechos que dieron lugar a la reclamación presentada, este ha emitido en fecha 18 de
+noviembre de 2019 (se adjunta copia), confirmándose en el mismo que, en efecto por
+la Guardia Civil y ante la creciente sospecha de que se trataba de una posible estafa,
+se procedió a avisar a todos los Alcaldes de la zona para solicitar su colaboración, con
+el objetivo único de proteger a la ciudadanía y en evitación de que se diesen más
+casos”
+“Es por lo que dicha información fue publicada, tal y como ha podido
+constatarse, con el fin de advertir a la población de la posible estafa que según puso
+de manifiesto la propia Guardia Civil a este Alcalde de esta Corporación Local, podrían
+estar cometiendo dos técnicos de gas, se solicita el archivo del presente expediente”.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/6
+
+Junto con las alegaciones adjunta (Doc. Probatorio nº 1) Informe de la Guardia
+Civil de fecha 18/11/19.
+TERCERO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+-Consta como titular de los datos objeto de difusión el Denunciante
+referenciado, si bien no aporta impresión de pantalla de lo que en su caso se ha
+difundido, más allá de sus manifestaciones en la reclamación presentada (nombre,
+apellidos, DNI y fotografía).
+-Consta identificado como principal responsable de la difusión de los datos del
+afectado la entidad Ayuntamiento de Cedrillas, la cual manifiesta de manera escueta
+actuar por orden de las Fuerzas y Cuerpos de seguridad de la localidad.
+-Los datos del afectado son difundidos en base a una finalidad legítima como
+era evitar una situación delictiva, que se estaba cometiendo en la localidad por dos
+personas sin identificar, que se hacían pasar presuntamente por instaladores del Gas,
+con la finalidad en última instancia de estafar a personas de avanzada edad.
+-Consta aportado Informe de la Guardia Civil de fecha 18/11/19 en dónde se
+plasma que varios vecinos de la localidad manifiestan que dos personas vestidas
+como técnicos del Gas “se presentan en varias casas sin haber sido requeridos
+previamente”.
+“Dichos supuestos Inspectores del Gas habían dejado en el Bar de la localidad
+de Allepuz un folio con la fotocopia de dos carnets de una empresa instaladora junto
+con su número de teléfono por si alguna otra persona deseara contratar sus servicios,
+estando la imagen de estos en poder de varios vecinos que los identifican como los
+revisores que habían acudido a su domicilio”.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+En el presente caso, se procede a examinar la reclamación de fecha 26/09/19 por
+medio de la cual se traslada a esta Agencia los siguientes hechos:
+“difusión de su imagen y datos personales en redes sociales como presunto
+responsable de un delito de estafa en la localidad” (folio nº 1).
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/6
+
+Los “hechos” objeto de denuncia no son negados por la denunciada, la cual
+manifiesta que se procedió a la difusión de los mismos en redes sociales, ante la
+posibilidad de que dos individuos se estuvieran haciendo pasar por falsos instaladores
+del gas, con la finalidad de estafar a personas de avanzada edad.
+Se entiende por estafa, dentro del Derecho Penal, aquella acción por la que un
+sujeto utiliza un engaño para tratar y conseguir que otro cometa un error que le
+induzca a cometer un acto de disposición en perjuicio ajeno o propio. Siempre debe
+hacerse con ánimo de lucro.
+Por tal motivo, ciertos datos de carácter personal fueron objeto de difusión,
+manifestando el denunciante que se le han ocasionado “perjuicios a su persona” al
+afectar a su reputación profesional.
+El artículo 4 apartado 1º del RGPD (Reglamento UE 679/2016 del Parlamento
+Europeo y del Consejo de 27 abril) contiene la definición de dato personal, en los
+siguientes términos:
+“«datos personales»: toda información sobre una persona física identificada o
+identificable («el interesado»); se considerará persona física identificable toda persona
+cuya identidad pueda determinarse, directa o indirectamente, en particular mediante
+un identificador, como por ejemplo un nombre, un número de identificación, datos de
+localización, un identificador en línea o uno o varios elementos propios de la identidad
+física, fisiológica, genética, psíquica, económica, cultural o social de dicha persona;
+(…).
+Por tanto, la cuestión principal a analizar por esta Agencia, se circunscribe a
+determinar si la conducta descrita estaba permitida, siendo considerada licita o si por
+el contrario se produce un “tratamiento de sus datos” fuera de los casos permitidos
+legalmente.
+El artículo 6 RGPD “Licitud del tratamiento” dispone: “El tratamiento solo será
+lícito si se cumple al menos una de las siguientes condiciones:
+e) el tratamiento es necesario para el cumplimiento de una misión realizada en
+interés público o en el ejercicio de poderes públicos conferidos al responsable del
+tratamiento; (…)”.
+El artículo 8 apartado 2º de la LOPDGDD (LO 3/2018, 5 diciembre) dispone lo
+siguiente:
+“El tratamiento de datos personales solo podrá considerarse fundado en el
+cumplimiento de una misión realizada en interés público o en el ejercicio de poderes
+públicos conferidos al responsable, en los términos previstos en el artículo 6.1 e) del
+Reglamento (UE) 2016/679, cuando derive de una competencia atribuida por una
+norma con rango de ley”.
+De manera que existen supuestos en que no es necesario el consentimiento
+informado del interesado para proceder al tratamiento de sus datos, teniendo respaldo
+esta situación en la normativa interna de cada Estado.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/6
+
+El artículo 282 LE Criminal dispone lo siguiente:
+“La Policía Judicial tiene por objeto y será obligación de todos los que la
+componen, averiguar los delitos públicos que se cometieren en su territorio o
+demarcación; practicar, según sus atribuciones, las diligencias necesarias para
+comprobarlos y descubrir a los delincuentes, y recoger todos los efectos, instrumentos
+o pruebas del delito de cuya desaparición hubiere peligro, poniéndolos a disposición
+de la autoridad judicial”.
+El artículo 4 LO 2/1986, 13 marzo de Fuerzas y Cuerpos de Seguridad,
+dispone:
+“Todos tienen el deber de prestar a las Fuerzas y Cuerpos de Seguridad el
+auxilio necesario en la investigación y persecución de los delitos en los términos
+previstos legalmente” (*la negrita pertenece a esta Agencia).
+Por tanto, en ciertos casos, la imagen de una persona (dato personal) puede
+ser tratada por las Fuerzas y Cuerpos de Seguridad del Estado, para atender a una
+finalidad legítima; pensemos en el caso de fotografías de personas desaparecidas,
+secuestradas, difusión de retratos robots de presuntos delincuentes o bien con la
+finalidad de solicitar la ayuda de la ciudadanía para la identificación de un
+“desconocido” que haya participado activamente en una pelea tumultuaria, con
+resultados lesivos para terceros, etc.
+La imagen de personas anónimas no goza de una protección especial y no se
+requiere de su consentimiento para difundir su imagen.
+A mayor abundamiento, el Tribunal Supremo (STS Sala 1ª 26/01/18) ha
+confirmado que la Policía puede difundir imágenes de presuntos criminales. El Tribunal
+Supremo argumenta que mientras el registro domiciliario o la interferencia de las
+comunicaciones personales requieren de una orden judicial, otros derechos
+fundamentales no gozan de esta protección judicial.
+Es decir, el derecho al honor, la intimidad y la propia imagen no requieren de una
+autorización judicial para ser vulnerados.
+Asimismo, el Tribunal Supremo ha rechazado en el pronunciamiento citado que
+“la publicación de las fotografías en la web fuera una medida desproporcionada, y
+explica que el requisito de la proporcionalidad se cumple porque los hechos fueron
+graves, en ellos intervinieron un elevado número de personas, provocaron una
+considerable alarma social, las fotografías se difundieron en la web solo tras semanas
+de investigación sin resultados, y la identificación de los autores de los actos
+vandálicos era difícil porque, en su mayoría, cubrían sus rostros para evitar
+precisamente ser identificados”.
+De manera que, desde el punto de vista de la protección de datos, la cuestión
+queda zanjada al permitirse el tratamiento de los datos del denunciante, en el marco
+de un presunto delito de Estafa cometido por dos individuos que se hacían pasar por
+instaladores del gas.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/6
+
+La cuestión según se manifiesta en Informe adjunto de la Guardia Civil,
+aportado por la denunciada se ha trasladado al Juzgado de Primer Instancia e
+instrucción nº 3 de Teruel en el marco de las Diligencias Previas nº XXXXXX/XXXX,
+“desconociéndose a día de la fecha el resultado de las actuaciones por parte de dicho
+Juzgado”.
+De manera que será en el mismo, en dónde se deba manifestar lo oportuno, en
+relación a la presunta autoría que se le imputa por las Fuerzas y Cuerpos de
+Seguridad del Estado, que son a priori los principales responsables de ordenar la
+difusión de sus datos personales en redes sociales de Ayuntamiento de la localidad
+dónde presuntamente se estaba produciendo un delito de estafa o intrusismo
+profesional, con la finalidad de lucrarse a través del engaño a personas de avanzada
+edad.
+Ello sin perjuicio, del respeto, como no podía ser de otra manera a la
+presunción de inocencia que todo ciudadano tiene reconocido en el actual Estado de
+derecho (art. 24.2 CE) y en la posibilidad de que una actuación “irregular” de la
+Administración y/o sus empleados pueda suponer una presunta vulneración de su
+derecho al honor, en caso de imputación de un delito con el que no tenga en principio
+relación alguna.
+El artículo 1 LO 1/1982, 5 mayo dispone: “El derecho fundamental al honor, a la
+intimidad personal y familiar y a la propia imagen, garantizado en el artículo dieciocho
+de la Constitución, será protegido civilmente frente a todo género de intromisiones
+ilegítimas, de acuerdo con lo establecido en la presente Ley Orgánica.
+2. El carácter delictivo de la intromisión no impedirá el recurso al procedimiento
+de tutela judicial previsto en el artículo 9.º de esta Ley. En cualquier caso, serán
+aplicables los criterios de esta Ley para la determinación de la responsabilidad civil
+derivada de delito (...)”.
+Este último aspecto, excede del marco competencial de este organismo, siendo
+una cuestión compleja que afecta a otra rama del derecho, siendo en su caso las
+instancias judiciales oportunas las que deberán valorar la licitud o no de la difusión de
+la imagen y datos del afectado. Por ejemplo, la intencionalidad o conveniencia de su
+difusión, o en su caso los daños y perjuicios causados al presunto “criminal” o a sus
+familiares o incluso la competencia del Consistorio para difundirlas.
+De manera que no corresponde a esta Agencia, entrar a valorar la licitud de las
+pruebas aportadas al Juzgado de instrucción correspondiente, ni pronunciarse sobre
+una posible afectación del derecho al honor del afectado en la conducta descrita.
+III
+Desde el punto de vista de protección de datos, se considera lícito el tratamiento
+efectuado, en base a los siguientes motivos:
+-La difusión de las imágenes se produce ante una situación de alarma social
+que origina que las Fuerzas y Cuerpos de seguridad del Estado, reciban diversas
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/6
+
+denuncias de un número considerable de vecinos, manifestando que dos individuos se
+están haciendo pasar por instaladores del gas, con la finalidad de obtener un lucro sin
+aparente causa justificada, lo que origino el requerimiento de colaboración por las
+Fuerzas Y Cuerpos de Seguridad (Guardia Civil) de los Ayuntamientos de la localidad
+para que difundieran los datos mencionados.
+-No se considera en principio vulnerado el derecho a la protección de datos,
+pues la actuación objeto de denuncia tiene amplio respaldo legal, en la LE criminal, en
+la LO 2/1986, 13 de marzo o en la LOPDGDD (LO 3/2018, 5 diciembre), anteriormente
+citadas.
+De manera que, en base a lo argumentado, procede ordenar el Archivo del
+presente procedimiento, al considerar esta Agencia que la cuestión planteada tiene
+acomodo en la normativa en vigor, excediendo el resto de cuestiones de su marco
+competencial, al estar incardinadas en cuestiones relacionadas con la tutela del
+derecho al honor (LO 1/1982, 5 mayo), siendo en su caso las instancias judiciales
+civiles las que deberán en su caso pronunciarse al respecto.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución al reclamante Don A.A.A. y reclamado
+AYUNTAMIENTO DE CEDRILLAS.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

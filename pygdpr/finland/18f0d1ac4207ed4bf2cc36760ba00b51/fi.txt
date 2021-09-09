@@ -1,0 +1,28 @@
+Apulaistietosuojavaltuutettu: Bonustilin kaikki tiedot saa luovuttaa vain tilin omistajalle
+
+
+   
+
+13.1.2020
+ 8.41
+
+Tiedote
+var snoobiSection="Tiedote";
+
+
+ Apulaistietosuojavaltuutettu on ottanut kantaa tietojen tarkastusoikeuteen tapauksessa, jossa OP-bonustilin tietoja oli pyytänyt tarkastettavakseen tilin omistajan puoliso. Vaikka puoliso on tilin osallinen, hänellä on oikeus saada nähtäväkseen vain omaa bonuksia kerryttänyttä asiointiaan koskevat tiedot, ei koko tilin tietoja. Hakija oli pyytänyt saada nähtäväkseen tiedot OP-bonustilistä, jonka käyttäjinä olivat hakija itse ja hänen puolisonsa. OP Ryhmä oli kuitenkin toimittanut vain tiedot hakijan omista, bonusta kerryttäneistä asioinneista. Perusteluissaan pankki totesi rajoittavansa hakijan oikeutta päästä tietoihin, koska tämä ei ollut kyseisen bonustilin omistaja ja koska hakijan puolison nauttimaa pankkisalaisuuden suojaa ei voida rikkoa. Hakija kanteli asiasta tietosuojavaltuutetun toimistoon. Apulaistietosuojavaltuutettu Anu Talus toteaa päätöksessään, että tiedot, jotka on saatu luottolaitostoiminnan yhteydessä ja jotka koskevat yksityishenkilöiden taloudellista asemaa tai heidän henkilökohtaisia olojaan, kuuluvat pankkisalaisuuden piiriin. Hakijan puolison OP-bonuksia kerryttävä asiointi sekä bonustilin kokonaissumma, josta puolison asioinnin määrän voi päätellä, ovat tällaisia taloudellista asemaa koskevia seikkoja. Koko tilin tietojen antaminen hakijalle vaikuttaisi haitallisesti hakijan puolison oikeuksiin. Tästä syystä apulaistietosuojavaltuutettu toteaa OP Ryhmän toimineen asiassa tietosuojalainsäädännön mukaisesti. OP-bonuksia kertyy yksityistalouteen liittyvästä pankki-, varallisuudenhoito- ja vakuutusasioinnista, ja ne oikeuttavat alennukseen bonussääntöjen tarkoittamista OP:n tuotteista ja palveluista. Perhekokonaisuuden muodostavien henkilöiden asioinnista kertyvät bonukset kirjataan heidän suostumuksellaan vain yhden perheenjäsenen bonustilille. Tämä henkilö on bonustilin sekä sille kertyneiden bonusten ainoa omistaja, ja muut perhekokonaisuuteen kuuluvat ovat bonustilin osallisia. Päätöksen tiivistelmä on luettavissa Finlex-palvelussa. Lisätietoja: apulaistietosuojavaltuutettu Anu Talus, puh. 050 466 5809, [email protected] 
+
+
+
+
+
+
+
+
+
+
+
+rahoitusala
+tietosuoja
+
+

@@ -1,0 +1,271 @@
+1/6
+
+
+
+Procedimiento Nº: E/03584/2020
+
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de
+Datos y teniendo como base los siguientes
+HECHOS
+PRIMERO: La reclamación interpuesta por Don A.A.A., representando a Doña B.B.B.
+(en adelante la reclamante) tiene entrada con fecha 15 de octubre de 2019 en la
+Agencia Española de Protección de Datos. La reclamación se dirige contra
+MURCIAVENTURAS, con NIF 48415782T (en adelante, el reclamado).
+Los motivos en que basa la reclamación son que el día 1 de septiembre de
+2019, su representada contrató una actividad de rafting con la entidad reclamada.
+Durante la actividad se realizaron fotografías que fueron subidas a la nube de google
+drive y pudieron ver los participantes. Su representada tuvo un percance y esas
+fotografías no se subieron a la nube y cuando ejercieron el derecho de acceso,
+contestaron que el fotógrafo selecciona las fotografías que han quedado bien, no
+facilitándole sus datos. Añaden que la página web de la reclamada no cumple con las
+obligaciones de la normativa de protección de datos.
+Junto a la reclamación aporta varios correos electrónicos que se dirigen
+ambas partes, en los que la reclamante quiere solucionar de forma extrajudicial que se
+le indemnice a su clienta por el percance sufrido; la reclamada responde que ha
+facilitado todos los datos a la aseguradora; en otro correo, el reclamante indica que
+faltan unas fotografías del momento del accidente y que solicita el acceso a las
+mismas; la reclamada contesta que el fotógrafo realiza el doble de fotografías que
+luego comparte, retirando las borrosas, con gotas de agua o que no son bonitas.
+Solicita el derecho de acceso a los datos del fotógrafo y la entidad le dice que no
+puede facilitarle ese dato.
+SEGUNDO: De conformidad con el artículo 65.4 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+adelante LOPDGDD), con número de referencia E/11217/2019, se dio traslado de
+dicha reclamación al reclamado, para que procediese a su análisis e informase a esta
+Agencia en el plazo de un mes, de las acciones llevadas a cabo para adecuarse a los
+requisitos previstos en la normativa de protección de datos.
+La responsable de la entidad contestó que cuando se contrata la actividad se
+indica lo que incluye: seguro, duchas calientes, almuerzo, reportaje fotográfico con
+más de 300 fotografías… El reportaje fotográfico no se hace público, solo se envía un
+enlace a los participantes en la actividad. Cuando las participantes que sufrieron el
+accidente le solicitaron las fotografías, se les facilitaron. Por lo que entiende que ha
+atendido el derecho de acceso a las fotografías solicitado. Se informó a la aseguradora
+del percance y se hizo cargo de los gastos médicos, si bien entiende que no hay lugar
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/6
+
+a indemnización, al tratarse de un hecho fortuito. En el local donde se esperar para
+iniciar la actividad, hay un cartel enorme con la leyenda: ATENCIÓN. LA ACTIVIDAD
+QUE VA A REALIZAR INCLUYE REPORTAJE FOTOGRÁFICO. SI USTED NO
+QUIERE APARECER EN ÉL SERÁ COMPLICADO YA QUE ES UNA ACTIVIDAD
+GRUPAL. LE RECOMENDAMOS QUE NO REALICE LA ACTIVIDAD. Por último, en la
+página web de Murciaventuras, en el apartado “Política de privacidad” se incluye una
+leyenda informativa completa con información sobre todos los tratamientos de datos
+que realizan, incluyendo un bloque para cualquier tratamiento, con la identificación
+completa del responsable del tratamiento, posibilidad de ejercer los derechos, cómo
+hacerlo y la posibilidad de poner una reclamación ante la Agencia Española de
+Protección de datos. Posteriormente, se divide la información en cinco apartados:
+Formularios de contacto, Curriculum vitae, Suscripción de boletín electrónico,
+Comunicaciones a través de medios electrónicos y reserva de actividades.
+Posteriormente, incluye en cada apartado la información siguiente: datos objeto de
+tratamiento, finalidad, decisiones automatizadas, tiempo en qué mantendremos los
+datos, legitimación para el tratamiento, obligación de facilitar los datos y
+consecuencias de no hacerlo, procedencia de los datos, cesiones, transferencias
+internacionales,
+TERCERO: Con fecha 24 de marzo de 2020, la Directora de la Agencia Española de
+Protección de Datos acordó admitir a trámite la reclamación presentada por el
+reclamante.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+La denuncia se refiere a dos aspectos: no atención del ejercicio del derecho de
+acceso y falta de información sobre protección de datos en la página web de la entidad
+reclamada.
+: El artículo 15 del RGPD dispone que:
+“1. El interesado tendrá derecho a obtener del responsable del tratamiento
+confirmación de si se están tratando o no datos personales que le conciernen y, en tal
+caso, derecho de acceso a los datos personales y a la siguiente información:
+a) los fines del tratamiento;
+b) las categorías de datos personales de que se trate;
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/6
+
+c) los destinatarios o las categorías de destinatarios a los que se comunicaron o
+serán comunicados los datos personales, en particular destinatarios en terceros u
+organizaciones internacionales;
+d) de ser posible, el plazo previsto de conservación de los datos personales o, de
+no ser posible, los criterios utilizados para determinar este plazo;
+e) la existencia del derecho a solicitar del responsable la rectificación o supresión
+de datos personales o la limitación del tratamiento de datos personales relativos al
+interesado, o a oponerse a dicho tratamiento;
+f) el derecho a presentar una reclamación ante una autoridad de control;
+g) cuando los datos personales no se hayan obtenido del interesado, cualquier
+información disponible sobre su origen;
+h) la existencia de decisiones automatizadas, incluida la elaboración de perfiles, a
+que se refiere el artículo 22, apartados 1 y 4, y, al menos en tales casos, información
+significativa sobre la lógica aplicada, así como la importancia y las consecuencias
+previstas de dicho tratamiento para el interesado.
+2. Cuando se transfieran datos personales a un tercer país o a una organización
+internacional, el interesado tendrá derecho a ser informado de las garantías
+adecuadas en virtud del artículo 46 relativas a la transferencia.
+3. El responsable del tratamiento facilitará una copia de los datos personales
+objeto de tratamiento. El responsable podrá percibir por cualquier otra copia solicitada
+por el interesado un canon razonable basado en los costes administrativos. Cuando el
+interesado presente la solicitud por medios electrónicos, y a menos que este solicite
+que se facilite de otro modo, la información se facilitará en un formato electrónico de
+uso común.
+4. El derecho a obtener copia mencionado en el apartado 3 no afectará
+negativamente a los derechos y libertades de otros.”
+QUINTO: El artículo 13 de la LOPDGDD determina lo siguiente:
+“1. El derecho de acceso del afectado se ejercitará de acuerdo con lo establecido
+en el artículo 15 del Reglamento (UE) 2016/679.
+Cuando el responsable trate una gran cantidad de datos relativos al afectado y
+este ejercite su derecho de acceso sin especificar si se refiere a todos o a una parte
+de los datos, el responsable podrá solicitarle, antes de facilitar la información, que el
+afectado especifique los datos o actividades de tratamiento a los que se refiere la
+solicitud.
+2. El derecho de acceso se entenderá otorgado si el responsable del tratamiento
+facilitara al afectado un sistema de acceso remoto, directo y seguro a los datos
+personales que garantice, de modo permanente, el acceso a su totalidad. A tales
+efectos, la comunicación por el responsable al afectado del modo en que este podrá
+acceder a dicho sistema bastará para tener por atendida la solicitud de ejercicio del
+derecho.
+No obstante, el interesado podrá solicitar del responsable la información referida a
+los extremos previstos en el artículo 15.1 del Reglamento (UE) 2016/679 que no se
+incluyese en el sistema de acceso remoto.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/6
+
+3. A los efectos establecidos en el artículo 12.5 del Reglamento (UE) 2016/679 se
+podrá considerar repetitivo el ejercicio del derecho de acceso en más de una ocasión
+durante el plazo de seis meses, a menos que exista causa legítima para ello.
+4. Cuando el afectado elija un medio distinto al que se le ofrece que suponga un
+coste desproporcionado, la solicitud será considerada excesiva, por lo que dicho
+afectado asumirá el exceso de costes que su elección comporte. En este caso, solo
+será exigible al responsable del tratamiento la satisfacción del derecho de acceso sin
+dilaciones indebidas.”
+La reclamante solicitó acceso a las fotografías que se habían tomado durante
+la actividad de rafting durante la cual sufrió un percance, y le facilitaron el acceso a las
+mismas. Posteriormente, solicitó el acceso a los datos del fotógrafo que realizó el
+reportaje fotográfico, siendo denegado este aspecto.
+Como se recoge en la normativa reseñada, el derecho de acceso se prevé
+como la obligación que tiene la entidad reclamada de facilitar los datos del afectado
+que son tratados, pero no alcanza información sobre datos personales de terceros.
+Por tanto, las solicitudes referidas al acceso a las imágenes de la reclamante,
+solicitadas, fueron atendidas conforme a la normativa reseñada.
+III
+En relación con el segundo hecho denunciado, que la página web carece de
+política de privacidad, el artículo 13 del RGPD referido a la información que hay que
+facilitar a los interesados cuando se soliciten datos personales indica:
+“1. Cuando se obtengan de un interesado datos personales relativos a él, el
+responsable del tratamiento, en el momento en que estos se obtengan, le facilitará
+toda la información indicada a continuación:
+a) la identidad y los datos de contacto del responsable y, en su caso, de su
+representante;
+b) los datos de contacto del delegado de protección de datos, en su caso;
+c) los fines del tratamiento a que se destinan los datos personales y la base
+jurídica del tratamiento;
+d) cuando el tratamiento se base en el artículo 6, apartado 1, letra f), los
+intereses legítimos del responsable o de un tercero;
+e) los destinatarios o las categorías de destinatarios de los datos personales,
+en su caso;
+f) en su caso, la intención del responsable de transferir datos personales a un
+tercer país u organización internacional y la existencia o ausencia de una decisión de
+adecuación de la Comisión, o, en el caso de las transferencias indicadas en los
+artículos 46 o 47 o el artículo 49, apartado 1, párrafo segundo, referencia a las
+garantías adecuadas o apropiadas y a los medios para obtener una copia de estas o
+al hecho de que se hayan prestado.
+2. Además de la información mencionada en el apartado 1, el responsable del
+tratamiento facilitará al interesado, en el momento en que se obtengan los datos
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/6
+
+personales, la siguiente información necesaria para garantizar un tratamiento de datos
+leal y transparente:
+a) el plazo durante el cual se conservarán los datos personales o, cuando no
+sea posible, los criterios utilizados para determinar este plazo;
+b) la existencia del derecho a solicitar al responsable del tratamiento el acceso
+a los datos personales relativos al interesado, y su rectificación o supresión, o la
+limitación de su tratamiento, o a oponerse al tratamiento, así como el derecho a la
+portabilidad de los datos;
+c) cuando el tratamiento esté basado en el artículo 6, apartado 1, letra a), o el
+artículo 9, apartado 2, letra a), la existencia del derecho a retirar el consentimiento en
+cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el
+consentimiento previo a su retirada;
+d) el derecho a presentar una reclamación ante una autoridad de control;
+e) si la comunicación de datos personales es un requisito legal o contractual, o
+un requisito necesario para suscribir un contrato, y si el interesado está obligado a
+facilitar los datos personales y está informado de las posibles consecuencias de que
+no facilitar tales datos;
+f) la existencia de decisiones automatizas, incluida la elaboración de perfiles, a
+que se refiere el artículo 22, apartados 1 y 4, y, al menos en tales casos, información
+significativa sobre la lógica aplicada, así como la importancia y las consecuencias
+previstas de dicho tratamiento para el interesado.
+3. Cuando el responsable del tratamiento proyecte el tratamiento ulterior de
+datos personales para un fin que no sea aquel para el que se recogieron,
+proporcionará al interesado, con anterioridad a dicho tratamiento ulterior, información
+sobre ese otro fin y cualquier información adicional pertinente a tenor del apartado 2.
+4. Las disposiciones de los apartados 1, 2 y 3 no serán aplicables cuando y en
+la medida en que el interesado ya disponga de la información.”
+La información incluida en la página web, dentro del apartado “Política de
+privacidad”, cumple los requisitos señalados.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución al reclamante y reclamado.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/6
+
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

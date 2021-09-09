@@ -1,0 +1,252 @@
+1/6
+
+
+
+Expediente Nº: E/07271/2019
+RESOLUCIÓN DE CADUCIDAD DE ACTUACIONES
+
+De las actuaciones practicadas por la Agencia Española de Protección de Datos ante
+TELEFONICA DE ESPAÑA, S.A.U., TELEFONICA SOLUCIONES DE INFORMATICA Y
+COMUNICACIONES DE ESPAÑA, S.A.U. y TELEFONICA MOVILES, S.A.U., en virtud de la
+reclamación presentada por ALTERNATIVA SINDICAL DE TRABAJADORES, y teniendo
+como base los siguientes
+HECHOS
+PRIMERO: Con fecha 07/12/2018, tuvo entrada en esta Agencia una reclamación presentada
+por la entidad ALTERNATIVA SINDICAL DE TRABAJADORES (en lo sucesivo AST o la
+reclamante), contra las entidades Telefónica de España, S.A.U. (en lo sucesivo TdE),
+Telefónica Móviles España, S.A.U. (en lo sucesivo TME) y Telefónica Soluciones de
+Informática y Comunicaciones España, S.A.U (en lo sucesivo TSICE), en relación con el
+documento denominado “Anexo de protección de datos al contrato laboral/nombramiento”,
+que fue remitido por el Departamento de RRHH de TdE a sus trabajadores mediante correo
+electrónico de 17/07/2018, en el que figura como asunto el texto “Incorporación del nuevo
+RGPD a tu relación laboral con Telefónica de España”. En este correo se informa a los
+trabajadores que dicho documento “pasa a incorporarse como parte de tu relación laboral”.
+En relación con el mencionado “Anexo” y los tratamientos de datos que TdE llevará a
+cabo, la reclamante destaca los aspectos siguientes:
+. Se informa sobre el volcado de todos los datos de los trabajadores en plataformas
+informáticas externas, accesibles desde el extranjero. En concreto, AST se refiere a la
+siguiente información contenida en el Anexo citado:
+“Los datos personales facilitados por usted durante la relación con Telefónica, y otros referidos a la organización, serán incorporados a la plataforma de Telefónica Success Factors y
+otras plataformas que a lo largo del tiempo puedan servir a Telefónica para desarrollar las finalidades descritas más arriba. Algunos datos personales registrados en Success Factors podrán ser accesibles por otros empleados del Grupo, situados fuera det Espacio Económico
+Europeo”.
+. La responsable se autoriza a sí misma para buscar información en Internet sobre la vida
+privada y personal de los trabajadores, así como a tratar dichos datos sin ningún tipo de
+justificación. A este respecto, se informa lo siguiente:
+“Siempre en relación con las finalidades a las que se refieren los párrafos anteriores, podre mos tratar otros datos personales además de los que usted nos facilite directamente, y a los
+que Telefónica tenga acceso a través de fuentes externas, como es el caso de las redes sociales y publicaciones”.
+. Cesión de los datos de los trabajadores a otras empresas y países. Dice así el Anexo:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/6
+
+“Telefónica le informa que sus datos podrán ser comunicados a otras empresas del Grupo Telefónica, para los fines mencionados, en base al interés legítimo, y/o transferidos a empresas
+del Grupo Telefónica establecidas en un tercer país con ausencia, en algunos paises, de una
+decisión de adecuación de la Comisión Europea”.
+. La información sobre el derecho de oposición es confusa en su redacción. La información
+que TdE ofrece es la siguiente:
+“En concreto, podrá oponerse a ser objeto de una de algunas decisiones basada únicamente
+en el tratamiento automatizado, incluida la elaboración de perfiles”.
+. Se limita el ejercicio de los derechos en materia de protección de datos personales al no
+proporcionar ningún correo electrónico al que puedan dirigirse los trabajadores para el
+ejercicio de tales derechos. Sobre esta cuestión, el repetido Anexo se limita a señalar lo
+siguiente:
+“Ud. puede ejercer los referidos derechos dirigiendo un e-mail a la dirección electrónica:”.
+Por otra parte, AST denuncia el incumplimiento de la normativa de protección de datos
+personales en relación con el tratamiento de datos de salud relativos a trabajadores y
+terceros, sobre los que el referido texto informa como sigue:
+“En el caso de categorías especiales de datos, se tratarán sus datos únicamente cuando el
+tratamiento sea necesario para el cumplimiento de obligaciones y el ejercicio de derechos específicos de Telefónica en el ámbito del derecho laboral y de la seguridad y protección social”.
+En concreto, la reclamante se refiere a la actuación de TdE en relación con las bajas
+por Incapacidad Temporal (IT) de trabajadores y permisos retribuidos por enfermedad de
+familiares, que detalla como sigue:
+a) Baja médica por IT: TdE ha elaborado un “Procedimiento para comunicar ausencias al
+trabajo por causas médicas” en el que dispone la obligación del trabajador de realizar una
+llamada telefónica y facilitar determinados datos personales (DNI, fecha de la baja, tipo de
+proceso y teléfono privado de contacto), sin facilitar información sobre la finalidad del uso de
+estos datos, su cesión a terceros, responsable del fichero o ejercicio de derechos.
+Posteriormente, el Servicio Médico de la empresa contacta con el trabajador a través del
+número de línea telefónica facilitado para recoger datos sobre el motivo de la baja. La
+reclamante indica que el trabajador no tiene la opción de no facilitar el diagnóstico médico y
+que tampoco en este caso recibe la información en materia de protección de datos
+personales.
+b) Permisos retribuidos: para la concesión de los permisos, el trabajador debe completar un
+formulario disponible en la Intranet de la entidad (portal “***PORTAL.1”) y enviar un correo
+electrónico con datos e informes médicos de familiares. Según la reclamante, TdE se ampara
+en el artículo 102.b del Convenio Colectivo de Empresas Vinculadas 2015-2017, en el que se
+dispone la duración de estos permisos en función de la gravedad del caso, según la
+valoración que realice el Servicio Médico de Prevención de Riesgos Laborales (2 a 5 días), y
+en la “Instrucción de Relaciones Laborales IRL-105 Permisos y suspensiones del contrato de
+trabajo”, en la que figura el cuadro de enfermedades que el Servicio Médico coteja.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/6
+
+En relación con esta última cuestión, AST advierte que esta Agencia se ha
+pronunciado en contra de este tipo de actuación en los informes 0428/2013 y 0002/2012; y
+que la SAN 174-2011 realiza la misma valoración (aporta copia de estos documentos).
+Finalmente, añade que ha formulado reclamación ante la Dirección de Relaciones
+Laborales de TdE, no habiendo obtenido respuesta.
+Con su reclamación, la entidad AST aporta la documentación siguiente:
+1. Correo electrónico con el asunto “Incorporación del nuevo RGPD a tu relación laboral con
+Telefónica España”.
+2. “Anexo de protección de datos al contrato laboral/nombramiento”.
+3. “Procedimiento para comunicar ausencias del trabajo por causas médicas”.
+4. Artículo 102.b del Convenio Colectivo de Empresas Vinculadas 2015-2017, publicado en el
+Boletín Oficial del Estado de fecha 21/01/2016:
+5. “Instrucción de Relaciones Laborales IRL-105 Permisos y suspensiones del contrato de
+trabajo”. Aporta el Anexo II de esta Instrucción, que aparece con el rótulo “Permisos y
+suspensiones de contrato de trabajo. Enfermedades y/o intervenciones quirúrgicas con
+ingreso hospitalario superior a 24 horas”.
+6. Copia del escrito dirigido por AST a Recursos Humanos de TdE.
+SEGUNDO: De conformidad con el artículo 65.4 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en lo sucesivo
+LOPDGDD), que ha previsto un mecanismo previo a la admisión a trámite de las reclamaciones que se formulen ante la AEPD, consistente en trasladarlas a los Delegados de Protección
+de Datos designados por los responsables o encargados del tratamiento, a los efectos previstos en el artículo 37 de la citada norma, o a éstos cuando no los hubieren designado, se dio
+traslado de la reclamación a la entidad reclamada para que procediese a su análisis y diera
+respuesta a la parte reclamante y a esta Agencia en el plazo de un mes.
+TdE, conocida la reclamación, ha elaborado un informe interno sobre las
+circunstancias puestas de manifiesto y concluye que el contenido de la información facilitada
+a los trabajadores en materia de protección de datos se ajusta a la normativa aplicable.
+Señala, asimismo, que AST no ha tenido en cuenta otras comunicaciones o avisos de
+privacidad que facilita a los trabajadores (en el informe interno menciona, en concreto, los
+avisos incluidos en la plataforma “SuccessFactors o la red social Workplace), que dan
+contestación a algunas de las cuestiones reclamadas, y que, no obstante, ha realizado una
+comunicación con información adicional en la que se abunda en la forma en que comparte los
+datos como parte de la gestión de su función de Recursos Humanos, el ejercicio de derechos,
+la gestión de los datos aportados para justificar las bajas médicas y permisos, así como en
+relación con la consulta de redes sociales de ámbito profesional.
+Por otra parte, advierte que ha actualizado el sistema de toma de información para la
+justificación de bajas médicas y permisos, como parte de la operativa de revisión continua y
+mejora de los procesos de tratamientos de datos personales, para garantizar que los
+interesados son conscientes de la necesidad de la recogida de datos y que su tratamiento
+tiene lugar únicamente para el cumplimiento de obligaciones legales.
+Con su escrito de respuesta, TdE aportó copia del “informe interno” elaborado con
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/6
+
+motivo de la reclamación.
+Por otra parte, TdE aporta con su respuesta capturas de pantalla de la intranet
+corporativa y copia de la “Comunicación de protección de datos de SuccessFactors”.
+Asimismo, se incorpora el formulario de consentimiento que utiliza el Servicio de Prevención
+de Riesgos Laborales y copia de la respuesta remitida por TdE a la entidad AST con motivo
+de su reclamación, cuyo contenido coincide con el reflejado en el informe interno elaborado
+por la entidad reclamada.
+TERCERO: Con fecha 06/03/2019, la entidad AST presentó en esta Agencia un escrito en el
+formula una serie de consideraciones en relación con la respuesta ofrecida por TdE a la reclamación de aquella entidad.
+CUARTO: La reclamación a la que se refiere las actuaciones fue admitida a trámite mediante
+resolución de fecha 02/04/2019.
+QUINTO: A la vista de los hechos denunciados en la reclamación y de los documentos aportados por la entidad reclamante, la Subdirección General de Inspección de Datos procedió a la
+realización de actuaciones previas de investigación para el esclarecimiento de los hechos en
+cuestión, en virtud de los poderes de investigación otorgados a las autoridades de control en
+el artículo 57.1 del Reglamento RGPD, y de conformidad con lo establecido en el Título VII,
+Capítulo I, Sección segunda, de la LOPDGDD.
+Con fecha 21 de febrero de 2020, los servicios de inspección de esta Agencia
+remitieron un requerimiento de información a las entidades reclamadas, que fue respondido
+en fechas 4 y 5 de marzo de 2020.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la LOPDGDD, es
+competente para resolver estas actuaciones de investigación la Directora de la Agencia Española de Protección de Datos.
+II
+El artículo 67 de la LOPDGDD determina lo siguiente, respecto a las actuaciones previas de investigación:
+“1. Antes de la adopción del acuerdo de inicio de procedimiento, y una vez admitida a trámite
+la reclamación si la hubiese, la Agencia Española de Protección de Datos podrá llevar a cabo
+actuaciones previas de investigación a fin de lograr una mejor determinación de los hechos y
+las circunstancias que justifican la tramitación del procedimiento.
+La Agencia Española de Protección de Datos actuará en todo caso cuando sea precisa la investigación de tratamientos que implique un tráfico masivo de datos personales.
+2. Las actuaciones previas de investigación se someterán a lo dispuesto en la Sección 2.ª del
+Capítulo I del Título VII de esta ley orgánica y no podrán tener una duración superior a doce
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/6
+
+meses a contar desde la fecha del acuerdo de admisión a trámite o de la fecha del acuerdo
+por el que se decida su iniciación cuando la Agencia Española de Protección de Datos actúe
+por propia iniciativa o como consecuencia de la comunicación que le hubiera sido remitida por
+la autoridad de control de otro Estado miembro de la Unión Europea, conforme al artículo
+64.3 de esta ley orgánica.”
+En relación con las actuaciones previas, el Reglamento de desarrollo de la LOPD
+(RLOPD), aprobado por Real Decreto 1720/2007, de 21 de diciembre, en vigor en todo aquello que no contradiga, se oponga o resulte incompatible con lo dispuesto en el RGPD y en la
+LOPDGDD, en su artículo 122.4 dispone que “El vencimiento del plazo sin que haya sido dictado y notificado acuerdo de inicio de procedimiento sancionador producirá la caducidad de
+las actuaciones previas”.
+A tenor de lo dispuesto en los artículos transcritos, las actuaciones previas han de entenderse caducadas si, transcurridos más de doce meses contados desde la fecha de admisión a trámite de la reclamación, no se ha procedido a dictar y notificar el acuerdo de inicio de
+procedimiento sancionador.
+En el presente supuesto, la reclamación tuvo entrada en esta Agencia Española de
+Protección de Datos el 7 de diciembre de 2018, llevándose a cabo con posterioridad actuaciones de investigaciones previas al objeto de determinar si concurrían circunstancias que justificaran la iniciación del procedimiento sancionador correspondiente.
+El cómputo de los doce meses de duración máxima de las actuaciones previas
+E/07271/2019 se inició el día 7 de marzo de 2019, fecha en la que debe entenderse admitida
+a trámite la reclamación reseñada en el Hecho Primero, conforme a lo dispuesto en el artículo
+65.5 de la LOPDGDD. Actualmente, tales actuaciones aún están pendientes de finalización,
+por lo que deben declararse caducadas.
+III
+Por otra parte, el artículo 95.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Publicas (en lo sucesivo LPACAP), determina
+lo siguiente:
+“La caducidad no producirá por sí sola la prescripción de las acciones del particular o de la
+Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción.
+En los casos en los que sea posible la iniciación de un nuevo procedimiento por no haberse
+producido la prescripción, podrán incorporarse a éste los actos y trámites cuyo contenido se
+hubiera mantenido igual de no haberse producido la caducidad. En todo caso, en el nuevo
+procedimiento deberán cumplimentarse los trámites de alegaciones, proposición de prueba y
+audiencia al interesado.”
+Al respecto la Audiencia Nacional considera (Sentencia de 10 de julio de 2013) que
+“declarada la caducidad de las actuaciones previas de investigación iniciadas por la Agencia
+Española de Protección de Datos, tal circunstancia no supone obstáculo alguno para que
+dicha entidad proceda a iniciar o reiniciar otras actuaciones previas de investigación sobre los
+mismos hechos, siempre y cuando no hubiere transcurrido el plazo de prescripción de la
+infracción administrativa objeto de investigación”.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/6
+
+En consecuencia, dado que los hechos objeto de investigación no se encuentran
+prescritos, se dan instrucciones a la Subdirección General de Inspección de Datos para que
+inicie nuevas actuaciones de investigación.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia Española de
+Protección de Datos,
+SE ACUERDA:
+PRIMERO: DECLARAR la CADUCIDAD de las presentes actuaciones previas de
+investigación señaladas con el número E/07271/2019.
+SEGUNDO: ABRIR nuevas actuaciones previas de investigación e incorporar a las mismas la
+documentación que integra las actuaciones previas que se declaran caducadas mediante el
+presente acto.
+TERCERO: NOTIFICAR la presente resolución a las entidades ALTERNATIVA SINDICAL DE
+TRABAJADORES, TELEFONICA DE ESPAÑA, S.A.U. TELEFONICA SOLUCIONES DE
+INFORMATICA Y COMUNICACIONES DE ESPAÑA, S.A.U. y TELEFONICA MOVILES,
+S.A.U.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado por
+el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+de las Administraciones Públicas, y de conformidad con lo establecido en los arts. 112 y 123
+de la citada Ley 39/2015, de 1 de octubre, los interesados podrán interponer, potestativamente, recurso de reposición ante la Directora de la Agencia Española de Protección de Datos en
+el plazo de un mes a contar desde el día siguiente a la notificación de esta resolución o directamente recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de
+la Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

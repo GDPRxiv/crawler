@@ -1,0 +1,161 @@
+1/4
+
+
+
+Procedimiento Nº: E/09476/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: La reclamación interpuesta por A.A.A. (en adelante, el reclamante) tiene
+entrada con fecha 16 de julio de 2019 en la Agencia Española de Protección de Datos.
+La reclamación se dirige contra SALVALONA.COM, (en adelante, el reclamado).
+Los motivos en que basa la reclamación son que el reclamado crea un fichero de
+datos personales sin registrarlo en la Agencia Española de Protección de Datos, ni
+detallar los derechos a los que tienen derecho los usuarios.
+SEGUNDO: Con fecha 8 de octubre de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó admitir a trámite la reclamación presentada por el
+reclamante.
+TERCERO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, de conformidad con lo establecido en el artículo 67 de la
+LOPDGDD, teniendo conocimiento de los siguientes extremos:
+Con fecha 24 de abril de 2020 se comprueba que, según https://web.archive.org, a
+fecha 5 de noviembre de 2019 en la web https://salvalona.com no consta una Política
+de Privacidad.
+Con fecha 24 de abril de 2020 se comprueba que, según https://web.archive.org, a
+fecha 8 de noviembre de 2019 existe un formulario de contacto en la url
+https://salvalona.com/contacto en el que se recogen los datos de nombre, apellidos,
+teléfono, correo electrónico y comentarios.
+Con fecha 24 de abril de 2020 se comprueba que, según https://web.archive.org,
+existe un aviso legal en la web https://salvalona.com a fecha de 2 de noviembre de
+2019 en el que se indica:
+“No consta la identificación del responsable.”
+Consta un apartado “9. Política respecto a los datos personales obtenidos a través del
+web” donde en su apartado “9.6 Derechos del usuario” consta un correo electrónico
+para ejercer los derechos.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/4
+
+Con fecha 24 de abril de 2020 se comprueba que la url https://salvalona.com/contacto
+no se encuentra accesible.
+Con fecha 27 de abril de 2020 se comprueba que al entrar en la url
+https://salvalona.com redirige a la web https://www.herpac.com/es/.
+Con fecha 1 de junio de 2020, se remite requerimiento de información a XTUDIO
+NETWORKS S.L.U. La notificación consta entregada por el servicio notific@ con fecha
+3 de junio de 2020. No se recibe contestación.
+Con fecha 24 de julio de 2020, se remite requerimiento de información a HOSTING
+CONCEPTS B.V. La notificación se realiza electrónicamente a través de notific@.
+Según este sistema de notificación, se ha producido el rechazo automático al haber
+transcurrido diez días naturales desde su puesta a disposición.
+Con fecha 31 de julio de 2020, se remite requerimiento de información a HOSTING
+CONCEPTS B.V. La notificación se realiza por correo postal y figura con el estado
+Devuelto a Origen por Desconocido el 13/08/2020 a las 10:13.
+Con fecha 27 de agosto de 2020 se comprueba que la web https://salvalona.com no se
+encuentra accesible.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+De conformidad con lo establecido en el artículo 55 del RGPD, la Agencia
+Española de Protección de Datos es competente para desempeñar las funciones que
+se le asignan en su artículo 57, entre ellas, la de hacer aplicar el Reglamento y
+promover la sensibilización de los responsables y los encargados del tratamiento
+acerca de las obligaciones que les incumben, así como tratar las reclamaciones
+presentadas por un interesado e investigar el motivo de estas.
+Corresponde, asimismo, a la Agencia Española de Protección de Datos ejercer
+los poderes de investigación regulados en el artículo 58.1 del RGPD, entre los que
+figura la facultad de ordenar al responsable y al encargado del tratamiento que faciliten
+cualquier información que requiera para el desempeño de sus funciones.
+Correlativamente, el artículo 31 del RGPD establece la obligación de los
+responsables y encargados del tratamiento de cooperar con la autoridad de control
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/4
+
+que lo solicite en el desempeño de sus funciones. Para el caso de que éstos hayan
+designado un delegado de protección de datos, el artículo 39 del RGPD atribuye a
+éste la función de cooperar con dicha autoridad.
+Del mismo modo, el ordenamiento jurídico interno también prevé la posibilidad
+de abrir un período de información o actuaciones previas. En este sentido, el artículo
+55 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, otorga esta facultad al órgano competente con el fin de
+conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el
+procedimiento.
+El artículo 67 de la LOPDGDD establece que en relación con las actuaciones
+previas de investigación antes de la adopción del acuerdo de inicio de procedimiento, y
+una vez admitida a trámite la reclamación si la hubiese, la Agencia Española de
+Protección de Datos podrá llevar a cabo actuaciones previas de investigación a fin de
+lograr una mejor determinación de los hechos y las circunstancias que justifican la
+tramitación del procedimiento.
+III
+En el presente caso, la reclamación presentada por el reclamante alude una
+presunta vulneración del artículo 13.1 a) del RGPD ya que en la política de privacidad
+del reclamado no se indica quien es el responsable del tratamiento de los datos
+personales que se recogen.
+Tras las averiguaciones realizadas por esta Agencia se ha constatado que la
+página web del reclamado no se encuentra accesible desde el 24 de abril, redirigiendo
+al usuario a la página web https://www.herpac.com/es/.
+Esta Agencia presentó requerimiento de información a XTUDIO NETWORKS
+S.L.U. y a HOSTING CONCEPTS B.V., primero electrónicamente y luego por vía
+postal, para discernir los hechos objeto de esta reclamación, sin recibir respuesta en el
+caso de XTUDIO NETWORKS S.L.U. y devolviéndose por desconocido en el caso de
+HOSTING CONCEPTS B.V.
+Así las cosas, aunque no ha podido constatarse quién es el responsable de los
+hechos objeto de la presente reclamación, sí que se ha acreditado que la web
+https://salvalona.com ya no se encuentra accesible.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución al reclamante.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/4
+
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

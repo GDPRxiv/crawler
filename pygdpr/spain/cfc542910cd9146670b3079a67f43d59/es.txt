@@ -1,0 +1,395 @@
+1/8
+
+ Procedimiento Nº: E/07992/2019
+940-0419
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: El día 12 de marzo de 2019 tiene entrada en la Agencia Española de
+Protección de Datos escrito de la SUBDELEGACIÓN DEL GOBIERNO EN ÁVILA
+mediante el que remite la denuncia interpuesta por A.A.A. (en adelante, el reclamante)
+el 26 de febrero de 2019 ante el PUESTO DE LA GUARDIA CIVIL EN
+***LOCALIDAD.1 contra el AYUNTAMIENTO DE ***LOCALIDAD.1, con NIF
+P0504100I (en adelante, el reclamado). Los motivos en los que basa la denuncia son
+que «[…] su expareja ha obtenido del Ayuntamiento de la localidad de
+***LOCALIDAD.1 (Ávila) un certificado de convivencia tanto de ella como de sus dos
+hijos así como de una sobrina los cuales se encuentran empadronados en el mismo
+domicilio. Que dichos datos han sido facilitados sin su consentimiento y siente
+vulnerados sus derechos […].»
+/
+SEGUNDO: De conformidad con el artículo 65.4 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+adelante LOPDGDD), se dio traslado de dicha reclamación al reclamado, para que
+procediese a su análisis e informase a esta Agencia en el plazo de un mes, de las
+acciones llevadas a cabo para adecuarse a los requisitos previstos en la normativa de
+protección de datos. El citado traslado fue notificado el día 10 de mayo de 2019, sin
+que se recibiese contestación por parte del reclamado.
+TERCERO: Con fecha 23 de agosto de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó admitir a trámite la reclamación.
+CUARTO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+
+
+Que el certificado de convivencia es un documento que sirve para acreditar
+las personas que conviven en el mismo domicilio, de acuerdo con los datos
+que constan en la correspondiente hoja padronal; siendo su principal
+finalidad su expedición para determinados trámites con Organismos
+Oficiales.
+
+
+
+El Ayuntamiento informa que se comprobó la filiación de D. B.B.B. y los
+hijos menores para los cuales se solicitó el certificado.
+
+
+
+El Ayuntamiento de ***LOCALIDAD.1 manifiesta que «Al ser el Certificado
+de Convivencia un certificado colectivo, de tal manera que en el mismo
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/8
+
+figuran los datos de todas las personas que residen en el mismo domicilio,
+el Ayuntamiento considera que la causa que ha motivado esta reclamación
+es que no se solicitó el consentimiento de Dª A.A.A. en atención a lo
+dispuesto en el artículo 6.1 de la LOPDGDD para la expedición del
+certificado a D. B.B.B.»
+
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+El Ayuntamiento aporta:
+o
+
+Certificado de empadronamiento del padrón municipal de habitantes
+de ***LOCALIDAD.1 correspondiente a D. B.B.B. donde consta
+que, a fecha de 06/02/2019, su domicilio es ***DIRECCIÓN.1
+
+o
+
+Certificado de empadronamiento del padrón municipal de habitantes
+de ***LOCALIDAD.1 correspondiente a la denunciante donde
+consta que, a fecha de 06/02/2019, su domicilio es ***DIRECCIÓN.2
+
+o
+
+Copia de libro de familia con nº ***LIBRO.1 donde consta:
+a. Los titulares del libro son D. B.B.B. y la denunciante.
+b. Constan como hijos:
+i. C.C.C.
+ii. D.D.D.
+
+o
+
+Copia de hoja de inscripción padronal nº ***INSCRIPCIÓN.1 del
+padrón municipal del Ayuntamiento de ***LOCALIDAD.1 donde
+constan inscritos en el domicilio de ***DIRECCIÓN.2
+(***LOCALIDAD.1):
+a. La denunciante.
+b. C.C.C.
+c. D.D.D.
+d. E.E.E.
+
+o
+
+Copia de informe de auditoría de seguridad donde consta:
+«Con motivo de la reclamación comunicada por el Ayuntamiento a
+esta Asesoría se indica al Ayuntamiento los pasos a seguir para que
+esta incidencia no vuelva a repetirse:
+1. Creación de un formulario de solicitud para la expedición de
+CERTIFICADOS donde se incluye la correspondiente leyenda
+relativa al consentimiento expreso e inequívoco por parte del titular
+de los datos o de su representante legal. Conforme a Io indicado en
+el artículo 6.1 de la LOPDGDD.»
+
+o
+
+Copia de registro de actividades de tratamiento.
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/8
+
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+El artículo 5 del RGPD, cuya rúbrica lleva por título “Principios relativos al
+tratamiento” establece en la letra a) de su apartado 1 que los datos personales serán
+«tratados de manera lícita, leal y transparente en relación con el interesado (“licitud,
+lealtad y transparencia”).»
+Por su parte, el artículo 6.1 del mismo texto legal concreta los supuestos que
+permiten considerar lícito el tratamiento, a saber:
+«1. El tratamiento sólo será lícito si cumple al menos una de las siguientes
+condiciones:
+a) el interesado dio su consentimiento para el tratamiento de sus datos
+personales para uno o varios fines específicos;
+b) el tratamiento es necesario para la ejecución de un contrato en el que el
+interesado es parte o para la aplicación a petición de este de medidas
+precontractuales;
+c) el tratamiento es necesario para el cumplimiento de una obligación legal
+aplicable al responsable del tratamiento;
+d) el tratamiento es necesario para proteger intereses vitales del interesado o de
+otra persona física.
+e) el tratamiento es necesario para el cumplimiento de una misión realizada en
+interés público o en el ejercicio de poderes públicos conferidos al responsable
+del tratamiento;
+f) el tratamiento es necesario para la satisfacción de intereses legítimos
+perseguidos por el responsable del tratamiento o por un tercero, siempre que
+sobre dichos intereses no prevalezcan los intereses o los derechos y libertades
+fundamentales del interesado que requieran la protección de datos personales,
+en particular cuando el interesado sea un niño.
+Lo dispuesto en la letra f) del párrafo primero no será de aplicación al
+tratamiento realizado por las autoridades públicas en el ejercicio de sus funciones.»
+Sobre esta cuestión de la licitud del tratamiento, incide asimismo el
+Considerando 40 del mencionado RGPD, cuando dispone que «Para que el
+tratamiento sea lícito, los datos personales deben ser tratados con el consentimiento
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/8
+
+del interesado o sobre alguna otra base legítima establecida conforme a Derecho, ya
+sea en el presente Reglamento o en virtud de otro Derecho de la Unión o de los
+Estados miembros a que se refiera el presente Reglamento, incluida la necesidad de
+cumplir la obligación legal aplicable al responsable del tratamiento o a la necesidad de
+ejecutar un contrato con el que sea parte el interesado o con objeto de tomar medidas
+a instancia del interesado con anterioridad a la conclusión de un contrato.»
+Un informe del servicio jurídico de la Agencia Española de Protección de Datos
+respondió, entre otras cuestiones, a una consulta acerca de la posibilidad de facilitar
+un certificado de convivencia a una persona sin contar con el consentimiento del resto
+de los empadronados. (referencia ***REFERENCIA.1). Además, en el informe
+establece las situaciones en las que un Ayuntamiento puede facilitar dichos
+certificados a terceros y la base legitimadora de este tratamiento. Señala lo siguiente:
+“Planteándose en la consulta la posibilidad de hacer constar en los certificados y
+volantes de empadronamiento los nombres y apellidos de las personas empadronadas
+en un mismo domicilio, cuando no se disponga de su consentimiento expreso, y no
+siendo factible presumir el mismo, es preciso analizar si concurre alguna de las demás
+bases legitimadoras previstas en el artículo 6.1. que legitime dicho tratamiento.
+A juicio de esta Agencia, no constando el consentimiento expreso de los
+afectados, en el supuesto objeto de consulta el tratamiento únicamente podrá
+fundamentarse en el interés legítimo del solicitante del certificado o volante de
+empadronamiento, al amparo de los previsto en la letra f del artículo 6.1. del RGPD:
+“el tratamiento es necesario para la satisfacción de intereses legítimos
+perseguidos por el responsable del tratamiento o por un tercero, siempre que sobre
+dichos intereses no prevalezcan los intereses o los derechos y libertades
+fundamentales del interesado que requieran la protección de datos personales, en
+particular cuando el interesado sea un niño.”
+El propio Reglamento establece en sus Considerandos ejemplos y pautas para
+concretar el tratamiento basado en el interés legítimo. Así, el Considerando 47 señala
+que “El interés legítimo de un responsable del tratamiento, incluso el de un
+responsable al que se puedan comunicar datos personales, o de un tercero, puede
+constituir una base jurídica para el tratamiento, siempre que no prevalezcan los
+intereses o los derechos y libertades del interesado, teniendo en cuenta las
+expectativas razonables de los interesados basadas en su relación con el
+responsable. Tal interés legítimo podría darse, por ejemplo, cuando existe una relación
+pertinente y apropiada entre el interesado y el responsable, como en situaciones en
+las que el interesado es cliente o está al servicio del responsable. En cualquier caso,
+la existencia de un interés legítimo requeriría una evaluación meticulosa, inclusive si
+un interesado puede prever de forma razonable, en el momento y en el contexto de la
+recogida de datos personales, que pueda producirse el tratamiento con tal fin. En
+particular, los intereses y los derechos fundamentales del interesado podrían
+prevalecer sobre los intereses del responsable del tratamiento cuando se proceda al
+tratamiento de los datos personales en circunstancias en las que el interesado no
+espere razonablemente que se realice un tratamiento ulterior. Dado que corresponde
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/8
+
+al legislador establecer por ley la base jurídica para el tratamiento de datos personales
+por parte de las autoridades públicas, esta base jurídica no debe aplicarse al
+tratamiento efectuado por las autoridades públicas en el ejercicio de sus funciones. El
+tratamiento de datos de carácter personal estrictamente necesario para la prevención
+del fraude constituye también un interés legítimo del responsable del tratamiento de
+que se trate. El tratamiento de datos personales con fines de mercadotecnia directa
+puede considerarse realizado por interés legítimo”.
+(…)
+No obstante, en este punto interesa resaltar que no nos estamos refiriendo al
+interés legítimo del responsable del tratamiento, ya que, en cuanto Administración
+Pública, resulta de aplicación la exclusión prevista en el último inciso del apartado 1
+del artículo 6 del RGPD (lo dispuesto en la letra f) del párrafo primero no será de
+aplicación al tratamiento realizado por las autoridades públicas en el ejercicio de sus
+funciones) y así lo ha reiterado esta Agencia en su informe 175/2018. Se trata, por el
+contrario, del interés legítimo del tercero que se relaciona con la Administración (en el
+presente caso, el solicitante del certificado o el volante de empadronamiento).
+En este sentido se recoge en la disposición adicional décima de la Ley
+Orgánica 3/2018, relativa a las comunicaciones de datos por los sujetos enumerados
+en el artículo 77.1, entre los que se encuentran: c) La Administración General del
+Estado, las Administraciones de las comunidades autónomas y las entidades que
+integran la Administración Local.
+“Disposición adicional décima. Comunicaciones de datos por los sujetos
+enumerados en el artículo 77.1.
+Los responsables enumerados en el artículo 77.1 de esta ley orgánica podrán
+comunicar los datos personales que les sean solicitados por sujetos de derecho
+privado cuando cuenten con el consentimiento de los afectados o aprecien que
+concurre en los solicitantes un interés legítimo que prevalezca sobre los derechos e
+intereses de los afectados conforme a lo establecido en el artículo 6.1 f) del
+Reglamento (UE) 2016/679”.
+Por consiguiente, la comunicación de datos al amparo de lo previsto en el
+artículo 6.1.f) del RGPD requiere la realización de la correspondiente prueba de
+sopesamiento con el fin de determinar si el interés legítimo del solicitante prevalece
+sobre el derecho a la protección de datos de los afectados, lo que supone que, por
+parte del responsable del tratamiento:
+Debe valorarse el interés legítimo invocado por el solicitante, atendiendo a la
+concreta finalidad para la que se solicite el certificado o volante de empadronamiento.
+Debe atenderse igualmente a la especial situación en la que puedan
+encontrarse los afectados.
+En cuanto al requisito de la ponderación de los derechos e intereses en
+conflicto, ésta dependerá, en principio, de las circunstancias concretas del caso
+particular de que se trate.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/8
+
+Para la adecuada ponderación, es necesario que el responsable disponga de
+toda la información necesaria lo que supone, no sólo conocer la finalidad para la que
+se solicitan los datos, sino, muy especialmente, la incidencia que pueda tener en la
+esfera del afectado su comunicación, lo que implica el cumplimiento del deber de
+información en el momento de la obtención de los datos previsto en el artículo 13 del
+RGPD y el posible ejercicio por el afectado de su derecho de oposición al amparo del
+artículo 21 del mismo.
+(…)
+Por consiguiente, el interesado deberá ser informado en el momento de
+obtención de sus datos personales, entre otras circunstancias, de la base jurídica del
+tratamiento, a lo que cabe añadir lo establecido en la letra d), esto es, que cuando el
+tratamiento se base en el art. 6, apartado 1, letra f) -interés legítimo-, deberá
+informarse al interesado cuáles son los intereses legítimos de un tercero que se
+alegan como base jurídica del tratamiento, así como del derecho que tiene a oponerse
+a dicho tratamiento.
+Ello tiene una gran importancia, porque demuestra que el RGPD pretende que
+el interesado pueda tener conocimiento en ese momento (en el momento de recogida
+de sus datos personales) de cuáles son los intereses legítimos de terceros que
+hipotéticamente pueden legitimar el tratamiento de sus datos, sin necesidad de su
+consentimiento, así como que el responsable pueda tener en cuenta los derechos,
+libertades e intereses del propio afectado, de suerte que pueda realizarse por el
+responsable del tratamiento la ponderación entre los intereses legítimos que se
+pudieran alegar por el tercero y los intereses o los derechos y libertades
+fundamentales del interesado que requieran la protección de sus datos personales, en
+particular cuando el interesado sea un niño.
+Por lo tanto, dicha ponderación deberá realizarse:
+a) Por el responsable
+b) Atendiendo a las circunstancias del caso concreto.
+(…)
+Así, por ejemplo, en el caso al que se hace referencia en la consulta, de
+solicitud del certificado o volante de empadronamiento por uno de los que en ese
+momento está inscrito en la vivienda, el juicio de ponderación podría ser favorable a
+los intereses legítimos invocados por el tercero, cuando así resulte de la finalidad para
+la que se solicita y la ausencia de otras circunstancias en los afectados. Lo mismo en
+el caso de que el certificado se solicite por el propietario de la vivienda y sea necesario
+para la finalidad pretendida (por ejemplo, ejercitar acciones judiciales frente a quienes
+habitan en la misma careciendo de título jurídico válido, siendo necesario que el
+demandante aporte todos los datos que faciliten la identificación y localización del
+demandado conforme al artículo 155 de la Ley de Enjuiciamiento Civil, cuyo apartado
+tercero prevé expresamente que “a efectos de actos de comunicación, podrá
+designarse como domicilio el que aparezca en el padrón municipal […]).
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/8
+
+Por el contrario, en otros casos, en el juicio de ponderación podrán prevalecer
+los derechos e intereses de los afectados, como sería el caso, planteado en la
+consulta de personas que figuran empadronadas en una vivienda y que han dejado de
+residir en la misma, para las que debe iniciarse un expediente de baja de oficio,
+siempre de nuevo atendiendo a las circunstancia concretas del caso y a la finalidad
+invocada por el tercero (que, de nuevo, podría ser, por ejemplo, para el ejercicio de
+acciones judiciales).
+Igualmente, podría ser el caso de personas que sean víctimas de violencia de
+género o de menores, cuando no se solicite por quien ostente su representación legal.
+En todo caso, es necesario insistir en que el juicio de ponderación, atendiendo a las
+circunstancias del caso concreto, deberá realizarlo el responsable del tratamiento,
+asistido, en caso de duda, por el delegado de protección de datos, de obligatorio
+nombramiento en el ámbito de las Administraciones Públicas”
+III
+De conformidad con las evidencias de las que se dispone en relación con el
+presente caso, se considera que el Ayuntamiento de Burgohondo emitió un certificado
+de convivencia de unos menores a uno de sus progenitores cuando éste ya no
+convivía en el mismo domicilio. Al tratarse de un documento de carácter colectivo, este
+certificado incluyó asimismo los datos personales del resto de personas convivientes
+en el mismo domicilio de las menores, a saber, el otro progenitor y un tercero menor
+de edad, y ello sin que el Ayuntamiento verificara que disponía del consentimiento de
+estas personas o de su representante legal.
+No obstante lo anterior, el Ayuntamiento, tras analizar la reclamación,
+manifiesta a esta Agencia que ha decidido implementar una serie de medidas que
+garanticen que en la emisión de certificados se cuente con la preceptiva base
+legitimadora que permita tratar los datos de todas las personas que eventualmente
+puedan ser incluidas en los citados documentos.
+IV
+Una vez analizada la respuesta emitida por el reclamado, esta Agencia
+considera que las medidas adoptadas en la emisión de certificados puestas de
+manifiesto por el Ayuntamiento de Burgohondo, se ajustan a unos mínimos razonables
+en el tratamiento, conforme al ordenamiento vigente, de los datos personales que
+puedan verse afectados en los supuestos que sean como el objeto de reclamación.
+Deberá adecuar a lo indicado por el informe del Servicio Jurídico del Estado para los
+supuestos allí contemplados, tales como la solicitud de certificado de convivencia por
+una de las personas que conviven o por personas empadronadas en el domicilio.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/8
+
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución al reclamante y reclamado.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

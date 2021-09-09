@@ -1,0 +1,427 @@
+1/13
+
+
+
+Procedimiento Nº: E/11475/2019
+
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: La reclamación interpuesta por el representante del reclamante 1 (datos
+recogidos en el Anexo I) tiene entrada con fecha 19 de septiembre de 2019 en la
+Agencia Española de Protección de Datos.
+La reclamación se dirige contra ESPANA-DIRECTORIO.COM.
+Los motivos en que basa la reclamación son la publicación de los datos
+personales del reclamante (nombre, apellidos, número de teléfono, dirección postal de
+un negocio suyo que cerró por jubilación) en el directorio web ***URL.1 sin su
+consentimiento. También indica que no se han atendido sendas solicitudes de
+supresión de datos personales remitidas a través del formulario proporcionado en el
+portal web, en fechas 23 de julio y 23 de agosto de 2019.
+SEGUNDO: La reclamación interpuesta por el representante del reclamante 1 (datos
+recogidos en el Anexo I) tiene entrada nuevamente, con fecha 27 de septiembre de
+2019, en la Agencia Española de Protección de Datos.
+TERCERO: La reclamación interpuesta por el reclamante 2 (datos recogidos en el
+Anexo II) tiene entrada con fecha 26 de noviembre de 2019 en la Agencia Española de
+Protección de Datos.
+La reclamación se dirige contra ESPANA-DIRECTORIO.COM.
+Los motivos en que basa la reclamación son la publicación en el directorio web
+***URL.1 de los datos personales del reclamante (nombre, apellidos, teléfono y
+dirección), sin su consentimiento. Añade que no ha recibido respuesta a sendas
+solicitudes de supresión cursadas en fechas 1 de octubre y 4 de noviembre de 2019, a
+través de la dirección de e-mail indicada en el portal web, ***EMAIL.1
+No se aporta copia de los correos electrónicos enviados a la dirección indicada
+en el portal web.
+CUARTO: La reclamación interpuesta por el reclamante 3 (datos recogidos en el
+Anexo III) tiene entrada con fecha 8 de enero de 2020 en la Agencia Española de
+Protección de Datos.
+La reclamación se dirige contra ESPANA-DIRECTORIO.COM.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/13
+
+Los motivos en que basa la reclamación son la solicitud de supresión de datos
+personales publicados en el directorio web ***URL.1 no atendida ni contestada, tras
+ser remitida por dos días consecutivos a la dirección de correo electrónico indicada en
+la propia web.
+En los mensajes el reclamante les hace saber que el formulario habilitado en la
+web para solicitar la supresión de datos no es operativo, les comunica su solicitud de
+supresión de datos relativa a una URL concreta, y les pide acuse de recibo de la
+comunicación. El reclamante también observa que en el directorio web no se identifica
+dirección postal alguna para dirigir las solicitudes.
+Se aporta copia de los correos electrónicos enviados en fechas 22 y 23 de
+octubre de 2019 a la dirección ***EMAIL.1, así como copia de los datos publicados.
+QUINTO: La reclamación interpuesta por el reclamante 4 (datos recogidos en el Anexo
+IV) tiene entrada con fecha 19 de febrero de 2020 en la Agencia Española de
+Protección de Datos.
+La reclamación se dirige contra ESPANA-DIRECTORIO.COM.
+La reclamante ha descubierto que está publicado en el directorio web ***URL.1
+su número de teléfono privado, asociado a una empresa que desconoce. Ha solicitado
+la supresión del dato, a través de la dirección de correo electrónico de contacto
+indicada en el portal web, sin éxito. También ha intentado hacer uso de los formularios
+de contacto y de eliminación de datos que se proporcionan en él, pero tampoco ha
+dado ningún resultado.
+No aporta ningún documento acompañando a la reclamación, ni tan siquiera el
+supuesto e-mail enviado a la dirección de correo indicada en el portal web.
+SEXTO: La reclamación interpuesta por el reclamante 5 (datos recogidos en el Anexo
+V) tiene entrada con fecha 3 de marzo de 2020 en la Agencia Española de Protección
+de Datos.
+La reclamación se dirige contra ESPANA-DIRECTORIO.COM.
+Se reclama por la publicación en el directorio web citado de los datos
+personales del reclamante (nombre, apellidos, número de teléfono, dirección postal)
+sin su consentimiento. Además, ha solicitado la de supresión, cursada a través de los
+mecanismos proporcionados en el portal web, sin éxito.
+Aporta pantallazo de móvil del directorio web mostrando los datos personales
+del reclamante.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/13
+
+SEGUNDO: La Directora de la Agencia Española de Protección de Datos
+admitir a trámite las reclamaciones presentadas por los reclamantes.
+
+acordó
+
+TERCERO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+Con fecha 28 de mayo de 2020, se accede a la página web ***URL.1 verificando
+que:
+1. En la página web se informa de que:
+Los datos que los usuarios facilitan a espana-directorio.com tienen como finalidad que la información que se proporciona a través de la página WEB espana-directorio.com esté accesible para todos los usuarios, garantizando por medio de los ingresos basados en la publicidad el mantenimiento de esto sito.
+Para ello utilizamos cookies que permiten las siguientes finalidades:
+
+
+Que en el proceso de navegación se muestre publicidad en la página WEB,
+tanto publicidad general, como publicidad personalizada.
+
+
+
+Realizar análisis agregados de los procesos de navegación del conjunto de los
+usuarios en las diferentes secciones de la página WEB
+
+
+
+Reconocer el inicio de sesión de los usuarios registrados, socios/as activos y
+mantener su sesión en activo
+
+
+
+Permitir a usuarios registrados publicar y gestionar sus comentarios.
+
+
+
+Facilitar información a las administraciones públicas o a las fuerzas y cuerpos
+de seguridad del Estado en los casos previstos por la Ley
+
+
+
+Acreditar ante las autoridades competentes en materia de protección de datos
+la realidad del consentimiento y en su caso los permisos que nos hubieras otorgado para gestionar las cookies de espana-directorio.com
+
+CATEGORÍAS DE DATOS RECOGIDOS
+Las categorías de datos recogidos para llevar a cabo las finalidades descritas son los
+siguientes:
+Información en Cookies generales de funcionamiento y usabilidad de la WEB
+Información en cookies para mostrar publicidad generalista en la WEB
+Información en cookies específicas que recogen tus hábitos de navegación para mostrarte publicidad personalizada que pudiera ser de tu interés.
+Información anonimizada relativa a tu navegación por espana-directorio.com con fines estadísticos tales como visitas, dispositivo desde el que accedes, IPs de conexión,
+si accedes desde una red social, etc. esta categoría de datos son generales y anonimizados.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/13
+
+Información relativa a la IP de navegación con el fin de facilitar información a las administraciones públicas o a las Fuerzas y Cuerpos de Seguridad del Estado en los casos
+previstos por la Ley
+También utilizamos anuncios de terceros en espana-directorio.com . Algunos de estos anunciantes pueden usar tecnología como cookies y balizas web cuando
+anuncian en nuestro sitio web, que también enviará a los anunciantes (como Google a
+través del programa Google Adsense) varias información, incluida su dirección IP, su
+ISP, el navegador que utilizó para visitar nuestro sitio y, en algunos casos, si tiene instalado Flash. Esto generalmente se utiliza para fines de orientación geográfica (mostrar anuncios de restaurantes en Madrid a alguien en Madrid, por ejemplo) o mostrar
+ciertos anuncios basados en sitios específicos visitados (como mostrar anuncios de
+cocina algo a alguien que frecuenta sitios de cocina). Para más información visita el
+enlace ***ENLACE.1
+Una ID con información básica necesaria para poder almacenar tu consentimiento y/o las cookies que utilizamos que hubieras bloqueado
+LEGITIMACION PARA EL TRATAMIENTO DE LOS DATOS
+Solamente los datos obtenidos con la finalidad de facilitar a los usuarios de la
+WEB y asociados, publicidad personalizada basada en sus gustos y hábitos de navegación está basada en el consentimiento que se le solicita y que puede retirar en cualquier momento. No obstante, en caso de retirar su consentimiento, ello no afectará a la
+posibilidad de mostrarle publicidad en la página Web de carácter general.
+DESTINATARIOS DE LOS DATOS
+La Administración pública y a las fuerzas y cuerpos de seguridad del estado en
+los casos previstos por la Ley
+Empresas de medición de audiencias
+Empresas cuya finalidad es realizar perfiles de la navegación para ofrecerte publicidad personalizada en base a dichos hábitos
+DERECHOS DE LOS USUARIOS
+Como usuario de espana-directorio.com tiene la posibilidad en cualquier momento y de forma gratuita de ejercer los derechos que te reconoce la Ley, por medio
+de este link.
+Los derechos como usuario que te asisten son los siguientes:
+
+
+Revocar los consentimientos otorgados para aquellas finalidades para las que
+se requiere tu consentimiento específico libre e informado.
+
+
+
+Obtener confirmación de que espana-directorio.com está tratando datos personales que te conciernen.
+
+
+
+Acceder a tus datos personales
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/13
+
+
+
+Rectificar por inexactos o incompletos tus datos personales.
+
+
+
+Solicitar la supresión de tus datos personales, si consideras que ya no son necesarios para los fines para los que fueron recogidos
+
+
+
+Obtener de espana-directorio.com la limitación del tratamiento de los datos
+en los casos previsto en la ley
+
+
+
+Oponerte al tratamiento de los datos
+
+No se obtiene constancia de que en la página se informe de los datos del titular
+de la misma ni de la dirección y país de contacto, únicamente se ofrece una dirección
+de correo electrónico.
+TERCERO: La Subdirección General de Inspección de Datos ha realizado con
+anterioridad actuaciones previas de investigación para el esclarecimiento de hechos
+idénticos a los que han sido objeto de estas reclamaciones, teniendo conocimiento de
+los siguientes extremos:
+Con fecha 30 de noviembre de 2018, se realizó una búsqueda en internet de
+los datos del dominio espana-directorio.com, verificando que se ha registrado a través
+de la empresa registradora Internet Domain Service BS Corp.
+Con esa misma fecha se ha comprobado que la empresa registradora Internet
+Domain Service BS Corp. tiene domicilio social en NASSAU – NEW PROVEDENCE –
+THE BAHAMAS, por lo que no ha sido posible solicitar información sobre el titular del
+dominio denunciado.
+En fecha 10 de junio de 2019 se obtiene obtienen evidencias a través de
+Internet relativas al dominio ***URL.1:
+
+
+El registrante del dominio es Whois Privacy Corp. con Dirección postal: Ocean
+Centre, Montagu Foreshore, East Bay Street, Nassau New Providence
+Bahamas.
+
+
+
+La dirección IP ***IP.1 está asociada a la entidad IAMONSYS GmbH con
+dirección: Jollystr. 5 81545 Munich, Alemania.
+
+Con fecha 17 de junio de 2019 se ha solicitado a través del procedimiento de
+cooperación y coherencia entre autoridades de control de la Unión Europea, una
+colaboración basada en el artículo 61 del RGPD con el objeto de que se requiera
+información a IAMONSYS GmbH para determinar qué entidad es responsable de
+***URL.1
+Los representantes de la autoridad alemana indican que han intentado
+conseguir la información, pero la entidad no responde a sus requerimientos.
+En fecha 4 de noviembre de 2019 se obtienen evidencias a través de Internet
+relativas al dominio ***URL.1: verificando que no informa de la dirección de la entidad
+ni del procedimiento para ejercer los derechos de los usuarios.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/13
+
+No obstante, dispone de un formulario para solicitar la cancelación del número
+de teléfono que no funciona ya que el CAPTCHA no aparece.
+Según figura en la base de datos Whois, el registrante del dominio es Whois
+Privacy Corp. con Dirección postal: Ocean Centre, Montagu Foreshore, East Bay
+Street, Nassau New Providence Bahamas.
+La dirección IP ***IP.2 está asociada a la entidad HOSTROYALE TECHNOLOGIES PRIVATE LIMITED con dirección: S NO 44, P NO HINGANE, NAV SAHYADRI
+SOC PUNE 30 411029 Maharashtra India.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+En las presentes reclamaciones, los reclamantes afirman que sus datos
+personales, nombre, dirección, población y número de teléfono fijo, aparecen en la
+web ***URL.1, pese a no contar con su consentimiento para ello, y que en el
+formulario para dar de baja esos datos se exige la introducción de un CAPTCHA
+grafico que no aparece y por lo tanto no puedes enviar el formulario y en consecuencia
+darte de baja.
+En este sentido, hay que señalar que el artículo 21 del RGPD establece que:
+“1. El interesado tendrá derecho a oponerse en cualquier momento, por motivos relacionados con su situación particular, a que datos personales que le conciernan
+sean objeto de un tratamiento basado en lo dispuesto en el artículo 6, apartado 1, letras e) o f), incluida la elaboración de perfiles sobre la base de dichas disposiciones. El
+responsable del tratamiento dejará de tratar los datos personales, salvo que acredite
+motivos legítimos imperiosos para el tratamiento que prevalezcan sobre los intereses,
+los derechos y las libertades del interesado, o para la formulación, el ejercicio o la defensa de reclamaciones.
+2. Cuando el tratamiento de datos personales tenga por objeto la mercadotecnia directa, el interesado tendrá derecho a oponerse en todo momento al tratamiento
+de los datos personales que le conciernan, incluida la elaboración de perfiles en la medida en que esté relacionada con la citada mercadotecnia.
+3. Cuando el interesado se oponga al tratamiento con fines de mercadotecnia
+directa, los datos personales dejarán de ser tratados para dichos fines.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/13
+
+4. A más tardar en el momento de la primera comunicación con el interesado,
+el derecho indicado en los apartados 1 y 2 será mencionado explícitamente al interesado y será presentado claramente y al margen de cualquier otra información.
+5. En el contexto de la utilización de servicios de la sociedad de la información,
+y no obstante lo dispuesto en la Directiva 2002/58/CE, el interesado podrá ejercer su
+derecho a oponerse por medios automatizados que apliquen especificaciones técnicas.
+6. Cuando los datos personales se traten con fines de investigación científica o
+histórica o fines estadísticos de conformidad con el artículo 89, apartado 1, el interesado tendrá derecho, por motivos relacionados con su situación particular, a oponerse al
+tratamiento de datos personales que le conciernan, salvo que sea necesario para el
+cumplimiento de una misión realizada por razones de interés público.”
+III
+A través de las actuaciones de investigación realizadas por esta Agencia, se ha
+tenido conocimiento de que en la política de privacidad de ***URL.1 no se obtiene
+constancia de que en la página se informe de los datos del titular de la misma ni de la
+dirección y país de contacto, únicamente se ofrece una dirección de correo electrónico,
+asimismo dispone de un formulario para solicitar la cancelación del número de teléfono
+que no funciona ya que el CAPTCHA no aparece.
+La dirección IP ***IP.1 está asociada a la entidad IAMONSYS GmbH con
+dirección: Jollystr. 5 81545 Munich, Alemania.
+Pese a ello, en relación con el dominio ***URL.1, se constata que el registrante
+del dominio es Whois Privacy Corp. tiene como dirección postal Ocean Centre,
+Montagu Foreshore, East Bay Street, Nassau New Providence Bahamas.
+Con fecha 17 de junio de 2019 se ha solicitado a través del procedimiento de
+cooperación y coherencia entre autoridades de control de la Unión Europea, una
+colaboración basada en el artículo 61 del RGPD con el objeto de que se requiera
+información a IAMONSYS GmbH para determinar qué entidad es responsable de
+***URL.1
+Los representantes de la autoridad alemana indican que han intentado
+conseguir la información, pero la entidad no responde a sus requerimientos.
+La dirección IP ha cambiado y ya no dirige a Alemania sino a una dirección en
+La India, (IP ***IP.2 está asociada a la entidad HOSTROYALE TECHNOLOGIES PRIVATE LIMITED con dirección: S NO 44, P NO HINGANE, NAV SAHYADRI SOC PUNE
+30 411029 Maharashtra India), donde ya se envió una reclamación, sin haber obtenido
+respuesta alguna.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/13
+
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución a cada uno de los reclamantes con su
+propio anexo y reclamado.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/13
+
+ANEXO I
+
+A.A.A.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/13
+
+ANEXO II
+B.B.B.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+11/13
+
+ANEXO III
+
+C.C.C.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+12/13
+
+ANEXO IV
+
+D.D.D.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+13/13
+
+ANEXO V
+
+E.E.E.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

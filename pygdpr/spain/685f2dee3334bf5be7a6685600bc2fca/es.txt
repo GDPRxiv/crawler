@@ -1,0 +1,719 @@
+1/18
+
+
+
+Procedimiento Nº: E/02729/2020
+
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y teniendo como base los siguientes:
+HECHOS
+PRIMERO: Con fecha de 16 de marzo de 2020, la Directora de la Agencia Española
+de Protección de Datos acuerda iniciar las presentes actuaciones de investigación en
+relación a la puesta en marcha de la web www.coronavirusstop.org.
+SEGUNDO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+Con fecha 17 de marzo de 2020, la Subdirección General de Inspección emite un informe en el que concluye que:
+1. Se ha accedido a la citada página web comprobando la existencia de un formulario que se contesta marcando respuestas alternativas prefijadas, siendo los
+únicos campos libres para rellenar los referentes a la edad y el código postal
+del entrevistado. No se solicitan datos identificativos tales como nombre, teléfono, email, dirección completa o DNI/NIF, etc.
+1. Se ha constatado que el sábado día 14/03/2020 se pedía el nombre de la calle
+(especificando “sin nº”) y el código postal. Se indicaba que está en desarrollo y
+que algunas funciones no están disponibles. El lunes día 16/03/2020 solo se
+pide el código postal.
+2. El resto de los datos solicitados son relativos a síntomas, contactos con personas afectadas, estancias en zonas de riesgo y patologías preexistentes. El formulario indica al finalizar la encuesta si “podrías tener los síntomas” o no. En
+caso afirmativo muestra el teléfono de emergencias de la Comunidad correspondiente (900 102 112 en el caso de la Comunidad de Madrid).
+3. En
+https://www.adslzone.net/noticias/internet/coronavirus-web-nuevos-focos/
+se publica una noticia indicando que es una iniciativa altruista “…desarrollada
+en 24 horas y cuenta con un formulario anónimo de preguntas que ayuda a la
+ciudadanía a entender en tiempo real la sintomatología que padece y evita el
+colapso de los servicios sanitarios. Con ello, la persona sabe si debe o no ponerse en contacto con estos teléfonos de atención que están totalmente colapsados. La web sirve como primer filtro para ver si se padecen síntomas propios
+de la enfermedad”.
+“… Además, cada consulta que se realiza es anónima y se registra únicamente
+la dirección simple del usuario (nombre de la calle/avenida/vía, sin número o
+piso). Esto se utiliza para crear un mapa en tiempo real para descubrir nuevos
+focos de infección. El resto de la información se destruye completamente al fiC/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/18
+
+nalizar la consulta, cumpliendo con la LOPD y RGPD. Gracias a esto, es imposible identificar al usuario”.
+4. También, se evidencia el 16/03/2020 por la mañana que no se puede acceder a
+la opción de “volver a evaluarme”, indicándose igualmente que la web está en
+desarrollo y que algunas funcionalidades no están disponibles.
+Para la opción de “volver a evaluarme” se facilita al entrevistado, antes de finalizar la encuesta, un localizador (nombre de usuario) y se le pide que introduzca una contraseña. Sin embargo, no ha sido posible su utilización y comprobación, ya que la opción mencionada no se encuentra disponible.
+5. La opción de “mapa de casos” no muestra datos introducidos individualmente
+sino un mapa de España con provincias sombreadas supuestamente por el número de casos que aglutinan (no se especifica).
+Ese mismo día 16 por la tarde, se comprueba que el formulario se ha retirado,
+al acceder para comprobar la política de privacidad, que ya no se encuentra
+publicada.
+6. Realizadas dos encuestas seguidas desde el mismo ordenador y navegador,
+en fecha (16/03/2020), la página web facilita distintos códigos de usuario, por lo
+que no se encuentran evidencias de que se esté almacenado la dirección IP
+del entrevistado u otros datos identificativos de la conexión. Si bien con esta
+simple comprobación no se puede determinar si la entidad almacena estos datos, sí indica que no los están utilizando para asignar los códigos de usuario,
+no identificando las conexiones para dicho fin.
+7. La entidad responsable de la página web es Hocelot Financial Technologies
+S.L. Se ha comprobado que no se han recibido reclamaciones en la Agencia
+Española de Protección de Datos contra esta entidad ni se han tramitado expedientes anteriores.
+8. A las 17:16 horas del 16/03/2020 se intenta acceder a la página web citada encontrándose únicamente el siguiente mensaje:
+“Desde Hocelot queremos insistir en que la iniciativa #CoronaVirusStop es totalmente altruista, desarrollada por nuestros ingenieros en colaboración con
+otras compañías, para dar respuesta a una crisis de salud pública e intentar
+descongestionar los servicios del sistema sanitario, ofreciendo al ciudadano un
+primer punto de contacto que pueda orientarles sobre sus síntomas en un primer momento.
+En ningún momento hacemos uso, almacenamos o vendemos a tercero ninguno de los datos solicitados para realizar el mapa de posibles infecciones.
+Asimismo, en ningún caso es posible identificar a un usuario de la web con una
+persona concreta.
+Finalmente, remarcar que todos los datos procesados por la compañía se hacen en estricto cumplimiento con las normativas de protección de datos vigentes.
+En las últimas 72 horas más de 30 personas hemos estado trabajando 24horas
+al día para ayudar de manera desinteresada y sin ánimo de lucro en la lucha y
+propagación en nuestro país del #COVI19. Los organismos oficiales del Estado
+han decidido unificar las vías de comunicación de esta lucha, motivo por el que
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/18
+
+hemos decidido colaborar cerrando nuestra web CoronaVirusStop.
+A todos aquellos que habéis participado en su difusión, gracias e insistir que la
+información aportada no ha quedado almacenada, archivada ni cedida a terceros en ningún momento.”
+9. El 17/03/2020 se intenta de nuevo acceder a la página web encontrándose un
+mensaje similar.
+Con fecha 17 de marzo de 2020, la Subdirección General de Inspección remite la política de privacidad de la web www.coronavirusstop.org en la que consta:
+1. El responsable de los datos siendo ésta la entidad investigada, dirección postal, y correo electrónico de contacto del Delegado de Protección de Datos.
+1. La finalidad de la web donde consta:
+“…
+
+
+Ayudar a aliviar los teléfonos de emergencias, así como los Hospitales
+y Centros de Salud.
+
+
+
+Creación de un mapa nos ayudará a descubrir la senda real del virus, y
+con vuestra colaboración podremos ayudar a las autoridades a contener la propagación del virus.
+
+
+
+Ceder a las autoridades sanitarias dichos datos anónimos para colaborar en la investigación y seguimiento del Coronavirus (Covid19) e intentar frenar su propagación.
+
+
+
+Hocelot no tratará estos datos para ninguna otra finalidad distinta a las
+mencionadas en la presente política de privacidad ni se pondrán en relación con otras bases de datos y, por tanto, en ningún caso se podrá
+identificar a la persona física. Además, los datos que el usuario nos facilite a través del formulario, serán anonimizados y nunca serán publicados los datos concretos.”
+
+Con fecha 17 de marzo de 2020, la Subdirección General de Inspección remite el aviso legal de la web www.coronavirusstop.org en la que consta, entre otros, un apartado
+con título “Utilización de cookies” con el siguiente texto:
+“Hocelot utiliza cookies para asegurar la funcionalidad del Sitio Web y conocer
+las preferencias de navegación en el mismo. Para saber qué son las cookies,
+qué cookies utiliza Hocelot y cómo adaptar su configuración en su equipo, consulte la Política de Cookies, disponible en el Sitio Web.”
+Con fecha 17 de marzo de 2020, la Subdirección General de Inspección remite capturas de pantalla de la web www.coronavirusstop.org en la que consta un aviso de primera capa de cookies con el siguiente texto así como un único botón “Accept”:
+“Utilizamos cookies propias y de terceros para el funcionamiento y uso de
+nuestra web. Utilizamos cookies técnicas que garantizan su correcto funcionamiento y que se instalan de forma automática. Si usted acepta, usaremos
+cookies analíticas de terceros que analizarán la interacción de los usuarios con
+el sitio web. Para más información, consulte nuestra Política de cookies.”
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/18
+
+Con fecha 16 de marzo de 2020 se inicia, de oficio, un expediente de actuaciones previas de investigación.
+Con fecha 31 de marzo de 2020, HOCELOT TECNOLOGIES SPAIN, S.L remite a esta
+Agencia la siguiente información:
+1. Que la única intención de HOCELOT con la creación de la página web ha sido
+la de contribuir desinteresadamente y sin ningún ánimo comercial a la mejora
+en la atención prestada por las autoridades.
+1. Que el servicio que presta HOCELOT a sus clientes está enfocado al sector financiero y comercio electrónico, por lo que recabar información acerca de la
+expansión de la pandemia del coronavirus en España no tiene ninguna utilidad
+para su negocio.
+2. Que tras tener noticia de que en países como Corea del Sur y China se había
+contribuido a frenar el avance del COVID-19 mediante páginas web o apps que
+descongestionaban las líneas de teléfono de emergencias de los servicios sanitarios y analizaban de manera proactiva nuevos posibles focos de infección, el
+12 de marzo de 2020 HOCELOT mantuvo una conversación telefónica con el
+Ministerio de Sanidad en la que se ofreció a desarrollar una iniciativa similar.
+Que esta propuesta contó con el interés y agradecimiento del Ministerio, que
+solicitó el envío de un email informativo detallando dicha iniciativa.
+Aporta copia de correo electrónico enviado desde la dirección (...)@hocelot.com a una dirección de correo electrónico del dominio @mscbs.es con fecha
+13 de marzo de 2020 a las 2:16h en el que se manifiesta que se ha desarrollado una versión v0 de la página web con url https://www.coronavirusstop.org y
+que la intención es colaborar en dos líneas:
+
+
+Conseguir una evaluación recurrente de la población mediante un formulario de preguntas, asignando un código único aleatorio a cada ciudadano. Que no se pide contactabilidad ni identificación por potenciales
+conflictos con RGPD. Que consideran que una pre-evaluación automatizada (bajo los criterios indicados en la web del Ministerio de Sanidad)
+permitiría aliviar a los servicios sanitarios, los centros de atención telefónica y una mejor asignación de recursos.
+
+
+
+Elaborar un mapa dinámico con los síntomas que indiquen los ciudadanos para que permita conocer de forma cierta y actualizada el movimiento geográfico de la epidemia (hasta la calle sin número por conflicto
+con GDPR).
+
+Aporta copia de correo electrónico enviado desde una dirección de correo electrónico del dominio @mscbs.es a la dirección (...)@hocelot.com con fecha 13
+de marzo de 2020 a las 7:44h en el que se manifiesta que se transmitirá dicha
+iniciativa.
+1. Que dada la situación de extrema urgencia que atraviesa el país y la importancia en este tipo de situaciones de actuar con celeridad, HOCELOT activó la
+versión 0 de la página web sobre las 15 h del día 13 de marzo de 2020 e informó a diversos medios de comunicación de la puesta en marcha.
+2. Que, como se informó al Ministerio de Sanidad, HOCELOT se cercioró de inC/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/18
+
+cluir todas las medidas de anonimización y minimización de datos posibles, de
+cara a garantizar la confidencialidad de los usuarios y asegurarse la no recogida de datos que pudieran ser considerados de carácter personal (edad, calle
+sin número y código postal) por no ser suficientes para llegar a identificar a un
+individuo.
+3. Que la solicitud del nombre de la calle sin número se solicitó solamente durante
+1 día, eliminándose después y dejando solo la solicitud de código postal.
+4. Que el tráfico de la página web comenzó a ser relevante el día 15 de marzo por
+lo que HOCELOT comenzó a resolver dudas de los usuarios planteadas mediante redes sociales dejando claro que la página web no recababa datos personales de los usuarios y que el objetivo de la página web era aliviar los servicios de emergencia y colaborar con las autoridades sanitarias.
+Se aporta captura de pantalla de conversación en Twitter donde consta.
+Con fecha 15 de marzo de 2020 el perfil @Hocelot_Spain manifiesta “…Puntualizar que no somos un soporte oficial gubernamental, solo intentamos dar
+apoyo a la lucha contra el #Covid19”
+Con fecha 15 de marzo de 2020 el perfil @Hocelot_Spain manifiesta “#CoronaVirusStop está gestionada por Hocelot, no por organismos públicos relacionados con Sanidad. El objetivo es localizar focos de COVID-19 y ayudar a evitar
+el colapso de los servicios sanitarios siguiendo las indicaciones del Estado”
+Con fecha 15 de marzo de 2020 el perfil @Hocelot_Spain manifiesta “#CoronaVirusStop es gratuito, sin fines lucrativos y anónimo. Buscamos facilitar la detección de posibles focos de #COVID19 y ayudar a evitar el colapso de las redes de urgencias. Te invitamos a leer nuestro aviso legal…””
+5. Que sobre las 15h del día 15 de marzo, HOCELOT lanzó la versión 1 de la página web. Que esa misma noche HOCELOT comunicó a su contacto del Ministerio de Sanidad todos los avances conseguidos a lo largo de los apenas dos
+días de funcionamiento y se puso a disposición de las autoridades sanitarias
+toda la información obtenida.
+Se aporta copia de correo electrónico enviado desde la dirección (...)@hocelot.com a una dirección de correo electrónico del dominio @mscbs.es con fecha 16 de marzo de 2020 a las 0:09h en el que se manifiesta:
+“La web hoy acabará con un tráfico de aprox 1MM de usuarios y 200k formularios. Lo último que queremos es molestar, pero si así Io decidieras puedes contar toda la info recabada, del mismo modo haremos Io que consideres oportuno.
+Sólo queremos ayudar.”
+6. Que el día 16 de marzo, HOCELOT recibe un email de la Secretaría de Estado
+de Digitalización e Inteligencia Artificial (SEDIA) para mantener una conversación respecto a la página web. Que en dicha llamada HOCELOT nuevamente ofreció de manera gratuita toda la iniciativa. Que minutos después HOCELOT fue contactado por el Ministerio de Sanidad en el que solicitaron que se
+diera por terminada la página web debido a que el Ministerio estaba ya trabajando en una herramienta similar y solicitaron que se conservaran los datos
+hasta nueva orden por si pudiera ser de utilidad. Que tras la llamada HOCEC/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/18
+
+LOT inmediatamente dio de baja la página web.
+Se aporta copia de correo electrónico enviado desde una dirección de correo
+electrónico del dominio @economia.gob.es a la dirección (...)@hocelot.com,
+con fecha 16 de marzo de 2020 a las 13:12h con el objeto de mantener, entre
+otras, una interlocución.
+Se aporta copia de correo electrónico enviado desde la dirección (...)@hocelot.com a una dirección de correo electrónico del dominio @mscbs.es con fecha 16 de marzo de 2020 a las 15:10h manifestando que, tras la conversación
+mantenida, cierran la url.
+7. Que tras el cierre de la página web, HOCELOT colgó en dicha url un comunicado informativo.
+Se aporta copia del comunicado en el cual consta:
+“…
+Ante las dudas planteadas a través de los canales sociales y públicos, insistir
+que:
+1.- La página "coronavirusStop" jamás ha recabado datos de carácter personal
+sino meramente datos estadísticos como la edad, código postal o calle sin número, ya que estos datos no tienen la consideración de personales tal y como
+constata el Reglamento General de Protección de Datos, Ley Orgánica de Protección de Datas y Garantías de Derechos Digitales y las propias resoluciones
+de la Agencia de Protección de Datos, pues en ningún caso son suficientes
+para la identificación de una persona concreta.
+2.- Estos datos estadísticos fueron recabados con la única finalidad de ayudar
+a aliviar la sobrecarga de los servicios de asistencia sanitaria española y contribuir a garantizar su nivel de calidad y seguridad habitual frente a la grave amenaza transfronteriza para la salud del COVID19. En este sentido, los datos estadísticos recabados fueron desde el primer momento puestos a disposición de
+las autoridades sanitarias pertinentes.
+3.- Los datos estadísticos no han sido utilizados para ningún fin distinto al expuesto por Hocelot, ni han sido comercializados o cedidos en ningún momento.
+4.- En todo momento se ha informado en los avisos legales de la web que el titular de la misma era Hocelot. Nunca se ha indicado o dado a entender que la
+página fuera del Ministerio de Sanidad o que se tuviera algún tipo de acuerdo
+con dicho Ministerio; si se ha podido tener dicha percepción, no era nuestra voluntad.
+Muchas gracias. ”
+8. Que los tipos de datos recogidos directamente del usuario son los que aparecen en las capturas de pantalla del formulario de la página web.
+Se aportan capturas de pantalla del formulario de la web donde constan los siguientes tipos de datos:
+Edad
+Código postal
+Calle (introduce el nombre de tu calle (sin nº))
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/18
+
+¿Qué síntomas tienes? Se selecciona entre “Fiebre”, “Cansancio”, “Dolor de
+garganta”, “tos seca”, “dificultad respiratoria”, “diarrea”, “vómitos”.
+¿Has tenido contacto con algún infectado? Se selecciona entre “Un caso ha tosido/estornudado a 2 metros de mí”, “Permanecer en 8 m2 con un caso (ej: coche)”, “Permanecer en 30 m2 con un caso (ej: autobús)”, “Permanecer en 50
+m2 o más con un caso (ej: oficina)”
+¿Has estado en alguna zona de riesgo? Se selecciona entre “Italia”, “Alemania”, ”China”, ”Irán”, ”Francia”, ”EEUU”, ”Corea del Sur”
+¿Alguna patología previa? Se selecciona entre “Diabetes”, “Enfermedad hepática crónica”, ”Enfermedad cardiovascular (incluida hipertensión)”, ”Enfermedad
+pulmonar crónica”, “Enfermedad renal crónica”, ”Enfermedad neurológica o
+neuromuscular crónica”, ”Inmunodeficiencia (incluyendo VIH)”, ”Embarazo”,
+“Post-parto (<6 semanas)”, ”cáncer”
+Usuario
+Contraseña
+9. Que el dato de la calle sin nº se retiró del formulario el día 15/03/2020.
+10. Que los tipos de datos obtenidos por Google Analytics son datos agregados estadísticos anonimizados que se obtienen mediante el registro de cookies de
+Google Analytics.
+11. Que los datos obtenidos mediante Google Analytics no están vinculados de
+modo alguno a las informaciones recabadas mediante el formulario de la página web.
+12. Que se ofrecía la posibilidad de llevar un seguimiento de los datos ya introducidos mediante la creación de una cuenta de usuario y contraseña. Que HOCELOT no llegó a activar el seguimiento sobre el nombre de usuario.
+Se aporta captura de pantalla donde consta el texto:
+“Llevar un seguimiento diario puede ayudar a los servicios sanitarios y a las autoridades a evitar la propagación del virus. La próxima vez que accedas a stopcoronavirus, hazlo con este usuario y con la contraseña que elijas”
+Se aporta captura de pantalla final donde consta el siguiente texto:
+“Tienes los síntomas.
+Nos has indicado que te encuentras en la Comunidad de Madrid. Te facilitamos
+un número de teléfono para que te pongas en contacto con emergencias.
+…
+Fuente: Ministerio de Sanidad. Gobierno de España”
+13. Que el número de registros total almacenados es de 306718.
+14. Que el número de registros almacenados con información de la calle incluyendo el nº de la calle es de 30685.
+15. Que el número de registros almacenados con información de sexo es de 26.
+16. Que el número de registros almacenados con información del código postal es
+de 306701.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/18
+
+Se aporta captura de pantalla de recuentos de registros de base de datos.
+17. Que, en su entendimiento, el conjunto de datos anteriores no pueden considerarse datos personales en el sentido del artículo 4.1 del reglamento (UE)
+2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo
+a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de esos datos porque no son suficientes
+para poder llegar a identificar a un individuo.
+18. Manifiesta:
+“En efecto, del análisis de los datos anteriores resulta imposible determinar la
+identidad de personas físicas, ya que se refieren a informaciones absolutamente circunstanciales (contacto con infectados, visita a zonas de riesgo, etc. que,
+por añadidura, no fueron almacenados en la base de datos) y/o demasiado genéricas (edad, nombre de calle -sin número-, código postal) que impiden identificar o establecer un vínculo con ninguna persona en concreto.”
+19. Se aporta copia de la política de privacidad de la página web donde consta:
+HOCELOT TECNOLOGIES SPAIN, S.L como responsable de los datos.
+Contacto del delegado de protección de datos.
+Que la finalidad de la web es la de:
+a. Aliviar a los teléfonos de emergencias, así como los Hospitales y Centros de Salud.
+b. Creación de un mapa que ayudará a descubrir la senda del virus.
+c. Ceder a las autoridades sanitarias dichos datos anónimos.
+Que HOCELOT no tratará los datos para ninguna otra finalidad ni se pondrán
+en relación con otras bases de datos, por tanto, en ningún caso se podrá identificar a la persona física.
+20. Que la calle sin número y código postal fue el único dato almacenado y la finalidad era la de trazar un mapa de contagios que revelara las zonas más afectadas y así poder facilitar las labores de identificación y contención a las autoridades así como para proveer al usuario del número de atención telefónica correspondiente a su localización geográfica.
+21. Que los datos almacenados están bloqueados para su eventual eliminación.
+Que el acceso a estos datos requiere de credenciales autorizadas en el servidor de base de datos además de ser necesario emplear una dirección IP de
+salida autorizada.
+22. Aporta copia del aviso legal de la página web donde en el apartado de “Utilización de cookies” consta exclusivamente “Hocelot utiliza cookies para asegurar
+la funcionalidad del Sitio Web y para conocer las preferencias de navegación
+en el mismo. Para saber qué son las cookies, qué cookies utiliza Hocelot y
+cómo adaptar su configuración en su equipo, consulte la Política de Cookies,
+disponible en el Sitio Web.”
+23. Aporta copia de la política de cookies de www.coronavirusstop.org donde consta:
+La identificación del responsable de la web.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/18
+
+Un apartado acerca de qué son las cookies.
+Un apartado acerca de qué tipos de cookies existen.
+Un apartado donde se describen las cookies empleadas en el sitio web donde
+constan entre otras:
+
+
+Cookie 1P_JAR con caducidad de 1 semana, cuya finalidad es la de
+transferir datos a Google. Tipología “Análisis”.
+
+
+
+Cookie _ga de Google Analytics, cuya finalidad es la identificar a un
+usuario almacenando un identificados de cliente único que se genera de
+forma aleatoria y permite calcular las interacciones con el sitio web. Caducidad sesión. Tipología “Análisis”.
+
+
+
+Cookie _gid de Google Analytics. Caducidad 1 día. Tipología “Análisis”.
+
+
+
+Cookie _gat de Google Analytics. Caducidad sesión. Tipología “Análisis”.
+
+Un apartado sobre cómo rechazar las cookies instaladas en función del navegador usado.
+Un apartado relativo a actualizaciones y cambios en la política de cookies.
+1. Manifiesta que:
+“Al no tener la consideración de datos personales las informaciones estadísticas recabadas por la página web, no fue considerada necesaria la obtención
+del consentimiento de los usuarios para la obtención de dichos datos.”
+Con fecha 9 de mayo de 2020, HOCELOT TECNOLOGIES SPAIN, S.L remite a esta
+Agencia la siguiente información y manifestaciones:
+1. Que el servidor de base de datos empleado por la página web pertenece a
+MongoDB.
+1. Que para facilitar las labores de hosting, instalación, administración y actualización de las bases de datos, MongoDB cuenta con el servicio MongoDB Atlas.
+Que en consecuencia los servidores de bases de datos de la página web se
+encuentran en la plataforma MongoDB Atlas.
+2. Que MongoDB Atlas provisiona los servidores de bases de datos empleando el
+servicio Google Cloud Platform.
+3. Que el centro de procesamiento de datos de Google, en el que estos datos permanecen almacenados, está ubicado en Saint-Ghislain, Bélgica.
+4. Que los tipos de datos almacenados en la base de datos MongoDB Atlas está
+compuesto por los siguientes:
+a. “age”: edad del usuario. que permitía conocer si el usuario se encontraba en una franja de riesgo.
+b. “id”: identificador automático de la operación que permite asignar un
+identificador a cada registro.
+c. “zipCode”. Código postal que permite trazar un mapa de contagios, así
+como proveer al usuario del número de atención telefónica en su localización geográfica.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/18
+
+d. “Locator”. Valor alfanumérico aleatorio generado durante una ejecución
+de la aplicación por si el usuario quería volver a realizar un seguimiento.
+Que no llegó a ser utilizado.
+e. “password”. Contraseña creada por el usuario y asociada al campo locator. Que no llegó a ser utilizada.
+f.
+
+“others”. Campo libre para la introducción de patologías no recogidas en
+el formulario.
+
+g. “fever”, “tired”,”soreTroat”, “dryCough”, “respiratoryDistress”, “diarrhea”,
+“threwUp”, “twoMeters”, “eightMeters”, “thirtyMeters”, “fiftyMeters”, “madrid”, “cataluña”, “laRioja”, “paisVasco”, “italy”, “china”, “southKorea”,
+“France”, “germany”, “diabetes”, “chronicLiverDisease”, “cardiovascularDisease”, “chronicLungDisease”, “chronicKidneyDisease”, “chronicNeurologicOrNeuromuscularDisease”, “immunodeficiency”, “pregnancy”,
+“postpartum”, “cancer”: son campos de tipo boolean que permitían valorar si el usuario podia considerarse de riesgo por haber contraído y/o
+estar incubando el COVID-19 por la estancia en determinadas regiones
+o si estaba expuesto a algunos factores considerados de riesgo ante el
+contagio de COVID-19 de cara a evaluar la necesidad de entrar en contacto con las autoridades sanitarias.
+h. “createdAt”: fecha de creación del registro.
+i.
+
+“evaluationTotal”, “evaluationSubTotal1”, “evaluationSubTotal2”. “decission”
+
+j.
+
+“gender”. Sexo del usuario. Que este dato no llegó a recabarse en la
+versión final de la página web.
+
+k. “address”: Dirección del usuario. Que permite trazar un mapa de contagios así como para proveer al usuario el número de atención telefónica
+correspondiente a su localización geográfica.
+5. Que los datos recogidos únicamente se interrelacionan entre sí para ponderar
+las circunstancias de riesgo y posibilidad de contagio de cara a ofrecer al usuario el resultado de su evaluación de riesgo. Que en ningún caso los datos se
+ponen en relación con algún otro tipo de identificador único del usuario, principalmente, porque no se obtiene ningún otro dato por ningún otro medio.
+6. Que HOCELOT en ningún momento ha accedido a las IP de los usuarios por
+medio de Google Analytics.
+Aporta informe de Google Analytics donde consta como datos, entre otros, el ID
+de cliente siendo su estructura tres números decimales de 5, 9 y 10 dígitos
+cada uno.
+7. Se aportan capturas de pantalla de informes de datos de Google Analytics donde consta entre otros:
+a. Informe con título “Gráfico de visitas por ubicación” constando por orden
+de mayor a menor número de usuarios, en los primeros puestos:
+i. España 997142 usuarios
+ii. Reino Unido 2909 usuarios
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+11/18
+
+iii. Francia 2351 usuarios
+iv. Estados Unidos 2048 usuarios
+v. Alemania 1618 usuarios
+vi. Argentina 1539 usuarios
+vii. Méjico 1093 usuarios
+viii. Colombia 1080 usuarios
+b. Informe con título “Datos demográficos: Visión General” donde consta:
+i. Un gráfico mostrando porcentajes por rangos de edad.
+ii. Una tabla donde consta un número total de usuarios de 510292
+de los que 311150 usuarios son mujeres y 199995 de los usuarios son hombres.
+c. Informe con título “Intereses: Visión General” donde consta, entre otros:
+i. Un 5,38% asociado a “Food & Dining/Cooking Enthusiasts/30
+Minute Chefs”
+ii. Un 3,64% asociado a “Shoppers/Value Shoppers”
+iii. Un 3,38% asociado a “Lifestyles & Hobbies/Family-Focused”
+iv. Un 2,98% asociado a “Media & Entertainment/Book Lovers”
+d. Informe con título “Navegador y SO” donde consta, entre otros:
+i. Navegador Chrome asociado a 556075 usuarios.
+ii. Navegador Safari asociado a 284829 usuarios.
+8. Que los datos de intereses y demográficos (edad, sexo, intereses) se obtienen
+por ser la configuración predeterminada de Google Analytics.
+9. Que los datos de información geográfica se recopilaron para desglosar los países de donde provenía el tráfico y por el especial interés de HOCELOT en que
+el tráfico proviniera de España.
+10. Que los datos de navegador usado se recogieron para evaluar los aspectos
+técnicos del usuario que se conecta y para ofrecer una página que técnicamente permitiera su operativa en diferentes navegadores.
+11. Se aporta copia de “MongoDB Cloud Terms of Service” donde consta que:
+“Use of the Cloud Services may involve transfers of Customer Personal Data
+outside of the European Union. We have appropriate safeguards in place for
+the processing of Customer Personal Data outside of the European Union,
+including certification by MongoDB under the EU-U.S. Privacy Shield and
+Swiss-U.S. Privacy Shield Frameworks and through the use of standard
+contractual clauses. If you elect to transfer Customer Personal Data to a
+Subprocessor outside of the European Union, you authorize us to apply
+standard contractual clauses with that Subprocessor.”
+Con fecha 18 de mayo de 2020, se comprueba que en la url https://support.google.com/analytics/answer/6004245?p=privpol_data&hl=es&visit_id=637249638460524179795364584&rd=1 consta:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+12/18
+
+1. “Google Analytics recoge cookies propias, datos relacionados con dispositivos
+y navegadores, direcciones IP y datos sobre la actividad en sitios web…
+….
+Google Analytics usa direcciones IP para geolocalizar a los visitantes, proteger
+el servicio y proporcionar la seguridad necesaria a los clientes. Los clientes
+pueden utilizar el método máscara de IP para que Google Analytics use únicamente una parte de la dirección IP que ha recogido en lugar de la dirección
+completa. Además, los clientes pueden anular las direcciones IP cuando lo
+consideren oportuno utilizando la función de anulación de IP.”
+Con fecha 29 de mayo de 2020, HOCELOT TECNOLOGIES SPAIN, S.L remite a esta
+Agencia la siguiente información y manifestaciones:
+1. Aporta capturas de pantalla correspondientes a una muestra de 5000 de los registros guardados en la base de datos en los que constan los siguientes tipos
+de datos albergando contenido del usuario:
+_id
+age
+gender: consta vacío
+address
+zipcode
+locator: consta relleno y se compone de un código alfanumérico de 7 dígitos.
+password
+others: consta vacío
+fever
+tired
+SoreTroat
+dryCough
+respiratoryDistress
+diarrhea
+threwup
+twoMeters
+eightMeters
+thirtyMeters
+fiftyMeters
+madrid
+cataluña
+laRioja
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+13/18
+
+paisVasco
+italy
+china
+southKorea
+france
+germany
+diabetes
+chronicLiverDisease
+cardiovascularDisease
+chronicLungDisease
+chronicKidneyDisease
+chronicNeurologicalOrNeuromuscularDisease
+immunodeficiency
+pregnancy
+postpartum
+cancer
+evaluationTotal
+evaluationSubTotal1
+evaluationSubTotal2
+decission
+_class
+createdAt
+1. Manifiesta que:
+“Los datos demográficos de los usuarios, como su sexo y edad, son inferidos
+por Google Analytics a través de datos obtenidos de la navegación de cada internauta. Determinadas páginas web, socias de la Red de Display de Google,
+establecen cookies en el navegador que almacenan información de navegación, como los sitios web por los que se navega o los intereses asociados a la
+actividad de sus aplicaciones, para emplearlos como base de los informes demográficos. Asimismo, Google podrá emplear la información asociada a los
+perfiles de Google +.
+Los datos así inferidos están asociados a un identificador numérico, que se
+corresponde con el navegador de Internet y el dispositivo utilizado, no a una
+persona concreta. Es decir, si dos personas comparten el mismo ordenador y
+emplean el mismo navegador, los datos que Google Analytics infiera de su
+comportamiento en Internet les atribuirán un único género y rango de edad.
+Es importante subrayar que Google Analytics no proporciona estos datos desglosados, y además son opacos a cualquier empresa que utilice la herramienta, sino que posteriormente agrega estos identificadores, para mostrarlos en
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+14/18
+
+Google Analytics como grupos…
+…
+Los datos demográficos así agrupados no pueden asociarse a IDs concretas,
+ya que Google Analytics aplica por defecto un sistema de umbrales para evitar
+que de la visualización de un informe puedan deducirse datos demográficos o
+de intereses de usuarios individuales. Así, si un informe cuenta con un número
+de instancias de una categoría tan reducido que Google considere que puedan
+llegar a deducirse datos de internautas específicos, estos datos serán retirados.
+Estos límites son definidos por el sistema de Google Analytics, y no pueden ser
+ajustados por el titular de esta plataforma. En caso de que se hayan aplicado
+en algún informe, Google Analytics incluye un aviso debajo de su título. En el
+caso de Hocelot, Google Analytics no determinó la necesidad de aplicar estos
+umbrales, dado que los datos demográficos agregados no permitían la identificación de ningún usuario en concreto.
+…”
+Se aporta copia de página web de soporte de Google, acerca de datos demográficos e intereses donde se manifiesta cómo se obtienen los datos relativos a
+datos demográficos e intereses siendo su origen la cookie de DoubleClick de
+terceros, entre otros.
+2. Manifiesta que:
+“Por su lado, el ID de cliente, en su configuración estándar — como la aplicada
+por Hocelot — contabiliza un usuario único cada vez que se acceda al contenido de la Página Web desde un dispositivo distinto y/o una sesión nueva. Así,
+aunque un usuario haya iniciado sesión en su cuenta de Google, un acceso a
+la Página Web desde un teléfono móvil un día, otro desde un portátil al día siguiente, y un tercer acceso desde una tablet al siguiente por parte de un mismo usuario serían contabilizados como tres usuarios únicos. En esta configuración, Google no puede identificar ninguna relación entre estos tres accesos,
+considerándolos puntos de datos independientes.”
+Se aporta copia de página web de soporte de Google acerca del User ID.
+3. Que HOCELOT en ningún momento ha accedido a la IP de los usuarios por
+medio de Google Analytics.
+4. Manifiesta que:
+“…Hocelot no remite ningún dato a Google, los datos que se puedan recabar
+por esta empresa son obtenidos mediante Google tag manager.
+En ninguno de estos casos Google Analytics proporcionó código alguno a Hocelot, sino que la información se destinaba a los servidores de Google Analytics, desde donde se presentaba agregada y enumerada en forma de los informes ya aportados.
+Hocelot, por su parte, no recabó más dato demográfico que la edad de quienes
+completaban el formulario de la Página Web, con el único objeto de valorar si
+el usuario estaba en una de las franjas de edad determinadas de riesgo ante
+una posible infección del COVID-19. Ninguno de estos datos de los usuarios
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+15/18
+
+de la Página Web fue enviado a Google Analytics, ya que las informaciones recabadas por su formulario se destinaban, como hemos visto, a los servidores
+de su base de datos MongoDB.”
+Se aportan copia de varios informes ofrecidos por Google Analytics donde los
+datos se muestran de forma agregada.
+5. Que en relación a la anonimización o enmascaramiento de IPs, Hocelot optó
+por la recogida de datos de la Página Web por parte de Google Analytics en su
+modalidad c) "Aplicaciones y sitios web".
+Se aporta copia de página web de soporte de Google donde consta que para la
+opción de “c) Aplicaciones y sitios web” la anonimización de direcciones IP está
+siempre habilitada. En dicha copia de la página web consta también que
+“Cuando un cliente de Analytics solicita la anonimización de la dirección IP,
+Analytics la anonimiza en cuanto es factible desde el punto de vista técnico y
+en la fase más temprana posible de la red de recogida. Una vez que los datos
+se envían a la red de recogida de Google Analytics, la función de anonimización de IP de esta plataforma expresa en ceros el último octeto de las direcciones IPv4 de los usuarios y los últimos 80 bits de las direcciones IPv6 que se almacenan en la memoria. En este caso, la dirección IP completa nunca se guarda en el disco.”
+6. Que respecto al campo Locator en la base de datos manifiesta que:
+a. Se corresponde con un código numérico que haría las veces de nombre
+de usuario en conjunción con una contraseña se hubiera empleado para
+proporcionar a los usuarios la opción de llevar a cabo un seguimiento
+de su estado de salud. Que el objetivo del campo Locator era contar
+con un identificador que no incluyera datos personales.
+b. Que el campo “Locator” no se corresponde con el “ID de cliente” puesto
+que el segundo se genera por Google por cada visita única a la página
+web.
+c. Que “Locator” y “ID de cliente” hubiesen funcionado de manera completamente independiente con respecto del otro ya que el primero hubiera
+sido destinado a los servidores de base de datos MondoDB mientras
+que el segundo es generado aleatoriamente por Google Analytics y destinado por tanto a los informes generados por esta plataforma.
+
+FUNDAMENTOS DE DERECHO
+I
+En virtud de los poderes que el artículo 58.2 del Reglamento (UE) 2016/679
+(Reglamento General de Protección de Datos, en adelante RGPD), reconoce a cada
+Autoridad de Control, y según lo establecido en los artículos 47, 48.1, 64.2 y 68.1 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en adelante, LOPDGDD), la Directora de la Agencia Española de Protección de Datos es competente para iniciar y resolver este procedimiento.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+16/18
+
+El artículo 63.2 de la LOPDGDD determina que: «Los procedimientos
+tramitados por la Agencia Española de Protección de Datos se regirán por lo dispuesto
+en el Reglamento (UE) 2016/679, en la presente ley orgánica, por las disposiciones
+reglamentarias dictadas en su desarrollo y, en cuanto no las contradigan, con carácter
+subsidiario, por las normas generales sobre los procedimientos administrativos.»
+II
+Como consecuencia de las noticias aparecidas en la prensa sobre la puesta en
+marcha de la web www.coronavirusstop.org, se iniciaron las presentes actuaciones de
+investigación para comprobar si se había cumplido la normativa de protección de datos
+por parte de la entidad que la había creado y gestionado, Hocelot Financial Technologies S.L.
+En síntesis, la aplicación y su funcionamiento ha sido el siguiente:
+La aplicación se pone en funcionamiento el día 13 de marzo de 2020 y se cierra el día 16 de marzo de 2020. Se ha de rellenar un cuestionario para conocer si se
+tienen síntomas de padecer Covid-19, debiendo recoger la edad del usuario, la calle y
+el código postal. Al finalizar se podía recomendar llamar al teléfono de emergencia de
+la Comunidad autónoma correspondiente. El nombre de la calle se deja de pedir al día
+siguiente y se solicitaba para descubrir posibles focos de infección.
+La web se crea con la finalidad de aliviar los teléfonos de emergencias y Hospitales y Centros de salud, creando un mapa que descubriera la senda real del virus y
+así ayudar a las autoridades sanitaras a contener la propagación.
+Añaden que esta actividad se realiza de forma altruista y no tiene utilidad para
+su negocio; lo desarrollaron al conocer que este tipo de páginas habían contribuido a
+frenar el Covid-19 en Corea del Sur y China.
+El día 12 de marzo se pusieron al habla con el Ministerio de Sanidad para ofrecerles esta iniciativa, informándoles de la versión 0 de la página web.
+En la información facilitada se indicaba que la página la gestionaba Hocelot, no
+organismos públicos relacionados con sanidad.
+El día 16 de marzo de 20120, el Ministerio de Sanidad les pidió que conservarán los datos recabados, por si pudiesen ser de utilidad, y que finalizaran la recogida
+de datos a través de su página web ya que estaban trabajando en una similar. Inmediatamente la cerraron, haciendo un comunicado explicando que nunca habían recogido datos personales que identificasen a nadie. Finalizaban explicando que los datos
+estadísticos quedaban a disposición de las autoridades sanitarias.
+La cuestión previa a dilucidar es si a través de la web www.coronavirusstop.org
+se han recabado datos de carácter personal y, por tanto, si se aplicarían a estos tratamientos el RGPD y la LOPDGDD.
+El RGPD indica que se aplica al tratamiento total o parcialmente automatizado
+de datos personales, así como al tratamiento no automatizado de datos personales
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+17/18
+
+contenidos o destinados a ser incluidos en un fichero.
+Al definir los datos personales señala: “1) «datos personales»: toda información
+sobre una persona física identificada o identificable («el interesado»); se considerará
+persona física identificable toda persona cuya identidad pueda determinarse, directa o
+indirectamente, en particular mediante un identificador, como por ejemplo un nombre,
+un número de identificación, datos de localización, un identificador en línea o uno o varios elementos propios de la identidad física, fisiológica, genética, psíquica, económica, cultural o social de dicha persona;”.
+Por tanto, los datos rellenados directamente por las personas que utilizaban la
+aplicación y recabados por Hocelot no identifican a las personas que accedieron a la
+web y rellenaron el formulario, ni permiten identificar su identidad.
+Que en relación a las IP, Hocelot optó por la recogida de datos de la Página
+Web por parte de Google Analytics en su modalidad c) "Aplicaciones y sitios web", en
+la que la anonimización de direcciones IP está siempre habilitada.
+III
+Por lo tanto, no se ha acreditado que la actuación del reclamado como entidad
+responsable del tratamiento, permitía identificar a la persona física que facilitaba los
+datos a través del formulario; ni se han encontrado evidencias de que haya almacenado las direcciones IP desde las que los usuarios de la página han facilitado sus datos.
+Por lo que no se han encontrado evidencias que permitan asegurar que su actuación
+no ha sido acorde con la normativa sobre protección de datos personales, según lo
+analizado en los párrafos anteriores.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución a HOCELOT TECNOLOGIES SPAIN,
+S.L.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y de conformidad con lo establecido
+en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los interesados podrán interponer, potestativamente, recurso de reposición ante la Directora de la Agencia Española de Protección de Datos en el plazo de un mes a contar desde el día siguiente a la notificación de esta resolución o directamente recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional, con
+arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de la disposición adicional
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+18/18
+
+cuarta de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el día siguiente a la notificación
+de este acto, según lo previsto en el artículo 46.1 de la referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

@@ -1,0 +1,182 @@
+1/4
+
+
+
+Procedimiento Nº: E/10250/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: La reclamación interpuesta por D. A.A.A. (en adelante, el reclamante)
+tiene entrada con fecha 21/03/2019 en la Agencia Española de Protección de Datos.
+La reclamación se dirige contra GRUP PREMIUM MAGAZINE SL, con NIF
+B65486037 (en adelante, el reclamado). Los motivos en que basa la reclamación son:
+que la empresa accedió a su correo electrónico corporativo sin que previamente le
+hubieran informado de la política de uso de las herramientas informáticas de la
+empresa. Manifiesta que la citada actuación ha permitido el acceso a sus correos
+personales, que según el reclamante tuvieron lugar el 29/01/2019
+Y, entre otra, anexa la siguiente documentación:
+ Correo electrónico en el que se le comunica el acceso a su cuenta de correo
+corporativo
+SEGUNDO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+Requerida información a la reclamada sobre los hechos denunciados, con fecha de
+14/02/2020 se recibe en esta Agencia escrito de alegaciones remitido por la reclamada
+manifestando que ha comunicado las obligaciones y funciones del personal de forma
+práctica, didáctica y documentada. En el documento adjunto “Informe de funciones y
+obligaciones del personal” en su Clausula decimosexta Correo electrónico se
+establece:
+“El responsable se reserva el derecho a revisar, sin previo aviso, los mensajes de
+correo corporativo del usuario, con el fin de comprobar el cumplimiento de estas
+normas y prevenir actividades que puedan afectar a la organización como responsable
+del fichero.
+El usuario utilizará la herramienta de correo electrónico proporcionada por el
+responsable con la configuración predeterminada. Se limitará a usarlo para fines
+relacionados con las funciones encomendadas y en base a los tratamientos
+autorizados…”
+Y adjuntan, entre otros, los siguientes documentos:
+o Informe de funciones y obligaciones del personal
+o Contrato confidencialidad personal
+o Certificado de revisión anual
+o Certificado de adaptación a las normativas vigentes de protección de datos
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/4
+
+o Acuerdo de confidencialidad empleado
+o Documento de seguridad de Grup Premium Magazine
+En la documentación aportada por el reclamante, no existe evidencia de que en el
+correo corporativo hubiera correos personales del reclamante como afirma en su
+reclamación.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+El artículo 87 “Derecho a la intimidad y uso de dispositivos digitales en el
+ámbito laboral”, de la LOPDGDD determina que:
+“1. Los trabajadores y los empleados públicos tendrán derecho a la protección
+de su intimidad en el uso de los dispositivos digitales puestos a su disposición por su
+empleador.
+2. El empleador podrá acceder a los contenidos derivados del uso de medios
+digitales facilitados a los trabajadores a los solos efectos de controlar el cumplimiento
+de las obligaciones laborales o estatutarias y de garantizar la integridad de dichos
+dispositivos.
+3. Los empleadores deberán establecer criterios de utilización de los
+dispositivos digitales respetando en todo caso los estándares mínimos de protección
+de su intimidad de acuerdo con los usos sociales y los derechos reconocidos
+constitucional y legalmente. En su elaboración deberán participar los representantes
+de los trabajadores.
+El acceso por el empleador al contenido de dispositivos digitales respecto de
+los que haya admitido su uso con fines privados requerirá que se especifiquen de
+modo preciso los usos autorizados y se establezcan garantías para preservar la
+intimidad de los trabajadores, tales como, en su caso, la determinación de los
+períodos en que los dispositivos podrán utilizarse para fines privados.
+Los trabajadores deberán ser informados de los criterios de utilización a los
+que se refiere este apartado”.
+También el artículo 2, Ámbito de aplicación de los Títulos I a IX y de los
+artículos 89 a 94, de la LOPDGDD, en su apartado 1, señala que:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/4
+
+“1. Lo dispuesto en los Títulos I a IX y en los artículos 89 a 94 de la presente
+ley orgánica se aplica a cualquier tratamiento total o parcialmente automatizado de
+datos personales, así como al tratamiento no automatizado de datos personales
+contenidos o destinados a ser incluidos en un fichero.
+III
+En el presente caso, de la documentación aportada al expediente se desprende
+que el reclamado había sido informado en relación con la normativa sobre protección
+de datos. Tal y como consta en el informe de actuaciones en el documento aportado
+por la entidad “Informe de funciones y obligaciones del personal” relativa a la cláusula
+sobre “Correo electrónico” se señala que: “El responsable se reserva el derecho a
+revisar, sin previo aviso, los mensajes de correo corporativo del usuario, con el fin de
+comprobar el cumplimiento de estas normas y prevenir actividades que puedan afectar
+a la organización como responsable del fichero.
+El usuario utilizará la herramienta de correo electrónico proporcionada por el
+responsable con la configuración predeterminada. Se limitará a usarlo para fines
+relacionados con las funciones encomendadas y en base a los tratamientos
+autorizados…”
+En segundo lugar, el preámbulo de la LOPDGDD señala que la ley en su Título
+X acomete la tarea de reconocer una serie de derechos digitales de los ciudadanos
+conforme el mandato establecido en la Constitución y, entre ellos, el reconocimiento
+del derecho a la desconexión digital en el marco del derecho a la intimidad en el uso
+de dispositivos digitales en el ámbito laboral. Estos derechos no se encuentran
+regulados en el RGPD y han sido incorporados en la nueva LOPDGDD.
+En el artículo primero de la citada Ley se señala que ésta tiene por objeto, en
+primer lugar, adaptar el ordenamiento jurídico español al RGPD en lo relativo a la
+protección de las personas físicas en lo que respecta al tratamiento de sus datos
+personales y a la libre circulación de estos datos y completar sus disposiciones y, en
+segundo lugar, garantizar los derechos digitales de la ciudadanía conforme al mandato
+establecido en el artículo 18.4 de la Constitución.
+En cuanto a su ámbito de aplicación viene regulado en su artículo 2, y en su
+apartado 1, dicho ámbito se encuentra vinculado en relación a cualquier tratamiento
+total o parcialmente automatizado de datos personales, así como al tratamiento no
+automatizado de datos personales contenidos o destinados a ser incluidos en un
+fichero.
+Sin embargo, en cuanto a los preceptos digitales se trata de declaraciones de
+derechos sobre los que no se regulan ni se establecen mecanismos que los
+garanticen, es decir, ni se señala ni en ningún caso se establece que la AEPD tenga
+competencias para garantizar estos derechos quedando fuera de sus atribuciones,
+como a sensu contrario, si se establece tanto en el RGPD como en la LOPDGDD en
+relación a la protección de las personas físicas en lo que respecta al tratamiento de
+sus datos personales.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/4
+
+Por consiguiente, de conformidad con el artículo 2.1 de la LOPDGDD de los
+citados artículos tan solo del 89 a 94 si son competencia de la propia AEPD a nivel de
+garantizar su cumplimiento y ejercicio.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución a D. A.A.A. y a GRUP
+PREMIUM MAGAZINE SL, con NIF B65486037.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

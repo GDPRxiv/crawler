@@ -1,0 +1,344 @@
+1/9
+
+937-240719
+
+
+
+Procedimiento Nº: PS/00031/2020
+
+RESOLUCIÓN R/00314/2020 DE TERMINACIÓN DEL PROCEDIMIENTO POR PAGO
+VOLUNTARIO
+En el procedimiento sancionador PS/00031/2020, instruido por la Agencia
+Española de Protección de Datos a TOUR & PEOPLE MAX S.L., vista la denuncia
+presentada por A.A.A., y en base a los siguientes,
+ANTECEDENTES
+PRIMERO: Con fecha 30 de marzo de 2020, la Directora de la Agencia Española de
+Protección de Datos acordó iniciar procedimiento sancionador a TOUR & PEOPLE
+MAX S.L. (en adelante, el reclamado), mediante el Acuerdo que se transcribe:
+<<
+
+Procedimiento Nº: PS/00031/2020
+
+ACUERDO DE INICIO DE PROCEDIMIENTO SANCIONADOR
+
+De las actuaciones practicadas por la Agencia Española de Protección de
+Datos y en base a los siguientes
+
+HECHOS
+
+PRIMERO: D. A.A.A. (en adelante, el reclamante) con fecha 23/10/2019 interpuso
+reclamación ante la Agencia Española de Protección de Datos. La reclamación se
+dirige contra TOUR & PEOPLE MAX S.L., con NIF B93016707 (en adelante, el
+reclamado). Los motivos en que basa la reclamación son: que el 23/10/2019 recibió
+una llamada desde el número de teléfono ***TELÉFONO.1, en nombre de la compañía
+Ocio Hoteles manifestando que un amigo les había facilitado su número de teléfono
+para ofrecerle un oferta de un bono de hoteles; que la operadora le cita nombres de
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/9
+
+otros amigos y amigas, comentándole que se han sumado a la promoción; que
+posteriormente se pone en contacto con su amigo a través de Whatsapp confirmando
+su sospecha de que no ha autorizado a que contacten con él; que puesto que no ha
+autorizado al reclamado para que contacten con fines publicitarios, y estando inscrito
+en la lista Robinson considera dicha llamada una intromisión y una violación del
+derecho a la privacidad de sus datos.
+
+SEGUNDO: Tras la recepción de la reclamación, la Subdirección General de
+Inspección de Datos procedió a realizar las siguientes actuaciones:
+
+El 26/11/2019, reiterada el 10/12/2019, fue trasladada al reclamado la reclamación
+presentada para su análisis. Igualmente, se le requería para que en el plazo de un
+mes remitiera a la Agencia determinada información:
+
+- Copia de la decisión adoptada.
+- Informe sobre las causas que han motivado la incidencia que ha originado la
+reclamación.
+- Informe sobre las medidas adoptadas para evitar que se produzcan incidencias
+similares.
+- Cualquier otra que considere relevante.
+
+El 27/01/2020 el reclamado ha manifestado que el reclamante no ha ejercitado su
+derecho de acceso a sus datos; que el reclamado ha procedido a la eliminación d ellos
+datos del reclamado tras su solicitud de que no volviesen a llamarlo; que el reclamado
+no se ha negado a facilitar la procedencia de los datos de carácter personal del
+reclamante ya que dichos datos han sido facilitados por un amigo suyo; que en el
+mensaje que recibe el reclamante de su amigo en ningún momento manifiesta no
+haber facilitado al reclamado los datos del reclamante; que el reclamado cuando
+recibe la negativa a no volver a contactar con el reclamante procede a su eliminación
+para que no se produzca ninguna conexión posterior.
+
+Aporta locución de la conversión mantenida con el reclamante y con su amigo.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/9
+
+El 04/02/2020, de conformidad con el artículo 65 de la LOPDGDD, la Directora de la
+Agencia Española de Protección de Datos acordó admitir a trámite la reclamación
+presentada por el reclamante contra el reclamado.
+
+FUNDAMENTOS DE DERECHO
+
+I
+
+De conformidad con lo establecido en el artículo 84.3) de la Ley 9/2014, de 9
+de mayo, General de Telecomunicaciones (LGT), la competencia para resolver el
+presente Procedimiento Sancionador corresponde a la Directora de la Agencia
+Española de Protección de Datos.
+
+II
+
+En el supuesto presente, se ha verificado que, el interesado, estando incluido
+en la Lista Robinson, la compañía reclamada le realizó una llamada comercial.
+
+Los hechos expuestos (la vulneración del derecho de oposición), podrían
+suponer la comisión por parte de la entidad reclamada, de una infracción del artículo
+48.1.b) de la Ley LGT, recogido en su Título III, que señala que: “Respecto a la
+protección de datos personales y la privacidad en relación con las guías de abonados,
+los usuarios finales de los servicios de comunicaciones electrónicas tendrán los
+siguientes derechos: (…) b) A oponerse a recibir llamadas no deseadas con fines de
+comunicación comercial que se efectúen mediante sistemas distintos de los
+establecidos en la letra anterior y a ser informado de este derecho”,
+
+Si bien, el citado artículo no configura tal derecho, por lo que debemos acudir a
+las normas de protección de datos en las que se regula el derecho de oposición:
+artículo 21 del RGPD, (Reglamento (UE) 2016/679, del Parlamento Europeo y del
+Consejo, de 27/04/2016, relativo a la Protección de las Personas Físicas en lo que
+respecta al Tratamiento de Datos Personales y a la Libre Circulación de estos Datos) y
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/9
+
+artículo 23 de la LOPDGDD (Ley Orgánica 3/2018, de 5 de diciembre, de Protección
+de Datos Personales y Garantía de los Derechos Digitales).
+
+Esta Infracción se encuentra tipificada como “leve”, en el artículo 78.11) de
+dicha norma, que considera como tal: “El incumplimiento de las obligaciones de
+servicio público, de las obligaciones de carácter público y la vulneración de los
+derechos de los consumidores y usuarios finales según lo establecido en el Titulo III
+de la Ley y su normativa de desarrollo”, pudiendo ser sancionada con multa de hasta
+50.000 €, de acuerdo con el artículo 79.d) de la citada LGT.
+
+III
+
+De acuerdo con los preceptos indicados, y sin perjuicio de lo que resulte de la
+instrucción del procedimiento, a efectos de fijar el importe de la sanción a imponer en
+el presente caso, se considera que procede graduar la sanción a imponer de acuerdo
+con los siguientes criterios que establece el artículo 80.1) y 2) de la LGT:
+
+-
+
+El cese de la actividad infractora, previamente o durante la tramitación del expediente sancionador (apartado g).
+
+-
+
+La consideración de la situación económica del infractor, (punto 2).
+
+Tras las evidencias obtenidas en la fase de investigaciones previas, se considera
+que procede graduar la sanción a imponer en la cuantía de 1.500 € (mil quinientos
+euros).
+
+Por lo tanto, a tenor de lo anteriormente expuesto,
+
+Por la Directora de la Agencia Española de Protección de Datos,
+
+SE ACUERDA:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/9
+
+1. INICIAR PROCEDIMIENTO SANCIONADOR a la entidad TOUR & PEOPLE MAX
+S.L., con NIF B93016707, por la presunta infracción del artículo 48.1.b) de la Ley LGT
+tipificada como “leve” en el artículo 78.11) de la citada Ley LGT.
+
+2. NOMBRAR como instructor a B.B.B. y como secretaria a C.C.C., indicando que
+cualquiera de ellos podrá ser recusado, en su caso, conforme a lo establecido en los
+artículos 23 y 24 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector
+Público (LRJSP).
+
+3. INCORPORAR al expediente sancionador, a efectos probatorios, la reclamación
+interpuesta por el reclamante y su documentación; los documentos obtenidos y
+generados por la Subdirección General de Inspección de Datos durante la fase de
+investigación, todo parte del expediente.
+
+4. QUE a los efectos previstos en el art. 64.2 b) de la LPACAP, la sanción que pudiera
+corresponder sería de 1.500 € (mil quinientos euros), sin perjuicio de lo que resulte de
+la instrucción.
+
+5. NOTIFICAR el presente acuerdo a TOUR & PEOPLE MAX S.L., con NIF
+B93016707, otorgándole un plazo de audiencia de diez días hábiles para que formule
+las alegaciones y presente las pruebas que considere convenientes. En su escrito de
+alegaciones deberá facilitar su NIF y el número de procedimiento que figura en el
+encabezamiento de este documento.
+
+Si en el plazo estipulado no efectuara alegaciones a este acuerdo de inicio, el
+mismo podrá ser considerado propuesta de resolución, según lo establecido en el
+artículo 64.2.f) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas (en lo sucesivo, LPACAP).
+
+De conformidad con lo dispuesto en el artículo 85 de la LPACAP, en caso de
+que la sanción a imponer fuese de multa, podrá reconocer su responsabilidad dentro
+del plazo otorgado para la formulación de alegaciones al presente acuerdo de inicio; lo
+que llevará aparejada una reducción de un 20% de la sanción que proceda imponer en
+el presente procedimiento. Con la aplicación de esta reducción, la sanción quedaría
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/9
+
+establecida en 1.200 € (mil doscientos euros), resolviéndose el procedimiento con la
+imposición de esta sanción.
+
+Del mismo modo podrá, en cualquier momento anterior a la resolución del
+presente procedimiento, llevar a cabo el pago voluntario de la sanción propuesta, lo
+que supondrá la reducción de un 20% de su importe. Con la aplicación de esta
+reducción, la sanción quedaría establecida 1.200 € (mil doscientos euros), y su pago
+implicará la terminación del procedimiento.
+
+La reducción por el pago voluntario de la sanción es acumulable a la que
+corresponde aplicar por el reconocimiento de la responsabilidad, siempre que este
+reconocimiento de la responsabilidad se ponga de manifiesto dentro del plazo
+concedido para formular alegaciones a la apertura del procedimiento. El pago
+voluntario de la cantidad referida en el párrafo anterior podrá hacerse en cualquier
+momento anterior a la resolución. En este caso, si procediera aplicar ambas
+reducciones, el importe de la sanción quedaría establecido en 900 (novecientos
+euros).
+
+En todo caso, la efectividad de cualquiera de las dos reducciones mencionadas
+estará condicionada al desistimiento o renuncia de cualquier acción o recurso en vía
+administrativa contra la sanción.
+
+En caso de que optara por proceder al pago voluntario de cualquiera de las
+cantidades señaladas anteriormente (1.200 o 900 euros), deberá hacerlo efectivo
+mediante su ingreso en la cuenta nº ES00 0000 0000 0000 0000 0000 abierta a
+nombre de la Agencia Española de Protección de Datos en el Banco CAIXABANK,
+S.A., indicando en el concepto el número de referencia del procedimiento que figura en
+el encabezamiento de este documento y la causa de reducción del importe a la que se
+acoge.
+
+Asimismo, deberá enviar el justificante del ingreso a la Subdirección General de
+Inspección para continuar con el procedimiento en concordancia con la cantidad
+ingresada.
+
+El procedimiento tendrá una duración máxima de nueve meses a contar desde
+la fecha del acuerdo de inicio o, en su caso, del proyecto de acuerdo de inicio.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/9
+
+Transcurrido ese plazo se producirá su caducidad y, en consecuencia, el archivo de
+actuaciones; de conformidad con lo establecido en el artículo 64 de la LOPDGDD.
+
+Por último, se señala que conforme a lo establecido en el artículo 112.1 de la
+LPACAP, contra el presente acto no cabe recurso administrativo alguno.
+
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+>>
+SEGUNDO: En fecha 16 de julio de 2020, el reclamado ha procedido al pago de la
+sanción en la cuantía de 1.200 euros haciendo uso de una de las dos reducciones
+previstas en el Acuerdo de inicio transcrito anteriormente. Por tanto, no ha quedado
+acreditado el reconocimiento de responsabilidad.
+TERCERO: El pago realizado conlleva la renuncia a cualquier acción o recurso en vía
+administrativa contra la sanción, en relación con los hechos a los que se refiere el
+Acuerdo de Inicio.
+FUNDAMENTOS DE DERECHO
+I
+En virtud de los poderes que el artículo 58.2 del RGPD reconoce a cada autoridad de
+control, y según lo establecido en el art. 47 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+lo sucesivo LOPDGDD), la Directora de la Agencia Española de Protección de Datos
+es competente para sancionar las infracciones que se cometan contra dicho
+Reglamento; las infracciones del artículo 48 de la Ley 9/2014, de 9 de mayo, General
+de Telecomunicaciones (en lo sucesivo LGT), de conformidad con lo dispuesto en el
+artículo 84.3 de la LGT, y las infracciones tipificadas en los artículos 38.3 c), d) e i) y
+38.4 d), g) y h) de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la
+información y de comercio electrónico (en lo sucesivo LSSI), según dispone el artículo
+43.1 de dicha Ley.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/9
+
+II
+El artículo 85 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas (en lo sucesivo LPACAP), bajo la rúbrica
+“Terminación en los procedimientos sancionadores” dispone lo siguiente:
+“1. Iniciado un procedimiento sancionador, si el infractor reconoce su
+responsabilidad, se podrá resolver el procedimiento con la imposición de la sanción
+que proceda.
+2. Cuando la sanción tenga únicamente carácter pecuniario o bien quepa
+imponer una sanción pecuniaria y otra de carácter no pecuniario pero se ha justificado
+la improcedencia de la segunda, el pago voluntario por el presunto responsable, en
+cualquier momento anterior a la resolución, implicará la terminación del procedimiento,
+salvo en lo relativo a la reposición de la situación alterada o a la determinación de la
+indemnización por los daños y perjuicios causados por la comisión de la infracción.
+3. En ambos casos, cuando la sanción tenga únicamente carácter pecuniario,
+el órgano competente para resolver el procedimiento aplicará reducciones de, al
+menos, el 20 % sobre el importe de la sanción propuesta, siendo éstos acumulables
+entre sí. Las citadas reducciones, deberán estar determinadas en la notificación de
+iniciación del procedimiento y su efectividad estará condicionada al desistimiento o
+renuncia de cualquier acción o recurso en vía administrativa contra la sanción.
+El porcentaje de reducción previsto en este apartado podrá ser incrementado
+reglamentariamente.”
+De acuerdo con lo señalado,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: DECLARAR la terminación del procedimiento PS/00031/2020, de
+conformidad con lo establecido en el artículo 85 de la LPACAP.
+SEGUNDO: NOTIFICAR la presente resolución a TOUR & PEOPLE MAX S.L..
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado por
+el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, los interesados podrán interponer recurso
+contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/9
+
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

@@ -1,0 +1,280 @@
+1/6
+
+
+
+Procedimiento Nº: E/03495/2020
+
+907-141019
+
+RESOLUCIÓN ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes:
+HECHOS
+PRIMERO: Con fecha 28/02/20, se reciben en esta Agencia escrito de A.A.A., en
+representación del CENTRO ESPAÑOL DE DERECHOS REPROGRAFICOS, con
+CIF.: V78652203 (en adelante, “el reclamante”), en la que se indica, entre otras, lo
+siguiente:
+“Por el presente escrito se interpone DENUNCIA de la actividad desarrollada en la
+página web albergada en el dominio ***DOMINIO.1 a través de dicha página se está
+prestando el servicio que consiste en facilitar la ubicación de enlaces que permiten la
+descarga de obras a los usuarios que entran en su web y sin el consentimiento de los
+legítimos titulares de derechos de estas obras. Tal y como se acredita por medio de la
+captura de pantalla que se aporta como Documento nº 1
+Al acceder a esta página web, se instalan dispositivos cookies sin haber sido
+expresamente aceptadas. En el apartado de ajustes del buscador se puede
+comprobar que se han instalado en nuestro dispositivo cookies sin que medie
+consentimiento alguno y mucho menos expreso, tal y como se refleja en la captura de
+pantalla que se aporta como Documento nº 2.
+En los apartados desplegados en la web no se hace referencia alguna a información
+sobre los derechos de los usuarios en materia de protección de datos. Tampoco se
+facilita ningún medio para ponernos en contacto con el administrador de la página
+web.
+Al margen del titular del dominio y a pesar de que no disponemos de la información
+suficiente para determinar si el domicilio social del proveedor se encuentra en España
+contamos con indicios varios y suficientes que indican que el tratamiento de datos de
+esta web y en general todo lo relacionado con ella se realiza desde España: 1º La
+información y el contenido del sitio está en castellano; 2º El huso horario utilizado en la
+web es GMT +1, y España es el único país de habla hispana con este horario de
+“Huso”. 3º Además, el 63,94 % de los accesos a esta página se produce desde
+España. Que es el país que más tráfico genera siendo México el 2º país con solo un
+5,5%; 4º Las obras compartidas por ej. en el apartado de “Periódicos y Revistas” son
+en su gran mayoría publicaciones españolas
+De todo lo expuesto, se infiere que el tratamiento se está efectuando en territorio
+español. Por ello, resulta de aplicación la Ley Orgánica 3/2018, de 5 de diciembre, de
+Protección de Datos Personales y garantía de los derechos digitales (en adelante
+LOPD)
+En la medida que nos encontramos ante una actividad que se está prestando a
+usuarios
+en el ámbito territorial español, es plenamente aplicable las previsiones de la LOPD y
+del RGPD al titular de la página web denunciada. Además de la instalación de cookies
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/6
+
+en el ordenador del usuario, existen otros indicios manifiestos de que la actividad de la
+página web se dirige específicamente al territorio español tal y como ya se ha
+expuesto.
+Por otra parte, el ánimo de lucro del prestador de servicios es palmario, siendo la
+prestación del servicio denunciado una actividad económica del prestador de servicios
+titular de la cuenta, como acredita la posible explotación de los datos obtenidos con la
+instalación no autorizada de cookies tal y como se ha expuesto al inicio de la
+denuncia. Además, este ánimo de lucro se manifiesta también por ejemplo en el
+apartado que la web dispone para recibir dinero mediante “paypal”.
+La página web incumple los deberes de información desarrollados en la sección 2 del
+Capítulo III del RGPD, que se enumera de un modo genérico en su artículo 13 del
+RGPD
+Por lo tanto, a la luz del contenido de la página web y de la instalación de cookies sin
+la
+debida autorización, y sin facilitar información sobre la identidad y domicilio del
+administrador de la página web a los efectos de ejercerlos derechos de acceso,
+rectificación, cancelación y oposición, que acredita la existencia de una vulneración
+absoluta de las obligaciones de información de conformidad con los meritados
+artículos de la RGPD y de la LOPD.
+Es evidente que la denunciada no muestra ningún tipo de interés por cumplir con la
+legislación en materia de protección de datos y prueba de ello es que ni siquiera hace
+el más mínimo intento de cumplir aun defectuosamente con sus obligaciones de
+información. Además, la página requiere datos personales para poder acceder a los
+enlaces de descarga, datos tales como: Dirección de correo electrónico; Fecha de
+nacimiento
+En ningún apartado, pide permiso para el tratamiento de estos datos personales más
+allá del consentimiento para recibir correos del equipo del foro o de otros miembros
+del
+foro. Pero en ningún momento informan sobre el tratamiento de los datos recaudados
+tal y como exige la legislación aplicable en materia de derechos de propiedad
+intelectual, simplemente relacionan unas reglas muy laxas que no cumplen con la
+normativa en protección de datos. (…)
+Por su parte, el titular de la web ***URL.1 vulnera los derechos de los destinatarios de
+los servicios contemplados en el artículo 22.2 LSSI, incumpliendo de modo manifiesto
+las obligaciones que dicho precepto contiene. (…)
+Además de la lógica competencia para aplicar los preceptos del RGPD y de la LOPD
+recogidos en el punto anterior y exigir responsabilidades por el incumplimiento de las
+obligaciones contempladas en estos cuerpos normativos, en referencia a las
+previsiones de la LSSI a las que se alude en esta denuncia, tal como recoge el artículo
+43.1.II LSSI la imposición de las sanciones por la comisión de las infracciones
+tipificadas, entre otros, en los artículos 38.3.i) y 38.4.g) de la LSSI”.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/6
+
+SEGUNDO: A la vista de los hechos expuestos en la reclamación y de los documentos
+aportados por el reclamante, la Subdirección General de Inspección de Datos procedió
+a realizar actuaciones para su esclarecimiento, al amparo de los poderes de
+investigación otorgados a las autoridades de control en el artículo 57.1 del Reglamento
+(UE) 2016/679 (RGPD). Así, con fecha 08/05/20 se verifican las siguientes
+circunstancias de la página web ***URL.1 denunciada:
+-
+
+-
+
+No figura información relativa a la entidad titular de la citada web ni de los
+derechos de los usuarios, a pesar de existir un procedimiento de registro de
+usuarios en el que se recaban datos personales entre los que se encuentran
+nombre y apellidos, dirección de correo y fecha de nacimiento.
+El dominio .in está registrado en ***PAIS.1
+Se ha realizado una consulta en whois.registry.in encontrando que toda la
+información relativa a la entidad registradora del dominio está en blanco y que
+no figura ningún correo electrónico para contactos técnicos o administrativos.
+Se ha remitido un correo electrónico a ***EMAIL.1, contacto establecido para
+comunicarse con el equipo de soporte técnico de los dominios .in, solicitando
+que faciliten la identidad de la entidad responsable del dominio ***DOMINIO.1,
+habiendo recibido respuesta en fecha 8 de mayo de 2020 indicando que la
+información del registrante del dominio se puede consultar en ***URL.2
+
+Con fecha 10/05/20, se realiza una nueva consulta verificando que al igual que la
+primera vez no contiene información relativa a la entidad responsable del dominio, ni
+direcciones o correos de contacto.
+FUNDAMENTOS DE DERECHO
+I
+Competencia:
+-
+
+Sobre el consentimiento de los datos de carácter personal tratados en la
+página web y su “política de privacidad”:
+
+En virtud de los poderes que el art 58.2 del Reglamento (UE) 2016/679, del
+Parlamento Europeo y del Consejo, de 27/04/16, relativo a la Protección de las
+Personas Físicas en lo que respecta al Tratamiento de Datos Personales y a la Libre
+Circulación de estos Datos (RGPD) reconoce a cada Autoridad de Control y, según lo
+establecido en los arts. 47, 64.2 y 68.1 de la Ley Orgánica 3/2018, de 5 de diciembre,
+de Protección de Datos Personales y Garantía de los Derechos Digitales (LOPDGDD),
+la Directora de la Agencia Española de Protección de Datos es competente para iniciar
+y resolver este procedimiento.
+Asimismo corresponde a la Agencia Española de Protección de Datos realizar
+actuaciones previas de investigación reguladas en el artículo 67.1 de la LOPDGDD y
+en el artículo 55 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas (LPACAP), con el fin de lograr una mejor
+determinación de los hechos y circunstancias que justifiquen el tratamiento del
+procedimiento y la identificación de la persona o personas que pudieran resultar
+responsables, así como, y la conveniencia o no de iniciar el procedimiento en función
+de los resultados obtenidos en el periodo de actuaciones previas.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/6
+
+Los apartados 1) y 2), del artículo 58 el RGPD, enumeran, respectivamente, los
+poderes de investigación y correctivos que la autoridad de control puede disponer al
+efecto, mencionando en el punto 1.d), el de: “notificar al responsable o encargo del
+tratamiento las presuntas infracciones del presente Reglamento” y en el 2.i), el de:
+“imponer una multa administrativa con arreglo al artículo 83, además o en lugar de las
+medidas mencionadas en el presente apartado, según las circunstancias de cada
+caso.”.
+-
+
+Sobre la política de cookies utilizada en la página web denunciada:
+
+De conformidad con lo establecido en el art. 43.1, párrafo segundo, de la de la Ley
+34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio
+Electrónico (LSSI), es competente para iniciar y resolver este Procedimiento
+Sancionador, la Directora de la Agencia Española de Protección de Datos.
+II
+El Artículo 47 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos
+Personales y garantía de los derechos digitales (LOPDGDD), establece, sobre las
+funciones y potestades de la Agencia Española de Protección de Datos que:
+“Corresponde a la AEPD supervisar la aplicación de esta ley orgánica y del
+Reglamento (UE) 2016/679 y, en particular, ejercer las funciones establecidas en el
+artículo 57 y las potestades previstas en el artículo 58 del mismo reglamento, en la
+presente ley orgánica y en sus disposiciones de desarrollo. Asimismo, corresponde a
+la Agencia Española de Protección de Datos el desempeño de las funciones y
+potestades que le atribuyan otras leyes o normas de Derecho de la Unión Europea.”
+El Art. 67 de la LOPDGDD, sobre las actuaciones previas de investigación, indica que:
+“1. Antes de la adopción del acuerdo de inicio de procedimiento, y una vez admitida a
+trámite la reclamación si la hubiese, la AEPD podrá llevar a cabo actuaciones previas
+de investigación a fin de lograr una mejor determinación de los hechos y las
+circunstancias que justifican la tramitación del procedimiento. La Agencia Española de
+Protección de Datos actuará en todo caso cuando sea precisa la investigación de
+tratamientos que implique un tráfico masivo de datos personales.
+2. Las actuaciones previas de investigación se someterán a lo dispuesto en la Sección
+2.ª del Capítulo I del Título VII de esta ley orgánica y no podrán tener una duración
+superior a doce meses a contar desde la fecha del acuerdo de admisión a trámite o de
+la fecha del acuerdo por el que se decida su iniciación cuando la Agencia Española de
+Protección de Datos actúe por propia iniciativa o como consecuencia de la
+comunicación que le hubiera sido remitida por la autoridad de control de otro Estado
+miembro de la Unión Europea, conforme al artículo 64.3 de esta ley orgánica.
+Por su parte, la Disposición adicional cuarta de la LOPDGDD determina, sobre el
+Procedimiento en relación con las competencias atribuidas a la AEPD, por otras leyes,
+que: “Lo dispuesto en el Título VIII y en sus normas de desarrollo será de aplicación a
+los procedimientos que la Agencia Española de Protección de Datos hubiera de
+tramitar en ejercicio de las competencias que le fueran atribuidas por otras leyes.”
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/6
+
+III
+En el presente caso se trata de determinar, a la vista del conjunto de elementos de
+juicios disponibles, las responsabilidades que pudieran derivarse del tratamiento de
+datos personales no consentidos por los responsables de la página web ***URL.1, así
+como la inexistencia de información sobre su política de privacidad y su política de
+cookies.
+Estos hechos podrían ser constitutivos de vulneración de los artículos 6.1 y 13 del
+RGPD que señalan respectivamente, la licitud del tratamiento de datos personales
+basado en el consentimiento y la información que debe ser aportada a los interesados
+a la hora de recoger sus datos personales. También podría ser constitutivo de una
+infracción del artículo 22.2 de la LSSI, por la falta de información sobre las cookies
+instaladas cuando se accede a la página y la posibilidad de su gestión por parte del
+usuario.
+No obstante, de las actuaciones practicas por esta Agencia se ha podido comprobar
+que, el dominio (.in) está registrado en un país fuera de la Unión Europea, en este
+caso, en ***PAIS.1. Realizada la consulta en “***URL.2” (dominio de nivel superior de
+código de país de ***PAIS.1 (ccTLD), se ha comprobado que toda la información
+relativa a la entidad registradora del dominio está en blanco y que no figura ningún
+correo electrónico para contactos técnicos o administrativos con los responsables de la
+misma.
+A la vista de todo lo cual, al no poder ser localizado el presunto responsable de la
+página web denunciada y la imposibilidad de dirigirse al registrador del servidor que le
+da soporte, al tener su sede en un tercer país fuera de la Unión Europea, debe
+procederse al archivo de las presentes actuaciones.
+Por lo tanto, de acuerdo con lo señalado, ante la falta de evidencias de los hechos
+denunciados, por la Directora de la Agencia Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución a de A.A.A., (CENTRO ESPAÑOL DE
+DERECHOS REPROGRAFICOS).
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la presente
+Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado por
+el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, y de conformidad con lo establecido en los
+arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los interesados podrán
+interponer, potestativamente, recurso de reposición ante la Directora de la Agencia
+Española de Protección de Datos en el plazo de un mes a contar desde el día
+siguiente a la notificación de esta resolución o directamente recurso contencioso
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/6
+
+administrativo ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional,
+con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de la disposición
+adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción
+Contencioso-Administrativa, en el plazo de dos meses a contar desde el día siguiente
+a la notificación de este acto, según lo previsto en el artículo 46.1 de la referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

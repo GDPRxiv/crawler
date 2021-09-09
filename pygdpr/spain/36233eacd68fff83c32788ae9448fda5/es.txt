@@ -1,0 +1,873 @@
+1/17
+
+
+
+Procedimiento Nº: E/07181/2019
+
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de
+Datos y teniendo como base los siguientes
+HECHOS
+PRIMERO: La reclamación interpuesta por FESMC-UGT (en adelante, el reclamante)
+tiene entrada, con fecha 1 de abril de 2019, en la Agencia Española de Protección de
+Datos. La reclamación se dirige contra ASUMAN SERVICIOS Y MANTENIMIENTOS
+S.A., HOSPITAL UNIVERSITARIO MONCLOA (GRUPO HLA), e ILUNION
+SEGURIDAD, S.A.
+Los motivos en que basa la reclamación son los siguientes:
+Que hasta el 31 de diciembre de 2018 la empresa ILUNION SEGURIDAD,
+S.A., prestaba servicios de seguridad en el hospital universitario Moncloa.
+Que hasta el día de la fecha de registro de esta denuncia la empresa ASUMAN
+presta servicios con personal de limpieza en el hospital.
+Que la empresa ASUMAN ha sancionado a una trabajadora, Doña A.A.A.,
+alegando que se dedica a dormir en los días y horarios que se especifican por escrito,
+confirmándolo la empresa con las grabaciones de las cámaras.
+Que entienden que la empresa encargada de la visualización de las imágenes,
+ILUNION SEGURIDAD, S.A., usa la visualización de las imágenes para el control de
+los trabajadores en sus tareas laborales, cediendo las imágenes al resto de empresas
+que prestan servicio en el hospital y a la dirección del hospital, para sancionar a los
+trabajadores.
+Que los trabajadores desconocen que están siendo grabados y no dan su
+consentimiento para ello siendo vulnerado su derecho a la intimidad.
+Que en la sentencia del Juzgado de lo Social nº 3 de Pamplona de fecha 18 de
+febrero de 2019, del procedimiento de despido nº ***PROCEDIMIENTO.1, se anulan
+las grabaciones usadas contra dos trabajadores, usadas para su despido.
+Y anexa la siguiente documentación:
+
+
+Escrito fechado a 14 de septiembre de 2018, con logotipo de ASUMAN
+SERVICIOS Y MANTENIMIENTOS, enviado a Doña A.A.A., en el que consta:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+o
+
+Que se le comunica la apertura de un expediente disciplinario.
+
+o
+
+Que la empresa ha tenido conocimiento de que ella y su compañera
+utilizan la sala de espera número 5 de Rayos X del Hospital Moncloa,
+donde prestan sus servicios de forma habitual, para dormir durante su
+jornada de trabajo.
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/17
+
+o
+
+Que han podido confirmar con las grabaciones de las cámaras de
+seguridad que han utilizado la citada sala para dormir en los días y
+horarios:
+
+
+21/08/2018 de 4:53 a 07:00
+
+
+
+23/08/2018 de 4:32 a 07:10
+
+
+
+24/08/2018 de 4:36 a 07:05
+
+
+
+29/08/2018 de 5:00 a 07:05
+
+
+
+01/09/2018 de 5:03 a 07:04
+
+
+
+04/09/2018 de 3:57 a 07:05
+
+o
+
+Que, con motivo de dichas ausencias de unas tres horas de su puesto
+de trabajo, ha sido imposible localizarla ya que ha dejado de responder
+al busca.
+
+o
+
+Que el Director Médico del Hospital Moncloa se ha quejado de la
+conducta descrita.
+
+SEGUNDO: De conformidad con el artículo 65.4 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+adelante LOPDGDD), con número de referencia E/04436/2019, se dio traslado de
+dicha reclamación al reclamado, para que procediese a su análisis e informase a esta
+Agencia en el plazo de un mes, de las acciones llevadas a cabo para adecuarse a los
+requisitos previstos en la normativa de protección de datos.
+El Hospital Moncloa contestó a las cuestiones generales planteadas, señalando
+que la entidad Prosegur Soluciones Integrales de Seguridad es la encargada de la
+videovigilancia en el Hospital. Acompañan el cartel que se ha puesto en diferentes
+zonas del Hospital indicando que es una zona videovigilada. Tienen un sistema de 71
+cámaras de videovigilancia, aunque dos de ellas no están operativas. El sistema tiene
+como finalidad garantizar la seguridad de las personas, bienes e instalaciones. Por
+último, indican que la media de mantenimiento de las imágenes es 10-15 días y nunca
+superan un mes.
+Posteriormente, Hospital Moncloa acompaña copia del comunicado que hacen
+a los trabajadores informándoles del sistema de video vigilancia que existe, adecuado
+al Reglamento General de Protección de Datos, añadiendo que pueden ejercer los
+derechos establecidos legalmente (acceso, cancelación…) dirigiéndose a la dirección
+del DPO del Grupo Hospitalario.
+ASUMAN contesta que nunca vio ninguna imagen. Que la entidad que podía
+ver las imágenes era Ilunión, ya que era la entidad que llevaba la videovigilancia en el
+Hospital Moncloa.
+Ilunión responde a la solicitud de información que dejo de ser la entidad que
+llevaba la videovigilancia en el Hospital Moncloa el 3 de diciembre de 2018, siendo el
+responsable del sistema el Hospital mencionado.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/17
+
+TERCERO: Con fecha 3 de julio de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó admitir a trámite la reclamación presentada por el
+reclamante.
+CUARTO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+Con fecha 15 de junio de 2020, ASUMAN SERVICIOS Y MANTENIMIENTOS
+S.A. remite a esta Agencia la siguiente información y manifestaciones:
+1. Que nunca han tenido acceso a las grabaciones de videovigilancia tomadas en
+el centro de trabajo, sito en Madrid, avda. de Valladolid 81 donde ASUMAN
+presta sus servicios para el HOSPITAL UNIVERSITARIO MONCLOA GRUPO
+HLA.
+1. Que el HOSPITAL UNIVERSITARIO MONCLOA GRUPO HLA comunicó de
+manera verbal la queja relativa a determinados comportamientos por parte de
+la reclamante, limitándose a hacer entrega de una copia de un parte de
+incidencias elaborado por un trabajador de la empresa ILUNION SEGURIDAD.
+1. Que en ningún momento el campo de visión de las cámaras de seguridad
+accede al interior de la sala de espera de Rayos X número cinco, así como
+tampoco acceden a ningún espacio de descanso, comida, aseos o vestuarios,
+según les ha comentado el responsable del tratamiento.
+2. Que el acceso a las imágenes se produjo exclusivamente por parte de la
+empresa de seguridad, pero en ningún caso dichas imágenes han sido
+accesibles a personas distintas de los mismos, ni por parte de ASUMAN.
+Aporta copia de “Informe de Incidencias” con nº 1245, turno de 19:00 a 07:00 y
+logotipo de ILUNION SEGURIDAD con fecha de 05/09/2018 y firma de fecha
+06 septiembre 2018 donde consta en letra manuscrita:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+
+
+En el campo “CENTRO”: “H MONCLOA”
+
+
+
+En el campo “ASUNTO”: “Incidencia con limpieza”
+
+
+
+En el campo “DESCRIPCIÓN DE LA INCIDENCIA”: “El personal de
+limpieza del turno de noche (A.A.A. y B.B.B.) se meten en la sala 5 de
+Rx a dormir. En varias ocasiones nos han llamado para ver si las
+podemos localizar ya que no cogían el busca. Aproximadamente
+utilizan dicha sala para dormir desde las 04:00h hasta las 07:00h”
+
+
+
+En el campo “MEDIDAS ADOPTADAS”: “Compañeros realizando la
+ronda han oído ronquidos. Compañeros han entrado a por agua a la
+fuente que se encuentra en su interior y las han encontrado
+completamente tumbadas en los asientos con cojines y tapadas con
+mantas”
+
+
+
+En el campo “COMENTARIOS” consta, entre otros aspectos, que
+“Existen grabaciones”.
+
+
+
+Consta bajo el epígrafe “Cámara 51” los días y horarios aportados con
+la denuncia.
+www.aepd.es
+sedeagpd.gob.es
+
+4/17
+
+1. Que ASUMAN tiene establecido un sistema de gestión de la privacidad.
+2. Que en virtud del primer requerimiento de fecha 8 de mayo de 2019 efectuado
+por esta Agencia, procedieron de manera inmediata a la apertura de una
+incidencia.
+3. Que con fecha 17 de junio de 2019 se comunicó por parte del HOSPITAL
+UNIVERSITARIO MONCLOA GRUPO HLA a la entidad ASUMAN, la existencia
+de las cámaras de seguridad.
+Se aporta copia de carta con logotipo de HOSPITAL UNIVERSITARIO
+MONCLOA GRUPO HLA y con título “COMUNICADO PARA INFORMAR A LOS
+TRABAJADORES SOBRE LA INSTALACIÓN DE CÁMARAS DE VIGILANCIA”
+firmada a 17 de junio de 2019 donde consta, entre otros aspectos, que “la
+información obtenida y almacenada mediante el sistema de grabación se
+utilizará exclusivamente para fines de prevención, seguridad y protección de
+personas y bienes que se encuentren en el establecimiento o instalación
+sometida a protección.”
+4. Que con fecha 19 de junio de 2019 se realizó por parte de ASUMAN
+comunicación a la representación legal de los trabajadores en la que se
+indicaba que con fecha 20 de junio se haría un comunicado a todos los
+trabajadores en el cual se informaría de la instalación de las cámaras de
+seguridad en el HOSPITAL UNIVERSITARIO MONCLOA GRUPO HLA.
+Aporta copia del comunicado firmado y fechado a 19 de junio de 2018.
+5. Que con fecha 24 de junio de 2019 se procedió por parte de ASUMAN a la
+colocación de carteles en tres tablones de anuncios existentes en las salas que
+utiliza su personal de sección de limpieza del HOSPITAL UNIVERSITARIO
+MONCLOA GRUPO HLA.
+Se aporta copia de “Acta de Régimen Interno” con asunto “Instalación de
+Cámaras de Vigilancia en Hospital HLA Universitario Moncloa” firmado y
+fechado a 24 de junio de 2018 y donde consta:
+“Con fecha 24 de junio de 2019, se ha procedido por parte de ASUMAN
+Servicios y Mantenimientos, a la colocación en los tres tablones de anuncios
+existentes en las dependencias de uso del personal de sección Limpieza del
+Hospital Moncloa, ubicados en: zona de vestuario, zona de oficina y zona de
+acopio de material, del documento informativo: "Comunicado Informativo para
+los Trabajadores sobre la Instalación de Cámaras de Vigilancia. “
+Como así queda recogido en las fotografías que como documento adjunto se
+anexan a la presente acta.”
+Se aportan tres fotografías firmadas y fechadas a 24 de junio de 2019
+correspondientes cada una de ellas a un tablón de anuncios con un
+comunicado de ASUMAN con título “COMUNICADO INFORMATIVO PARA
+LOS TRABAJADORES SOBRE LA INSTALACIÓN DE CÁMARAS DE
+VIGILANCIA”.
+6. Que el día 25 de junio de 2019 se comunicó de manera individualizada a los
+trabajadores de ASUMAN la existencia sobre la instalación de cámaras de
+vigilancia en el HOSPITAL UNIVERSITARIO MONCLOA GRUPO HLA.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/17
+
+Se aporta copia firmada y fechada a 18 de junio de 2019 así como con
+apariencia de firma de Doña A.A.A. en fecha de 25 de junio de 2019, donde,
+entre otros aspectos, consta “De igual forma se nos comunica que dicha
+información obtenida y almacenada mediante el sistema de grabación se
+utilizará exclusivamente para fines de prevención, seguridad y protección de
+las personas y bienes que se encuentren dentro de las instalaciones sometidas
+a protección.”
+7. Y manifiesta que:
+“3.1.-No existe una actitud continuada de Asuman previa, coetánea o posterior,
+en la utilización medios de control empresarial (video vigilancia), sin
+conocimiento de los trabajadores de la entidad.
+3.2.- No existe vinculación de la actividad de Asuman respecto al tratamiento
+de datos que ha realizado el responsable del Tratamiento.
+3.3.- Asuman no ha obtenido ningún beneficio con el expediente sancionador a
+la trabajadora denunciante.
+3.4.- No existe reincidencia por la comisión de actos de similar naturaleza por
+parte de Asuman.
+3.5.- El resultado del expediente disciplinario a la trabajadora denunciante se
+limitó a un apercibimiento que fue admitida por la trabajadora, que ya consta
+en el expediente de la Agencia Española de Protección de Datos.
+3.6.- Asuman ha regularizado la situación de forma diligente con las
+comunicaciones realizadas a la plantilla sobre el control empresarial en el
+marco del Estatuto de los Trabajadores (video vigilancia).”
+8. Que el deber de información a los trabajadores es necesario ponderarlo a
+través del principio de proporcionalidad.
+9. Manifiesta que:
+“Que la fiscalización realizada por Asuman ha sido únicamente indiciaria a
+través del parte de Incidencias comunicado por el responsable del Tratamiento.
+Que en el uso de su poder de organización y dirección de los trabajadores,
+únicamente se procedió al Apercibimiento de la trabajadora denunciante.
+Que los hechos fueron reconocidos y aceptados por la propia trabajadora.”
+10. Que las cámaras están situadas en zonas de paso, sin visión a la sala ni a las
+imágenes de la trabajadora durmiendo.
+11. Que existen carteles informativos normalizados de acuerdo con la instrucción
+1/2006 de la Agencia Española de Protección de Datos.
+12. Que para evaluar el juicio de proporcionalidad sobre la actuación de ASUMAN
+habrá que estar a:
+a. La utilización del parte de incidencias que ha conseguido el objetivo
+propuesto, que no es otro que el correcto funcionamiento de la actividad
+de limpieza en el centro de trabajo del Hospital de la Moncloa.
+b. Que no existió otra medida más moderada para consecuencia de tal
+propósito con igual eficacia.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/17
+
+c. Que no existió una medida más ponderada o equilibrada por derivarse
+más beneficios para el interés general que perjuicios sobre los valores
+en conflicto. Que el correcto desarrollo de la limpieza de un hospital es
+fundamental para pacientes, personal sanitario, incluidos los propios
+trabajadores de limpieza de ASUMAN.
+Que el mantenimiento de la plantilla está directamente relacionado con
+la correcta prestación del servicio a sus clientes. Que la generalización
+de actitudes como las de la trabajadora, podrían suponer la pérdida del
+contrato mercantil de la entidad ASUMAN con su principal cliente,
+afectando directamente al resto de la plantilla.
+13. Y en el apartado de “RECONOCIMIENTO ESPONTÁNEO” manifiesta que:
+“Sin perjuicio de toda la actividad de comunicación a los trabajadores respecto
+la actividad de video vigilancia por el Responsable de Tratamiento en el
+Hospital de la Moncloa, implantada por la empresa Asuman, inmediatamente
+después del primer requerimiento de la Agencia Española de Protección de
+datos firmada digitalmente el 08.05.2019, no es menos cierto que la presencia
+de cámaras de seguridad se anuncian de la acuerdo con la legislación de
+protección de datos, y expresamente la instrucción 1/2006 de la AEPD,
+mediante carteles normalizados, con indicación del Responsable de
+Tratamiento, dirección y finalidad.
+Parece imposible que la finalidad de seguridad de las instalaciones, bienes y
+personas, desempeñada por la empresa de seguridad con el apoyo
+tecnológico de la video vigilancia, pueda sustraerse y obviar la desaparición de
+varias personas, de forma reiterada, sin responder al teléfono, en horario
+nocturno, con muy poco tráfico de personas durante varias horas, sin informar
+al responsable del Tratamiento de la citada incidencia. En definitiva, no parece
+que pueda considerarse injustificada la comunicación de la incidencia a la
+empresa Asuman, sin que por ello se vulnere el derecho a la intimidad de la
+trabajadora denunciante.”
+Con fecha 17 de junio de 2020, ILUNION SEGURIDAD, S.A. remite a esta
+Agencia la siguiente información y manifestaciones:
+1. Que ILUNION SEGURIDAD, S.A. (anteriormente VIGILANCIA INTEGRADA,
+S.A.) suscribió contrato con HOSPITAL MONCLOA GRUPO HLA, S.A.U. el 1
+de junio de 2010 siendo su objeto “la prestación por parte de VIGILANCIA
+INTEGRADA, S.A. de un servicio de instalación de los sistemas de intrusión,
+C.C.T.V. (Circuito Cerrado de T.V.) y control de accesos, así como su
+mantenimiento; el presente contrato incluye el servicio de custodia de llaves y
+respuesta a las alarmas cuya realización no sea competencia de los Cuerpos y
+Fuerzas de Seguridad del Estado”.
+Que en la estipulación quinta del mencionado contrato se preveía “la duración
+del presente contrato se fija desde la fecha de su firma hasta el 31 de
+diciembre de 2010; no obstante la fecha pactada de vencimiento, el presente
+contrato se prorrogará automáticamente a su vencimiento, por períodos
+anuales sucesivos, salvo que, cualquiera de las partes se oponga a la
+renovación y prórroga de su vigencia,..”
+Se aporta copia del contrato firmado y fechado 1 de junio de 2010 con nombre
+“CONTRATO DE ARRENDAMIENTO DE SERVICIOS DE SEGURIDAD”.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/17
+
+1. Que los servicios objeto del contrato referido anterior dejaron de ser prestados
+por ILUNION SEGURIDAD, S.A. a HOSPITAL MONCLOA GRUPO HLA, S.A.U.
+en septiembre de 2012, habiendo sido la última factura emitida la de fecha 30
+de septiembre de 2012.
+Se aporta copia de correo electrónico de fecha 25 de septiembre de 2012
+remitido por C.C.C. (***EMAIL.1) a ***EMAIL.2 por el que se comunica “Según
+la reunión semanal mantenida ayer, no tenemos contrato de mantenimiento de
+este cliente. Por favor D.D.D. toma nota y actualízalo en la base de datos.”
+2. Que, por otro lado, ILUNION SEGURIDAD, S.A. (anteriormente VIGILANCIA
+INTEGRADA, S.A.) suscribió contrato con HOSPITAL MONCLOA GRUPO
+HLA, S.A.U. el 1 de abril de 2010 un contrato de arrendamiento de servicios de
+vigilancia el cual tenía por objeto “la prestación por parte de VIGILANCIA
+INTEGRADA, S.A. del servicio de vigilancia y protección”. Que los servicios de
+este contrato fueron prestados por ILUNION SEGURIDAD, S.A. a HOSPITAL
+MONCLOA GRUPO HLA, S.A.U. hasta el 31 de diciembre de 2018.
+Aporta copia de “CONTRATO DE ARRENDAMIENTO DE SERVICIOS DE
+VIGILANCIA” sin firma y fechado a 1 de abril de 2010, en el que consta que:
+a. Que el contrato tendrá por objeto la prestación por parte de
+VIGILANCIA INTEGRADA, S.A. del servicio de Vigilancia y protección.
+b. “El citado servicio tendrá una duración de 24 horas al día, todos los
+días del año, y será prestado por 1 vigilante, sin armas, debidamente
+uniformado y con equipamiento de protección individual, quien
+desarrollará su actividad en la cabina de control existente en el centro
+hospitalario o mediante rondas por las dependencias del mismo.”
+c. Que a efectos de precisar la naturaleza de los servicios objeto del
+presente contrato, las funciones a realizar serán fundamentalmente:
+i. Vigilancia y protección de bienes e inmuebles así como la
+protección de las personas que puedan encontrarse en los
+mismos.
+ii. Efectuar controles de identidad.
+iii. Evitar la comisión de actos delictivos o infracciones en relación
+con el objeto de su protección.
+iv. Poner inmediatamente a disposición de los miembros de las
+Fuerzas y Cuerpos de Seguridad del Estado a los delincuentes
+en relación con el objeto de su protección.
+v. Efectuar la protección del almacenamiento, recuento,
+clasificación y transporte de dinero, valores y objetos valiosos.
+vi. Llevar a cabo, en relación con el funcionamiento de las centrales
+de alarma, la prestación de servicios de respuesta de alarmas.
+d. En la estipulación SEGUNDA consta, entre otros aspectos “HOSPITAL
+MONCLOA no se responsabilizará de las acciones que pudieran
+cometer empleados de VINSA en el desempeño de su trabajo.”
+e. Y manifiesta que:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/17
+
+“Durante el periodo comprendido desde el 21 de agosto de 2018 al 4 de
+septiembre de 2018 ILUNION SEGURIDAD, S.A., no era la empresa
+encargada de la videovigilancia del hospital perteneciente a HOSPITAL
+MONCLOA GRUPO HLA. S.A.U., motivo este por el que ILUNION
+SEGURIDAD, S.A. no tiene constancia de cómo tuvo conocimiento
+HOSPITAL MONCLOA GRUPO HLA, S.A.U. de la existencia de las
+grabaciones de las cámaras de videovigilancia y de su contenido ni de
+cómo tuvo conocimiento la empresa ASUMAN SERVICIOS Y
+MANTENIMIENTOS. S.A. de la existencia de las grabaciones de las
+cámaras de videovigilancia y de su contenido…
+Si bien es cierto que durante el periodo comprendido desde el 21 de
+agosto de 2018 al 4 de septiembre de 2018 ILUNION SEGURIDAD,
+S.A. prestaba servicios de vigilancia en el hospital perteneciente a
+HOSPITAL MONCLOA GRUPO HLA. S.A.U., ILUNION SEGURIDAD.
+S.A. no conserva copias de los informes diarios de seguridad en
+relación con tales servicios dado que ha transcurrido más de un año
+desde la finalización de la prestación de los mismos, motivo este por el
+que no tiene constancia de cómo tuvo conocimiento HOSPITAL
+MONCLOA GRUPO HLA S.A.U. de la existencia de las grabaciones de
+las cámaras de videovigilancia y de su contenido ni de cómo tuvo
+conocimiento la empresa ASUMAN SERVICIOS Y MANTENIMIENTOS,
+S.A. de la existencia de las grabaciones de las cámaras de
+videovigilancia y de su contenido...”
+Con fecha 17 de junio de 2020, HOSPITAL MONCLOA GRUPO HLA S.A. remite a esta
+Agencia la siguiente información y manifestaciones:
+1. Que HOSPITAL MONCLOA comunicó de manera verbal la incidencia relativa a
+la situación ocurrida con respecto a determinantes comportamientos de la
+denunciante. Que el único documento que se facilitó a ASUMAN SERVICIOS Y
+MANTENIMIENTOS, S.A., fue una copia del parte de incidencias elaborado por
+el trabajador de la empresa ILUNION SEGURIDAD S.A.
+Se aporta copia del parte de incidencias, siendo éste el mismo que el
+presentado por ASUMAN SERVICIOS Y MANTENIMIENTOS, S.A.
+1. Que HOSPITAL MONCLOA tuvo conocimiento de la existencia de grabaciones
+a raíz del parte de incidencias del personal de seguridad de ILUNION donde se
+ponía de manifiesto la existencia de dichas grabaciones.
+2. Que se acompañan contratos de videovigilancia y copia del contrato de
+seguridad con ILUNION (antes VIGILANCIA INTEGRADA, S.A.) durante el
+periodo temporal en el que ocurrieron los hechos que se investigan:
+Se aporta copia de “CONTRATO DE ARRENDAMIENTO DE SERVICIOS DE
+VIGILANCIA” entre HOSPITAL MONCLOA y VIGILANCIA INTEGRADA, S.A.
+fechado a 1 de junio de 2010 y firmado donde consta que:
+a. Que el contrato tendrá por objeto la prestación por parte de
+VIGILANCIA INTEGRADA, S.A. del servicio de Vigilancia y protección.
+b. “El citado servicio tendrá una duración de 24 horas al día, todos los
+días del año, y será prestado por 1 vigilante, sin armas, debidamente
+uniformado y con equipamiento de protección individual, quien
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/17
+
+desarrollará su actividad en la cabina de control existente en el centro
+hospitalario o mediante rondas por las dependencias del mismo.”
+c. Que a efectos de precisar la naturaleza de los servicios objeto del
+presente contrato, las funciones a realizar serán fundamentalmente:
+i. Vigilancia y protección de bienes e inmuebles así como la
+protección de las personas que puedan encontrarse en los
+mismos.
+ii. Efectuar controles de identidad.
+iii. Evitar la comisión de actos delictivos o infracciones en relación
+con el objeto de su protección.
+iv. Poner inmediatamente a disposición de los miembros de las
+Fuerzas y Cuerpos de Seguridad del Estado a los delincuentes
+en relación con el objeto de su protección.
+v. Efectuar la protección del almacenamiento, recuento,
+clasificación y transporte de dinero, valores y objetos valiosos.
+vi. Llevar a cabo, en relación con el funcionamiento de las centrales
+de alarma, la prestación de servicios de respuesta de alarmas.
+d. En la estipulación SEGUNDA consta, entre otros aspectos “HOSPITAL
+MONCLOA no se responsabilizará de las acciones que pudieran
+cometer empleados de VINSA en el desempeño de su trabajo.”
+Se aporta copia de “CONTRATO DE ARRENDAMIENTO DE SERVICIOS DE
+SEGURIDAD” entre HOSPITAL MONCLOA y VIGILANCIA INTEGRADA, S.A.
+fechado a 1 de junio de 2010 y firmado donde consta que:
+“El presente contrato tendrá por objeto la prestación por parte de VIGILANCIA
+INTEGRADA, S.A. de un servicio de instalación de los sistemas de intrusión,
+C.C.T.V. (Circuito Cerrado de T.V.) y control de accesos, así como su
+mantenimiento.
+El presente contrato incluye el servicio de custodia de llaves y respuesta a las
+alarmas cuya realización no sea competencia de los Cuerpos y Fuerzas de
+Seguridad del Estado”.
+3. Que se acompaña contrato con la empresa ASUMAN SERVICIOS Y
+MANTENIMIENTOS, S.A. durante el periodo temporal en el que ocurrieron los
+hechos que se investigan.
+Se aporta “CONTRATO DE SERVICIO DE LIMPIEZA DE MANTENIMIENTO”
+fechado a 1 de enero de 2014 y firmado, en el que consta en su apartado de
+“CONDICIONES PARTICULARES” que:
+“OCTAVA: PROTECCIÓN DE DATOS DE CARÁCTER PERSONAL.
+Ambas partes asumen las obligaciones que les corresponden de acuerdo con
+la legislación vigente en materia de protección de datos de carácter personal.
+Concretamente, de conformidad con Io dispuesto en la Ley Orgánica 15/1999,
+de 13 de diciembre, de Protección de Datos de Carácter Personal, ASUMAN
+únicamente tratará los datos de carácter personal a los que, con motivo de la
+prestación del servicio pudiera tener acceso, conforme a las instrucciones de
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/17
+
+HOSPITAL MONCLOA, y no los aplicará o utilizará con fin distinto al del
+presente contrato, ni los comunicará, ni siquiera para su conservación, a otras
+personas.
+ASUMAN se obliga a cumplir y a hacer cumplir a sus empleados y, en su caso,
+subcontratistas, los deberes de confidencialidad y secreto respecto de los
+datos a los que pudieran tener acceso como consecuencia de la prestación del
+servicio objeto de este contrato, restringiendo dicho acceso a aquellos datos
+que sean absolutamente imprescindibles para el cumplimiento del mismo.
+En el caso de que ASUMAN o cualquiera de sus empleados o contratistas
+destine los datos a otra finalidad, los comunique o los utilice incumpliendo las
+estipulaciones de este contrato, será responsable de las infracciones
+cometidas, asumiendo la obligación de indemnizar por los daños y perjuicios
+causados.”
+4. Que a la pregunta de que acredite la información facilitada y recibida por los
+trabajadores sobre el sistema de videovigilancia en el año 2018 y en la
+actualidad, incluida la información a los trabajadores de empresas externas
+responde exclusivamente que “Se acompaña como Documento nº5, copia del
+cartel de videovigilancia que HOSPITAL MONCLOA pone a disposición de
+todos los interesados cuya imagen pueda ser captada por el campo de visión
+de las cámaras de videovigilancia del hospital.”
+Aporta copia del cartel informativo donde consta:
+
+
+La identificación y dirección postal del responsable del tratamiento.
+
+
+
+La finalidad siendo ésta “Garantizar la seguridad de las instalaciones”.
+
+
+
+Base legitimadora.
+
+
+
+Cesiones.
+
+
+
+Conservación de los datos.
+
+
+
+Derechos.
+FUNDAMENTOS DE DERECHO
+I
+
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+Los hechos denunciados se resumen en que la empresa ASUMAN (que
+prestaba servicios de limpieza en el Hospital Moncloa) ha sancionado a una
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+11/17
+
+trabajadora, Doña A.A.A., alegando que se dedica a dormir en los días y horarios que
+se especifican por escrito, y que lo confirma la empresa con las grabaciones de las
+cámaras.
+De lo cual los reclamantes deducen que la empresa encargada de la
+visualización de las imágenes en el momento de producirse los hechos que motivan el
+despido, ILUNION SEGURIDAD, S.A., usa la visualización de las imágenes para el
+control de los trabajadores en sus tareas laborales, cediendo las imágenes al resto de
+empresas que prestan servicio en el hospital y a la dirección del hospital, para
+sancionar a los trabajadores.
+Por último, añaden que los trabajadores desconocen que están siendo
+grabados y no dan su consentimiento para ello siendo vulnerado su derecho a la
+intimidad.
+En primer lugar, de la documentación aportada por las tres entidades contra las
+que se dirige la reclamación, se constata que el responsable del sistema de video
+vigilancia es el Hospital Moncloa, que a su vez ha contratado la prestación del servicio
+con diferentes empresas. En el momento de producirse los hechos (agosto y
+septiembre de 2018), la empresa encargada de la videovigilancia en el Hospital
+Moncloa era Ilunión, y el responsable, el propio Hospital.
+Por otra parte, Hospital Moncloa es responsable de la limpieza del mismo, para
+lo cual ha contratado el servicio de limpieza con la entidad ASUMAN, empresa a la que
+pertenece la persona expedientada.
+En el momento de producirse los hechos, era de plena aplicación el RGPD. En
+este sentido, el responsable de la seguridad en el Hospital y de la limpieza en el
+mismo, es Hospital Moncloa.
+No es un hecho objeto de controversia que las cámaras instaladas en el
+Hospital Moncloa tienen como finalidad garantizar la seguridad de las personas,
+bienes e instalaciones.
+Señalan en la reclamación que los trabajadores no han dado su consentimiento
+para que se usen las imágenes obtenidas por el sistema de videovigilancia para el
+control laboral.
+En este sentido, el artículo 6 del RGPD, señala las causas que legitiman el
+tratamiento de los datos personales, y que son las siguientes:
+“1. El tratamiento solo será lícito si se cumple al menos una de las siguientes
+condiciones:
+a) el interesado dio su consentimiento para el tratamiento de sus datos
+personales para uno o varios fines específicos;
+b) el tratamiento es necesario para la ejecución de un contrato en el que el
+interesado es parte o para la aplicación a petición de este de medidas
+precontractuales;
+c) el tratamiento es necesario para el cumplimiento de una obligación legal
+aplicable al responsable del tratamiento;
+d) el tratamiento es necesario para proteger intereses vitales del interesado o
+de otra persona física;
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+12/17
+
+e) el tratamiento es necesario para el cumplimiento de una misión realizada en
+interés público o en el ejercicio de poderes públicos conferidos al responsable del
+tratamiento;
+f) el tratamiento es necesario para la satisfacción de intereses legítimos
+perseguidos por el responsable del tratamiento o por un tercero, siempre que sobre
+dichos intereses no prevalezcan los intereses o los derechos y libertades
+fundamentales del interesado que requieran la protección de datos personales, en
+particular cuando el interesado sea un niño.
+Lo dispuesto en la letra f) del párrafo primero no será de aplicación al
+tratamiento realizado por las autoridades públicas en el ejercicio de sus funciones.”
+En el ámbito laboral, la base legitimadora se encuentra en el apartado 1.b del
+artículo 6 del RGPD reseñado. Por tanto, para que el empleador trate los datos
+personales de los trabajadores no necesita de su consentimiento.
+El artículo 20.3 del texto refundido de la Ley del estatuto de los trabajadores
+expresamente faculta al empresario a adoptar medidas de vigilancia y control para
+verificar el cumplimiento por los trabajadores de sus obligaciones laborales,
+determinando que: “El empresario podrá adoptar las medidas que estime más
+oportunas de vigilancia y control para verificar el cumplimiento por el trabajador de sus
+obligaciones y deberes laborales, guardando en su adopción y aplicación la
+consideración debida a su dignidad y teniendo en cuenta, en su caso, la capacidad
+real de los trabajadores con discapacidad”
+III
+Todos los aspectos jurídicos a tener en consideración para la resolución de
+esta reclamación, han sido recogidos en la Sentencia 39/2016, de 3 de marzo, del
+Tribunal Constitucional en la que se señala lo siguiente:
+“En el ámbito laboral el consentimiento del trabajador pasa, por tanto, como
+regla general a un segundo plano pues el consentimiento se entiende implícito en la
+relación negocial, siempre que el tratamiento de datos de carácter personal sea
+necesario para el mantenimiento y el cumplimiento del contrato firmado por las
+partes…
+La dispensa del consentimiento se refiere, así, a los datos necesarios para el
+mantenimiento y cumplimiento de la relación laboral, lo que abarca, sin duda, las
+obligaciones derivadas del contrato de trabajo. Por ello un tratamiento de datos
+dirigido al control de la relación laboral debe entenderse amparado por la excepción
+citada, pues está dirigido al cumplimiento de la misma. Por el contrario, el
+consentimiento de los trabajadores afectados sí será necesario cuando el tratamiento
+de datos se utilice con finalidad ajena al cumplimiento del contrato.
+Ahora bien, aunque no sea necesario el consentimiento en los casos
+señalados, el deber de información sigue existiendo, pues este deber permite al
+afectado ejercer los derechos de acceso, rectificación, cancelación y oposición y
+conocer la dirección del responsable del tratamiento o, en su caso, del representante.
+(…)
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+13/17
+
+La no exigencia de consentimiento en determinados supuestos tiene también
+repercusión en otro de los principios de la protección de datos, el denominado por el
+art. 4 LOPD, calidad de los datos. El art. 4.1 LOPD establece que «los datos de carácter personal sólo se podrán recoger para su tratamiento, así como someterlos a dicho
+tratamiento, cuando sean adecuados, pertinentes y no excesivos en relación con el
+ámbito y las finalidades determinadas, explícitas y legítimas para las que se hayan obtenido». Debe existir, así, una relación directa entre la finalidad que justifica el fichero y
+los datos personales que se recaban y que afectan a los derechos de las personas.
+Además, de conformidad con el apartado 2 del citado art. 4 LOPD, «los datos de carácter personal objeto de tratamiento no podrán usarse para finalidades incompatibles
+con aquellas para las que los datos hubieran sido recogidos». La utilización de un fichero para finalidades incompatibles representa una vulneración del principio de calidad, así como del principio de consentimiento e información. (…)
+En todo caso, el incumplimiento del deber de requerir el consentimiento del
+afectado para el tratamiento de datos o del deber de información previa sólo supondrá
+una vulneración del derecho fundamental a la protección de datos tras una ponderación de la proporcionalidad de la medida adoptada. (…)
+4. Aplicando la doctrina expuesta al tratamiento de datos obtenidos por la instalación de cámaras de videovigilancia en el lugar de trabajo, que es el problema planteado en el presente recurso de amparo, debemos concluir que el empresario no necesita el consentimiento expreso del trabajador para el tratamiento de las imágenes
+que han sido obtenidas a través de las cámaras instaladas en la empresa con la finalidad de seguridad o control laboral, ya que se trata de una medida dirigida a controlar
+el cumplimiento de la relación laboral y es conforme con el art. 20.3 del texto refundido
+de la Ley del estatuto de los trabajadores, que establece que «el empresario podrá
+adoptar las medidas que estime más oportunas de vigilancia y control para verificar el
+cumplimiento por el trabajador de sus obligaciones y deberes laborales, guardando en
+su adopción y aplicación la consideración debida a su dignidad humana». Si la dispensa del consentimiento prevista en el art. 6 LOPD se refiere a los datos necesarios para
+el mantenimiento y el cumplimiento de la relación laboral, la excepción abarca sin
+duda el tratamiento de datos personales obtenidos por el empresario para velar por el
+cumplimiento de las obligaciones derivadas del contrato de trabajo. El consentimiento
+se entiende implícito en la propia aceptación del contrato que implica reconocimiento
+del poder de dirección del empresario.
+En definitiva, la exigencia de finalidad legítima en el tratamiento de datos prevista en el art. 4.1 LOPD viene dada, en el ámbito de la videovigilancia laboral, por las
+facultades de control empresarial que reconoce el art. 20.3 del texto refundido de la
+Ley del estatuto de los trabajadores, siempre que esas facultades se ejerzan dentro de
+su ámbito legal y no lesionen los derechos fundamentales del trabajador.
+Por ello, como hemos señalado, aunque no se requiere el consentimiento expreso de los trabajadores para adoptar esta medida de vigilancia que implica el tratamiento de datos, persiste el deber de información del art. 5 LOPD. Sin perjuicio de las
+eventuales sanciones legales que pudieran derivar, para que el incumplimiento de este
+deber por parte del empresario implique una vulneración del art. 18.4 CE exige valorar
+la observancia o no del principio de proporcionalidad. Debe ponderarse así el derecho
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+14/17
+
+a la protección de datos y las eventuales limitaciones al mismo justificadas en el cumplimiento de las obligaciones laborales y las correlativas facultades empresariales de
+vigilancia y control reconocidas en el art. 20.3 del texto refundido de la Ley del estatuto
+de los trabajadores, en conexión con los arts. 33 y 38 CE. En efecto, la relevancia
+constitucional de la ausencia o deficiencia de información en los supuestos de videovigilancia laboral exige la consiguiente ponderación en cada caso de los derechos y
+bienes constitucionales en conflicto; a saber, por un lado, el derecho a la protección de
+datos del trabajador y, por otro, el poder de dirección empresarial imprescindible para
+la buena marcha de la organización productiva, que es reflejo de los derechos constitucionales reconocidos en los arts. 33 y 38 CE y que, como se ha visto, en lo que ahora interesa se concreta en la previsión legal ex art. 20.3 del texto refundido de la Ley
+del estatuto de los trabajadores que expresamente faculta al empresario a adoptar
+medidas de vigilancia y control para verificar el cumplimiento por los trabajadores de
+sus obligaciones laborales (SSTC 186/2000, de 10 de julio, FJ 5, y 170/2013, de 7 de
+octubre, FJ 3). Esta facultad general de control prevista en la ley legitima el control
+empresarial del cumplimiento por los trabajadores de sus tareas profesionales (STC
+170/2013, de 7 de octubre, y STEDH de 12 de enero de 2016, caso Barbulescu v. Rumania), sin perjuicio de que serán las circunstancias de cada caso las que finalmente
+determinen si dicha fiscalización llevada a cabo por la empresa ha generado o no la
+vulneración del derecho fundamental en juego.
+Pues bien, centrándonos ya en el presente caso, la recurrente en amparo considera vulnerado el art. 18.4 CE porque no había sido informada previamente de la instalación de cámaras de videovigilancia en el puesto de trabajo. Como señala la Sentencia
+recurrida, las cámaras de videovigilancia instaladas en la tienda donde prestaba sus
+servicios la recurrente en amparo captaron su imagen apropiándose de dinero y realizando, para ocultar dicha apropiación, operaciones falsas de devoluciones de venta
+de prendas. Ante estos hechos la trabajadora fue despedida.
+Según consta en los hechos probados de las resoluciones recurridas, la cámara
+estaba situada en el lugar donde se desarrollaba la prestación laboral, enfocando directamente a la caja, y en el escaparate del establecimiento, en un lugar visible, se colocó el distintivo informativo exigido por la instrucción 1/2006, de 8 de noviembre, de la
+Agencia Española de Protección de Datos, sobre el tratamiento de datos personales
+con fines de vigilancia a través de sistemas de cámaras o videocámaras. La necesidad de adecuar la videovigilancia a las exigencias del derecho fundamental a la protección de datos ha llevado a la Agencia Española de Protección de Datos, en ejercicio de la competencia que le atribuye el art. 37.1 c) de la Ley Orgánica 15/1999, de 13
+de diciembre, de protección de datos de carácter personal, a dictar la citada instrucción para adecuar los tratamientos de imágenes con fines de vigilancia a los principios
+de dicha Ley Orgánica y garantizar los derechos de las personas cuyas imágenes son
+tratadas por medio de tales procedimientos. Esta instrucción, en su artículo 3, exige a
+los responsables que cuenten con sistemas de videovigilancia cumplir con el deber de
+información previsto en el art. 5 de la Ley Orgánica 15/1999, y a tal fin deberán «colocar, en las zonas videovigiladas, al menos un distintivo informativo ubicado en lugar
+suficientemente visible, tanto en espacios abiertos como cerrados» y «tener a disposición de los/las interesados impresos en los que se detalle la información prevista en el
+art. 5.1 de la Ley Orgánica 15/1999». El contenido y el diseño del distintivo informativo
+se ajustará a lo previsto en el anexo de esta instrucción, según el cual, el distintivo deberá incluir una referencia a la Ley Orgánica 15/1999, de protección de datos, una
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+15/17
+
+mención a la finalidad para la se tratan los datos («zona videovigilada») y una mención
+expresa a la identificación del responsable ante quien puedan ejercitarse los derechos
+a los que se refieren los arts. 15 y siguientes de la Ley Orgánica 15/1999.
+Como hemos señalado, en cumplimiento de esta obligación, la empresa colocó el
+correspondiente distintivo en el escaparate de la tienda donde prestaba sus servicios
+la recurrente en amparo, por lo que ésta podía conocer la existencia de las cámaras y
+la finalidad para la que habían sido instaladas. Se ha cumplido en este caso con la
+obligación de información previa pues basta a estos efectos con el cumplimiento de
+los requisitos específicos de información a través del distintivo, de acuerdo con la instrucción 1/2006. El trabajador conocía que en la empresa se había instalado un sistema de control por videovigilancia, sin que haya que especificar, más allá de la mera vigilancia, la finalidad exacta que se le ha asignado a ese control. Lo importante será
+determinar si el dato obtenido se ha utilizado para la finalidad de control de la relación
+laboral o para una finalidad ajena al cumplimiento del contrato, porque sólo si la finalidad del tratamiento de datos no guarda relación directa con el mantenimiento, desarrollo o control de la relación contractual el empresario estaría obligado a solicitar el
+consentimiento de los trabajadores afectados.
+En este caso, el sistema de videovigilancia captó la apropiación de efectivo de la
+caja de la tienda por parte de la recurrente que por este motivo fue despedida disciplinariamente. Por tanto, el dato recogido fue utilizado para el control de la relación laboral. No hay que olvidar que las cámaras fueron instaladas por la empresa ante las sospechas de que algún trabajador de la tienda se estaba apropiando de dinero de la
+caja.
+En consecuencia, teniendo la trabajadora información previa de la instalación de
+las cámaras de videovigilancia a través del correspondiente distintivo informativo, y
+habiendo sido tratadas las imágenes captadas para el control de la relación laboral, no
+puede entenderse vulnerado el art. 18.4 CE. Por ello, el control que debe realizar este
+Tribunal de las resoluciones judiciales recurridas en amparo ha de recaer, precisamente en enjuiciar si, como exige la doctrina reiterada de este Tribunal, el órgano jurisdiccional ha ponderado adecuadamente que la instalación y empleo de medios de captación y grabación de imágenes por la empresa ha respetado el derecho a la intimidad
+personal de la solicitante de amparo, de conformidad, nuevamente, con las exigencias
+del principio de proporcionalidad (SSTC 186/2000, de 10 de julio, FJ 6, y 98/2000, de
+10 de abril, FJ 8). (…)
+En efecto, de conformidad con la doctrina de este Tribunal, la constitucionalidad de
+cualquier medida restrictiva de derechos fundamentales viene determinada por la estricta observancia del principio de proporcionalidad. A los efectos que aquí importan,
+basta con recordar que para comprobar si una medida restrictiva de un derecho fundamental supera el juicio de proporcionalidad, es necesario constatar si cumple los tres
+requisitos o condiciones siguientes: si tal medida es susceptible de conseguir el objetivo propuesto (juicio de idoneidad); si, además, es necesaria, en el sentido de que no
+exista otra medida más moderada para la consecución de tal propósito con igual eficacia (juicio de necesidad); y, finalmente, si la misma es ponderada o equilibrada, por derivarse de ella más beneficios o ventajas para el interés general que perjuicios sobre
+otros bienes o valores en conflicto (juicio de proporcionalidad en sentido estricto)
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+16/17
+
+[SSTC 66/1995, de 8 de mayo, FJ 5; 55/1996, de 28 de marzo, FFJJ 6, 7, 8 y 9;
+207/1996, de 16 de diciembre, FJ 4 e), y 37/1998, de 17 de febrero, FJ 8]
+Del razonamiento contenido en las Sentencias recurridas se desprende que, en el
+caso que nos ocupa, la medida de instalación de cámaras de seguridad que controlaban la zona de caja donde la demandante de amparo desempeñaba su actividad laboral era una medida justificada (ya que existían razonables sospechas de que alguno
+de los trabajadores que prestaban servicios en dicha caja se estaba apropiando de dinero); idónea para la finalidad pretendida por la empresa (verificar si algunos de los
+trabajadores cometía efectivamente las irregularidades sospechadas y en tal caso
+adoptar las medidas disciplinarias correspondientes); necesaria (ya que la grabación
+serviría de prueba de tales irregularidades); y equilibrada (pues la grabación de imágenes se limitó a la zona de la caja), por lo que debe descartarse que se haya producido
+lesión alguna del derecho a la intimidad personal consagrado en el art. 18.1 CE.”
+
+Hospital Moncloa tenía carteles informativos de que el Hospital era una zona
+videovigilada, que fueron actualizados al nuevo RGPD en el año 2019.
+Sobre la necesidad del consentimiento de los trabajadores para la legitimación
+del tratamiento de los datos obtenidos de las cámaras de videovigilancia, lo importante
+es determinar si el dato obtenido se ha usado para el control laboral,
+independientemente de la finalidad del sistema de videovigilancia. Si se ha obtenido
+para el control laboral, la base legitimadora no es el consentimiento, sino la relación
+laboral (artículo 6.1.b) del RGPD). En el supuesto objeto de la reclamación, el
+tratamiento de los datos de las trabajadoras era demostrar el incumplimiento de sus
+obligaciones durante su jornada laboral; por lo que no era preciso su consentimiento.
+En cuanto a la proporcionalidad de la medida, se trató de una medida
+justificada (existían sospechas de que durante la jornada laboral dormían en vez de
+trabajar); idónea (verificar por parte del empleador si los hechos eran ciertos y, en su
+caso, adoptar las medidas disciplinarias correspondientes); necesaria (para probar los
+hechos), y equilibrada (solo se graba el pasillo, no la habitación donde se echan a
+descansar).
+Tras las actuaciones practicadas no se ha acreditado que Clínica Moncloa
+enviase las imágenes a ASUMAN, sino que el Hospital comunicó, de manera verbal, la
+incidencia relativa a la situación ocurrida con respecto a determinantes
+comportamientos de la denunciante. Que el documento que se facilitó a ASUMAN fue
+una copia del parte de incidencias elaborado por el trabajador de la empresa ILUNION
+SEGURIDAD S.A., no las grabaciones, siendo usado por el empleador de la
+trabajadora del servicio de limpieza. La confirmación de las grabaciones estaba en el
+parte de incidencias que el Hospital envió a la empresa de limpieza para obligarla al
+cumplimiento del contrato de limpieza, cuyo responsable último es el Hospital.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+17/17
+
+Por lo tanto, en las actuaciones investigadas y realizadas por las tres entidades
+contra las que se dirigió la reclamación, no se aprecia incumplimiento de la normativa
+de protección de datos.
+De acuerdo con lo señalado, por la Directora de la Agencia Española de
+Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución al reclamante y reclamados.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

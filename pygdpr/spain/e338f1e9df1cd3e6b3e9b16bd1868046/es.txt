@@ -1,0 +1,227 @@
+1/5
+
+
+
+Procedimiento Nº: E/01158/2020
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: Las actuaciones de inspección se inician por la recepción de un escrito de
+notificación de brecha de seguridad de los datos personales remitido por la
+Vicesecretaria General de la Consellería de Educación, Universidade e Formación
+Profesional de la XUNTA DE GALICIA (en adelante VSGT), en el que informan a la
+Agencia Española de Protección de Datos del extravío de un dispositivo de
+almacenamiento USB que contenía imágenes del alumnado de un CEIP.
+SEGUNDO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la notificación, teniendo conocimiento de los siguientes extremos:
+ANTECEDENTES
+Fecha de notificación de la brecha de seguridad de los datos personales: 29/01/2020.
+ENTIDADES INVESTIGADAS
+Secretaría General Técnica de la Consellería de la Xunta de Galicia, con NIF
+S1511001H y con domicilio en Edificios Administrativos - San Caetano s/n, 15781
+Santiago de Compostela, A Coruña.
+RESULTADO DE LAS ACTUACIONES DE INVESTIGACIÓN
+Con fecha 18 de febrero de 2020 se solicitó información por la Inspección de Datos a
+la VSGT, y de la respuesta recibida se desprende lo siguiente:
+Respecto de la cronología de los hechos
+El 14 de enero de 2020, la directora de un Centro de Educación Infantil y Primaria (en
+adelante CEIP), adscrito a la Consellería de Educación de la Xunta de Galicia, detectó
+la ausencia de una pequeña bolsa azul personal en la que habitualmente trasladaba
+documentación del centro y una cámara de fotos que contenía imágenes del alumnado
+del centro. La propia directora ha explicado que en un primer momento la buscó en
+todas las localizaciones en las que le pareció factible que pudiera estar, pensando que
+la bolsa aparecería.
+El 22 de enero de 2020, después de revisar tanto su domicilio como su despacho en el
+centro educativo decidió interponer una denuncia de extravío o sustracción de la bolsa
+ante la comisaría de policía. Dicha denuncia quedó reflejada en el atestado 395/2020.
+El 23 de enero de 2020, la directora del centro educativo llamó al departamento de
+objetos perdidos en donde le confirmaron que no había aparecido una bolsa de esas
+características.
+El 25 de enero de 2020, la directora del centro comunicó por correo electrónico la
+incidencia a la VSGT.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/5
+
+El 28 de enero de 2020 la VSGT recabó información adicional sobre la brecha de
+seguridad.
+El 29 de enero de 2020 la brecha de seguridad fue notificada a la Agencia Española de
+Protección de Datos (AEPD)
+Respecto al número y tipología de los datos afectados
+Los datos personales que se pueden ver afectados son las imágenes del alumnado del
+CEIP o incluso del profesorado contenidas en la cámara de fotos y en un dispositivo
+de almacenamiento USB extraviado.
+En concreto, la propia directora indica que se trata en todo caso de fotografías propias
+y también del alumnado que contaban, estas últimas, con la correspondiente
+autorización para el tratamiento de dichas imágenes, incluida la publicación en la
+página web del centro educativo y que, de hecho, figuraban ya publicadas en la página
+web con la base legitimadora del consentimiento de las personas afectadas.
+La directora del CEIP indica que el número de personas afectadas puede ser
+aproximadamente de 250, mayoritariamente alumnado del centro, aunque también
+puede existir alguna imagen de profesorado o de actividades organizadas por el propio
+centro.
+Respecto a las acciones tomadas con objeto de minimizar los efectos adversos
+En primer lugar, intentó localizar la bolsa en el centro educativo, en su casa y en el
+maletero de su coche. En este sentido es importante señalar que la directora del CEIP
+afirma que normalmente no transporta dicha bolsa por la calle, sino que únicamente la
+transporta de su casa al centro educativo en el maletero del coche.
+En segundo lugar, consultó con el personal del centro, por si se le había caído en el
+traslado desde el coche hasta su despacho en el centro educativo.
+Se interpuso denuncia policial el 22 de enero de 2020.
+Se consultó en el departamento de objetos perdidos si había aparecido la bolsa el día
+23 de enero de 2020.
+En lo que respecta a la comunicación a las personas afectadas, no se consideró
+necesario realizarla. La VSGT realizó un análisis del riesgo siguiendo los parámetros
+indicados en la Guía para la Gestión y Notificación de Brechas de Seguridad publicada
+en el sitio web de la AEDP, y el resultado obtenido de dicha valoración fue un valor
+cuantitativo del riesgo mucho más bajo del umbral a partir del cual se ejemplifica en la
+propia Guía que no es aconsejable proceder a la notificación a los posibles afectados.
+Respecto al uso de datos por terceros
+La Conselleria no tiene constancia de la utilización por terceros de los datos
+personales objeto de brecha de seguridad.
+En relación con los datos objeto de la brecha de seguridad, se trata en todo caso de
+imágenes de alumnado que ha firmado la correspondiente autorización previa y
+expresa para el uso de las imágenes incluida su publicación en la página web del
+centro educativo y que, de hecho, figuraban ya publicadas en dicha página web con la
+base legitimadora del consentimiento de las personas afectadas.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/5
+
+Respecto de las medidas de seguridad implantadas con anterioridad la brecha
+La VCGT está abordando actualmente un proyecto global de adecuación a la
+normativa de protección de datos, que implica un análisis de los tratamientos que se
+están llevando a cabo en el ámbito de sus competencias, con la finalidad de elaborar
+un registro de actividades de tratamiento más pormenorizado y completo que el
+actualmente publicado, y que culminará con la realización de las evaluaciones de
+impacto de aquellos tratamientos en los que así proceda.
+El estado actual del proyecto es el de estudio y análisis de las informaciones obtenidas
+en la fase de toma de datos de los distintos tratamientos pormenorizados, para
+proceder a la determinación de aquellos en los que debe realizarse dicha evaluación.
+Finalmente, debe indicarse que en la Xunta de Galicia se está trabajando en la
+aprobación de una Guía de actuación para los delegados de protección de datos
+respecto a las brechas de seguridad de datos personales, a fin de protocolizar a nivel
+interno las actuaciones y pasos a seguir en dichas situaciones.
+Así mismo, se pone a disposición de la AEPD el enlace a la publicación de la política
+de seguridad de datos personales de los que es responsable la Xunta de Galicia:
+<https://www.xunta.gal/dog/Publicados/2018/20180514/AnuncioG0177-040518-0001
+es.html>
+Se ha verificado por la Inspección de Datos que el enlace contiene la “RESOLUCIÓN
+de 4 de mayo de 2018 por la que se le dé la publicidad a la modificación de la política
+de seguridad de la información de la Administración general y del sector público
+autonómico de Galicia.”
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+En el presente caso, consta que con anterioridad a la brecha de seguridad se tenían
+implantadas medidas de seguridad razonables en función de los posibles riesgos
+estimados, según consta en la política de privacidad publicada por la Xunta de Galicia
+y que en la actualidad se encuentra en proceso de revisión.
+Cabe señalar que, en el presente caso, los datos extraviados por la directora del CEIP
+se refieren a fotografías propias, de los alumnos y algunos profesores del CEIP con la
+finalidad de ser tratadas para su publicación en la web del CEIP. A tal efecto, se
+recabaron los perceptivos consentimientos de los interesados y posteriormente se
+procedió a la publicación en el sitio web del centro.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/5
+
+En consecuencia, la brecha de seguridad se refiere a la pérdida de los dispositivos en
+los que se encontraban los originales de las fotografías (cámara de fotos y copia en
+dispositivo USB) no causando de forma directa pérdida de confidencialidad, integridad
+o disponibilidad de los datos, si bien permitiría, en su caso, a terceros ajenos realizar
+tratamientos indebidos. No obstante, no consta que se hayan realizado dichos
+tratamientos.
+Consta que con carácter previo disponían de Política de seguridad y que en la
+actualidad se encuentra en proceso de revisión.
+Añade la VCGT que la nueva política de seguridad aborda planes de formación
+específica en materia de protección de datos a través de la elaboración de una Guía
+de actuación para los delegados de protección de datos respecto a las brechas de
+seguridad de datos personales, a fin de protocolizar a nivel interno las actuaciones y
+pasos a seguir en situaciones similares.
+En cuanto a las medidas adoptadas para minimizar el impacto del incidente, cabe
+señalar que se procedió a denunciar los hechos ante la policía y a comprobar la
+inexistencia de tratamientos ulteriores por terceros.
+En consecuencia, acaecido el riesgo de desaparición/pérdida/robo del soporte original
+de las fotografías del alumnado ya publicadas en la web del CEIP, en lo sucesivo
+deberá contemplarse en futuras evaluaciones riesgos similares y establecer las
+medidas de seguridad adecuadas y razonables para evitar la repetición de los hechos.
+Por último, no consta hasta la fecha que los datos personales contenidos en los
+soportes extraviados hayan sido objeto de tratamiento posterior y no constan
+reclamaciones de los afectados ante la AEPD.
+III
+Por lo tanto, la actuación del notificante, como entidad responsable del tratamiento, ha
+sido proporcional con la normativa sobre protección de datos personales analizada en
+los párrafos anteriores, si bien se recomienda finalizar e implementar de forma efectiva
+las revisiones que en la actualidad se están llevando a cabo en la política de seguridad
+de los datos personales.
+Por último, se recomienda elaborar un Informe final sobre la trazabilidad del suceso y
+su análisis valorativo, en particular, en cuanto al impacto final. Este Informe es una
+valiosa fuente de información con la que debe alimentarse el análisis y la gestión de
+riesgos y servirá para prevenir la reiteración de una brecha de similares características
+como la analizada.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia Española de
+Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/5
+
+SEGUNDO: NOTIFICAR la presente resolución a Secretaría General Técnica de la
+Consellería de la Xunta de Galicia, con NIF S1511001H y con domicilio en Edificios
+Administrativos - San Caetano s/n, 15781 Santiago de Compostela, A Coruña.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

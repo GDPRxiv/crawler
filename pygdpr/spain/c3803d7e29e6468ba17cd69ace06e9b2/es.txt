@@ -1,0 +1,147 @@
+1/4
+
+ Procedimiento Nº: E/11307/2019
+940-0419
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: Con fecha 04/09/19, tuvo entrada en esta Agencia escrito, presentado por
+D. A.A.A. (en adelante, “el reclamante”), en el que denuncia a la entidad SEWAN
+COMUNICACIONES, S.L. con CIF.: B73619215 (en adelante “la entidad reclamada”),
+en los siguientes términos:
+“Estoy siendo acosado por llamadas telefónicas desde un teléfono fijo de Madrid a mi
+móvil durante las 24 horas del día, ese número es el ***TELÉFONO.1 que
+corresponde a Sewan comunicación, SL, según Comisión Nacional de los Mercados y
+la Competencia.
+He ido a la policía de ***LOCALIDAD.1 con la intención de
+denunciar, pero dicen que eso no es delito. He hablado con Vodafone, mi servidor, en
+dos sitios, me dicen que no puede hacer. Por Internet pase un informe a la policía
+nacional, rellenando un modelo. Hoy 15 he dirigido un escrito parecido a este a la
+Oficina a del Consumidor de Telecomunicaciones, del Ministerio apropiado. He
+enviado un informe también a la OCU, consciente de que no pueden ayudarme. He
+dirigido un escrito a un Partido, al Congreso de los Diputados. Salvo la OCU. nadie ha
+contestado”.
+SEGUNDO: De conformidad con el artículo 65.4 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales que
+ha previsto un mecanismo, previo a la admisión a trámite de las reclamaciones que se
+formulen ante la Agencia Española de Protección de Datos, consistente en trasladarlas
+a los Delegados de Protección de Datos designados por los responsables o encargados del tratamiento, o a éstos cuando no los hubieren designado, con fecha 30/09/19
+se dio traslado de la reclamación presentada a la entidad reclamada para que procediese a su análisis y diera respuesta al reclamante y a esta Agencia.
+TERCERO: Con fecha 21/10/19, la entidad reclamada, remite a esta Agencia, escrito
+de contestación a la reclamación indicada en el punto “primero”, indicando, entre otras,
+que:
+“Si bien el denunciante informa de una serie de llamadas telefónicas (hasta 100 al día)
+no consentidas desde el número ***TELÉFONO.1 a su número móvil
+***TELÉFONO.2, es necesario indicar que SEWAN TELECOMUNICACIONES SL no
+es la usuaria de dicho número de teléfono geográfico, SEWAN es una operadora de
+telecomunicaciones. que suministra servicios telefónicos a clientes, usuarios finales y
+revendedores.
+Que el número ***TELÉFONO.1 es un recurso público que debe ser solicitado por una
+operadora para suministrar dichos números a clientes finales como servicio de
+telefonía, en este caso SEWAN es la operadora titular del número ***TELÉFONO.1 (el
+cual se le adjudicó en un rango de 10.000 números de teléfono pertenecientes a
+Madrid tras la solicitud de dicho rango al organismo público competente, hoy la
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/4
+
+CNMC), pero SEYVAN no es la usuaria final del mismo: ya que como se ha
+mencionado esta compañía es una operadora cuyo objeto empresarial entre otros es
+suministrar servicio telefónicos.
+Entendemos que esta reclamación ha llegado a esta operadora por error, pues no es
+la usuaria del número de origen ni tiene conocimiento del denunciante, ni ha realizado
+las llamadas telefónicas que denuncia el reclamante. Por lo que SEXVAN es la
+operadora de teléfono titular de dicho número, no el cliente final que le da uso.
+La condición de SEWAN como operadora de telecomunicaciones, queda reflejada en
+la propia web de la Comisión Nacional de Telecomunicaciones. Por lo que, en
+respuesta a dicha reclamación y solicitud de información, debemos mencionar que
+SEWAN no tiene el uso de dicho número y no ha realizado llamada alguna al
+denunciante, de igual forma esta parte no tiene conocimiento alguno del denunciante,
+y no ha recibido escrito alguno por su parte, ni comunicado ni tiene conocimiento de
+ninguna acción en el que ejerza sus derechos recogidos en el RGPD.
+Que dicho número de teléfono objeto de la presente reclamación (***TELÉFONO.1)
+estaba asignado en la fecha en la que se producen los hechos reclamados a un
+cliente de SEWAN. Pertenece a nuestro cliente
+“IDWW Ireland Limited con Identificador Fiscal IE9712233V y dirección sita
+***DIRECCIÓN.1
+Dicho cliente es un revendedor de numeración que posee miles de números con
+nosotros y dicho número sigue asignado a DIDWW' a día de hoy.
+Esta parte no ha recibido requerimiento o comunicación alguna por parte del
+denunciante, dado que no es la responsable de los hechos denunciados y no es
+nuestro cliente, en cualquier caso todos nuestros clientes tienen una vía directa con la
+compañía tanto telemática como física para ejercer sus derechos, esto viene reflejado
+en los contratos de Sewan y en su web, ***URL.1
+Referente a lo que se indica en la reclamación relacionado con que ha dejado un
+mensaje en el contestador, suponemos que se trata del contestador del teléfono desde
+dónde se realizan las llamadas objeto de la reclamación, y recordamos que no somos
+los usuarios ni titulares de dicha numeración, sólo los suministradores del servicio, por
+lo que no recibimos mensajes del contestador del usuario del número que
+supuestamente ha realizado las llamadas”.
+CUARTO: Con fecha 27/03/19 y de conformidad con el artículo 65 de la LOPDGDD y
+a los efectos previstos en su artículo 64.2, la Directora de la Agencia Española de Protección de Datos acordó admitir a trámite la denuncia presentada por el reclamante.
+FUNDAMENTOS DE DERECHO
+I
+En virtud de los poderes que el artículo 58.2 del Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27/04/2016, relativo a la Protección de las Personas
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/4
+
+Físicas en lo que respecta al Tratamiento de Datos Personales y a la Libre Circulación
+de estos Datos (Reglamento General de Protección de Datos, en adelante RGPD) reconoce a cada Autoridad de Control y, según lo establecido en los artículos 47, 64.2 y
+68.1 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos
+Personales y Garantía de los Derechos Digitales (en lo sucesivo LOPDGDD), la Directora de la Agencia Española de Protección de Datos es competente para resolver estas actuaciones de investigación.
+II
+En el presente caso, se constata que, la entidad reclamada, como operadora de telecomunicaciones, es titular del número ***TELÉFONO.1, pero no es la usuaria final del
+mismo, pues como operadora de telecomunicaciones, suministra servicios a cliente finales y revendedores.
+El número de teléfono objeto de la presente reclamación estaba asignado en la fecha
+en la que se producen los hechos a un cliente de la entidad reclamada: “DIDWW Ireland Limited con Identificador Fiscal IE9712233V y dirección ***DIRECCIÓN.1
+Dicho cliente es un revendedor de numeración que posee miles de números con la entidad reclamada, por lo que, con fecha 17/12/19, se solicitó por parte de esta Agencia,
+colaboración de la Autoridad Irlandesa de Protección de Datos, mediante el procedimiento ***PROCEDIMIENTO.1 para que contactaran con DIDWW Ireland Limited al
+objeto de que identificaran al usuario de la línea ***TELÉFONO.1
+La Autoridad Irlandesa ha solicitado conocer el contenido de las llamadas con anterioridad a requerir información a DIDWW motivo por el que con fecha 23/03/20 se ha
+mantenido una conversación telefónica con el reclamante, el cual ha manifestado que
+en relación con las llamadas recibidas nunca llegó a establecer una conversación con
+el llamante, ya que al descolgar el teléfono nadie hablaba. Desde septiembre no ha
+vuelto a recibir ninguna llamada más.
+En el presente caso, del análisis realizado sobre la información, los documentos aportados y las circunstancias concurrentes, no se aprecian elementos que permitan apreciar una vulneración de los derechos reconocidos en el ámbito competencial de la
+Agencia Española de Protección, por lo que, de acuerdo con lo señalado, por la Directora de la Agencia Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución al reclamante D. A.A.A. y a la entidad
+reclamada SEWAN COMUNICACIONES, S.L
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado por
+el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, y de conformidad con lo establecido en los
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/4
+
+arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los interesados podrán interponer, potestativamente, recurso de reposición ante la Directora de la Agencia Española de Protección de Datos en el plazo de un mes a contar desde el día siguiente a la
+notificación de esta resolución o directamente recurso contencioso administrativo ante
+la Sala de lo Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley
+29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el
+plazo de dos meses a contar desde el día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

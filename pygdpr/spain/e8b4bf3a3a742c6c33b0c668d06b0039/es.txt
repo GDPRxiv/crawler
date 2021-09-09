@@ -1,0 +1,117 @@
+1/3
+
+
+
+Procedimiento Nº: E/08104/2019
+
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y teniendo como base los siguientes
+HECHOS
+PRIMERO: La reclamación interpuesta por A.A.A. (*en adelante, el reclamante) tiene
+entrada con fecha 20 de mayo de 2019 en la Agencia Española de Protección de
+Datos. La reclamación se dirige contra B.B.B., con NIF ***NIF.1 (en adelante, el
+reclamado).
+Los motivos en que basa la reclamación son presencia de una cámara de
+video-vigilancia que pudiera estar mal orientada hacia espacio público (folio nº 1).
+SEGUNDO. En fecha 10/06/19 se procedió al TRASLADO de la reclamación a la parte
+denunciada, para que alegara lo que en derecho estimara oportuno, contestando en
+fecha 05/07/19 y 14/08/19.
+TERCERO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+-Consta identificado como principal responsable Don B.B.B., el cual reconoce
+tener instalado un dispositivo en su terraza.
+-No consta acreditado la obtención de imágenes de espacio público.
+-No se han aportado impresiones de pantalla de lo que en su caso se capta con
+el dispositivo en cuestión.
+-Habiendo tenido en cuenta y seguido la “Guia/Ficha práctica de Videovigilancia, entiendo que este tipo de dispositivo No se le aplica la normativa de
+protección de datos”.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para resolver
+estas actuaciones de investigación la Directora de la Agencia Española de Protección
+de Datos.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/3
+
+II
+En el presente caso, se procede a examinar la reclamación de fecha por medio de la
+cual se denuncia la presencia de un dispositivo de video-vigilancia con presunta
+orientación hacia espacio público.
+Los hechos conocidos podrían ser constitutivos de una infracción, imputable al reclamado, por vulneración del art. 5.1 c) RGPD.
+“adecuados, pertinentes y limitados a lo necesario en relación con los fines
+para los que son tratados («minimización de datos»).
+En fecha 14/08/19 se recibe escrito de alegaciones del denunciado
+manifestando lo siguiente que las cámaras están instaladas en el interior de su
+vivienda, “negándose a facilitar cualquier información adicional al respecto”.
+De manera que no se ha acreditado que el dispositivo en cuestión obtenga imágenes
+desproporcionadas, más allá de la instalación en su ámbito privado.
+Las cámaras instaladas por particulares no pueden obtener imágenes de espacio público, adoptando las medidas necesarias para no intimidar con este tipo de dispositivos a vecinos (as) colindantes, limitándose a captar exclusivamente espacio privativo.
+El artículo 22 apartado 5º de la LOPDGDD dispone: “Al amparo del artículo
+2.2.c) del Reglamento (UE) 2016/679, se considera excluido de su ámbito de aplicación el tratamiento por una persona física de imágenes que solamente capten el interior de su propio domicilio”.
+Por tanto, la captación de una terraza particular o un patio interior asociado a
+una vivienda, se considera que no afecta al derecho de terceros, al ser ámbito privativo, bastando con que la cámara esté orientada hacia dicho espacio.
+La presunción de inocencia rige sin excepciones en el Ordenamiento
+sancionador y ha de ser respetada en la imposición de cualquier sanción, ya sea penal
+o administrativa (TCo 13/1981), pues el ejercicio del derecho sancionador en
+cualquiera de sus manifestaciones, está condicionado al juego de la prueba y a un
+procedimiento contradictorio en el que puedan defenderse las propia posiciones.
+Conforme a este principio, no puede imponerse sanción alguna en razón de la
+culpabilidad del imputado si no existe una actividad probatoria de cargo, que en la
+apreciación de las autoridades u órganos llamados a resolver, destruya esta
+presunción (TCo Auto 3-12-81).
+Este organismo considera que la manifestación esgrimida por el denunciado es
+suficiente, si bien con el recordatorio de que las imágenes se deben limitar a su ámbito
+privado, por ejemplo por motivos de seguridad de la vivienda particular, evitando
+cualquier tipo de “intimidación” a los vecinos que se puedan ver amenazados por el
+mismo.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/3
+
+III
+De manera que, en base a lo expuesto, no ha quedado acreditado que la cámara en
+cuestión obtenga imágenes de espacio público y/o privativo de tercero, motivo por el
+que se ordena el Archivo del presente procedimiento.
+Se recuerda que una falta de colaboración con este organismo, en caso de
+nueva denuncia sobre los mismos hechos, puede dar lugar en su caso a una incoación
+de procedimiento en los términos del artículo 73.1 letra o) LOPDGDD, pudiendo ser
+sancionado económicamente en caso de constatarse una desproporción en la
+obtención de las imágenes o en caso de inspección in situ en el domicilio del
+denunciado.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución al reclamante Don A.A.A. y reclamado
+B.B.B.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y de conformidad con lo establecido
+en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los interesados podrán interponer, potestativamente, recurso de reposición ante la Directora de la Agencia Española de Protección de Datos en el plazo de un mes a contar desde el día siguiente a la notificación de esta resolución o directamente recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional, con
+arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de la disposición adicional
+cuarta de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el día siguiente a la notificación
+de este acto, según lo previsto en el artículo 46.1 de la referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

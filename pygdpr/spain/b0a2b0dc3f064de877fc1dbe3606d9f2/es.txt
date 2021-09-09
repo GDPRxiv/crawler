@@ -1,0 +1,220 @@
+1/5
+
+
+
+Procedimiento Nº: E/03375/2020
+
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes:
+HECHOS
+PRIMERO: La reclamación interpuesta por D. A.A.A. (en adelante, el reclamante)
+tiene entrada con fecha 12 de febrero de 2020 en la Agencia Española de Protección
+de Datos. La reclamación se dirige contra Línea Llamante ***TELÉFONO.1, (en
+adelante la reclamada). Los motivos en que se basa su reclamación son que recibe
+una llamada del teléfono ***TELÉFONO.1 el 05 de febrero de 2020 a las 15:58 que
+atiende durante 5 minutos y 14 segundos. Se trata de una llamada automática, sin
+intervención humana, en la que se promociona un producto. El teléfono del reclamante
+está dado de alta en la lista Robinson y no ha dado autorización para recibir esta
+llamada.
+Y, entre otra, aporta la siguiente documentación:
+Captura de pantalla del registro de llamadas
+Captura de pantalla alta en Lista Robinson
+Fragmento locución telefónica
+SEGUNDO: De conformidad con el artículo 65.4 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+adelante LOPDGDD), con número de referencia E/02662/2020, se dio traslado de
+dicha reclamación a la parte reclamada, para que procediese a su análisis e informase
+a esta Agencia en el plazo de un mes, de las acciones llevadas a cabo para adecuarse
+a los requisitos previstos en la normativa de protección de datos.
+TERCERO: Con fecha 30 de marzo de 2020, la Directora de la Agencia Española de
+Protección de Datos acordó admitir a trámite la reclamación presentada por el
+reclamante.
+CUARTO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+1.Se comprueba en el portal web de la Comisión Nacional de los Mercados y
+la Competencia que el número reclamado está asignado a la operadora Voxbone
+S.A.
+2.El 23 de abril de este año la citada compañía informó que el número de
+teléfono citado estaba asignado al siguiente cliente corporativo:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/5
+
+Global Group Limited
+BP 303, Suite 1156, Mutsamudu, Anjouan
+***PAÍS.1
+Representada por B.B.B., ciudadano de ***PAÍS.2 y con residencia en el
+***DIRECCIÓN.1, ***PAÍS.2
+3.- Añaden que este número está actualmente suspendido debido a que este
+abonado no ha podido proporcionar detalles válidos de acuerdo con los requisitos
+establecidos por Voxbone para números geográficos en España.
+FUNDAMENTOS DE DERECHO
+I
+De conformidad con lo establecido en el artículo 84.3) de la Ley 9/2014, de 9 de
+mayo, General de Telecomunicaciones (en lo sucesivo, LGT), la competencia para
+resolver el presente Procedimiento corresponde a la Directora de la Agencia Española
+de Protección de Datos.
+II
+En el presente caso, se ha recibido en esta Agencia la reclamación presentada por
+el reclamante por una presunta vulneración de lo señalado en el artículo 17 de la LGT
+en relación con la recepción de llamadas de tipo comercial no deseadas.
+El artículo 48, Derecho a la protección de datos personales y la privacidad en
+relación con las comunicaciones no solicitadas, con los datos de tráfico y de
+localización y con las guías de abonados, establece en su apartado 1 lo siguiente:
+“1. Respecto a la protección de datos personales y la privacidad en relación con
+las comunicaciones no solicitadas los usuarios finales de los servicios de
+comunicaciones electrónicas tendrán los siguientes derechos:
+a) A no recibir llamadas automáticas sin intervención humana o mensajes de fax,
+con fines de comunicación comercial sin haber prestado su consentimiento previo e
+informado para ello.
+b) A oponerse a recibir llamadas no deseadas con fines de comunicación
+comercial que se efectúen mediante sistemas distintos de los establecidos en la letra
+anterior y a ser informado de este derecho”.
+La normativa de protección de datos pone a disposición de los afectados diversos
+mecanismos para la resolución de las cuestiones relativas al tratamiento de sus datos.
+En el presente caso, nos encontramos con comunicaciones no deseadas; con
+carácter general, si no se desea recibir llamadas comerciales de carácter promocional
+ha de dirigirse a la entidad promocionada, sea o no cliente de la misma,
+identificándose como titular de la línea telefónica en la que no desea recibir las
+llamadas y manifestada dicha oposición, sus datos no pueden ser utilizados con dicha
+finalidad.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/5
+
+Tanto el RGPD como la nueva LOPDGDD regulan el derecho de oposición. Así, de
+conformidad con lo señalado en el artículo 21 del RGPD, el responsable del
+tratamiento estará obligado a dejar de tratar los datos personales del interesado, salvo
+que acredite motivos legítimos imperiosos para el tratamiento que prevalezcan sobre
+los intereses, los derechos y las libertades del interesado, o para la formulación, el
+ejercicio o la defensa de reclamaciones. Es decir, será el responsable el que tenga la
+carga de acreditar que sus intereses prevalecen sobre los del interesado.
+En el apartado 2 del artículo 21 establece que, cuando el tratamiento de datos
+personales tenga por objeto la mercadotecnia directa, el interesado tendrá derecho a
+oponerse en todo momento al tratamiento de los datos personales que le conciernan,
+incluida la elaboración de perfiles en la medida en que esté relacionada con la citada
+mercadotecnia. En este caso, los datos personales dejarán de ser tratados para dichos
+fines.
+Y en el apartado 3 se determina que cuando el interesado se oponga al
+tratamiento de sus datos con fines de mercadotecnia directa, los datos personales
+dejarán de ser tratados para dichos fines.
+Por otra parte, la nueva LOPDGDD, su regulación se recoge en el artículo 18 y
+remite específicamente al articulado del RGPD.
+Y, a estos efectos, debe también tenerse en cuenta que la LOPDGDD en su
+artículo 23, establece en cuanto a los sistemas de exclusión publicitaria (lista
+Robinson), que será lícito el tratamiento de datos personales que tenga por objeto
+evitar el envío de comunicaciones comerciales a quien se hubiesen opuesto a
+recibirlas, de modo que se podrán conservar parte de los datos en sistemas de
+exclusión publicitaria que deberán ser previamente consultados por quienes pretendan
+realizar comunicaciones de mercadotecnia directa, para que se puedan excluir a
+aquellos afectados que manifestasen su oposición.
+III
+De conformidad con lo establecido en el artículo 55 del RGPD, la Agencia
+Española de Protección de Datos es competente para desempeñar las funciones que
+se le asignan en su artículo 57, entre ellas, la de hacer aplicar el Reglamento y
+promover la sensibilización de los responsables y los encargados del tratamiento
+acerca de las obligaciones que les incumben, así como tratar las reclamaciones
+presentadas por un interesado e investigar el motivo de estas.
+Corresponde, asimismo, a la Agencia Española de Protección de Datos ejercer
+los poderes de investigación regulados en el artículo 58.1 del RGPD, entre los que
+figura la facultad de ordenar al responsable y al encargado del tratamiento que faciliten
+cualquier información que requiera para el desempeño de sus funciones.
+Correlativamente, el artículo 31 del RGPD establece la obligación de los
+responsables y encargados del tratamiento de cooperar con la autoridad de control
+que lo solicite en el desempeño de sus funciones. Para el caso de que éstos hayan
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/5
+
+designado un delegado de protección de datos, el artículo 39 del RGPD atribuye a
+éste la función de cooperar con dicha autoridad.
+Del mismo modo, el ordenamiento jurídico interno también prevé la posibilidad
+de abrir un período de información o actuaciones previas. En este sentido, el artículo
+55 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, otorga esta facultad al órgano competente con el fin de
+conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el
+procedimiento.
+IV
+
+La LOPDGDD, en su artículo 67 indica:
+“1. Antes de la adopción del acuerdo de inicio de procedimiento, y una vez
+admitida a trámite la reclamación si la hubiese, la Agencia Española de Protección de
+Datos podrá llevar a cabo actuaciones previas de investigación a fin de lograr una
+mejor determinación de los hechos y las circunstancias que justifican la tramitación del
+procedimiento.
+La Agencia Española de Protección de Datos actuará en todo caso cuando sea
+precisa la investigación de tratamientos que implique un tráfico masivo de datos
+personales.
+2. Las actuaciones previas de investigación se someterán a lo dispuesto en la
+Sección 2.ª del Capítulo I del Título VII de esta ley orgánica y no podrán tener una
+duración superior a doce meses a contar desde la fecha del acuerdo de admisión a
+trámite o de la fecha del acuerdo por el que se decida su iniciación cuando la Agencia
+Española de Protección de Datos actúe por propia iniciativa o como consecuencia de
+la comunicación que le hubiera sido remitida por la autoridad de control de otro Estado
+miembro de la Unión Europea, conforme al artículo 64.3 de esta ley orgánica”.
+Todas las actuaciones se han realizado en cumplimiento de lo establecido
+legalmente, y con la finalidad de determinar, con la mayor precisión posible, las
+circunstancias relevantes que pudieran concurrir en el caso.
+En consecuencia, dado que en el caso que nos ocupa se observa que el
+número llamante ***TELÉFONO.1 pertenece a la compañía Voxbone y han constatado
+que el anterior número estaba asignado a nombre de una compañía ubicada en
+“***PAÍS.1”.
+A lo anterior hay que añadir, que este número está actualmente suspendido
+debido a que este abonado no ha podido proporcionar detalles válidos de acuerdo con
+los requisitos establecidos por Voxbone para números geográficos en España. De ahí
+que no se den las condiciones para iniciar un procedimiento sancionador por infracción
+de la LOPDGDD, ni continuar las actuaciones investigadoras.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/5
+
+SE ACUERDA:
+1. PROCEDER AL ARCHIVO de las presentes actuaciones.
+1. NOTIFICAR la presente resolución al reclamante.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

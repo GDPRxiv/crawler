@@ -1,0 +1,186 @@
+1/4
+
+
+
+Procedimiento Nº: E/08845/2019
+
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes:
+HECHOS
+PRIMERO: La reclamación interpuesta por D. A.A.A. (en adelante, el reclamante)
+tiene entrada con fecha 17 de mayo de 2019 en la Agencia Española de Protección de
+Datos. La reclamación se dirige contra Vodafone España, S.A.U., con NIF A80907397
+(en adelante, la reclamada).
+El reclamante manifiesta que sus datos permanecen incluidos en ficheros de
+información crediticia, con posterioridad a la anulación establecida en el Laudo Arbitral
+***LAUDO.1 dictado con fecha de 21 de abril de 2016, por la Junta Arbitral de
+Consumo del Ayuntamiento de ***LOCALIDAD.1
+Y, entre otra, aporta la siguiente documentación:
+Resolución de Laudo nº ***LAUDO.1 de 21 de abril de 2016 de la Junta Arbitral
+de Consumo del Ayuntamiento de ***LOCALIDAD.1
+Resolución de Laudo con fecha de 30 de abril de 2019 motivado por una nueva
+reclamación presentada por el reclamante por los mismos hechos tras incumplirse lo
+establecido en el primer arbitraje.
+SEGUNDO: De conformidad con el artículo 65.4 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+adelante LOPDGDD), con número de referencia E/05792/2019, se dio traslado de
+dicha reclamación al reclamado, para que procediese a su análisis e informase a esta
+Agencia en el plazo de un mes, de las acciones llevadas a cabo para adecuarse a los
+requisitos previstos en la normativa de protección de datos.
+TERCERO: Con fecha 16 de septiembre de 2019, la Directora de la Agencia Española
+de Protección de Datos acordó admitir a trámite la reclamación presentada por el
+reclamante.
+CUARTO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+Con fecha de 25 de septiembre de 2019 se recibe en esta Agencia, escrito
+remitido por la parte reclamada manifestando, entre otros aspectos, que:
+El 14 de mayo de 2019, en relación con la recepción del Laudo con fecha de 30
+de abril de 2019 y en cumplimiento de dicho Laudo, le fue enviada al reclamante una
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/4
+
+comunicación indicándole que se había procedido a anular su deuda, y se habían
+dado de baja sus datos de los ficheros de solvencia patrimonial y crédito.
+Y acompaña entre otros documentos:
+-
+
+Contestación a la Junta Arbitral de Consumo del Ayuntamiento de
+***LOCALIDAD.1 con fecha de 14 de mayo de 2019 con copia de la
+comunicación enviada al reclamante con esa misma fecha.
+
+-
+
+Factura de abono con fecha de emisión de 17 de mayo de 2019
+
+-
+
+Capturas de pantalla recogiendo la no constancia de datos del reclamante
+en el fichero de solvencia patrimonial y crédito Badexcug.
+
+Requerida información a las entidades Experian Bureau de Credito, S.A. (en
+adelante, Experian) y Equifax Ibérica, S.L. (en adelante, Equifax) sobre los registros
+del reclamante en sus ficheros de solvencia patrimonial y crédito durante el periodo de
+tiempo comprendido entre el 1/04/2016 y el 30/09/2019.
+Con fecha 9 de octubre de 2019 se recibe en esta Agencia escrito remitido por
+Equifax informando sobre lo requerido. De este escrito se desprende que no ha
+existido ningún registro a petición de la parte reclamada en el periodo especificado.
+Ahora bien, existen registros informados por otra entidad.
+Por su parte, el 10 octubre de 2019, Experian manifiesta que no consta ninguna
+inscripción a petición de la parte reclamada en el periodo detallado. No obstante,
+existen registros informados por otra entidad.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+De conformidad con lo establecido en el artículo 55 del RGPD, la Agencia
+Española de Protección de Datos es competente para desempeñar las funciones que
+se le asignan en su artículo 57, entre ellas, la de hacer aplicar el Reglamento y
+promover la sensibilización de los responsables y los encargados del tratamiento
+acerca de las obligaciones que les incumben, así como tratar las reclamaciones
+presentadas por un interesado e investigar el motivo de estas.
+Corresponde, asimismo, a la Agencia Española de Protección de Datos ejercer
+los poderes de investigación regulados en el artículo 58.1 del mismo texto legal, entre
+los que figura la facultad de ordenar al responsable y al encargado del tratamiento que
+faciliten cualquier información que requiera para el desempeño de sus funciones.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/4
+
+Correlativamente, el artículo 31 del RGPD establece la obligación de los
+responsables y encargados del tratamiento de cooperar con la autoridad de control
+que lo solicite en el desempeño de sus funciones. Para el caso de que éstos hayan
+designado un delegado de protección de datos, el artículo 39 del RGPD atribuye a
+éste la función de cooperar con dicha autoridad.
+Del mismo modo, el ordenamiento jurídico interno también prevé la posibilidad
+de abrir un período de información o actuaciones previas. En este sentido, el artículo
+55 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, otorga esta facultad al órgano competente con el fin de
+conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el
+procedimiento.
+III
+En el presente caso, se ha recibido en esta Agencia la reclamación presentada
+por el reclamante contra la parte reclamada, por una presunta vulneración del artículo
+20.1 de la LOPDGDD y de los artículos 5 y 6 del RGPD (sistemas de información
+crediticia, principios relativos al tratamiento y licitud del tratamiento).
+En concreto se reclama que sus datos permanecen incluidos en ficheros de
+información crediticia con posterioridad a la anulación establecida en el Laudo Arbitral
+10.031 dictado con fecha de 21 de abril de 2016 por la Junta Arbitral de Consumo del
+Ayuntamiento de Burgos.
+De conformidad con la normativa expuesta, con carácter previo a la admisión a
+trámite de esta reclamación, se dio traslado de la misma a la parte reclamada para que
+procediese a su análisis y diera respuesta al reclamante y a esta Agencia en el plazo
+de un mes. Asimismo, se solicitó a la reclamada copia de la comunicación remitida por
+el mismo al reclamante a propósito de la reclamación, informe sobre las causas que
+motivaron la incidencia producida y detalle de las medidas adoptadas para evitar
+situaciones similares.
+A mayor abundamiento, se acusó recibo de la reclamación presentada por el
+reclamante, informándole además de su traslado a la reclamada y del requerimiento
+hecho a éste para que en el plazo de un mes informase a esta Agencia de las
+acciones llevadas a cabo para adecuarse a los requisitos previstos en la normativa de
+protección de datos.
+Una vez analizadas las razones expuestas por el reclamado, que obran en el
+expediente, se ha constatado que el 14 de mayo de 2019, en relación con la recepción
+del Laudo con fecha de 30 de abril de 2019 y en cumplimiento de dicho Laudo, le fue
+enviada al reclamante una comunicación indicándole que se había procedido a anular
+su deuda, y se habían dado de baja sus datos de los ficheros de solvencia patrimonial
+y crédito.
+Por otro lado, se ha constatado que el reclamante no se encuentra incluido en
+ficheros de solvencia patrimonial.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/4
+
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución al reclamante y a la parte reclamada.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

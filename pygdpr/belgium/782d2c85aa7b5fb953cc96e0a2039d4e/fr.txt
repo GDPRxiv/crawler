@@ -1,0 +1,35 @@
+
+
+Sensibiliser les citoyens à l’importance de la protection des données personnelles, c’est le but de la nouvelle campagne(*) de l’Autorité de protection des données (APD). Trop peu de belges connaissent leurs droits en matière de protection des données et savent comment protéger efficacement leur vie privée. C’est ce qui ressort d’une expérience organisée par l’APD en collaboration avec Ozark Henry : plus de 1100 fans ont troqué des informations personnelles en échange de tickets gratuits pour un showcase exclusif de l’artiste. L’APD lance le site dédié www.maitrisermesdonnees.be pour mieux informer les citoyens.
+
+
+Action de sensibilisation : partager des données personnelles doit être un choix réfléchi
+Les Belges partagent-ils facilement leurs données personnelles ? L’APD a fait le test avec le soutien d’Ozark Henry.  Pour gagner l’une des 200 places d’un showcase 3D exclusif d’Ozark Henry qui a eu lieu le 5 novembre, les internautes intéressés devaient participer à un concours. Rien de plus simple, sauf que pour valider le formulaire, chaque participant devait fournir quelques données personnelles non nécessaires pour le concours: numéro de GSM, genre musical préféré ou encore le dernier concert auquel ils ont assisté. Plus de 1100 participants ont rempli le formulaire. Aucun participant n’a contacté l’organisateur pour savoir ce qu’il adviendrait de leurs données.
+Charlotte Dereppe, Directrice du Service de première ligne de l’APD : «Pourquoi un organisateur de concert aurait-il besoin de connaître votre style de musique favori ? A priori, pour établir des profils et  vous toucher vous, mais aussi d’autres, avec des messages ciblés. Sans que nous nous en rendions compte, des organisations glanent par-ci par-là des données qui leur permettent de comprendre qui nous sommes et ce que nous aimons. Sur base d’une préférence musicale et quelques autres données, ces organisations peuvent même parfois inférer notre âge ou encore nos préférences politiques : que le profil qu’ils établissent soit juste ou non, il déterminera qui recevra quel message, que ce soit au sujet d’un concert, de l’actualité politique, etc.  Il faut donc être conscient de cela pour pouvoir décider si oui ou non on veut divulguer des informations personnelles.»
+Ozark Henry, qui a participé à la campagne, explique : « Je pense qu’il est très important de conscientiser à la protection des données personnelles. Tous les jours nous partageons des données personnelles sans trop y réfléchir, or ce n’est pas toujours sans conséquences. »
+David Stevens, Président de l’APD rajoute : « Notre rôle n’est pas que d’imposer des sanctions, mais aussi de mieux informer les citoyens. Avec cette campagne, nous voulons rendre la protection des données facile et accessible. La protection de la vie privée ne doit pas être quelque chose d’excentrique, ça doit aller de soi. »
+Les informations récoltées lors du concours n’ont pas été réutilisées et ont bien entendu été détruites par l’Autorité de protection des données après que les participants aient été informés de l’action.
+Risques liés à la perte de contrôle sur les données personnelles
+L’APD recommande de toujours bien réfléchir à pourquoi une donnée personnelle est demandée, elle rappelle également que le responsable du traitement a l’obligation de vous informer du but dans lequel vos données sont collectées.
+Charlotte Dereppe explique : « Nous partageons en masse des informations sur nous sans nous demander si cela a du sens. On vous demande parfois votre sexe, votre état civil ou même votre nationalité alors que ces informations ne sont pas toujours nécessaires pour le but dans lequel elles sont récoltées. Fournir des données personnelles ne doit pas être une formalité, mais un choix réfléchi. »
+Ne pas maitriser ses données peut avoir un impact sur l’individu, mais également sur la collectivité. Celui-ci n’est cependant pas directement perceptible, et il est souvent trop tard quand nous le découvrons. Le profilage en est un parfait exemple. A grande échelle, il peut même impacter des élections et donc le fonctionnement démocratique, comme l’a montré le scandale Cambridge Analytica. L’Union européenne en a bien conscience et a émis suite à ce scandale des mesures reconnaissant l’importance de la protection des données dans le cadre des élections.
+Plus d’informations sur les risques liés à la protection des données sont disponibles ici : www.maitrisermesdonnees.be/pourquoi-est-ce-si-important.
+En pratique : Comment maitriser ses données personnelles
+Doit-on donc immédiatement arrêter de partager nos données ? Non, mais il est important de comprendre comment celles-ci sont utilisées afin de garder la maitrise sur ce que nous partageons et pouvoir faire des choix libres et informés.
+C’est pourquoi l’APD a lancé une site informatif : www.maitrisermesdonnees.be, qui explique en termes simples les droits accordés par le RGPD (Règlement Général sur la protection des données), ainsi que pourquoi et comment les exercer. 
+Charlotte Dereppe : « Selon l’eurobaromètre de l’Union Européenne (Juin 2019), 31 % des Européens ne savent pas en quoi consiste exactement le RGPD, et 32% n’en ont jamais entendu parler. Or le RGPD donne au citoyen différents outils qui lui permettent d’avoir plus de contrôle sur ses données personnelles. » 
+Voici en quelques points comment les citoyens peuvent garder le contrôle sur leurs données :
+
+Etape 1 : Comprendre les enjeux et vos droits en matière de protection des données
+	Le citoyen qui a des questions ou se demande si une situation est conforme au RGPD peut faire parvenir à l’APD une demande d’information.
+Etape 2 : Exercer ses droits auprès du responsable du traitement de vos données
+	Pour permettre au citoyen d’exercer ses droits  en matière de protection des données facilement, l’APD propose des modèles de lettre prêts à l’emploi : www.maitrisermesdonnees.be/formulaires.
+Etape 3 : Introduire une requête en médiation auprès de l’APD
+	Si un responsable du traitement ne réagit pas à un exercice de droit dans un délai d’un mois, ou si sa réponse est insatisfaisante, le citoyen peut demander une médiation auprès de l’APD, qui intervient alors auprès du responsable du traitement.
+Etape 4 : Porter plainte auprès de l’APD
+	Si la médiation n’aboutit pas, elle peut se transformer en plainte. Celle-ci peut déboucher sur des sanctions de type financier ou non financier.
+
+La procédure complète se trouve sur notre plateforme dédiée aux droits des citoyens : www.maitrisermesdonnees.be/que-faire-en-cas-dabus. 
+
+
+(*) Cette campagne est financée par le programme Droits, Egalité et Citoyenneté REC-AG-2017 de l’Union Européenne

@@ -1,0 +1,105 @@
+Onderzoek smart cities
+Update augustus 2020
+De Autoriteit Persoonsgegevens (AP) startte in het najaar van 2019 een onderzoek naar de ontwikkeling van
+smart cities. De AP brengt daarbij in kaart op welke manier gemeenten omgaan met de privacy van inwoners
+en bezoekers. Inmiddels kan de AP al wat eerste uitkomsten delen, die interessant zijn voor gemeenten. De
+AP verwacht het onderzoek na de zomer af te ronden.
+Gemeenten zoeken in toenemende mate naar datagedreven oplossingen voor bijvoorbeeld mobiliteit,
+energie, veiligheid of huisvesting. Zij verzamelen of combineren data en daarbij gaat het vaak ook om de
+verwerking van persoonsgegevens.
+Het is belangrijk dat overheidsorganisaties daarom vroegtijdig in hun processen stilstaan bij de
+grondrechten en keuzevrijheden van mensen. De digitale overheid is een van de aandachtsgebieden de
+komende jaren voor de AP. Het gebruik van data in de openbare ruimte raakt namelijk iedereen die zich
+daarin begeeft.
+
+Dit gaat iedereen aan
+Het onderzoek richt zich op gegevensverwerkingen in de openbare ruimte met sensoren en andere
+technologieën. Anna Maj Drenth, senior inspecteur bij de AP: “Je verwacht een zekere mate van
+anonimiteit als je op straat loopt, maar in werkelijkheid hangen er steeds meer camera’s en sensoren van
+gemeenten en bedrijven die je registreren of volgen, soms zonder dat je het meteen door hebt.”
+Als er bijvoorbeeld sprake is van een datalek, gaat het direct ook om persoonsgegevens van heel veel
+burgers. Dit maakt een zorgvuldige afweging over het verzamelen en gebruiken van persoonsgegevens van
+groot belang.
+Inmiddels is door een diverse groep gemeenten, verspreid in grootte en locatie, informatie aangeleverd
+voor het onderzoek. Drenth: “Op basis hiervan kunnen we spreken van eerste bevindingen die ook
+interessant zijn voor andere gemeenten. Wat opvalt is dat er een groot verschil is tussen grote en kleinere
+gemeenten: grote gemeenten zijn duidelijk al een stap verder met smart city-toepassingen en hebben vaak
+specifiek beleid of kaders opgesteld over waar deze toepassingen aan moeten voldoen. Kleinere
+gemeenten lijken nog maar weinig ‘slimme’ toepassingen in te zetten.”
+
+“Je verwacht een zekere mate van anonimiteit als je op straat loopt, maar in werkelijkheid
+hangen er steeds meer camera’s en sensoren van gemeenten en bedrijven die je registreren
+of volgen, soms zonder dat je het meteen door hebt.”
+Anna Maj Drenth, senior inspecteur bij de AP
+
+1
+
+DPIA’s
+Gemeenten moeten in kaart brengen welke privacyrisico’s er komen kijken bij het ontwikkelen van smart
+city-toepassingen. Deze privacyrisico’s moeten gemeenten beheersbaar maken vóór de start van de
+verwerking van de persoonsgegevens – ook als het gaat om kleinschalige pilots. Dit beheersbaar maken
+wordt gedaan met een data protection impact assessment (DPIA).
+Het is verplicht om een DPIA uit te voeren bij de ontwikkeling van smart city-toepassingen. Als een
+gemeente geen maatregelen kan treffen om de privacyrisico’s af te dekken en er hoge restrisico’s blijven
+bestaan, moet de gemeente de verwerking bovendien in een voorafgaande raadpleging aan de AP
+voorleggen.
+Gerald Hopster, senior inspecteur bij de AP: “Een van de doelen van dit onderzoek is om de DPIA als
+middel te stimuleren en te onderzoeken. We hebben de DPIA’s van de smart city-toepassingen dan ook
+opgevraagd. De kwaliteit van DPIA’s is van groot belang. Gemeenten moeten duidelijk aangeven welke
+gegevens er in de praktijk worden verwerkt met bijvoorbeeld sensoren en camera’s.”
+Ook is het belangrijk om DPIA’s actueel te houden, stelt Hopster. “Je kunt je afvragen of een DPIA uit 2016
+bijvoorbeeld niet opnieuw moet worden bekeken. Het uitvoeren van een risicobeoordeling is een
+doorlopend proces.”
+
+“Voorkomen van datalekken is beter dan genezen. Dat begint met eerst nadenken en dan pas
+doen.”
+Gerald Hopster, senior inspecteur bij de AP
+Hopster: “Daarnaast is van belang dat, als een voorafgaande raadpleging nodig is, we als AP ongeveer 8 tot
+14 weken de tijd hebben om deze te beoordelen. Is een gemeente dus van plan om een smart citytoepassing in te zetten voor een bepaald evenement, dan is het belangrijk om tijdig de risico’s in kaart te
+brengen. Bij hoge restrisico’s mag de gemeente namelijk niet starten met de gegevensverwerking totdat de
+AP hierover een advies heeft gegeven. En voorkomen van datalekken is beter dan genezen. Dat begint met
+eerst nadenken en dan pas doen.”
+
+Rollen en verantwoordelijkheden
+Gemeenten opereren vaak niet alleen bij smart city-toepassingen, maar werken samen met andere
+partijen. Juist bij samenwerkingsverbanden is van belang dat gemeenten duidelijk in beeld brengen wie
+waarvoor verantwoordelijk is. Kan iemand voor het opvragen van zijn gegevens bijvoorbeeld terecht bij de
+gemeente of moet diegene daarvoor naar een andere partij? En wie moet een datalek melden als het fout
+gaat? Over die vragen moet duidelijkheid zijn bij de ontwikkeling van smart city-toepassingen.
+In het onderzoek wordt ook aandacht besteed aan de rollen en betrokkenheid van verschillende personen
+en instanties bij de ontwikkeling van smart city-toepassingen. Zoals betrokkenheid van de functionaris
+gegevensbescherming (FG), de gemeenteraad en de inwoners zelf. In sommige gevallen zal de gemeente
+op grond van de AVG inwoners of hun vertegenwoordigers moeten vragen naar hun mening over smart
+city-toepassingen.
+
+2/3
+
+Een smart city is meer dan sensoren
+Bij smart cities wordt meestal gedacht aan technologie, zoals sensoren, die in de openbare ruimte data
+verzamelen. Maar via digitale platformen burgers betrekken, meer inzicht geven of meer controle bieden
+kan ook onderdeel zijn van de smart city. De balans tussen projecten die technisch van aard zijn en
+projecten die de burger onderdeel van een slimme stad maken, slaat meestal uit in het nadeel van de
+burger. Het betrekken van de burger bij toepassingen die persoonsgegevens verwerken is onderdeel van de
+AVG en een belangrijk onderwerp in het toezicht door de AP. Juist overheidsinstanties dienen de rechten
+en vrijheden van burgers hoog in het vaandel te hebben staan.
+
+Coronavirus
+Ook bij de bestrijding van het coronavirus zijn slimme toepassingen in de openbare ruimte soms een
+uitkomst. De AP maakt zich echter wel zorgen over de toepassingen die gericht zijn op het handhaven van
+de veiligheidsregels. Ook minister Dekker heeft onlangs aandacht gevraagd voor de voorwaarden
+waaronder gemeenten wifi-tracking mogen inzetten.
+Het in kaart kunnen brengen van de bewegingen van individuen brengt grote privacyrisico’s met zich mee.
+Het inzetten van dergelijke toepassingen kan dan ook alleen als het strikt noodzakelijk is, het effect zal
+hebben op de bestrijding van het virus en als minder ingrijpende maatregelen niet mogelijk zijn. Om
+burgers vertrouwen te laten krijgen én houden in deze digitale samenleving, moeten alle betrokken
+partijen zich maximaal inspannen voor transparantie en de rechten en vrijheden van burgers.
+
+Verwachting uitkomsten onderzoek
+Vanwege de coronacrisis en de gevolgen daarvan voor de AP, neemt het onderzoek iets meer tijd in beslag
+dan oorspronkelijk de bedoeling was. De resultaten zullen een overzicht bevatten van best practices, best
+lessons en aandachtspunten bij de ontwikkeling van smart city-toepassingen. Deze zullen na de zomer
+worden gepubliceerd. De AP neemt de bevindingen van dit onderzoek naar smart cities ook mee in een
+ander onderzoek van de AP naar Mobility as a Service (MaaS)-projecten, vanwege de overlap tussen lokale
+MaaS-projecten en smart city-toepassingen.
+
+3/3

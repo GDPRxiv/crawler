@@ -1,0 +1,37 @@
+Olulised mõtted
+· Uue käsitluse järgi on nii biomeetria kui biomeetria töötlemisest saadavad koodid biomeetrilised andmed, enne kuulusid need tavaliste isikuandmete kategooriasse.
+ 
+· Reaalsuses jääb töösuhete valdkonnas ära biomeetriliste andmete töötlemine lepingu täitmiseks.
+ 
+Inspektsioon toob välja projektis oleva põhimõttelise muudatuse, mis suuniste heakskiitmisel praegusel kujul piiraks oluliselt töösuhetes biomeetriliste isikuandmete töötlemist, sest need kuuluvad rangemat andmetöötlust nõudvate eriliigiliste andmete hulka. Sellisteks andmeteks loetakse inimese unikaalseid tunnuseid, mis võimaldavad teda kordumatult tuvastada. Laiemalt teame biomeetriana inimese sõrmejälge ja silmaiirise kujutust. Biomeetrilisteks andmeteks on aga ka nt inimese näokujutis, kui töödeldakse selle unikaalseid tunnuseid ja saadakse andmed inimese füüsiliste omaduste kohta.
+ 
+Konsultatsiooni faasis oleva videojälgimise suuniste projektis on võetud suund, et biomeetrilisteks loetakse inimese unikaalseid andmeid ka siis, kui ei ole teada, kellele näiteks nimeliselt biomeetria kuulub ja kas biomeetriat töödeldakse edasi koodideks või mitte. Vajalik on see videojälgimise suunistest välja tuua just seetõttu, et varasema andmekaitseõiguse käsitluse järgi ehk üldmääruse eelsele direktiivile tuginedes oli võimalik tõlgendada biomeetrilisi isikuandmeid koodideks muutmise järel tavaliste isikuandmetega. Uus käsitlus biomeetriast ei tee vahet, kas kogutud biomeetriast saavad süsteemi sisesed koodid või mitte - kõik on biomeetria. Andmetöötluse tundlikkuse astmelt tõusevad need samasse kategooriasse nagu terviseandmed.
+ 
+Kuna uues käsitluses tuleb üks andmete liik piltlikult tõsta alumiselt riiulilt kõrgemale, kus hoitakse asju rangema kontrolli all, siis kaob ära võimalus kasutada alumise riiuli reegleid.
+ 
+Mis reaalselt muutub? Varasem andmekaitseõigus võimaldas biomeetria töötlemisel saadud koode käsitleda tavaliste isikuandmetena, mida sai töödelda lepingu täitmiseks. Uues käsitluses aga loetakse ka sõrmejäljest masinaga tehtavaid koode biomeetriaks, mis on eriliigilised andmed. Selliste andmete töötlemiseks töösuhete jaoks saab õiguslik alus enamasti tulla kas seadusest või inimese enda nõusolekust. Nõusolek peab olema antud alati vabatahtlikult ja seda võib inimene igal ajal tagasi võtta.
+ 
+Alternatiivne lahendus?
+Kuna Eestis on kasutatud biomeetriliste andmete töötlust töösuhetes võrdlemisi palju, mõjutab muutus ilmselt ka paljusid tööandjaid, kes on harjunud kasutama sõrmejäljelugejaid hoonesse sissepääsuks ja tööaja kontrolliks. Samuti on neid, kes kasutavad biomeetria programmi videotöötluses. Võimalik, et ka töötajad ise eelistavad tänasel päeval tulla tööle ilma, et kaasas oleks n–ö mingisuguseid lisavidinaid. Naeratus kaamerasse või sõrme asetamine sõrmejäljelugejasse on ju mugav variant enda tuvastamiseks.
+ 
+Kui aga edaspidi soovitakse biomeetrilisi lahendusi kasutada ilma eriseadusest tuleva õiguseta, saab see toimuda üksnes töötaja nõusolekul (vabal tahtel). Lisaks tuleb biomeetriliste andmete kasutamisel arvestada veel ühe tingimusega. Inimene peab saama näidata oma vaba tahet sellisel viisil enda tuvastamiseks. Sisuliselt peab ta andmetöötluseks nõusoleku andma enne, kui töötaja sõrmejälg seadmesse loetakse või nägu kaamerasse skaneeritakse.
+ 
+Kuna biomeetria töötlemine saab toimuda ainult siis, kui nõusolek on vabatahtlikult antud, peab tööandjal olemas olema biomeetrilise lahenduse kõrvale alternatiivina teine - mittebiomeetriline isikutuvastamise variant. Olukorras, kus inimesel on võimalik vabalt valida, kas enda isiku tuvastamiseks kasutada biomeetrilist viisi või mitte, on võimalik biomeetrilise tuvastamise kasuks otsustades inimese nõusolekut vabatahtlikuks lugeda. Kindlasti tuleb sellise variandi juures meeles pidada, et töötajal peab olema võimalus igal ajal keelduda biomeetrilisest töötlemisest, sh võib töötaja tööle tulles, tööl olles või töölt minnes otsustada biomeetrilist tuvastamist mitte kasutada. Kui tööandjal ei ole pakkuda alternatiivset lahendust võib töötaja keelduda tööaja registreerimisest, sest seaduslikult on tal selleks õigus.
+ 
+Lõpetuseks on oluline märkida, et Euroopa Andmekaitsenõukogu kõik suunised on oma eesmärgilt Euroopa tasemel isikuandmete regulatsiooni selgitavad, tõlgendavad ja mõtestavad ning suuniste lahendused on liikmesriikidele soovituslikud. Igal liikmesriigil on õigus teha siseriiklike erisusi, kui need ei lähe üldmääruse põhimõtetega vastuollu.
+ 
+Käesoleva aasta 15. jaanuarist kehtima hakanud uus isikuandmete kaitse seadus biomeetrilist andmetöötlust ei reguleeri, aga tahte olemasolul ja selle seadusandjani viimisel on võimalik eriseadusesse sisse kirjutada biomeetria kasutamine töösuhetes.
+ 
+Millised on biomeetriliste andmetöötluse 3 tunnust?
+1. andmeid töödeldakse tehnilise vahendiga,
+ 
+2. andmetöötluse käigus analüüsitakse isiku füüsilisi, füsioloogilisi või käitumuslikke omadusi (nn unikaalsed tunnused) ja
+ 
+3. andmetöötluse lõpptulemus võimaldab isikut kordumatult tuvastada.
+ 
+Mida EL videojälgimise suunistes käsitletakse?
+Kuna andmekaitseõigus on tehnoloogianeutraalne, siis suunised on antud nii traditsioonilisemate kaamerate kui ka nutikamate seadmete kasutamise kohta. Suunistes käsitletakse biomeetriliste andmete töötlemist fookusega näotuvastustehnoloogial, samuti töötlemise õiguslikke aluseid, salvestamist isiklike või koduste tegevuste käigus, inimeste teavitamist isikuandmete töötlemisest, jäädvustatud materjali avaldamist kolmandatele isikutele jne. Inspektsioon saab anda avalikkusele täpsemad suunised siis, kui Euroopa Andmekaitsenõukogu on juhendi lõplikult kinnitanud.
+ 
+Kust leiab videojälgimise suuniste projekti?
+Euroopa andmekaitsenõukogu veebiküljelt https://edpb.europa.eu/our-work-tools/public-consultations/2019/guidelines-32019-processing-personal-data-through-video_et
+

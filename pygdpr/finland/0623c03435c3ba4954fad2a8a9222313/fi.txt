@@ -1,0 +1,31 @@
+Apulaistietosuojavaltuutettu: Puheluiden tallentamisesta on ilmoitettava asiakkaille ennen nauhoittamisen aloittamista
+
+
+   
+
+27.2.2020
+ 13.28
+
+Tiedote
+var snoobiSection="Tiedote";
+
+
+ Apulaistietosuojavaltuutettu on määrännyt rekisterinpitäjänä toimivan yrityksen muuttamaan informointia ja tarkastusoikeuden toteuttamista koskevia toimintatapoja. Yritys ei ollut kertonut kuluttajille puheluiden nauhoittamisesta. Se ei myöskään tarjonnut kuluttajille mahdollisuutta saada puhelutallenteiden jäljennöksiä. Puheluiden nauhoittamisesta kerrottava viipymättä Vireille saattaja oli kannellut tietosuojavaltuutetulle, ettei rekisterinpitäjänä toimiva yritys ollut ilmoittanut hänelle puhelun tallentamisesta. Apulaistietosuojavaltuutetun selvityksessä kävi ilmi, että rekisterinpitäjä nauhoitti myyntipuheluitaan, mutta kertoi nauhoittamisesta vasta siinä vaiheessa, kun puhelussa päädyttiin tekemään sopimus kuluttajan kanssa. Jos sopimusta ei tehty, nauhoittamisesta ei kerrottu lainkaan. Puheluiden nauhoittaminen on henkilötietojen keräämistä, josta yritysten on kerrottava kuluttajille. Ääni on nauhalle tallentuessaan henkilötieto, jos ihminen on siitä tunnistettavissa. Tallentamisesta on ilmoitettava ennen nauhoittamisen aloittamista. Kuluttajalla on oikeus saada puhelutallenne Selvityksessä kävi lisäksi ilmi, että rekisterinpitäjänä toimiva yritys tarjosi tietojen tarkastamista pyytävälle rekisteröidylle ainoastaan tallenteiden kuuntelumahdollisuutta, mikä ei sellaisenaan täytä EU:n yleisessä tietosuoja-asetuksessa säädetyn tarkastusoikeuden vaatimuksia. Tietosuoja-asetuksen mukaan rekisterinpitäjällä on velvollisuus toimittaa puhelutallenne jäljennöksenä, jos rekisteröity sitä pyytää. Rekisteröity tarkoittaa tässä yhteydessä henkilöä, jonka puhetta organisaatio nauhoittaa. Vuonna 2019 kumotun henkilötietolain mukaan puhelutallenne oli toimitettava kirjallisesti, jos rekisteröity pyysi tiedot kirjallisena. Tietosuoja-asetuksen soveltamisen alettua rekisterinpitäjällä on mahdollisuus toimittaa jäljennös käsiteltävistä henkilötiedoista myös muussa muodossa, kuten tallenteena. Rekisterinpitäjä voi halutessaan tarjota rekisteröidyille myös tallenteiden kuuntelumahdollisuutta. Yritykselle huomautus Apulaistietosuojavaltuutettu antoi rekisterinpitäjänä toimivalle yritykselle huomautuksen ja määräyksen muuttaa puheluiden nauhoittamista ja tarkastusoikeutta koskevia toimintatapoja. Päätös vastaa tietosuojavaltuutetun aikaisempaa henkilötietolain aikaista tulkintalinjaa puhelutallenteiden tarkastusoikeudesta. Henkilötietojen käsittelyyn sovelletaan nykyään EU:n yleistä tietosuoja-asetusta, jota kansallinen tietosuojalaki täydentää ja täsmentää. Apulaistietosuojavaltuutetun päätös on ensimmäinen puhelutallenteita koskeva päätös EU:n yleisen tietosuoja-asetuksen soveltamisen aikana. Päätökseen voi hakea muutosta valittamalla hallinto-oikeuteen, joten päätös ei ole vielä lainvoimainen. Päätöksen tiivistelmä on luettavissa Finlexissä. Lisätietoja: apulaistietosuojavaltuutettu Anu Talus, puh. 029 566 6766, anu.talus(at)om.fi 
+
+
+
+
+
+
+
+
+
+
+
+oikeudet
+puhelut
+päätökset
+tallennus
+tietosuoja
+
+

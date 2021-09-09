@@ -1,0 +1,29 @@
+Euroopan tietosuojaneuvoston toimintakertomus 2019: edistysaskelia eurooppalaisen tietosuojalainsäädännön yhdenmukaisessa soveltamisessa
+
+
+   
+
+25.5.2020
+ 11.33
+
+Uutinen
+var snoobiSection="Uutinen";
+
+
+ Euroopan tietosuojaneuvosto on julkaissut vuoden 2019 toimintakertomuksensa. Kertomuksessa esitellään neuvoston toisen toimintavuoden keskeisimmät saavutukset sekä tavoitteet kuluvalle vuodelle. Euroopan tietosuojaneuvosto on jatkanut työtään ETA-alueen tietosuojasäädösten soveltamisen yhdenmukaistamiseksi. Alueen tietosuojaviranomaiset ovat tiivistäneet yhteistyötään taatakseen yhtäläiset tietosuojaoikeudet kaikille eurooppalaisille. Myös lisääntynyt yhteistyö sidosryhmien kanssa on tukenut yhdenmukaisten käytäntöjen luomista ja omaksumista.   Tietosuojaneuvosto laati vuoden aikana viisi uutta ohjetta rekisterinpitäjien ja henkilötietojen käsittelijöiden työn tueksi. Uudet ohjeistukset täsmensivät esimerkiksi verkkopalvelujen kautta kerättyjen henkilötietojen käsittelyyn liittyviä ehtoja sekä oletusarvoista ja sisäänrakennettua tietosuojaa (privacy by design and default). Lisäksi neuvosto antoi 17 lausuntoa EU:n yleisen tietosuoja-asetuksen (GDPR) soveltamisesta. Lausunnot käsittelivät esimerkiksi vaikutustenarviointeja sekä tietosuoja-asetuksen ja sähköisen viestinnän tietosuojadirektiivin välistä suhdetta. Vuonna 2020 neuvosto jatkaa ydintehtäviensä toteuttamista meneillään olevan kaksivuotissuunnitelman mukaisesti. Tavoitteena on lisätä etenkin työskentelyä edistyneen teknologian tietosuojavaatimusten parissa. Ajankohtaiset kysymykset liittyvät esimerkiksi tekoälyyn, verkottuneisiin ajoneuvoihin ja lohkoketjuihin. Kuluvan vuoden aikana tietosuojaneuvoston keskeiseksi tehtäväksi on noussut myös ohjeistus koronavirukseen liittyvissä tietosuojakysymyksissä. Lisätietoja: Euroopan tietosuojaneuvoston toimintakertomus: European Data Protection Board 2019 Annual Report (pdf) Euroopan tietosuojaneuvoston toimintasuunnitelma: EDPB Work Program 2019/2020 (pdf) Euroopan tietosuojaneuvoston verkkosivut Euroopan tietosuojaneuvosto (EDPB) on riippumaton EU:n elin, joka koostuu EU:n kansallisista tietosuojaviranomaisista ja Euroopan tietosuojavaltuutetun edustajista. Myös ETA-maat Islanti, Norja ja Liechtenstein ovat tietosuojaneuvoston jäseniä. Euroopan komissiolla on läsnäolo- ja puheoikeus EDPB:n kokouksissa. Euroopan tietosuojaneuvosto vastaa EU:n yleisen tietosuoja-asetuksen ja poliisi- ja rikosoikeusviranomaisia koskevan tietosuojadirektiivin yhdenmukaisesta soveltamisesta. 
+
+
+
+
+
+
+
+
+
+
+
+kertomukset
+tietosuoja
+toimintakertomukset
+
+

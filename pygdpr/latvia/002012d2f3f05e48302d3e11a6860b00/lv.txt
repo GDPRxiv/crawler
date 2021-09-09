@@ -1,0 +1,43 @@
+Datu valsts inspekcija (Inspekcija), lai veicinātu pašvaldību izpratni par pienākumiem, kas tām uzticēti saskaņā ar Vispārīgo datu aizsardzības regulu (Regula)[1] informē, par personas datu apstrādes organizāciju pašvaldības darbā ievērojot Regulas 5.panta 1.punkta “b” apakšpunktā norādīto nolūka ierobežojuma principu.
+ Apstrādes likumīgums
+ Saskaņā ar Regulas 6.panta nosacījumiem, personas datu apstrāde ir likumīga tikai tādā apmērā un tikai tad, ja ir piemērojams vismaz viens no šajā pantā minētajiem pamatojumiem:
+
+piekrišana;
+līguma izpilde;
+juridisks pienākums;
+sabiedrības intereses;
+vitālo interešu aizsardzība;
+leģitīmo interešu ievērošana.
+
+Apstrādes principi
+Papildus tiesiskā pamata nodrošināšanai, pārzinim ir jāievēro arī citi Regulā noteiktie nosacījumi, piemēram, Regulas 5.panta 1.punkta “a” apakšpunkts nosaka, ka dati tiek apstrādāti likumīgi, godprātīgi un datu subjektam pārredzamā veidā. Savukārt “b” apakšpunktā noteikts, ka dati tiek vākti konkrētos, skaidros un leģitīmos nolūkos, un to turpmāku apstrādi neveic ar minētajiem nolūkiem nesavietojamā veidā [..] (“nolūka ierobežojumi”).
+
+
+
+
+Nolūka ierobežojuma princips skaidrots Eiropas datu aizsardzības likuma rokasgrāmatas 2018.gada[1] izdevuma 122.lpp.: “Nolūka ierobežojuma princips ir viens no Eiropas datu aizsardzības likuma pamatprincipiem. Tā piemērošana ir cieši saistīta ar caurspīdīgumu, pārredzamību un lietotāja kontroli. Ja apstrādes nolūks ir pietiekami specifisks un skaidrs, indivīdi zin, ko gaidīt no datu apstrādes, tiek uzlabota pārredzamība un juridiskā noteiktība. Šis princips paredz, ka jebkura personas datu apstrāde jāveic noteikta, precīzi definēta mērķa sasniegšanai un tikai tādu papildu mērķu sasniegšanai, kas ir saderīgi ar sākotnējo mērķi.
+ Personas datu apstrāde nenoteiktam un/vai neierobežotam nolūku skaitam ir nelikumīga. Personas datu apstrāde bez noteikta mērķa, pamatojoties tikai uz apsvērumu, kas nākotnē varētu būt noderīgs, arī nav likumīga. Katram jaunam datu apstrādes mērķim, kas nav savietojams ar sākotnējo jābūt savam īpašajam juridiskajam pamatam, un tā nevar paļauties uz faktu, ka dati sākotnēji tika iegūti vai apstrādāti citam likumīgam mērķim. Savukārt likumīgi apstrāde ir ierobežota ar sākotnēji noteikto mērķi un jebkuram jaunam apstrādes mērķim būs nepieciešams atsevišķs jauns juridiskais pamats”.
+Eiropas datu aizsardzības likuma rokasgrāmata (2018). 
+Pieejama https://fra.europa.eu/en/publication/2018/handbook-european-data-protection-law-2018-edition (angļu valodā).
+
+
+
+
+Publiskās pārvaldes institūcijas personas datu apstrādes pamatojums
+Publiskās pārvaldes institūciju (tai skaitā pašvaldību) darbībai ir jābalstās uz normatīvajos aktos paredzētajām funkcijām. Līdz ar to publiskās pārvaldes institūcijas veiktās personas datu apstrādes pamatojums ir rodams Regulas 6.panta 1.punkta “c” (apstrāde ir vajadzīga, lai izpildītu uz pārzini attiecināmu juridisku pienākumu) un “e” (apstrāde ir vajadzīga, lai izpildītu uzdevumu, ko veic sabiedrības interesēs vai īstenojot pārzinim likumīgi piešķirtās oficiālās pilnvaras) apakšpunktā noteiktajos tiesiskajos pamatos. Savukārt Regulas 6.panta 3.punktā noteikts, ka Regulas 6.panta 1.punkta “c” un “e” apakšpunktā minētie tiesiskie pamati ir nosakāmi ar Eiropas Savienības vai dalībvalsts tiesību aktiem.
+Līdz ar to, pastāvot kādam no minētajos pantos minētajiem pamatiem un ievērojot paredzētus principus, personas datu apstrāde var tikt atzīta par tiesisku, savukārt, ja minētie nosacījumi netiek ievēroti, personas datu apstrāde nav atbilstoša Regulai.
+
+
+
+
+Piemērs
+2020.gada 10.martā masu mēdijos izskanēja informācija, ka Jelgavas pilsētas pašvaldība ir veikusi pasākumus, kas vērsti pašvaldības iedzīvotāju sabiedriskās domas veidošanai par valsts administratīvi teritoriālo reformu. Minētā pašvaldība informēšanas pasākumu ietvaros veikusi personas datu apstrādi, lai nodrošinātu informācijas sniegšanu tieši konkrētās pašvaldības iedzīvotājiem, tai skaitā izmantojot pašvaldības kapitālsabiedrības (SIA “Jelgavas nekustamā īpašuma pārvalde”) vajadzību nodrošināšanai iegūtus personas datus.
+Latvijas Sabiedriskie Mediji 2020.gada 10.marts “Jelgavas namu pārvaldei pārmet aicinājumu parakstīties pret pilsētas apvienošanu ar novadu”. Pieejams: http://ejuz.lv/6fg6
+
+
+
+
+Inspekcija vērš uzmanību, ka, piemēram, ja komunālā pakalpojuma rēķinu nosūtīšanai tiek apkopotas iedzīvotāju elektroniskā pasta adreses, tad pamudinājuma piedalīties tautas balsošanā, kas vērsts pret kādu likumdošanas iniciatīvu izplatīšana, izmantojot šādu datu bāzi neatbilst Regulai, jo tiek veikta personas datu apstrāde jauna personas datu apstrādes nolūka, par kuru iedzīvotāji nav iepriekš brīdināti sasniegšanai.
+Inspekcijas rīcībā nav arī informācijas par to, kāds normatīvais akts pieļauj pašvaldības vai pašvaldības kapitālsabiedrības rīcībā esošu informācijas datu bāzi, kas apkopota kādas konkrētas funkcijas nodrošināšanai, izmantot informatīvam pasākumam, par notikumiem/procesiem, kas neskar visas sabiedrības drošību tiešā veidā. Līdz ar to, ja iedzīvotāju adreses tiek iegūtas ar nolūku nodrošināt pašvaldības kapitālsabiedrībai deleģētā pakalpojuma sniegšanu, tai skaitā, piemēram, rēķina sagatavošanu par pašvaldības kapitālsabiedrības sniegtajiem pakalpojumiem, tad iegūtā informācija izmantojama tikai konkrētajā nolūkā.
+
+[1] Eiropas Parlamenta un Padomes Regula (ES) 2016/679 (2016. gada 27. aprīlis) par fizisku personu aizsardzību attiecībā uz personas datu apstrādi un šādu datu brīvu apriti un ar ko atceļ Direktīvu 95/46/EK (Vispārīgā datu aizsardzības regula) (Dokuments attiecas uz EEZ) ELI: http://data.europa.eu/eli/reg/2016/679/oj

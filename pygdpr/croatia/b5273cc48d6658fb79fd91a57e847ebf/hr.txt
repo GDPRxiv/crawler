@@ -1,0 +1,47 @@
+12.3 2020.
+
+	Nastavno na Vaš dopis koji je Agencija za zaštitu osobnih podataka zaprimila 12. veljače 2020. godine, Agencija se očituje kako slijedi:
+
+	Člankom 6. stavkom 1. Uredbe (EU) 2016/679 Europskog parlamenta i Vijeća od 27. travnja 2016. godine o zaštiti pojedinaca u vezi s obradom osobnih podataka i o slobodnom kretanju takvih podataka te o stavljanju izvan snage Direktive 95/46/EZ (Opća uredbe o zaštiti podataka) propisano je da je obrada zakonita samo ako i u onoj mjeri u kojoj je ispunjeno najmanje jedno od sljedećega:
+
+	(a) ispitanik je dao privolu za obradu svojih osobnih podataka u jednu ili više posebnih svrha;
+	(b) obrada je nužna za izvršavanje ugovora u kojem je ispitanik stranka ili kako bi se poduzele radnje na zahtjev ispitanika prije sklapanja ugovora;
+	(c) obrada je nužna radi poštovanja pravnih obveza voditelja obrade;
+	(d) obrada je nužna kako bi se zaštitili životno važni interesi ispitanika ili druge fizičke osobe;
+	(e) obrada je nužna za izvršavanje zadaće od javnog interesa ili pri izvršavanju službene ovlasti voditelja obrade;
+	(f) obrada je nužna za potrebe legitimnih interesa voditelja obrade ili treće strane, osim kada su od tih interesa jači interesi ili temeljna prava i slobode ispitanika koji zahtijevaju zaštitu osobnih podataka, osobito ako je ispitanik dijete.
+
+	Ako je pravni temelj za obradu osobnih podataka pravna obveza voditelja obrade ili izvršavanje zadaće od javnog interesa/službene ovlasti voditelja obrade, tada ta pravna osnova mora biti utvrđena u pravu Unije ili pravu države članice kojem voditelj obrade podliježe, a tom pravnom osnovom mora biti određena i svrha obrade.
+	Zakonom o gradnji (NN 153/13, 20/17, 39/19 i 125/19) i Zakonom o prostornom uređenju (NN 153/13, 65/17, 114/18, 39/19 i 98/19) propisano je potpisivanje pojedinih akata elektroničkim potpisom.
+
+	Nadalje, pravni okvir za elektroničke potpise uspostavljen je Uredbom (EU) br. 910/2014 Europskog parlamenta i Vijeća od 23. srpnja 2014. godine o elektroničkoj identifikaciji i uslugama povjerenja za elektroničke transakcije na unutarnjem tržištu i stavljanju izvan snage Direktive 1999/93/EZ.
+
+	Osim navedene Uredbe, relevantni propisi su i Zakon o provedbi Uredbe (EU) br. 910/2014 Europskog parlamenta i Vijeća od 23. srpnja 2014. godine o elektroničkoj identifikaciji i uslugama povjerenja za elektroničke transakcije na unutarnjem tržištu i stavljanju izvan snage Direktive 1999/93/EZ (NN 62/17) te Pravilnik o pružanju i korištenju usluga povjerenja (NN 60/19).
+
+	Niti jedan od navedenih propisa ne propisuje obvezni opseg podataka na vizualu elektroničkog potpisa. U tom smislu, isticanje OIB-a potpisnika na vizualu elektroničkog potpisa ne može se smatrati obradom koja je nužna radi poštovanja pravnih obveza voditelja obrade u smislu članka 6. stavka 1. točke c) Opće uredbe o zaštiti podataka odnosno obradom koja je nužna za izvršavanje zadaće od javnog interesa ili pri izvršavanju službene ovlasti voditelja obrade u smislu članka 6. stavka 1. točke e) Opće uredbe.
+
+	Dakle, da bi navedena obrada bila zakonita, voditelj obrade je dužan pronaći neki drugi temelj za zakonitost obrade iz članka 6. Opće uredbe o zaštiti podataka.
+
+	U mišljenju br. 249 o obradi podataka na radnome mjestu, Radna skupina za zaštitu podataka iz članka 29. Direktive 95/46/EZ iznosi mišljenje da se vrlo vjerojatno privola ne može smatrati zakonitim pravnim temeljem za obradu osobnih podataka zaposlenika ili potencijalnih zaposlenika, osim ako isti mogu obradu odbiti bez štetnih posljedica.
+
+	Naime, zaposlenici su rijetko u situaciji da slobodno daju, odbiju ili povuku privolu s obzirom na ovisnost koja proizlazi iz odnosa između poslodavca i zaposlenika.
+
+	Osim u iznimnim situacijama, poslodavci će se morati oslanjati na neku drugu pravnu osnovu koja nije privola, kao što je potreba za obradom podataka u svrhe njihova legitimnog interesa. Međutim, legitimni interes sam po sebi nije dovoljan da bi imao prednost pred pravima i slobodama zaposlenika. Legitimni interes poslodavca može biti pravna osnova za obradu osobnih podataka zaposlenika samo ako je obrada podataka nužna za zakonitu svrhu i u skladu je s načelima proporcionalnosti i supsidijarnosti.
+
+	Prilikom razmatranja je li obrada nužna za potrebe legitimnih interesa voditelja obrade (ili treće strane) treba zapravo razmotriti može li se ista svrha ostvariti manje invazivnim sredstvima na privatnost ispitanika.
+
+	U svakom slučaju, da bi se voditelj obrade mogao pozvati na legitimni interes kao pravni temelj za obradu, ta obrada osobnih podataka mora biti nužna za postizanje legitimnog interesa, legitimni interes mora biti zakonit, stvaran i trenutačan te dovoljno jasno opisan odnosno specifičan kako bi se omogućila provedba testa ravnoteže u odnosu na  interese i temeljna prava osoba čiji se podaci obrađuju (ispitanika). I, naposljetku, test ravnoteže mora pokazati da su u konkretnom slučaju interesi voditelja obrade (ili treće strane) jači od temeljnih prava i sloboda ispitanika.
+
+	I u slučaju kada su ispunjeni svi navedeni uvjeti za postojanje legitimnog interesa kao pravnog temelja za obradu podataka, voditelj obrade mora voditi računa o svim drugim obvezama iz Opće uredbe o zaštiti podataka, počevši sa načelima utvrđenima člankom 5.Opće uredbe o zaštiti podataka.
+
+	Načela obrade osobnih podataka, sukladno članku 5. Opće uredbe o zaštiti podataka, traže da osobni podaci moraju biti zakonito, pošteno i transparentno obrađivani s obzirom na ispitanika (načelo zakonitosti, poštenosti i transparentnosti); prikupljeni u posebne, izričite i zakonite svrhe te se dalje ne smiju obrađivati na način koji nije u skladu s tim svrhama (načelo ograničavanja svrhe); primjereni, relevantni i ograničeni na ono što je nužno u odnosu na svrhe u koje se obrađuju (načelo smanjenja količine podataka); točni i prema potrebi ažurni (načelo točnosti); čuvani u obliku koji omogućuje identifikaciju ispitanika samo onoliko dugo koliko je potrebno u svrhe radi kojih se osobni podaci obrađuju (načelo ograničenja pohrane); i obrađivani na način kojim se osigurava odgovarajuća sigurnost osobnih podataka, uključujući zaštitu od neovlaštene ili nezakonite obrade te od slučajnog gubitka, uništenja ili oštećenja primjenom odgovarajućih tehničkih ili organizacijskih mjera (načelo cjelovitosti i povjerljivosti). Voditelj obrade odgovara za usklađenost sa ovdje navedenim načelima Opće uredbe te je mora biti u mogućnosti dokazati (načelo pouzdanosti).
+
+	Također napominjemo da je člankom 29. stavkom 1. Zakona o radu (NN 93/14 i 127/17) propisano da se osobni podaci radnika smiju prikupljati, obrađivati, koristiti i dostavljati trećim osobama samo ako je to određeno ovim ili drugim zakonom ili ako je to potrebno radi ostvarivanja prava i obveza iz radnog odnosa, odnosno u vezi s radnim odnosom.
+
+	Nadalje, člankom 29., stavkom 2. istoga Zakona je određeno da ako je osobne podatke iz stavka 1. ovoga članka potrebno prikupljati, obrađivati, koristiti ili dostavljati trećim osobama radi ostvarivanja prava i obveza iz radnoga odnosa, odnosno u vezi s radnim odnosom, poslodavac mora unaprijed pravilnikom o radu odrediti koje će podatke u tu svrhu prikupljati, obrađivati, koristiti ili dostavljati trećim osobama.
+
+	Nastavno na sve izneseno, Agenciji za zaštitu osobnih podataka prvenstveno nije razvidan pravni temelj za isticanje OIB-a zaposlenika na vizualu elektroničkog potpisa. Nadalje, Agenciji je sporna primjena načela smanjenja količine podataka jer je upitno može li se isticanje OIB-a zaposlenika na vizualu elektroničkog potpisa smatrati primjerenim, relevantnim i ograničenim na ono što je nužno u odnosu na svrhe u koje se osobni podaci obrađuju. Osim toga, otvoreno je pitanje i je li i u kojoj mjeri voditelj obrade poštovao načelo transparentnosti, odnosno jesu li zaposlenici uopće unaprijed informirani od strane voditelja obrade o namjeri isticanja njihovih OIB-ova na vizualu elektroničkog potpisa i jesu li, između ostalog, informirani o postojanju svojeg prava na ulaganje prigovora na takvu obradu.
+
+	Zaključno, sukladno članku 34. Zakona o provedbi Opće uredbe o zaštiti podataka (NN 42/18), svatko tko smatra da mu je povrijeđeno neko pravo zajamčeno ovim Zakonom i Općom uredbom o zaštiti podataka, može Agenciji podnijeti zahtjev za utvrđivanje povrede prava.
+
+	Agencija Vas dodatno informira da, sukladno članku 41. navedenog Zakona, ispitanik ima pravo ovlastiti neprofitno tijelo, organizaciju ili udruženje koje je osnovano u skladu sa zakonom, a u čijem se statutu navode ciljevi od javnog interesa te je aktivno u području zaštite prava i sloboda ispitanika s obzirom na zaštitu njegovih osobnih podataka da podese pritužbu i ostvaruje prava u njegovo ime.

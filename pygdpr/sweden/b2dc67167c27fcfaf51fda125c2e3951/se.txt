@@ -1,0 +1,10 @@
+I brottsdatalagen finns en skyldighet för brottsbekämpande myndigheter att rapportera vissa personuppgiftsincidenter till Datainspektionen. En sådan incident har inträffat om uppgifter om en eller flera registrerade personer har blivit förstörda, gått förlorade på annat sätt eller kommit i orätta händer.
+Datainspektionen har tagit emot en anmälan om personuppgiftsincident från Tullverket. Personal på Tullverket har använt en app i sina mobiltelefoner som fört över personuppgifter till en molntjänst. Uppgifterna har på så sätt spridits utanför verket.
+– Därför inleder vi nu en granskning av Tullverket för att bland annat ta reda på vad som faktiskt hänt och hur Tullverket använder mobiltelefoner i sin brottsbekämpande verksamhet, säger Max Blidberg som leder Datainspektionens granskning.
+Datainspektionen kommer även att ställa frågor om vilka interna föreskrifter, handböcker eller andra styrdokument som reglerar hur Tullverkets personal får använda mobiltelefoner och vilka åtgärder som vidtagits efter incidenten för att något liknande inte ska inträffa igen.
+Läs mer om hur Datainspektionen arbetar med tillsyn
+Läs mer om brottsdatalagen
+Läs mer om personuppgiftsincidenter
+För mer information kontakta
+Jurist Max Blidberg, tfn 08-657 61 42
+Pressansvarig Per Lövgren, tfn 08-515 15 415

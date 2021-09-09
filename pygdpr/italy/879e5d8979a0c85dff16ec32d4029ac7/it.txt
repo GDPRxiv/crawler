@@ -1,0 +1,34 @@
+"Si sottovaluta l'importanza di proteggere i nostri dati" Intervista ad Antonello Soro, Presidente del Garante per la
+protezione dei dati personali
+"Si sottovaluta l'importanza di proteggere i nostri dati"
+Intervista ad Antonello Soro, Presidente del Garante per la protezione dei dati personali
+(di Raffaele Angius, "La Stampa", 5 novembre 2018)
+Le sempre più frequenti intrusioni informatiche nelle pubbliche amministrazioni preoccupano anche il Garante della Privacy,
+Antonello Soro. È alla sua Autorità che i titolari di un trattamento personale devono notificare ogni intrusione o manipolazione di
+dati personali.
+1 Che impressione ha avuto dalla recente ondata di attacchi?
+"Prima di tutto è bene capire cosa ci sia dietro un simile accanimento. Può trattarsi di rivendicazioni critiche nei confronti del
+Governo, di motivazioni etiche nel voler imporre un cambio di marcia alle pubbliche amministrazioni nella protezione dei propri
+sistemi, oppure di una cortina fumogena che cela azioni ostili più mirate".
+2 Stiamo parlando di spionaggio?
+"Sono questi i canali attraverso i quali vengono sottratte informazioni strategiche e segreti industriali, che non possiamo più
+mancare di proteggere".
+3 Sono passati due anni dall'entrata in vigore del Regolamento generale sulla protezione dei dati, pienamente effettivo dal
+25 maggio di quest'anno. Un appuntamento a cui ci siamo presentati impreparati?
+"Esatto. Il problema principale è che si sottovaluta il significato della protezione dei nostri dati".
+4 Cioè?
+"I dati sono la proiezione informatica della nostra vita reale. Ogni violazione può avere conseguenze concrete: da una esposizione
+non desiderata della nostra persona fino alla salute se, per esempio, i dati manipolati sono quelli di una cartella sanitaria".
+5 Anche negli ultimi attacchi sono state colpite delle aziende sanitarie.
+"Ammettendo che in questo caso si tratti di hacker etici, se quel sistema era alla loro portata forse è vulnerabile per tutti".
+6 Diffìcile capire da chi dobbiamo proteggerci.
+"Le due più grandi sfide per la nostra società penso siano il riscaldamento globale e la sicurezza dello spazio digitale. Per questo
+urge una strategia consolidata e non episodica: meritoriamente l'Agenda Digitale sta digitalizzando molte funzioni. Attività che
+richiede una capacità concreta di proteggere i dati di cittadini e imprese".
+7 In questi anni ha notato una maggiore sensibilità istituzionale sul tema?
+"C'è ancora poca consapevolezza. Siamo riusciti a chiedere e ottenere maggiori investimenti sulle risorse umane a difesa del
+Paese, ma tutto è sempre concesso perché è il Garante a insistere".
+
+8 Da dove dovremmo partire?
+"Dobbiamo investire davvero nella formazione scolastica. E garantire una maggiore capacità di presidiare le banche dati e le
+relazioni tra cittadino e Stato".

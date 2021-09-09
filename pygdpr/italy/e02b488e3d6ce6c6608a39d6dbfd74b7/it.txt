@@ -1,0 +1,24 @@
+Intercettazioni: Soro, colmare lacune su uso captatori.
+"Vietare ricorso a app-spia e archiviazione con sistemi
+cloud"
+Intercettazioni: Soro, colmare lacune su uso captatori. "Vietare ricorso a app-spia e archiviazione con
+sistemi cloud"
+Intervento di Antonello Soro, Presidente del Garante per la protezione dei dati personali
+(Ansa, 4 febbraio 2020)
+"Per quanto concerne le intercettazioni mediante captatori, si dovrebbe cogliere quest'occasione per colmare le lacune normative
+che già il Garante aveva rilevato in sede di parere, ma anche nell'ambito della segnalazione rivolta al Parlamento e al Governo". Lo
+ha detto il Garante per la Privacy, Antonello Soro, in Commissione Giustizia al Senato nell'ambito dell'iter di conversione del
+decreto sulle intercettazioni.
+"Le straordinarie potenzialità intrusive di tali strumenti - ha sottolineato - impongono, infatti, garanzie adeguate per impedire che
+essi, da preziosi ausiliari degli inquirenti, degenerino invece in mezzi di sorveglianza massiva".
+"La necessità di tali garanzie sembra, peraltro, asseverata dalle notizie di cronaca (si pensi al caso Exodus), relative alle particolari
+modalità di realizzazione delle captazioni mediante malware, da parte delle società incaricate - ha spiegato ancora Soro -. Ci si
+riferisce, in particolare, all'utilizzo, ai fini intercettativi, di software connessi ad app, che quindi non sono direttamente inoculati nel
+solo dispositivo dell'indagato, ma posti su piattaforme accessibili a tutti. Ove rese disponibili sul mercato, anche solo per errore in
+assenza dei filtri necessari a limitarne l'acquisizione da parte dei terzi, queste app-spia rischierebbero, infatti, di trasformarsi in
+pericolosi strumenti di sorveglianza massiva".
+"Inoltre, pericoloso è l'utilizzo di sistemi cloud per l'archiviazione dei dati captati, addirittura in Stati extraeuropei - ha aggiunto il
+Garante -. La delocalizzazione dei server in territori non soggetti alla giurisdizione nazionale costituisce, infatti, un evidente vulnus
+non soltanto per la tutela dei diritti degli interessati, ma anche per la stessa efficacia e segretezza dell'azione investigativa. Il ricorso
+a tali due tipologie di sistemi (software che non siano inoculati direttamente sul dispositivo-ospite, e, per altro verso, archiviazione
+mediante sistemi cloud) dovrebbe, dunque, essere oggetto di un apposito divieto".

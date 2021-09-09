@@ -1,0 +1,239 @@
+1/5
+
+
+
+Procedimiento Nº: E/07384/2019
+
+907-141019
+
+RESOLUCIÓN ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes:
+HECHOS
+PRIMERO: Con fecha 19/07/18, se recibe en esta Agencia escrito de D. A.A.A. (en
+adelante, “el reclamante”), en la que indica, entre otras, lo siguiente:
+“Al acceder a la página de inicio de Facebook, sin ni siquiera haber incluido un nombre
+y contraseña, aparece el siguiente aviso sobre cookies, en el que se dice:
+<<Utilizamos las cookies para ayudar a personalizar contenido, adaptar y medir los
+anuncios, y facilitar una experiencia más segura. Al hacer clic o navegar en el sitio,
+aceptas que recopilemos información dentro y fuera de Facebook mediante las
+cookies. Consulta aquí más información, incluida la relativa a los controles disponibles:
+Política de cookies>>.
+Las cookies se cargan desde la home ***URL.1 aún sin habernos logueado, e incluso
+sin ser usuario de Facebook. Para que se carguen gran parte de las cookies solo es
+necesario clicar en CUALQUIER parte de esa home ***URL.1 (en el fondo de pantalla,
+por ejemplo).
+La importancia es mayor cuando sucede exactamente lo mismo al acceder a cualquier
+contenido de Facebook desde Google, o al acceder a una noticia/publicación/perfil de
+la red social (sin ni siquiera estar logueado), que te hayan mandado o encuentres en
+la red. La gran mayoría de cookies se cargan en el momento en el que se clica
+cualquier parte de la web a la que se accede: ***URL.2
+En mi criterio, ni la información sobre las cookies es válida, ni el consentimiento para
+la misma lo es. Facebook ha reconocido públicamente que obtiene datos de personas
+que no son sus usuarias, y parece relevante saber qué importancia juegan las cookies
+en esa recolección de datos.
+El artículo 38.4.g) de la LSSI, considera infracción leve: ”g) El incumplimiento de las
+obligaciones de información o de establecimiento de un procedimiento de rechazo del
+tratamiento de datos, establecidas en el apartado 2 del artículo 22, cuando no
+constituya infracción grave. El uso de cookies resultaría sancionable, de conformidad
+con lo establecido en los artículos 39.1.c) y 40 de la citada LSSI”.
+SEGUNDO: Con fecha 20/08/18, por parte de la Directora de la Agencia de Protección
+de Datos se procedió a dictar acuerdo de remisión de la reclamación presentada
+contra FACEBOOK IRELAND LIMITED a la autoridad de control de Irlanda, a fin de
+que por la misma se le dé el curso oportuno y de archivo provisional del expediente,
+(código IMI-50953).
+TERCERO: Con fecha 16/11/18, La autoridad de control irlandesa, comunica que a
+esta Agencia que es competente para tratar el caso. No obstante, con fecha 10/04/19,
+la autoridad de control de Irlanda comunica que, “el presente caso cae dentro del
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/5
+
+ámbito de la Directiva de e-Privacidad y que por tanto no es aplicable el mecanismo
+de ventanilla única, por lo que y se ha de investigar localmente”.
+CUARTO: Con fecha 15/07/19, por parte de la Directora de la Agencia de Protección
+de Datos se procedió a dictar acuerdo de admisión a trámite de la reclamación
+presentada a tenor de la información preliminar de la que se dispone, por presunta
+vulneración del Artículo 22.2 de la Ley 34/2002, de 11 de julio, de Servicios de la
+Sociedad de la Información y Comercio Electrónico (LSSI).
+FUNDAMENTOS DE DERECHO
+I
+De conformidad con lo establecido en el art. 43.1, párrafo segundo, de la de la Ley
+34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio
+Electrónico (LSSI), es competente para iniciar y resolver este Procedimiento
+Sancionador, la Directora de la Agencia Española de Protección de Datos.
+II
+En el presente caso se trata de determinar, a la vista del conjunto de elementos de
+juicios disponibles, las responsabilidades que pudieran derivarse de la utilización y
+gestión de las cookies que se instalan en el equipo terminal cuando se accede a la
+página web ***URL.1 cuyo titular FACEBOOK IRELAND LIMITED domiciliada en, 4
+GRAND CANAL SQUARE , GRAND CANAL HARBOUR, Dublin 2 Ireland , y que
+podrían ser constitutivo de una infracción del artículo 22.2 de la LSSI.
+No obstante, el artículo 2 de la LSSI, indica, sobre el ámbito de aplicación de la misma,
+lo siguiente:
+1. Esta Ley será de aplicación a los prestadores de servicios de la sociedad de la
+información establecidos en España y a los servicios prestados por ellos.
+Se entenderá que un prestador de servicios está establecido en España cuando su
+residencia o domicilio social se encuentren en territorio español, siempre que éstos
+coincidan con el lugar en que esté efectivamente centralizada la gestión administrativa
+y la dirección de sus negocios. En otro caso, se atenderá al lugar en que se realice
+dicha gestión o dirección.
+2. Asimismo, esta Ley será de aplicación a los servicios de la sociedad de la
+información que los prestadores residentes o domiciliados en otro Estado ofrezcan a
+través de un establecimiento permanente situado en España.
+Se considerará que un prestador opera mediante un establecimiento permanente
+situado en territorio español cuando disponga en el mismo, de forma continuada o
+habitual, de instalaciones o lugares de trabajo, en los que realice toda o parte de su
+actividad.
+3. A los efectos previstos en este artículo, se presumirá que el prestador de servicios
+está establecido en España cuando el prestador o alguna de sus sucursales se haya
+inscrito en el Registro Mercantil o en otro registro público español en el que fuera
+necesaria la inscripción para la adquisición de personalidad jurídica.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/5
+
+La utilización de medios tecnológicos situados en España, para la prestación o el
+acceso al servicio, no servirá como criterio para determinar, por sí solo, el
+establecimiento en España del prestador.
+4. Los prestadores de servicios de la sociedad de la información establecidos en
+España estarán sujetos a las demás disposiciones del ordenamiento jurídico español
+que les sean de aplicación, en función de la actividad que desarrollen, con
+independencia de la utilización de medios electrónicos para su realización.
+Por lo tanto, desde un punto de vista subjetivo, la Ley LSSI solo sería aplicable, a los
+prestadores de servicios de sociedad de la información y comercio electrónico
+establecidos en territorio español.
+A efectos de la Ley, se entiende por "establecimiento”: “el lugar desde el que se dirige
+y gestiona una actividad económica, definición esta que se inspira en el concepto de
+domicilio fiscal recogido en las normas tributarias españolas y que resulta compatible
+con la noción material de establecimiento predicada por el Derecho comunitario”, por
+lo que, en el presente caso, se debe considerar como lugar de establecimiento de la
+compañía Facebook, Irlanda, desde donde presta servicio la red social de
+“Faccebook.com”.
+Por lo demás, la Ley sólo se permite restringir la libre prestación en España de
+servicios de la sociedad de la información procedentes de otros países pertenecientes
+al Espacio Económico Europeo en los supuestos previstos en la Directiva 2000/31/CE,
+que consisten en la producción de un daño o peligro grave contra ciertos valores
+fundamentales como el orden público, la salud pública o la protección de los menores.
+Igualmente, podrá restringirse la prestación de servicios provenientes de dichos
+Estados cuando afecten a alguna de las materias excluidas del principio de país de
+origen, que la Ley concreta en su artículo 3, y se incumplan las disposiciones de la
+normativa española que, en su caso, resulte aplicable a las mismas.
+Así tenemos como el artículo 3 de la LSSI, sobre “Prestadores de servicios
+establecidos en otro Estado miembro de la Unión Europea o del Espacio Económico
+Europeo”, indica los siguiente:
+1. Sin perjuicio de lo dispuesto en los artículos 7.1 y 8, esta Ley se aplicará a los
+prestadores de servicios de la sociedad de la información establecidos en otro Estado
+miembro de la Unión Europea o del Espacio Económico Europeo cuando el
+destinatario de los servicios radique en España y los servicios afecten a las materias
+siguientes:
+a) Derechos de propiedad intelectual o industrial.
+b) Emisión de publicidad por instituciones de inversión colectiva.
+c) Actividad de seguro directo realizada en régimen de derecho de establecimiento o
+en régimen de libre prestación de servicios.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/5
+
+d) Obligaciones nacidas de los contratos celebrados por personas físicas que tengan
+la condición de consumidores.
+e) Régimen de elección por las partes contratantes de la legislación aplicable a su
+contrato.
+f) Licitud de las comunicaciones comerciales por correo electrónico u otro medio de
+comunicación electrónica equivalente no solicitadas.
+2. En todo caso, la constitución, transmisión, modificación y extinción de derechos
+reales sobre bienes inmuebles sitos en España se sujetará a los requisitos formales
+de validez y eficacia establecidos en el ordenamiento jurídico español.
+3. Los prestadores de servicios a los que se refiere el apartado 1 quedarán igualmente
+sometidos a las normas del ordenamiento jurídico español que regulen las materias
+señaladas en dicho apartado.
+4. No será aplicable lo dispuesto en los apartados anteriores a los supuestos en que,
+de conformidad con las normas reguladoras de las materias enumeradas en el
+apartado 1, no fuera de aplicación la ley del país en que resida o esté establecido el
+destinatario del servicio.
+Mientras que, el artículo 7.1 de la LSSI, sobre el “Principio de libre prestación de
+servicios” indica que:
+1. La prestación de servicios de la sociedad de la información que procedan de un
+prestador establecido en algún Estado miembro de la Unión Europea o del Espacio
+Económico Europeo se realizará en régimen de libre prestación de servicios, sin que
+pueda establecerse ningún tipo de restricciones a los mismos por razones derivadas
+del ámbito normativo coordinado, excepto en los supuestos previstos en los artículos 3
+y 8.
+Y el articulo 8 de la LSSI citado, sobre las “Restricciones a la prestación de servicios y
+procedimiento de cooperación intracomunitario”, indica que:
+1. En caso de que un determinado servicio de la sociedad de la información atente o
+pueda atentar contra los principios que se expresan a continuación, los órganos
+competentes para su protección, en ejercicio de las funciones que tengan legalmente
+atribuidas, podrán adoptar las medidas necesarias para que se interrumpa su
+prestación o para retirar los datos que los vulneran. Los principios a que alude este
+apartado son los siguientes:
+a) La salvaguarda del orden público, la investigación penal, la seguridad pública y la
+defensa nacional.
+b) La protección de la salud pública o de las personas físicas o jurídicas que tengan la
+condición de consumidores o usuarios, incluso cuando actúen como inversores.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/5
+
+c) El respeto a la dignidad de la persona y al principio de no discriminación por
+motivos de raza, sexo, religión, opinión, nacionalidad, discapacidad o cualquier otra
+circunstancia personal o social, y
+d) La protección de la juventud y de la infancia.
+e) La salvaguarda de los derechos de propiedad intelectual.
+(…)
+Por lo tanto, de acuerdo con lo señalado, al estar la compañía FACEBOOK IRELAND
+LIMITED, radicada en territorio irlandés, fuera del ámbito de aplicación de la LSSI
+española, según el artículo 2 de la citada norma y al no estar tampoco incluida en
+ninguno de los supuestos indicados en el artículo 3, sobre los prestadores de servicios
+establecidos en otro Estado miembro de la Unión Europea o del Espacio Económico
+Europeo, a los que se les pudiera aplicar la norma española, debe procederse al
+archivo de las presentes actuaciones.
+Por lo tanto, de acuerdo con lo señalado, ante la falta de competencia de esta
+Agencia, por la Directora de la Agencia Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución a de D. A.A.A.
+De conformidad con lo establecido en el artículo 50 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales
+(LOPDGDD), la presente Resolución se hará pública una vez haya sido notificada al
+interesado.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado por
+el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, y de conformidad con lo establecido en los
+arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los interesados podrán
+interponer, potestativamente, recurso de reposición ante la Directora de la Agencia
+Española de Protección de Datos en el plazo de un mes a contar desde el día
+siguiente a la notificación de esta resolución o directamente recurso contencioso
+administrativo ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional,
+con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de la disposición
+adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción
+Contencioso-Administrativa, en el plazo de dos meses a contar desde el día siguiente
+a la notificación de este acto, según lo previsto en el artículo 46.1 de la referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+
