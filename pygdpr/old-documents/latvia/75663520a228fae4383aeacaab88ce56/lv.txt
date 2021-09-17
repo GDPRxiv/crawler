@@ -1,8 +1,0 @@
-Saskaņā ar Vispārīgās datu aizsardzības regulas nosacījumiem Eiropas Savienības uzraudzības iestādes savstarpēji sadarbojas personas datu aizsardzības nodrošināšanas jautājumos. Svarīgākie mehānismi ir vienas pieturas aģentūras principa īstenošana un Vispārīgās datu aizsardzības regulas konsekventas piemērošanas nodrošināšana.
-Vienas pieturas aģentūras princips paredz, ka datu subjektam ir tiesības savu tiesību realizēšanai un aizsardzībai vērsties ne tikai tajā uzraudzības iestādē, kuras teritorijā darbojas pārzinis, bet arī citas dalībvalsts uzraudzības teritorijā, tajā, kurā ir datu subjekta dzīvesvieta, darba vieta u.tml. Turpmāka sūdzības izskatīšana notiek, uzraudzības iestādēm savstarpēji sadarbojoties, veicot kopīgas izmeklēšanas un citus uzraudzības pasākumus.
-Konsekvences mehānisma galvenais mērķis ir panākt saskaņotu un vienveidīgu Vispārīgās datu aizsardzības regulas piemērošanas nodrošināšanu un šā uzdevumu izpildē koordinatora un gala lēmuma pieņēmēja loma ir Eiropas Datu aizsardzības kolēģijai.
-Eiropas Datu aizsardzības kolēģijas tīmekļvietnē ir pieejams publisks reģistrs, kur pieejami Vispārīgās datu aizsardzības regulas 60.panta ietvaros pieņemto lēmumu kopsavilkumi. 
-Reģistrs pieejams https://edpb.europa.eu/our-work-tools/consistency-findings/register-for-article-60-final-decisions_en 
-! Reģistram ir informatīvs raksturs un tikai vadošās uzraudzības iestādes lēmums dalībvalsts oficiālajā valodā ir autentisks likumīgs informācijas avots.
-
-Avots: Eiropas Datu aizsardzības kolēģija

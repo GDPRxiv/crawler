@@ -1,8 +1,0 @@
-Andmekaitse Inspektsioon (AKI) on saanud pöördumisi tööandjatelt küsimuses, kas tööandjal on õigus koroonaviiruse leviku olukorras nõuda töötajatelt terviseandmeid, et otsustada töötajate tööle lubamine.
-AKI peab vajalikuks selgitada, et nn õigustatud huvi alusel ei tohi töödelda eriliigilisi isikuandmeid, sh terviseandmeid. Seega saab terviseandmete töötlemise õiguslikuks aluseks olla seadusest tulenev alus või inimese nõusolek.
-Seadus näeb ette teatud juhtudel tööandja kohustuse nõuda enne töötaja tööle asumist tervisetõendi esitamist, kuid selline kohustus kehtib vaid teatud valdkondades, nt toidukäitlemine, tervishoid, loomapidamine. (Nakkushaiguste ennetamise ja tõrje seadus § 13). Seni läbiviidud õigusliku analüüsi alusel ei ole valitsusel tõenäoliselt võimalik ka eriolukorra raames sellist töötajate terviseandmete töötlemise õigust tööandjatele luua.
-Samas tuleb praegu silmas pidada, et Terviseameti otsusel piiratakse koroonaviiruse testide läbiviimist ning tasu eest saavad teste teha vaid ilma haigussümptomiteta inimesed. Seega on praktiline võimalus inimeste testimiseks mistahes alusel väga piiratud.
-Seetõttu on äärmiselt oluline, et nii tööandjad kui töötajad lähtuvad enda, teiste ja kogu ühiskonna tervist ja heaolu silmas pidades põhimõttest, et töötaja annab tööandjale vabatahtlikult infot oma tervise kohta ulatuses, mis võimaldab tööandjal korraldada võimalikult ohutu töökorraldus. 
-Märksõnadeks on nagu andmekaitse puhul ikka: nii palju kui vajalik ja nii vähe kui võimalik.
-	 
-

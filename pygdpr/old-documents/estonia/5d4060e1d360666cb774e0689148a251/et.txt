@@ -1,4 +1,0 @@
-Euroopa Liidu ligipääsetavuse direktiivi nõuete kohaselt peavad veebilehed ja mobiilirakendused vastama WCAG 2.1 standardi AA tasemele. See tähendab, et võimalikult paljud ühiskonna liikmed (sh puuetega inimesed, eakad ja lapsed) saavad veebilehti ja rakendusi kasutada. Ligipääsetav veeb AA tasemel tähendab 50 erineva edukriteeriumi täitmist.
-Loe Trinidad Wisemani blogist ligipääsetavuse eksperdi Mari-Ell Metsa soovitusi, kuidas saab alustada mõõdukas tempos oma veebi ligipääsetavaks muutmisega.
- 
-

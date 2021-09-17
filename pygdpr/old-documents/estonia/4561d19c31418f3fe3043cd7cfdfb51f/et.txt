@@ -1,5 +1,0 @@
-Euroopa Andmekaitsenõukogu (EDPB) võttis vastu avalikule konsultatsioonile suunamiseks juhise lõimitud ja vaikimisi andmekaitse rakendamiseks.
-	Lõimitud andmekaitse ühendab kõiki privaatsuse kaitse meetmeid alates isikuandmete töötlust ettevalmistavatest toimingutest kuni protsessi viimase etapini välja. Teisisõnu on see meetmete komplekt kogu andmetöötluse elutsüklis. Lõimitud on omavahel dokumentatsioon ja õiguslikud alused, tehnoloogia ja töökorraldus. Kõik töötlusprotsessi toimingud, mis juhinduvad andmekaitse reeglitest ja põhimõtetest.
-	Vaikimisi andmekaitse on lõimitud andmekaitse üks väljunditest, mille eesmärk on tagada inimesele lahendust lähtuvalt andmetöötluse minimaalsuse ja maksimaalse turvalisuse põhimõtetest. Toodete või teenuste saamiseks küsitavate isikuandmete hulk on nii vähene kui lepingu täitmiseks vajalik, samas antakse inimesele võimalus soovi korral jagada asjasse puutuvad lisaandmeid.
-	Avalikule konsultatsioonile suunatud dokument ootab tagasisidet kuni 16.01.2020. Dokument asub EDPB veebilehel
-

@@ -1,5 +1,0 @@
-EU-domstolen slog igår fast att Privacy Shield-avtalet mellan EU och USA inte ger ett tillräckligt skydd för personuppgifter när dessa förs över till USA. Ogiltigförklarandet av Privacy Shield innebär att det inte längre är tillåtet för personuppgiftsansvariga i EU att med Privacy Shield som grund överföra personuppgifter till mottagare i USA. Domstolen ansåg däremot att Kommissionens beslut om standardavtalsklausuler är giltigt och att sådana kan användas vid överföring till länder utanför EU och EES – i tillämpliga fall – tillsammans med ytterligare skyddsåtgärder.
-Europeiska Dataskyddsstyrelsen, EDPB, har idag haft ett plenarmöte där domen diskuterats. EDPB kommer därefter att närmare analysera domen och överväga hur EDPB ska arbeta vidare med information och vägledning i de frågor som domen aktualiserar.
-Läs EDPB:s uttalande om domen här (på engelska)
-Läs EU-domstolens dom i pdf-format (på engelska)
-uppdatering 200818: länk till EDPB:s nyligen publicerade FAQ

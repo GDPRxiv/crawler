@@ -1,8 +1,0 @@
-Täna, 28. jaanuaril on ülemaailmne isikuandmete kaitse päev, mispuhul jagame soovitusi, kuidas nutiseadmed ebavajalikust puhastada, et oma privaatsust veelgi enam kaitsta.
-Kustuta oma arvutis allalaaditud failide kausta sisu. Sinna salvestuvad kõik failid, mida oled näiteks internetist laadinud. Kausta tühjendamine vähendab võimalust, et hoiad alles enesele teadmata kahtlase sisuga faile, mille juhuslik avamine võib käivitada pahalaste ründetarkvara.
-Tühjenda oma arvuti prügikast. Teatavasti paigutab arvuti kõigepealt kõik Sinu kustutatud failid prügikasti. Seetõttu tasuks aeg ajalt ka prügikasti sisu tühjendada.
-Kustuta oma arvuti veebilehitsejas küpsised. Need on failid, mille abil toimub sinu tegevuse jälgimine kas konkreetsel võrgulehel või erinevatel lehtedel, millel käid. Küpsiste perioodiline kustutamine vähendab ka võimalust tüütute veebireklaamide nägemiseks.
-Kustuta elektronpostkastis kirjad, mille pikemaajalist säilitamist Sa ei pea vajalikuks. Ole tähelepanelik, et kustutaksid eraldi ka kustutamisele mõeldud kirjade kausta. Nii vähendad võimalust, et oled kogemata alles hoidnud Sinu andmete õngitsemiseks või muud ründesisuga kirjad.
-Kustuta nutiseadmes rakendused, mida Sa pole pikalt kasutanud. See annab märku, et konkreetne rakendus ei ole Sulle tegelikult vajalik. Teatavasti koguvad enamus rakendusi vähem või rohkem teavet Sinu nutiseadme sisu või sinu liikumisharjumuste kohta. Kasutust mitteleidnud rakenduste kustutamisega vähendad võimalust, et Sinu aadressiraamatu sisu või pildid hakkavad internetiavarustes oma elu elama.
-Ühesõnaga, vaata juba täna üle, millist aegunud ja mittevajalikku infot hoiavad alles Sinu kodused nutiseadmed, sest kõik üleliigne võib Sinu privaatsusele ohtu kujutada.
-
