@@ -29,6 +29,7 @@ class Ireland(DPA):
             "host": "https://www.dataprotection.ie",
             # "start_path": "/en/news-media/press-releases"
             "start_path": "/en/news-media/latest-news"
+           
         }
         host = source['host']
         start_path = source['start_path']
@@ -132,6 +133,8 @@ class Ireland(DPA):
                     pass
                 if document_response is None:
                     continue
+                # Here is where we parse the document_url page (which is the new page containg the text or another link)
+                # TODO: Write code to examine the pdf's, which are the publications
                 document_soup = BeautifulSoup(document_response.text, 'html.parser')
                 assert document_soup
                 field_name_body = document_soup.find('div', class_='field--name-body')
