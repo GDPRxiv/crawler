@@ -67,10 +67,18 @@ class Ireland(DPA):
             pass
         return results_response
 
+    def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
+        added_docs = []
+        # call all the get_docs_X() functions
+        added_docs += self.get_docs_News(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Decisions(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Judgements(existing_docs=[], overwrite=False, to_print=True)
+        return added_docs
+
+
     def get_docs_News(self, existing_docs=[], overwrite=False, to_print=True):
 
         existed_docs = []
-        added_docs = []
         pagination = self.update_pagination()
         # s0. Pagination
         while pagination.has_next():
@@ -112,11 +120,9 @@ class Ireland(DPA):
                 date_str = date_str[:match.start(date_suffix_group_num)] + date_str[match.end(date_suffix_group_num):]
                 tmp = datetime.datetime.strptime(date_str, '%d %B %Y')
                 date = datetime.date(tmp.year, tmp.month, tmp.day)
-
                 if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
                     #print('ShouldRetainDocumentSpecification is false')
                     continue
-
                 h2 = article.find('h2')
                 assert h2
                 result_link = h2.find('a')
@@ -178,16 +184,16 @@ class Ireland(DPA):
                         'url': document_url
                     }
                     json.dump(metadata, f, indent=4, sort_keys=True)
-                added_docs.append(document_hash)
+                existed_docs.append(document_hash)
 
-                existed_docs.append(document_hash)#added
+                #existed_docs.append(document_hash)#added
 
             pagination = self.update_pagination(pagination, page_soup=results_soup)
 
-        return added_docs
+        return existed_docs
 
     def get_docs_Decisions(self, existing_docs=[], overwrite=False, to_print=True):
-        added_docs = []
+        existed_docs = []
         source = {
             "host": "https://www.dataprotection.ie",
             "start_path": "/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018"
@@ -318,17 +324,19 @@ class Ireland(DPA):
                         'full_url': full_document_link
                     }
                     json.dump(metadata, f, indent=5, sort_keys=True)
+                existed_docs.append(document_hash)
             print('\n')
 
-        return added_docs
+
+        return existed_docs
 
 
 
     def get_docs_Judgements(self, existing_docs=[], overwrite=False, to_print=True):
-
+        # please add your webdriver path in side the ()
         driver = webdriver.Chrome('/Users/chen/Downloads/chromedriver')
 
-        added_docs = []
+        existed_docs = []
         source = {
             "host": "https://www.dataprotection.ie",
             "start_path": "/en/dpc-guidance/law/judgments"
@@ -494,6 +502,6 @@ class Ireland(DPA):
                             'url': document_url
                         }
                         json.dump(metadata, f, indent=4, sort_keys=True)
-                    added_docs.append(document_hash)
+                    existed_docs.append(document_hash)
                     print('\n')
-        return added_docs
+        return existed_docs
