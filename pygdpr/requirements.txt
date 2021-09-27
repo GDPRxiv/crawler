@@ -10,5 +10,3 @@ selenium==3.141.0
 graphviz==0.14
 imblearn==0.0
 price-parser==0.3.4
-
-

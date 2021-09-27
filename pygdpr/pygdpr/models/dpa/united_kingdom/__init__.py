@@ -78,7 +78,7 @@ class UnitedKingdom(DPA):
             assert resultlist
             # s1. Results
             for itemlink in resultlist.find_all('div', class_='itemlink'):
-                #time.sleep(5)
+                time.sleep(5)
                 result_link = itemlink.find('a')
                 assert result_link
                 text_small = itemlink.find('p', class_='text-small')
