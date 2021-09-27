@@ -26,7 +26,8 @@ class UnitedKingdom(DPA):
         source = {
             "host": "https://icosearch.ico.org.uk",
             # "start_path": "/action-weve-taken/enforcement/?rows=1000000"
-            "start_path": "/s/search.html?collection=ico-meta&profile=decisions&query&start_rank=1626"
+            # "start_path": "/s/search.html?collection=ico-meta&profile=decisions&query&start_rank=1626"
+            "start_path": "/s/search.html?collection=ico-meta&profile=decisions&query&query=GDPR"
         }
         host = source['host']
         start_path = source['start_path']
