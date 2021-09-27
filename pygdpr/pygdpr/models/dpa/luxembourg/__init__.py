@@ -17,6 +17,9 @@ from pygdpr.models.common.pagination import Pagination
 from pygdpr.policies.gdpr_policy import GDPRPolicy
 import textract
 
+
+
+
 class Luxembourg(DPA):
     def __init__(self, path=os.curdir):
         country_code='lu'

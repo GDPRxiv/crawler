@@ -1,6 +1,8 @@
 import os
 import io
 import shutil
+
+import pytesseract
 from pdfminer.converter import TextConverter
 from pdfminer.converter import PDFPageAggregator
 
@@ -19,13 +21,15 @@ from .filename_from_path_service import filename_from_path_service
 
 TMP_PATH = '/tmp'
 
+pytesseract.pytesseract.tesseract_cmd = r'/usr/local/Cellar/tesseract/4.1.1/bin/tesseract'
+
 class PDFToTextService:
     # subroutine
     def text_from_pdf_images_path(self, path):
         if PDFFileExtensionSpecification().is_satisfied_by(path) is False:
             raise ValueError("path is not of type pdf")
 
-        pages = convert_from_path(path, 500)
+        pages = convert_from_path(path, 500, poppler_path=r'/usr/local/Cellar/poppler/21.09.0/bin')
 
         if len(pages) == 0:
             return None

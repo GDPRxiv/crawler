@@ -26,7 +26,8 @@ class UnitedKingdom(DPA):
         source = {
             "host": "https://icosearch.ico.org.uk",
             # "start_path": "/action-weve-taken/enforcement/?rows=1000000"
-            "start_path": "/s/search.html?collection=ico-meta&profile=decisions&query&start_rank=1626"
+            # "start_path": "/s/search.html?collection=ico-meta&profile=decisions&query&start_rank=1626"
+            "start_path": "/s/search.html?collection=ico-meta&profile=decisions&query&query=GDPR"
         }
         host = source['host']
         start_path = source['start_path']
@@ -77,7 +78,7 @@ class UnitedKingdom(DPA):
             assert resultlist
             # s1. Results
             for itemlink in resultlist.find_all('div', class_='itemlink'):
-                time.sleep(5)
+                #time.sleep(5)
                 result_link = itemlink.find('a')
                 assert result_link
                 text_small = itemlink.find('p', class_='text-small')
