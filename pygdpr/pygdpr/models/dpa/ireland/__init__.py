@@ -58,6 +58,7 @@ class Ireland(DPA):
         return pagination
 
     # Fixed bug resulting in broken 'next page' links
+    # Use this for get_docs_Blogs
     def update_pagination_noStart(self, pagination=None, page_soup=None, driver=None):
         # ireland has two (official/primary) sources:
         # press releases and (latest) news.
@@ -657,4 +658,153 @@ class Ireland(DPA):
             pagination = self.update_pagination_noStart(pagination, page_soup=results_soup)
 
         return added_docs
+
+    # Doesn't include financial accounts
+    # This scraper method doesn't use update_pagination and update_pagination_noStart
+    # TODO: Examine bug where self.path is the path of user who most recently pushed to remote repo
+    def get_docs_Publications(self, existing_docs=[], overwrite=False, to_print=True):
+        added_docs = []
+
+        page_url = "https://www.dataprotection.ie/en/dpc-guidance/publications"
+        if to_print:
+            print('Page:\t', page_url)
+        page_source = self.get_source(page_url=page_url)
+        if page_source is None:
+            sys.exit("Couldn't obtain page_source from page_url")
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+
+        # view-content section contains articles within
+        view_content = results_soup.find('div', class_='view-content')
+        assert view_content
+
+        # TODO: Refactor code
+        # For each article on this page
+        for article in view_content.find_all('article', recursive=True):
+            time.sleep(5)
+            article = article
+            assert article
+            p_date = article.find('p', class_='date')
+            assert p_date
+            date_str = p_date.get_text().strip()
+            regex = r"(\d\d)(st|nd|rd|th) (\w*) (\d\d\d\d)"
+
+            matches = re.finditer(regex, date_str)
+            matches = list(matches)
+            if len(matches) == 0:
+                continue
+            match = matches[0]
+            groups = match.groups()
+            date_suffix_group_num = 2
+            date_str = date_str[:match.start(date_suffix_group_num)] + date_str[match.end(date_suffix_group_num):]
+            tmp = datetime.datetime.strptime(date_str, '%d %B %Y')
+            date = datetime.date(tmp.year, tmp.month, tmp.day)
+            if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                continue
+            h2 = article.find('h2')
+            assert h2
+            result_link = h2.find('a')
+            assert result_link
+            # s2. Documents
+            document_title = result_link.get_text()
+            document_hash = hashlib.md5(document_title.encode()).hexdigest()
+            if document_hash in existing_docs and overwrite == False:
+                if to_print:
+                    print('\tSkipping existing document:\t', document_hash)
+                continue
+
+            document_href = result_link.get('href')
+            assert document_href
+            host = "https://www.dataprotection.ie"
+            document_url = host + document_href
+            if to_print:
+                print("\tDocument:\t", document_hash)
+            document_response = None
+            try:
+                document_response = requests.request('GET', document_url)
+                document_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                if to_print:
+                    print(error)
+                pass
+            if document_response is None:
+                continue
+
+            # Create next page parse object -> visit pdf link from here
+            document_soup = BeautifulSoup(document_response.text, 'html.parser')
+            assert document_soup
+
+            content = document_soup.find('div', class_='content')
+            assert content
+            pdf_article = content.find('div', class_='clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item')
+            assert pdf_article
+            pdf_link = pdf_article.find('a')
+            assert pdf_link
+            pdf_href = pdf_link.get('href')
+            assert pdf_href
+
+            # If the pdf_href contains the full link, then that is the pdf_url
+            if "https://www.dataprotection.ie" in pdf_href:
+                pdf_url = pdf_href
+            # Otherwise, the href just has the extension to add on to the host link
+            else:
+                pdf_url = host + pdf_href
+            print(pdf_url)
+
+            # Now try to open the pdf_url
+            if to_print:
+                print("\tPDF Document:\t", document_hash)
+            pdf_response = None
+            try:
+                pdf_response = requests.request('GET', pdf_url)
+                pdf_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                if to_print:
+                    print(error)
+                pass
+            if pdf_response is None:
+                continue
+
+            # Make sure that self.path is not the path of the most recent user who pushed to git
+            dpa_folder = self.path
+
+            # Set dpa_folder to 'ireland' if you are experiencing the self.path bug (temporary solution)
+            # dpa_folder = 'ireland'
+
+            # For now, store the pdf in the folder for the page that links to the pdf
+            document_folder = dpa_folder + '/' + 'Publications' + '/' + document_hash
+
+            #field_name_body = document_soup.find('div', class_='field--name-body')
+            #assert field_name_body
+            #document_text = field_name_body.get_text()
+            #dpa_folder = self.path
+            #document_folder = dpa_folder + '/' + document_hash
+
+            try:
+                os.makedirs(document_folder)
+            except FileExistsError:
+                pass
+            # Write pdf_response contents to the pdf files in the folder
+            with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                f.write(pdf_response.content)
+            # Include a .txt file with pdf contents
+            with open(document_folder + '/' + self.language_code + '.txt', 'w') as f:
+                full_document_text = PDFToTextService().text_from_pdf_path(
+                    document_folder + '/' + self.language_code + '.pdf')
+                f.write(full_document_text)
+
+            with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                metadata = {
+                    'title': {
+                        self.language_code: document_title
+                    },
+                    'md5': document_hash,
+                    'releaseDate': date.strftime('%d/%m/%Y'),
+                    'url': document_url
+                }
+                json.dump(metadata, f, indent=4, sort_keys=True)
+            added_docs.append(document_hash)
+
+        return added_docs
+
 
