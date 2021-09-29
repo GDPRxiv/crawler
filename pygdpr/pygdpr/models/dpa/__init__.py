@@ -103,6 +103,7 @@ class DPA(object):
         self.email = dpa['email']
         self.website = dpa['website']
         self.member = dpa['member']
+        # Watch out for this path changing between users and the remote repo!!!
         self.path = '/Users/evanjacobs/Desktop/research_project/gdpr-sota/pygdpr' + path
         self.translate_client = None
 
