@@ -6,8 +6,12 @@ from pygdpr.models.dpa.austria import *
 #dpa = UnitedKingdom(path)
 #path = "./ireland"
 
-path = "/austria"
-dpa = Austria(path)
-dpa.get_docs_Decisions()
+#path = "/austria"
+#dpa = Austria(path)
+#dpa.get_docs_Decisions()
+
+path = "/ireland"
+dpa = Ireland(path)
+dpa.get_docs_Guidances_v1()
 
 

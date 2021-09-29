@@ -369,8 +369,6 @@ class Ireland(DPA):
 
         return existed_docs
 
-
-
     def get_docs_Judgements(self, existing_docs=[], overwrite=False, to_print=True):
         # please add your webdriver path in side the ()
         driver = webdriver.Chrome('/Users/chen/Downloads/chromedriver')
@@ -545,8 +543,6 @@ class Ireland(DPA):
                     print('\n')
         return existed_docs
 
-    # This scraper is modified to suit https://www.dataprotection.ie/en/dpc-guidance/blogs
-    # TODO: Examine bug where self.path is the path of user who most recently pushed to remote repo
     def get_docs_Blogs(self, existing_docs=[], overwrite=False, to_print=True):
         added_docs = []
         pagination = self.update_pagination_noStart()
@@ -563,14 +559,9 @@ class Ireland(DPA):
             view_content = results_soup.find('div', class_='view-content')
             assert view_content
 
-            # For https://www.dataprotection.ie/en/dpc-guidance/blogs, the articles are found under the view_content class,
-            # each located at view-row. Thus we iterate through views-row to find data for each article.
-
-            #item_list = view_content.find('div', class_='item-list')
-            #assert item_list
-            #ul = item_list.find('ul')
-            #assert ul
-            # s1. Results
+            # For https://www.dataprotection.ie/en/dpc-guidance/blogs, the articles are found under the
+            # view_content class, each located at view-row. Thus we iterate through views-row to find data
+            # for each article.
 
             # Iterate through view_content to get articles
             for li in view_content.find_all('div', recursive=False):
@@ -630,9 +621,6 @@ class Ireland(DPA):
                 # Make sure that self.path is not the path of the most recent user who pushed to git
                 dpa_folder = self.path
 
-                # Set dpa_folder to 'ireland' if you are experiencing the self.path bug (temporary solution)
-                # dpa_folder = 'ireland'
-
                 # Set document folder as ireland/blogs/document_hash
                 document_folder = dpa_folder + '/' + 'Blogs' + '/' + document_hash
                 try:
@@ -661,7 +649,6 @@ class Ireland(DPA):
 
     # Doesn't include financial accounts
     # This scraper method doesn't use update_pagination and update_pagination_noStart
-    # TODO: Examine bug where self.path is the path of user who most recently pushed to remote repo
     def get_docs_Publications(self, existing_docs=[], overwrite=False, to_print=True):
         added_docs = []
 
@@ -768,17 +755,8 @@ class Ireland(DPA):
             # Make sure that self.path is not the path of the most recent user who pushed to git
             dpa_folder = self.path
 
-            # Set dpa_folder to 'ireland' if you are experiencing the self.path bug (temporary solution)
-            # dpa_folder = 'ireland'
-
             # For now, store the pdf in the folder for the page that links to the pdf
             document_folder = dpa_folder + '/' + 'Publications' + '/' + document_hash
-
-            #field_name_body = document_soup.find('div', class_='field--name-body')
-            #assert field_name_body
-            #document_text = field_name_body.get_text()
-            #dpa_folder = self.path
-            #document_folder = dpa_folder + '/' + document_hash
 
             try:
                 os.makedirs(document_folder)
@@ -807,4 +785,193 @@ class Ireland(DPA):
 
         return added_docs
 
+    # A big error message with this line: ConnectionRefusedError: [Errno 61] Connection refused,
+    # probably means that there is an issue with href that causes the document url to be broken.
 
+    # Doesn't visit any links that lead to external edpb.europa.eu or ec.europa.eu sites
+    def get_docs_Guidances_v1(self, existing_docs=[], overwrite=False, to_print=True):
+        added_docs = []
+        page_url = "https://www.dataprotection.ie/en/dpc-guidance"
+        if to_print:
+            print('Page:\t', page_url)
+        page_source = self.get_source(page_url=page_url)
+        if page_source is None:
+            sys.exit("Couldn't obtain page_source from page_url")
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+        view_content = results_soup.find('div', class_='card')
+        assert view_content
+
+        # Iterate through ul and li to get the articles (note, set recursive=True here to examine everything past scope)
+        for ul in view_content.find_all('ul', recursive=True):
+            # This will iterate through ALL li's -> even the ones within the scope of another li
+            # (gets the very last links of the guidance page)
+            for li in ul.find_all('li', recursive=True):
+                time.sleep(5)
+
+                # If there are multiple href links, get the second one only (first tends to be junk)
+                if (len(li.find_all('a')) == 2):
+                    article = li.find_all('a')[1]
+                else:
+                    article = li.find('a')
+
+                assert article
+
+                # The article object already contains the link
+                result_link = article
+                assert result_link
+                # s2. Documents
+                document_title = result_link.get_text()
+                document_hash = hashlib.md5(document_title.encode()).hexdigest()
+                if document_hash in existing_docs and overwrite == False:
+                    if to_print:
+                        print('\tSkipping existing document:\t', document_hash)
+                    continue
+                document_href = result_link.get('href')
+                assert document_href
+
+                # If 'href' is a link that goes to the external edpb or ec.europa site, skip it
+                # Otherwise conditionally check if 'href' is a full link that starts with https://www.dataprotection.ie
+                # If so, document_url = href, since the href is the full link and not just the extension
+                if "https://edpb.europa.eu" in document_href:
+                    continue
+                if "ec.europa.eu" in document_href:
+                    continue
+                elif "https://www.dataprotection.ie" in document_href:
+                    document_url = document_href
+                else:
+                    host = "https://www.dataprotection.ie"
+                    document_url = host + document_href
+
+                # Skip current iteration if forbidden url (right now, just have to match the exact url)
+                # TODO: Provide way to check if link if forbidden in a non-hardcoded way
+                if document_url == "https://www.dataprotection.ie/en/dpc-guidance/transfers-personal-data-ireland-uk-event-no-deal-brexit":
+                    continue
+
+                if to_print:
+                    print("\tDocument:\t", document_hash)
+                document_response = None
+                try:
+                    document_response = requests.request('GET', document_url)
+                    document_response.raise_for_status()
+                except requests.exceptions.HTTPError as error:
+                    if to_print:
+                        print(error)
+                    pass
+                if document_response is None:
+                    continue
+
+                # Create the next page parse object -> download pdf from link it it exists
+                document_soup = BeautifulSoup(document_response.text, 'html.parser')
+                assert document_soup
+
+                # Look for pdf links
+                # Set potential_link to empty be default
+                potential_link = []
+                try:
+                    content = document_soup.find('div', class_='content')
+                    assert content
+                    potential_link_area = content.find('div', class_='clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item')
+                    assert potential_link_area
+                    potential_link = potential_link_area.find_all('a', recursive=True)
+                    assert potential_link
+                    for a in potential_link:
+                        pdf_href_test = a.get('href')
+                        assert pdf_href_test
+                except AssertionError:
+                    pass
+                else:
+                    potential_link = potential_link_area.find_all('a', recursive=True)
+
+                # If potential_link is not empty, iterate through its tag objects and look for pdf links
+                pdf_counter = 1
+                for a in potential_link:
+                    pdf_href = a.get('href')
+                    # Determine if the found link leads to a pdf
+                    if isinstance(pdf_href, str):
+                        if ".pdf" in pdf_href:
+                            # If the pdf_href contains the full link, then that is the pdf_url
+                            if "https://www.dataprotection.ie" in pdf_href:
+                                pdf_url = pdf_href
+                            # Otherwise, the href just has the extension to add on to the host link
+                            else:
+                                pdf_url = "https://www.dataprotection.ie" + pdf_href
+
+                            # Broken links
+                            if pdf_url == 'https://www.dataprotection.iehttps://uat.dataprotection.ie/sites/default/files/uploads/2020-12/Brexit%20FAQ_Dec20.pdf':
+                                continue
+                            if pdf_url == "https://www.dataprotection.ie/sites/default/files/uploads/2020-04/Guide%20for%20Individuals%20Working%20Remotely_0_1.pdf":
+                                continue
+
+                            # Now try to open the pdf_url
+                            #if to_print:
+                                # TODO: Put pdf document hash here
+                                #print("\tPDF Document:\t", "place specific pdf doc hash here")
+
+                            pdf_response = None
+                            try:
+                                pdf_response = requests.request('GET', pdf_url)
+                                pdf_response.raise_for_status()
+                            except requests.exceptions.HTTPError as error:
+                                if to_print:
+                                    print(error)
+                                pass
+                            # Except the other potential errors -> don't let it crash program
+                            except:
+                                pass
+
+                            if pdf_response is None:
+                                continue
+
+                            # We have the pdf_response object -> now download its contents
+                            dpa_folder = self.path
+                            # For now, store the pdf in the folder for the page that links to the pdf
+                            document_folder = dpa_folder + '/' + "Guidances" + '/' + document_hash
+
+                            try:
+                                os.makedirs(document_folder)
+                            except FileExistsError:
+                                pass
+                            # Write pdf_response contents to the pdf files in the folder
+                            with open(document_folder + '/' + self.language_code + str(pdf_counter) + '.pdf', 'wb') as f:
+                                f.write(pdf_response.content)
+                            # Include a .txt file with pdf contents
+                            with open(document_folder + '/' + self.language_code + str(pdf_counter) + '.txt', 'w') as f:
+                                full_document_text = PDFToTextService().text_from_pdf_path(
+                                    document_folder + '/' + self.language_code + str(pdf_counter) + '.pdf')
+                                f.write(full_document_text)
+
+                            pdf_counter = pdf_counter + 1
+
+                            added_docs.append(document_hash)
+                        else:
+                            pass
+                    else:
+                        pass
+
+                # Download text from the page as usual
+                field_name_body = document_soup.find('div', class_='field--name-body')
+                assert field_name_body
+                document_text = field_name_body.get_text()
+                dpa_folder = self.path
+                document_folder = dpa_folder + '/' "Guidances" + '/' + document_hash
+                try:
+                    os.makedirs(document_folder)
+                except FileExistsError:
+                    pass
+                with open(document_folder + '/' + self.language_code + 'Summary' + '.txt', 'w') as f:
+                    f.write(document_text)
+                with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                    metadata = {
+                        'title': {
+                            self.language_code: document_title
+                        },
+                        'md5': document_hash,
+                        # Can't use the "date" variable
+                        'releaseDate': "Not available with current webpage",
+                        'url': document_url
+                    }
+                    json.dump(metadata, f, indent=4, sort_keys=True)
+                added_docs.append(document_hash)
+
+        return added_docs
