@@ -12,17 +12,17 @@ from pygdpr.models.dpa.bulgaria import *
 #dpa = UnitedKingdom(path)
 #path = "./ireland"
 
-path = "/austria"
-dpa = Austria(path)
-dpa.get_docs_Decisions()
+#path = "/austria"
+#dpa = Austria(path)
+#dpa.get_docs_Decisions()
 
 #path = "/ireland"
 #dpa = Ireland(path)
 #dpa.get_docs_Guidances_v1()
 
-#path = "/belgium"
-#dpa = Belgium(path)
-#dpa.get_docs_Decisions_v1()
+path = "/belgium"
+dpa = Belgium(path)
+dpa.get_docs_Decisions_v2()
 
 
 #path = "/ireland"
