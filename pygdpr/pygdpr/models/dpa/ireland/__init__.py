@@ -498,7 +498,7 @@ class Ireland(DPA):
                                 self.language_code: document_title
                             },
                             'md5': document_hash,
-                            'releaseDate': date.strftime('%d/%m/%Y') + "    (default date: 05/25/2018)",
+                            'releaseDate': date.strftime('%d/%m/%Y') + "    (default date: 25/05/2018)",
                             'url': document_url
                         }
                         json.dump(metadata, f, indent=4, sort_keys=True)

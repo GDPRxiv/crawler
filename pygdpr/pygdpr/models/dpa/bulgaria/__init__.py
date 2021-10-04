@@ -24,7 +24,7 @@ class Bulgaria(DPA):
     def update_pagination(self, pagination=None, page_soup=None, driver=None):
         source = {
             'host': 'https://www.cpdp.bg',
-            'start_path': '/index.php?p=rubric_element&aid=1180'
+            'start_path': '/index.php?p=rubric&aid=3'
         }
         host = source['host']
         start_path = source['start_path']
@@ -67,6 +67,7 @@ class Bulgaria(DPA):
             assert results_soup
             center_part = results_soup.find('div', class_='center-part')
             assert center_part
+
             # s1. results
             for div in center_part.find_all('div', class_='news-home'):
                 news_content = div.find('div', class_='news-content')
