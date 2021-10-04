@@ -28,7 +28,8 @@ class Belgium(DPA):
             source = {
                 "host": "https://www.autoriteprotectiondonnees.be",
                 # "start_path": "/citoyen/chercher?q=&search_type%5B%5D=press_release&s=recent"
-                "start_path": "/citoyen/chercher?q=&search_category%5B%5D=taxonomy%3Apublications&search_type%5B%5D=advice&s=recent&l=25&p=0#search-results"
+                # "start_path": "/citoyen/chercher?q=&search_category%5B%5D=taxonomy%3Apublications&search_type%5B%5D=advice&s=recent&l=25&p=0#search-results"
+                "start_path": "/citoyen/chercher?q=&search_category%5B%5D=taxonomy%3Apublications&search_type%5B%5D=decision&search_subtype%5B%5D=taxonomy%3Adispute_chamber_substance_decisions&s=recent&l=25"
             }
             host = source['host']
             start_path = source['start_path']
@@ -56,9 +57,11 @@ class Belgium(DPA):
             pass
         return results_response
 
-    def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_Decisions_v1(self, existing_docs=[], overwrite=False, to_print=True):
         added_docs = []
         pagination = self.update_pagination()
+
+        iteration_number = 1
         # s0. Pagination
         while pagination.has_next():
             page_url = pagination.get_next()
@@ -75,6 +78,8 @@ class Belgium(DPA):
             for media in search_result.find_all('div', class_='media'):
                 time.sleep(5)
                 media_title = media.find('h3', class_='media-title')
+                print("------------ Document " + str(iteration_number) + " ------------")
+                iteration_number += 1
                 print('title:', media_title)
                 assert media_title
                 result_link = media_title.find('a')
@@ -126,13 +131,14 @@ class Belgium(DPA):
                         media_date = media.find('span', class_="media-date")
                         assert media_date
                         year = int(media_date.get_text())
-                        if year < 2018: continue
+                        if year < 2018:
+                            continue
                     else:
                         date = datetime.date(tmp.year, tmp.month, tmp.day)
                         if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
                             continue
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + document_hash
+                document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:

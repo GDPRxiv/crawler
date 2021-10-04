@@ -16,6 +16,8 @@ from pygdpr.models.common.pagination import Pagination
 from pygdpr.specifications.root_document_specification import RootDocumentSpecification
 from pygdpr.policies.gdpr_policy import GDPRPolicy
 
+import sys
+
 class Austria(DPA):
     def __init__(self, path=os.curdir):
         country_code='AT'
@@ -49,7 +51,7 @@ class Austria(DPA):
 
         return pagination
 
-    def get_source(self, page_url=None, driver=None):
+    def get_source(self, page_url=None, driver=None, to_print=True):
         assert (page_url is not None)
         results_response = None
         try:
@@ -146,4 +148,137 @@ class Austria(DPA):
 
             # s0. Pagination
             pagination = self.update_pagination(pagination=pagination, page_soup=page_soup)
+        return added_docs
+
+    # TODO: Get title and date for each document (which will let us create the document_hash as well and filter for date)
+    # Using an iterator counter to keep track of documents for now
+    def get_docs_AnnualReports(self, existing_docs=[], overwrite=False, to_print=True):
+        added_docs = []
+
+        page_url = "https://www.dsb.gv.at/download-links/dokumente.html"
+        if to_print:
+            print('Page:\t', page_url)
+        page_source = self.get_source(page_url)
+        if page_source is None:
+            sys.exit("Couldn't obtain page_source from page_url")
+        page_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert page_soup
+
+        body = page_soup.find('body', class_='template-article')
+        assert body
+        main = body.find('main', class_='col-12 content col-xl-9')
+        assert main
+        span_soup = main.find('span', class_='richtext_output')
+        assert span_soup
+        ul_list = span_soup.find_all('ul')
+        assert ul_list
+        # s1. Results
+
+        iteration = 1
+        for ul in ul_list[5:8]:
+            for li in ul.find_all('li'):
+                assert li
+
+                #date_str = td_list[date_index].get_text()
+                #tmp = datetime.datetime.strptime(date_str, '%d.%m.%Y')
+                #date = datetime.date(tmp.year, tmp.month, tmp.day)
+                #if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                    #continue
+
+                result_link = li.find('a')
+                assert result_link
+
+                document_title = "Document" + str(iteration)
+                assert document_title
+                document_hash = hashlib.md5(document_title.encode()).hexdigest()
+                if document_hash in existing_docs and overwrite == False:
+                    if to_print:
+                        print('\tSkipping existing document:\t', document_hash)
+                    continue
+                document_href = result_link.get('href')
+                assert document_href
+
+                if ".pdf" in document_href:
+                    document_url = "https://www.dsb.gv.at" + document_href
+                else:
+                    document_url = document_href
+
+                print("      Document url:" + document_url)
+
+                if to_print:
+                    print("\tDocument:\t", "put document_hash here")
+                document_response = None
+                try:
+                    document_response = requests.request('GET', document_url)
+                    document_response.raise_for_status()
+                except requests.exceptions.HTTPError as error:
+                    if to_print:
+                        print(error)
+                    pass
+                if document_response is None:
+                    continue
+
+                if '.pdf' in document_url:
+                    document_content = document_response.content
+                    dpa_folder = self.path
+                    document_folder = dpa_folder + '/' 'AnnualReports' + '/' + document_hash
+                    try:
+                        os.makedirs(document_folder)
+                    except FileExistsError:
+                        pass
+
+                    with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                        f.write(document_content)
+                    with open(document_folder + '/' + self.language_code + '.txt', 'wb') as f:
+                        document_text = textract.process(document_folder + '/' + self.language_code + '.pdf')
+                        f.write(document_text)
+
+                    added_docs.append(document_hash)
+                    iteration += 1
+                    continue
+
+                document_soup = BeautifulSoup(document_response.text, 'html.parser')
+                assert document_soup
+
+                if '.html' in document_url:
+                    document_paper = document_soup.find('div', class_='paperw')
+                    assert document_paper
+                    document_text = document_paper.get_text()
+                elif 'eur-lex.europa.eu' in document_url:
+                    document_clear = document_soup.find('div', class_='Wrapper clearfix')
+                    assert document_clear
+                    document_area = document_clear.find('div', class_='col-md-9')
+                    assert document_area
+                    document_page = document_area.find('div', class_='tabContent')
+                    assert document_page
+                    document_text = document_page.get_text()
+                else:
+                    document_div = document_soup.find('div', class_='aspNetHidden')
+                    assert document_div
+                    field_name_body = document_soup.find('div', class_='document', recursive=True)
+                    assert field_name_body
+                    document_text = field_name_body.get_text()
+
+                dpa_folder = self.path
+                document_folder = dpa_folder + '/' 'AnnualReports' + '/' + document_hash
+                try:
+                    os.makedirs(document_folder)
+                except FileExistsError:
+                    pass
+
+                with open(document_folder + '/' + self.language_code + '.txt', 'w') as f:
+                    f.write(document_text)
+                with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                    metadata = {
+                        'title': {
+                            self.language_code: document_title,
+                        },
+                        'md5': document_hash,
+                        'releaseDate': "(Put date here)", #date.strftime('%d/%m/%Y'),
+                        'url': document_url
+                    }
+                    json.dump(metadata, f, indent=4, sort_keys=True)
+                added_docs.append(document_hash) #put doc hash in here
+                iteration += 1
+
         return added_docs
