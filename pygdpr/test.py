@@ -22,7 +22,7 @@ from pygdpr.models.dpa.bulgaria import *
 
 path = "/belgium"
 dpa = Belgium(path)
-dpa.get_docs_Decisions_v2()
+dpa.get_docs_Opinions()
 
 
 #path = "/ireland"

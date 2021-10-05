@@ -39,7 +39,8 @@ class Belgium(DPA):
             if pager is not None:
                 for li in pager.find_all('li', class_='page-item'):
                     page_link = li.find('a')
-                    if page_link is None: continue
+                    if page_link is None:
+                        continue
                     host = "https://www.autoriteprotectiondonnees.be"
                     page_href = page_link.get('href')
                     page_url = host + page_href
@@ -240,6 +241,8 @@ class Belgium(DPA):
                     date_str = document_title.split(' du ')[-1]
                     print("date_str:", date_str)
                     tmp = dateparser.parse(date_str, languages=[self.language_code])
+
+                    # Conditional checks for document date
                     if tmp is None:
                         media_date = media.find('span', class_="media-date")
                         assert media_date
@@ -252,6 +255,120 @@ class Belgium(DPA):
                             continue
                 dpa_folder = self.path
                 document_folder = dpa_folder + '/' + 'Decisions 2' + '/' + document_hash
+                try:
+                    os.makedirs(document_folder)
+                except FileExistsError:
+                    pass
+                with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                    f.write(document_response.content)
+                if document_url.endswith('.pdf'):
+                    with open(document_folder + '/' + self.language_code + '.txt', 'wb') as f:
+                        document_text = textract.process(document_folder + '/' + self.language_code + '.pdf')
+                        f.write(document_text)
+                else:
+                    with open(document_folder + '/' + self.language_code + '.txt', 'w') as f:
+                        f.write(document_text)
+                with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                    metadata = {
+                        'title': {
+                            self.language_code: document_title
+                        },
+                        'md5': document_hash,
+                        'releaseDate': date.strftime('%d/%m/%Y'),
+                        'url': document_url
+                    }
+                    json.dump(metadata, f, indent=4, sort_keys=True)
+                added_docs.append(document_hash)
+            # s0. Pagination
+            pagination = self.update_pagination(pagination=pagination, page_soup=page_soup)
+        return added_docs
+
+    # TODO: Figure out why the scraper only gets 19 docs
+    # Gets all documents located at opinions link
+    def get_docs_Opinions(self, existing_docs=[], overwrite=False, to_print=True):
+        print("------------ GETTING OPINIONS ------------")
+        added_docs = []
+        pagination = self.update_pagination(host_link_input="https://www.autoriteprotectiondonnees.be",
+                                            start_path_input="/citoyen/chercher?q=GDPR&search_category%5B%5D=taxonomy%3Apublications&search_type%5B%5D=advice&s=recent&l=50")
+
+        iteration_number = 1
+        # s0. Pagination
+        while pagination.has_next():
+            page_url = pagination.get_next()
+            if to_print:
+                print('Page:\t', page_url)
+            page_source = self.get_source(page_url)
+            if page_source is None:
+                continue
+            page_soup = BeautifulSoup(page_source.text, 'html.parser')
+            assert page_soup
+            search_result = page_soup.find('div', id='search-result')
+            assert search_result
+            # s1. Results
+            for media in search_result.find_all('div', class_='media'):
+                time.sleep(5)
+                media_title = media.find('h3', class_='media-title')
+                print("------------ Document " + str(iteration_number) + " ------------")
+                iteration_number += 1
+                print('title:', media_title)
+                assert media_title
+                result_link = media_title.find('a')
+                # s2. Documents
+                document_title = result_link.get_text()
+                document_hash = hashlib.md5(document_title.encode()).hexdigest()
+                if document_hash in existing_docs and overwrite == False:
+                    if to_print:
+                        print('\tSkipping existing document:\t', document_hash)
+                    continue
+                document_href = result_link.get('href')
+                assert document_href
+                # if document_href.endswith('.pdf') is False:
+                #    continue
+                host = "https://www.autoriteprotectiondonnees.be"
+                document_url = host + document_href
+                print('document_url:', document_url)
+                if to_print:
+                    print("\tDocument:\t", document_hash)
+                document_response = None
+                try:
+                    document_response = requests.request('GET', document_url, timeout=1000)
+                    document_response.raise_for_status()
+                except requests.exceptions.HTTPError as error:
+                    if to_print:
+                        print(error)
+                    pass
+                if document_response is None:
+                    continue
+                if document_url.endswith('.pdf') is False:
+                    document_soup = BeautifulSoup(document_response.text, 'html.parser')
+                    assert document_soup
+                    date_text = document_soup.find('div', class_='date').get_text()
+                    date_str = date_text[-4:]  # date_text[:-4] + ' ' + date_text[-4:]
+                    print('date_str:', date_str)
+                    tmp = dateparser.parse(date_str, languages=[self.language_code])
+                    # print('date:', tmp.year, tmp.month, tmp.day)
+                    date = datetime.date(tmp.year, tmp.month, tmp.day)
+                    if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                        continue
+                    page_body = document_soup.find('div', class_='page-body')
+                    assert page_body
+                    document_text = page_body.get_text()
+                else:
+                    date_str = document_title.split(' du ')[-1]
+                    print("date_str:", date_str)
+                    tmp = dateparser.parse(date_str, languages=[self.language_code])
+                    if tmp is None:
+                        media_date = media.find('span', class_="media-date")
+                        assert media_date
+                        year = int(media_date.get_text())
+                        if year < 2018:
+                            continue
+                    else:
+                        date = datetime.date(tmp.year, tmp.month, tmp.day)
+                        if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                            continue
+                dpa_folder = self.path
+                document_folder = dpa_folder + '/' + 'Opinions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
