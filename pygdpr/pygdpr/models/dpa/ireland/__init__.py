@@ -242,12 +242,9 @@ class Ireland(DPA):
                 date_str = date_str[:match.start(date_suffix_group_num)] + date_str[match.end(date_suffix_group_num):]
                 tmp = datetime.datetime.strptime(date_str, '%d %B %Y')
                 date = datetime.date(tmp.year, tmp.month, tmp.day)
-                #print(date)
-
                 document_href = document.get('href')
                 assert document_href
                 document_link = host + document_href
-                #print('     document_link: ', document_link)
                 try:
                     document_response = requests.request('GET', document_link)
                     document_response.raise_for_status()
@@ -275,7 +272,6 @@ class Ireland(DPA):
                 short_document_title = two_files[0].get_text()
                 print('\t\tshort document link: ', short_document_link)
                 print('\t\tshort document title: ', short_document_title)
-
                 try:
                      short_file_response = requests.request('GET', short_document_link)
                      short_file_response.raise_for_status()

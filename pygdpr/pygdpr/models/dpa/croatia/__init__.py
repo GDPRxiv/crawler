@@ -31,6 +31,7 @@ class Croatia(DPA):
         }
         host = source['host']
         start_path = source['start_path']
+
         if pagination is None:
             page_url = host + start_path
             pagination = Pagination()
@@ -39,8 +40,6 @@ class Croatia(DPA):
             print("pagination was called.")
             pagination = Pagination()
             wp_pagenavi = page_soup.find('div', class_='wp-pagenavi')
-            print('wp_pagenavi:')
-            print(wp_pagenavi)
             if wp_pagenavi is not None:
                 for a in wp_pagenavi.find_all('a', class_='page'):
                     page_link = a.get('href')
@@ -61,9 +60,22 @@ class Croatia(DPA):
     def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
         added_docs = []
         pagination = self.update_pagination()
+        page_list = []
         #  s0. Pagination
         while pagination.has_next():
+            page_number = ''
             page_url = pagination.get_next()
+            for i in page_url.split('/'):
+                if i.isdigit():
+                    page_number = i
+                    break
+            # check if already download this page
+            if page_number == '' and '1' in page_list:
+                print("page already downloaded")
+                continue
+            if page_number in page_list:
+                print("page already downloaded")
+                continue
             if to_print:
                 print('Page:\t', page_url)
             page_source = self.get_source(page_url=page_url)
@@ -71,7 +83,7 @@ class Croatia(DPA):
                 continue
             results_soup = BeautifulSoup(page_source, 'html.parser')
             assert results_soup
-            # s1. Results
+            '''
             for post in results_soup.find_all('article', class_='post'):
                 post_meta = post.find('p', class_='post-meta')
                 assert post_meta
@@ -107,7 +119,7 @@ class Croatia(DPA):
                 assert et_pb_post_content
                 document_text = et_pb_post_content.get_text()
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + document_hash
+                document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -125,5 +137,11 @@ class Croatia(DPA):
                     }
                     json.dump(metadata, f, indent=4, sort_keys=True)
                 added_docs.append(document_hash)
+            '''
+            wp_pagenavi = results_soup.find('div', class_='wp-pagenavi')
+            pages = results_soup.find('span', class_='pages')
+            current_page = pages.get_text().split()[1]
+            print('\t current page: ', current_page)
+            page_list.append(current_page)
             pagination = self.update_pagination(pagination=pagination, page_soup=results_soup)
         return added_docs
