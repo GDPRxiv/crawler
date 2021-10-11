@@ -26,7 +26,7 @@ class Austria(DPA):
         to_date = datetime.datetime.now().strftime('%d.%m.%Y')
         source = {
             "host": "https://www.ris.bka.gv.at",
-            "start_path": f"/Ergebnis.wxe?Abfrage=Dsk&Entscheidungsart=Undefined&Organ=Undefined&SucheNachRechtssatz=True&SucheNachText=True&GZ=&VonDatum={from_date}&BisDatum={to_date}&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Position=1&SkipToDocumentPage=true",
+            "start_path": f"/Ergebnis.wxe?Abfrage=Dsk&Entscheidungsart=Undefined&Organ=Undefined&SucheNachRechtssatz=True&SucheNachText=True&GZ=&VonDatum=25.05.2018&BisDatum=25.05.2021&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Position=1",
         }
         host = source['host']
         start_path = source['start_path']
@@ -34,13 +34,19 @@ class Austria(DPA):
             pagination = Pagination()
             pagination.add_item(host + start_path)
             return pagination
-        pages = page_soup.find('ul', class_='pages')
+        pages = page_soup.find('ul', class_='Pages')
+
+        # Removed loop -> place li's into a list and abstract the middle li to get the href
+        href_index = 1
         if pages is not None:
-            for li in pages.find_all('li'):
-                page_link = li.find('a')
-                assert page_link
-                page_href = page_link.get('href')
-                pagination.add_item(host + page_href)
+            li_list = pages.find_all('li')
+            assert li_list
+            page_link = li_list[href_index].find('a')
+            assert page_link
+            page_href = page_link.get('href')
+            assert page_href
+            pagination.add_item(host + page_href)
+
         return pagination
 
     def get_source(self, page_url=None, driver=None):
@@ -55,10 +61,11 @@ class Austria(DPA):
             pass
         return results_response
 
-    def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_Decisions(self, existing_docs=[], overwrite=False, to_print=True):
         added_docs = []
         pagination = self.update_pagination()
         # s0. Pagination
+
         while pagination.has_next():
             page_url = pagination.get_next()
             if to_print:
@@ -115,7 +122,7 @@ class Austria(DPA):
                     continue
                 document_content = document_response.content
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + document_hash
+                document_folder = dpa_folder + '/' 'Decisions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -136,6 +143,7 @@ class Austria(DPA):
                     }
                     json.dump(metadata, f, indent=4, sort_keys=True)
                 added_docs.append(document_hash)
+
             # s0. Pagination
             pagination = self.update_pagination(pagination=pagination, page_soup=page_soup)
         return added_docs
