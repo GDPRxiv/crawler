@@ -1,19 +1,19 @@
 Austria,decisions,notCrawled,https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Dsk&Entscheidungsart=Undefined&Organ=Undefined&SucheNachRechtssatz=True&SucheNachText=True&GZ=&VonDatum=25.05.2018&BisDatum=25.05.2021&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Position=1
 Austria,annual reports,notCrawled,https://www.dsb.gv.at/download-links/dokumente.html
-Britain,enforcements,notCrawled,https://ico.org.uk/action-weve-taken/enforcement/
-Britain,notices,notCrawled,https://icosearch.ico.org.uk/s/search.html?collection=ico-meta&profile=decisions&query&query=GDPR
-Britain,reports,notCrawled,https://ico.org.uk/action-weve-taken/audits-and-overview-reports/?facet_type=&facet_sector=&facet_date=custom&date_from=01%2F05%2F2018&date_to=
+Britain,enforcements,Crawled,https://ico.org.uk/action-weve-taken/enforcement/
+Britain,notices,Crawled,https://icosearch.ico.org.uk/s/search.html?collection=ico-meta&profile=decisions&query&query=GDPR
+Britain,reports,Crawled,https://ico.org.uk/action-weve-taken/audits-and-overview-reports/?facet_type=&facet_sector=&facet_date=custom&date_from=01%2F05%2F2018&date_to=
 Britain,guides,notCrawled,https://ico.org.uk/for-organisations/
 Belgium,decisions,notCrawled,https://www.autoriteprotectiondonnees.be/citoyen/chercher?q=&search_category%5B%5D=taxonomy%3Apublications&search_type%5B%5D=decision&search_subtype%5B%5D=taxonomy%3Adispute_chamber_substance_decisions&s=recent&l=25
 Belgium,decisions,notCrawled,https://www.autoriteprotectiondonnees.be/citoyen/chercher?q=&search_category%5B%5D=taxonomy%3Apublications&search_type%5B%5D=decision&search_subtype%5B%5D=taxonomy%3Ageneral_secretary_international_decisions&search_subtype%5B%5D=taxonomy%3Ageneral_secretary_general_decisions&s=recent&l=25
 Belgium,opinions,notCrawled,https://www.autoriteprotectiondonnees.be/citoyen/chercher?q=GDPR&search_category%5B%5D=taxonomy%3Apublications&search_type%5B%5D=advice&s=recent&l=50
 Belgium,guides,notCrawled,https://www.autoriteprotectiondonnees.be/citoyen/chercher?q=&search_category%5B%5D=taxonomy%3Apublications&search_type%5B%5D=recommendation&s=recent&l=25
 Belgium,annual report,notCrawled,https://www.autoriteprotectiondonnees.be/citoyen/l-autorite/rapport-annuel
-Bulgaria,decisions,notCrawled,https://www.cpdp.bg/index.php?p=rubric&aid=3
-Bulgaria,judgements,notCrawled,https://www.cpdp.bg/index.php?p=rubric&aid=3
-Bulgaria,opinions,notCrawled,https://www.cpdp.bg/index.php?p=rubric&aid=3
-Bulgaria,annual report,notCrawled,https://www.cpdp.bg/index.php?p=rubric&aid=14
-Croatia,decisions,notCrawled,https://azop.hr/novosti/
+Bulgaria,decisions,NoDate,https://www.cpdp.bg/index.php?p=rubric&aid=3
+Bulgaria,judgements,NoDate,https://www.cpdp.bg/index.php?p=rubric&aid=3
+Bulgaria,opinions,NoDate,https://www.cpdp.bg/index.php?p=rubric&aid=3
+Bulgaria,annual report,Crawled,https://www.cpdp.bg/index.php?p=rubric&aid=14
+Croatia,decisions,Crawled,https://azop.hr/novosti/
 Croatia,recommendations,notCrawled,https://azop.hr/preporuke/
 Croatia,opinions,notCrawled,https://azop.hr/misljenja/
 Cyprus,decisions,notCrawled,http://www.dataprotection.gov.cy/DATAPROTECTION/DATAPROTECTION.NSF/dp06/dp06?opendocument
@@ -49,9 +49,9 @@ Hungary,recommendations,notCrawled,https://www.naih.hu/ajanlasok
 Hungary,notices,notCrawled,https://www.naih.hu/dontesek-adatvedelem-tajekoztatok-koezlemenyek
 Hungary,resoutions,notCrawled,https://www.naih.hu/adatvedelmi-allasfoglalasok?start=0
 Hungary,annual reports,notCrawled,https://www.naih.hu/eves-beszamolok
-Ireland,decisions,notCrawled,https://www.dataprotection.ie/en/dpc-guidance/law/decisions-exercising-corrective-powers-made-under-data-protection-act-2018
-Ireland,judgements,notCrawled,https://www.dataprotection.ie/en/dpc-guidance/law/judgments
-Ireland,news,notCrawled,https://www.dataprotection.ie/en/news-media/latest-news
+Ireland,decisions,Crawled,https://www.dataprotection.ie/en/dpc-guidance/law/decisions-exercising-corrective-powers-made-under-data-protection-act-2018
+Ireland,judgements,Crawled,https://www.dataprotection.ie/en/dpc-guidance/law/judgments
+Ireland,news,Crawled,https://www.dataprotection.ie/en/news-media/latest-news
 Ireland,reports,notCrawled,https://www.dataprotection.ie/en/dpc-guidance/publications
 Ireland,blogs,notCrawled,https://www.dataprotection.ie/en/dpc-guidance/blogs
 Ireland,guidance,notCrawled,https://www.dataprotection.ie/en/dpc-guidance
