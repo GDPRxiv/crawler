@@ -7,4 +7,5 @@ class WebdriverExecPolicy():
         supported = ['Darwin', 'Linux', 'Windows']
         if system not in supported:
             raise ValueError('No chromedriver is supported for this platform system %s' % system)
-        return os.path.abspath("pygdpr/assets/chromedriver/%s" % system.lower())
+        #return os.path.abspath("pygdpr/assets/chromedriver/%s" % system.lower())
+        return os.path.abspath("pygdpr/assets/chromedriver")
