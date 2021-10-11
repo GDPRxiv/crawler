@@ -5,6 +5,9 @@ from pygdpr.models.dpa.austria import *
 from pygdpr.models.dpa.belgium import *
 from pygdpr.models.dpa.bulgaria import *
 from pygdpr.models.dpa.czech_republic import *
+from pygdpr.models.dpa.bulgaria import *
+from pygdpr.models.dpa.croatia import *
+
 
 #path = "./united-kingdom"
 
@@ -21,22 +24,28 @@ from pygdpr.models.dpa.czech_republic import *
 #dpa = Ireland(path)
 #dpa.get_docs_Guidances_v1()
 
-'''
-path = "/belgium"
-dpa = Belgium(path)
-dpa.get_docs_AnnualReports()
-'''
+#path = "/belgium"
+#dpa = Belgium(path)
+#dpa.get_docs_AnnualReports()
+
+
+#path = "/united-kingdom"
+#dpa = UnitedKingdom(path)
+#dpa.get_docs()
 
 #path = "/ireland"
 #dpa = Ireland(path)
-
 
 #path = "/bulgaria"
 #dpa = Bulgaria(path)
 #dpa.get_docs()
 
 
-path = "/czech_republic"
-dpa = CzechRepublic(path)
+path = "/croatia"
+dpa = Croatia(path)
 dpa.get_docs()
+
+#path = "/czech_republic"
+#dpa = CzechRepublic(path)
+#dpa.get_docs()
 
