@@ -15,6 +15,7 @@ from pygdpr.specifications.should_retain_document_specification import ShouldRet
 from pygdpr.models.common.pagination import Pagination
 from pygdpr.specifications.root_document_specification import RootDocumentSpecification
 from pygdpr.policies.gdpr_policy import GDPRPolicy
+import re
 
 import sys
 
@@ -153,6 +154,7 @@ class Austria(DPA):
     # TODO: Get title and date for each document (which will let us create the document_hash as well and filter for date)
     # Using an iterator counter to keep track of documents for now
     def get_docs_AnnualReports(self, existing_docs=[], overwrite=False, to_print=True):
+        print('------------ GETTING ANNUAL REPORTS ------------')
         added_docs = []
 
         page_url = "https://www.dsb.gv.at/download-links/dokumente.html"
@@ -172,12 +174,14 @@ class Austria(DPA):
         assert span_soup
         ul_list = span_soup.find_all('ul')
         assert ul_list
-        # s1. Results
 
         iteration = 1
         for ul in ul_list[5:8]:
             for li in ul.find_all('li'):
                 assert li
+
+                print('\n------------ Document ' + str(iteration) + ' ------------')
+                iteration += 1;
 
                 #date_str = td_list[date_index].get_text()
                 #tmp = datetime.datetime.strptime(date_str, '%d.%m.%Y')
@@ -188,25 +192,50 @@ class Austria(DPA):
                 result_link = li.find('a')
                 assert result_link
 
-                document_title = "Document" + str(iteration)
+                document_href = result_link.get('href')
+                assert document_href
+
+                if ".pdf" in document_href:
+                    print("PDF DOC:")
+                    document_url = "https://www.dsb.gv.at" + document_href
+                    # Check date of pdf link by getting the pdf title
+                    pdf_title = result_link.text
+                    assert pdf_title
+                    document_title = pdf_title
+
+                    # Use re library to look for pdf date in the title string
+                    pdf_date_search = re.search(' (.+?) ', pdf_title)
+                    if pdf_date_search:
+                        found_date = pdf_date_search.group(1)
+
+                    print("PDF year: " + found_date)
+
+                    pdf_end_date = found_date[-4:]
+                    print("PDF end date: " + pdf_end_date)
+
+                    if len(pdf_end_date) == 4:
+                        if int(pdf_end_date) < 2018:
+                            print("\nPDF IS OUTDATED -> SKIPPING\n")
+                            continue
+
+                else:
+                    print("TEXT DOC:")
+                    document_url = document_href
+                    document_title = str(iteration)
+                print("      Document url:" + document_url)
+
+                # If doc is a pdf, title and date should be correct, if then title is just the iteration number for now
                 assert document_title
+                print("DOCUMENT TITLE: " + document_title)
+
                 document_hash = hashlib.md5(document_title.encode()).hexdigest()
                 if document_hash in existing_docs and overwrite == False:
                     if to_print:
                         print('\tSkipping existing document:\t', document_hash)
                     continue
-                document_href = result_link.get('href')
-                assert document_href
-
-                if ".pdf" in document_href:
-                    document_url = "https://www.dsb.gv.at" + document_href
-                else:
-                    document_url = document_href
-
-                print("      Document url:" + document_url)
 
                 if to_print:
-                    print("\tDocument:\t", "put document_hash here")
+                    print("Document:\t", document_hash)
                 document_response = None
                 try:
                     document_response = requests.request('GET', document_url)
@@ -240,6 +269,7 @@ class Austria(DPA):
                 document_soup = BeautifulSoup(document_response.text, 'html.parser')
                 assert document_soup
 
+                # Get document_text according to the link scraper is visiting
                 if '.html' in document_url:
                     document_paper = document_soup.find('div', class_='paperw')
                     assert document_paper
@@ -279,6 +309,5 @@ class Austria(DPA):
                     }
                     json.dump(metadata, f, indent=4, sort_keys=True)
                 added_docs.append(document_hash) #put doc hash in here
-                iteration += 1
 
         return added_docs

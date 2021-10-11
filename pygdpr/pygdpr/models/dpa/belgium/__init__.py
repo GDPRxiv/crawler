@@ -139,6 +139,7 @@ class Belgium(DPA):
                         if year < 2018:
                             continue
                     else:
+                        # TODO: Use a fixed date (GDRP release date) rather than a moving window
                         date = datetime.date(tmp.year, tmp.month, tmp.day)
                         if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
                             continue
@@ -521,6 +522,7 @@ class Belgium(DPA):
         return added_docs
 
     # Gets all documents located at annual report link
+    # TODO: Put all the text files into one big text file
     def get_docs_AnnualReports(self, existing_docs=[], overwrite=False, to_print=True):
         print('------------ GETTING ANNUAL REPORTS ------------')
         added_docs = []
