@@ -40,12 +40,12 @@ from pygdpr.models.dpa.croatia import *
 #dpa = Bulgaria(path)
 #dpa.get_docs()
 
-
+'''
 path = "/croatia"
 dpa = Croatia(path)
 dpa.get_docs()
-
-#path = "/czech_republic"
-#dpa = CzechRepublic(path)
-#dpa.get_docs()
+'''
+path = "/czech_republic"
+dpa = CzechRepublic(path)
+dpa.get_docs_Opinions()
 

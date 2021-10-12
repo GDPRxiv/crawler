@@ -1,14 +1,14 @@
-Austria,decisions,notCrawled,https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Dsk&Entscheidungsart=Undefined&Organ=Undefined&SucheNachRechtssatz=True&SucheNachText=True&GZ=&VonDatum=25.05.2018&BisDatum=25.05.2021&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Position=1
+Austria,decisions,Crawled,https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Dsk&Entscheidungsart=Undefined&Organ=Undefined&SucheNachRechtssatz=True&SucheNachText=True&GZ=&VonDatum=25.05.2018&BisDatum=25.05.2021&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Position=1
 Austria,annual reports,notCrawled,https://www.dsb.gv.at/download-links/dokumente.html
 Britain,enforcements,Crawled,https://ico.org.uk/action-weve-taken/enforcement/
 Britain,notices,Crawled,https://icosearch.ico.org.uk/s/search.html?collection=ico-meta&profile=decisions&query&query=GDPR
 Britain,reports,Crawled,https://ico.org.uk/action-weve-taken/audits-and-overview-reports/?facet_type=&facet_sector=&facet_date=custom&date_from=01%2F05%2F2018&date_to=
 Britain,guides,notCrawled,https://ico.org.uk/for-organisations/
-Belgium,decisions,notCrawled,https://www.autoriteprotectiondonnees.be/citoyen/chercher?q=&search_category%5B%5D=taxonomy%3Apublications&search_type%5B%5D=decision&search_subtype%5B%5D=taxonomy%3Adispute_chamber_substance_decisions&s=recent&l=25
-Belgium,decisions,notCrawled,https://www.autoriteprotectiondonnees.be/citoyen/chercher?q=&search_category%5B%5D=taxonomy%3Apublications&search_type%5B%5D=decision&search_subtype%5B%5D=taxonomy%3Ageneral_secretary_international_decisions&search_subtype%5B%5D=taxonomy%3Ageneral_secretary_general_decisions&s=recent&l=25
-Belgium,opinions,notCrawled,https://www.autoriteprotectiondonnees.be/citoyen/chercher?q=GDPR&search_category%5B%5D=taxonomy%3Apublications&search_type%5B%5D=advice&s=recent&l=50
-Belgium,guides,notCrawled,https://www.autoriteprotectiondonnees.be/citoyen/chercher?q=&search_category%5B%5D=taxonomy%3Apublications&search_type%5B%5D=recommendation&s=recent&l=25
-Belgium,annual report,notCrawled,https://www.autoriteprotectiondonnees.be/citoyen/l-autorite/rapport-annuel
+Belgium,decisions,Crawled,https://www.autoriteprotectiondonnees.be/citoyen/chercher?q=&search_category%5B%5D=taxonomy%3Apublications&search_type%5B%5D=decision&search_subtype%5B%5D=taxonomy%3Adispute_chamber_substance_decisions&s=recent&l=25
+Belgium,decisions,Crawled,https://www.autoriteprotectiondonnees.be/citoyen/chercher?q=&search_category%5B%5D=taxonomy%3Apublications&search_type%5B%5D=decision&search_subtype%5B%5D=taxonomy%3Ageneral_secretary_international_decisions&search_subtype%5B%5D=taxonomy%3Ageneral_secretary_general_decisions&s=recent&l=25
+Belgium,opinions,Crawled,https://www.autoriteprotectiondonnees.be/citoyen/chercher?q=GDPR&search_category%5B%5D=taxonomy%3Apublications&search_type%5B%5D=advice&s=recent&l=50
+Belgium,guides,Crawled,https://www.autoriteprotectiondonnees.be/citoyen/chercher?q=&search_category%5B%5D=taxonomy%3Apublications&search_type%5B%5D=recommendation&s=recent&l=25
+Belgium,annual report,Crawled,https://www.autoriteprotectiondonnees.be/citoyen/l-autorite/rapport-annuel
 Bulgaria,decisions,NoDate,https://www.cpdp.bg/index.php?p=rubric&aid=3
 Bulgaria,judgements,NoDate,https://www.cpdp.bg/index.php?p=rubric&aid=3
 Bulgaria,opinions,NoDate,https://www.cpdp.bg/index.php?p=rubric&aid=3
@@ -22,7 +22,7 @@ Czec Repulic,decisions,notCrawled,https://www.uoou.cz/dozorova-a-rozhodovaci-cin
 Czec Repulic,court rulings,notCrawled,https://www.uoou.cz/ceska-republika/ds-2850/archiv=0&p1=1271
 Czec Repulic,opinions,notCrawled,https://www.uoou.cz/na-aktualni-tema/ds-1018/archiv=0&p1=1099
 Czec Repulic,annual report,notCrawled,https://www.uoou.cz/vyrocni-zprava/ds-2089/archiv=0&p1=2087
-Czec Repulic,press release,notCrawled,https://www.uoou.cz/tiskove-zpravy/ds-1017/p1=1017&tzv=1&pocet=25&stranka=2
+Czec Repulic,press release,Crawled,https://www.uoou.cz/tiskove-zpravy/ds-1017/p1=1017&tzv=1&pocet=25&stranka=2
 Denmark,decisions,notCrawled,https://www.datatilsynet.dk/afgoerelser/afgoerelser
 Denmark,permissions,notCrawled,https://www.datatilsynet.dk/afgoerelser/tilladelser
 Denmark,guides,notCrawled,https://www.datatilsynet.dk/hvad-siger-reglerne/vejledning
@@ -52,9 +52,9 @@ Hungary,annual reports,notCrawled,https://www.naih.hu/eves-beszamolok
 Ireland,decisions,Crawled,https://www.dataprotection.ie/en/dpc-guidance/law/decisions-exercising-corrective-powers-made-under-data-protection-act-2018
 Ireland,judgements,Crawled,https://www.dataprotection.ie/en/dpc-guidance/law/judgments
 Ireland,news,Crawled,https://www.dataprotection.ie/en/news-media/latest-news
-Ireland,reports,notCrawled,https://www.dataprotection.ie/en/dpc-guidance/publications
-Ireland,blogs,notCrawled,https://www.dataprotection.ie/en/dpc-guidance/blogs
-Ireland,guidance,notCrawled,https://www.dataprotection.ie/en/dpc-guidance
+Ireland,reports,Crawled,https://www.dataprotection.ie/en/dpc-guidance/publications
+Ireland,blogs,Crawled,https://www.dataprotection.ie/en/dpc-guidance/blogs
+Ireland,guidance,Crawled,https://www.dataprotection.ie/en/dpc-guidance
 Italy,Injunctions,notCrawled,https://www.garanteprivacy.it/web/guest/home/ricerca/-/search/tipologia/Ordinanza%20ingiunzione%20o%20revoca
 Italy,annual reports,notCrawled,https://www.garanteprivacy.it/home/attivita-e-documenti/documenti/relazioni-annuali
 Italy,publications,notCrawled,https://www.garanteprivacy.it/home/attivita-e-documenti/documenti/collana-contributi
