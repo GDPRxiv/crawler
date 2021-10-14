@@ -15,6 +15,7 @@ from pygdpr.specifications import pdf_file_extension_specification
 from pygdpr.specifications.should_retain_document_specification import ShouldRetainDocumentSpecification
 from pygdpr.models.common.pagination import Pagination
 from pygdpr.policies.gdpr_policy import GDPRPolicy
+import sys
 
 # For getting the document date
 import re
@@ -37,17 +38,16 @@ class CzechRepublic(DPA):
         country_code='CZ'
         super().__init__(country_code, path)
 
-    # TODO: Update this method to take start_path as an input parameter, so that we don't have
-    #  to write two update_pagination methods
-    def update_pagination(self, pagination=None, page_soup=None, driver=None):
+    # Added start_path as input parameter so different scraper methods can use update_pagination()
+    def update_pagination(self, pagination=None, page_soup=None, driver=None, start_path=None):
         source = {
             "host": "https://www.uoou.cz",
             # "start_path": "/vismo/zobraz_dok.asp?id_ktg=901"
-            # "start_path": "/tiskove%2Dzpravy/ds-1017/p1=1017&tzv=1&pocet=25&stranka=1"
-            "start_path": "/na%2Daktualni%2Dtema/ds-1018/archiv=0&p1=1099&tzv=1&pocet=25&stranka=1"
+            "start_path": "/tiskove%2Dzpravy/ds-1017/p1=1017&tzv=1&pocet=25&stranka=1"
+            # "start_path": "/na%2Daktualni%2Dtema/ds-1018/archiv=0&p1=1099&tzv=1&pocet=25&stranka=1"
         }
         host = source['host']
-        start_path = source['start_path']
+        start_path = start_path
         if pagination is None:
             pagination = Pagination()
             pagination.add_item(host + start_path)
@@ -73,6 +73,8 @@ class CzechRepublic(DPA):
             pass
         return results_response
 
+    # Always gets text from a document page
+    # If there is a pdf link on the document page, downloads the pdf (and its text) as well
     def get_docs_PressReleases(self, existing_docs=[], overwrite=False, to_print=True):
         print('------------ GETTING PRESS RELEASES ------------')
         iteration = 1
@@ -82,7 +84,7 @@ class CzechRepublic(DPA):
         # pagination object all at once, because calling update_pagination will insert all pages into the
         # pagination list each time.
         # We have to parse the first page before the while loop to do this
-        pagination = self.update_pagination()
+        pagination = self.update_pagination(start_path='/tiskove%2Dzpravy/ds-1017/p1=1017&tzv=1&pocet=25&stranka=1')
         initial_page_source = self.get_source(page_url='https://www.uoou.cz/tiskove%2Dzpravy/ds-1017/p1=1017&tzv=1&pocet=25&stranka=1')
         initial_results_soup = BeautifulSoup(initial_page_source.text, 'html.parser')
         pagination = self.update_pagination(pagination=pagination, page_soup=initial_results_soup)
@@ -148,14 +150,12 @@ class CzechRepublic(DPA):
                 document_soup = BeautifulSoup(document_response.text, 'html.parser')
                 assert document_soup
 
+                # Obtain document date -> implemented simpler method that just checks the years
                 div = li.find('div')
                 if div is None:
                     print("\tSkipping existing document: div is None")
                     continue
                 created_index = 0
-
-                # Obtain document date -> implemented simpler method that just checks the years
-                # TODO: Double check this and all...
 
                 # Use this to get the date out
                 div_text = div.get_text()
@@ -182,26 +182,49 @@ class CzechRepublic(DPA):
                 else:
                     document_year = "Date not available"
 
-                '''
-                div_text = div.get_text()
-                try:
-                    date_str = div_text.split('-')[0].strip()
-                    date_str = date_str.replace(u'\xa0', '')
-                    date_str = date_str.replace(' ', '')
-                    tmp = datetime.datetime.strptime(date_str, '%d.%m.%Y')
-                    date = datetime.date(tmp.year, tmp.month, tmp.day)
-                except:
-                    date = None
-                    pass
+                # If significant pdf links exists, go to them and download
+                obalcelek_tag = document_soup.find('div', id='obalcelek')
+                assert obalcelek_tag
+                a_tag = obalcelek_tag.find_all('a')
+                if a_tag:
+                    for element in a_tag:
+                        assert element
+                        # Check if we can get a href and if that href contains the string 'File.ashx', which indicates
+                        # the link is intended to be downloaded
+                        if element.get('href') is not None and ('File.ashx' in element.get('href')):
+                            link_href = element.get('href')
+                            assert link_href
+                            link_url = 'https://www.uoou.cz' + link_href
+                            print("Link URL: " + link_url)
 
-                if date is None:
-                    print("\tSkipping existing document: date is None")
-                    continue
-                # TODO: Make sure date checking is correct (use the static date of GDPR release, not the moving window)
-                if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
-                    print("\tSkipping existing document: ShouldRetainDocSpec is not satisfied by the date")
-                    continue
-                 '''
+                            link_response = None
+                            try:
+                                link_response = requests.request('GET', link_url, timeout=2)
+                                link_response.raise_for_status()
+                            except requests.exceptions.HTTPError as error:
+                                pass
+                            if link_response is None:
+                                continue
+
+                            # If get a link reponse, then write the contents of the file as a pdf and text
+                            dpa_folder = self.path
+                            document_folder = dpa_folder + '/' + 'PressReleases' + '/' + document_hash
+                            try:
+                                os.makedirs(document_folder)
+                            except FileExistsError:
+                                pass
+                            with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                                f.write(link_response.content)
+                            try:
+                                with open(document_folder + '/' + self.language_code + '.txt', 'wb') as f:
+                                    link_text = textract.process(document_folder + '/' + self.language_code + '.pdf')
+                                    f.write(link_text)
+                            # If the link leads to a word document or a file format other than a pdf
+                            # -> skip text conversion
+                            except:
+                                pass
+                        else:
+                            continue
 
                 # When we print document stuff, that means the document is not going to be thrown out
                 print('\n\t------------ Document: ' + str(iteration) + ' ------------')
@@ -219,7 +242,7 @@ class CzechRepublic(DPA):
                     os.makedirs(document_folder)
                 except FileExistsError:
                     pass
-                with open(document_folder + '/' + self.language_code + '.txt', 'w') as f:
+                with open(document_folder + '/' + self.language_code + 'Summary' + '.txt', 'w') as f:
                     f.write(document_text)
                 with open(document_folder + '/' + 'metadata.json', 'w') as f:
                     metadata = {
@@ -240,7 +263,7 @@ class CzechRepublic(DPA):
     # Doesn't get dates -> html is to inconsistent -> just scrape first page of link instead (other pages
     # contains links that are too old)
     def get_docs_Opinions(self, existing_docs=[], overwrite=False, to_print=True):
-        print('------------ GETTING PRESS RELEASES ------------')
+        print('------------ GETTING OPINIONS ------------')
         iteration = 1
         added_docs = []
 
@@ -248,7 +271,7 @@ class CzechRepublic(DPA):
         # pagination object all at once, because calling update_pagination will insert all pages into the
         # pagination list each time.
         # We have to parse the first page before the while loop to do this
-        pagination = self.update_pagination()
+        pagination = self.update_pagination(start_path='/na%2Daktualni%2Dtema/ds-1018/archiv=0&p1=1099&tzv=1&pocet=25&stranka=1')
         initial_page_source = self.get_source(page_url='https://www.uoou.cz/na%2Daktualni%2Dtema/ds-1018/archiv=0&p1=1099&tzv=1&pocet=25&stranka=1')
         initial_results_soup = BeautifulSoup(initial_page_source.text, 'html.parser')
         pagination = self.update_pagination(pagination=pagination, page_soup=initial_results_soup)
@@ -272,8 +295,8 @@ class CzechRepublic(DPA):
             ui = dok.find('ul', class_='ui')
             assert ui
 
-            # Get the page number we are on -> if it greater than 3, skip
-            # Only the first three pages contain documents made 2018 and after
+            # Get the page number we are on -> if it greater than 1, skip
+            # Only the first page contains documents made 2018 and after
             page_number = page_url[-1:]
             if int(page_number) > 1:
                 print("\tSkipping page: " + page_number)
@@ -389,4 +412,97 @@ class CzechRepublic(DPA):
                     json.dump(metadata, f, indent=4, sort_keys=True)
                 added_docs.append(document_hash)
                 # Don't need to call update_pagination -> it already has all the pages
+        return added_docs
+
+    def get_docs_AnnualReports(self, existing_docs=[], overwrite=False, to_print=True):
+        print('------------ GETTING ANNUAL REPORTS ------------')
+        added_docs = []
+
+        page_url = 'https://www.uoou.cz/vyrocni-zprava/ds-2089/archiv=0&p1=2087'
+        if to_print:
+            print('\tPage:\t', page_url)
+
+        page_source = self.get_source(page_url=page_url)
+        if page_source is None:
+            print("Skipping page because page_source is None")
+            sys.exit()
+
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+        dok = results_soup.find('div', id='obalcelek')
+        assert dok
+        ui = dok.find('ul', class_='ui')
+        assert ui
+
+        iteration = 1
+        for li in ui.find_all('li'):
+            result_link = li.find('a')
+
+            document_title = result_link.get_text()
+            document_hash = hashlib.md5(document_title.encode()).hexdigest()
+            if document_hash in existing_docs and overwrite == False:
+                if to_print:
+                    print('\tSkipping existing document:\t', document_hash)
+                continue
+
+            document_href = result_link.get('href')
+            assert document_href
+
+            if document_href.startswith('http') is not True:
+                host = "https://www.uoou.cz"
+                document_url = host + document_href
+            else:
+                document_url = document_href
+
+            document_response = None
+            try:
+                document_response = requests.request('GET', document_url, timeout=2)
+                document_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                pass
+            if document_response is None:
+                print("\tSkipping existing document: document_response is None")
+                continue
+
+            # If document year is earlier than 2018, skip it
+            document_year = result_link.get_text()[-4:]
+            if int(document_year) < 2018:
+                print("\tSkipping existing document: Document year is: " + document_year)
+                continue
+
+            # When we print document stuff, that means the document is not going to be thrown out
+            print('\n\t------------ Document: ' + str(iteration) + ' ------------')
+            print('\tDocument year: ' + document_year)
+            iteration += 1
+            if to_print:
+                print("\tDocument:\t", document_hash)
+
+            dpa_folder = self.path
+            document_folder = dpa_folder + '/' + 'AnnualReports' + '/' + document_hash
+            try:
+                os.makedirs(document_folder)
+            except FileExistsError:
+                pass
+
+            with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                f.write(document_response.content)
+
+            with open(document_folder + '/' + self.language_code + '.txt', 'wb') as f:
+                link_text = textract.process(document_folder + '/' + self.language_code + '.pdf')
+                f.write(link_text)
+
+            with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                metadata = {
+                    'title': {
+                        self.language_code: document_title
+                    },
+                    'md5': document_hash,
+                    'releaseDate': document_year,
+                    'url': document_url
+                }
+                json.dump(metadata, f, indent=4, sort_keys=True)
+            added_docs.append(document_hash)
+
+            print('------------------------')
+
         return added_docs
