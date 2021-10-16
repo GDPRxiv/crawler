@@ -16,17 +16,17 @@ Bulgaria,annual report,Crawled,https://www.cpdp.bg/index.php?p=rubric&aid=14
 Croatia,decisions,Crawled,https://azop.hr/novosti/
 Croatia,recommendations,notCrawled,https://azop.hr/preporuke/
 Croatia,opinions,notCrawled,https://azop.hr/misljenja/
-Cyprus,decisions,notCrawled,http://www.dataprotection.gov.cy/DATAPROTECTION/DATAPROTECTION.NSF/dp06/dp06?opendocument
-Cyprus,annual report,notCrawled,http://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/reports_gr/reports_gr?opendocument
+Cyprus,decisions,Crawled,http://www.dataprotection.gov.cy/DATAPROTECTION/DATAPROTECTION.NSF/dp06/dp06?opendocument
+Cyprus,annual report,Crawled,http://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/reports_gr/reports_gr?opendocument
 Czec Repulic,decisions,notCrawled,https://www.uoou.cz/dozorova-a-rozhodovaci-cinnost/ds-1277/p1=1277
 Czec Repulic,court rulings,notCrawled,https://www.uoou.cz/ceska-republika/ds-2850/archiv=0&p1=1271
 Czec Repulic,opinions,notCrawled,https://www.uoou.cz/na-aktualni-tema/ds-1018/archiv=0&p1=1099
 Czec Repulic,annual report,notCrawled,https://www.uoou.cz/vyrocni-zprava/ds-2089/archiv=0&p1=2087
 Czec Repulic,press release,notCrawled,https://www.uoou.cz/tiskove-zpravy/ds-1017/p1=1017&tzv=1&pocet=25&stranka=2
-Denmark,decisions,notCrawled,https://www.datatilsynet.dk/afgoerelser/afgoerelser
-Denmark,permissions,notCrawled,https://www.datatilsynet.dk/afgoerelser/tilladelser
+Denmark,decisions,Crawled,https://www.datatilsynet.dk/afgoerelser/afgoerelser
+Denmark,permissions,Crawled,https://www.datatilsynet.dk/afgoerelser/tilladelser
 Denmark,guides,notCrawled,https://www.datatilsynet.dk/hvad-siger-reglerne/vejledning
-Denmark,reports,notCrawled,https://www.datatilsynet.dk/om-datatilsynet/aarsberetninger-og-aarsrapporter
+Denmark,reports,Crawled,https://www.datatilsynet.dk/om-datatilsynet/aarsberetninger-og-aarsrapporter
 Estonia,Prescriptions,notCrawled,https://www.aki.ee/et/inspektsioon-kontaktid/menetlusotsused/ettekirjutused
 Estonia,Instructions,notCrawled,https://www.aki.ee/et/koik-juhised-loetelus
 Estonia,annual reports,notCrawled,https://aastaraamat.aki.ee/
