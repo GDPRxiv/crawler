@@ -83,7 +83,7 @@ class Croatia(DPA):
                 continue
             results_soup = BeautifulSoup(page_source, 'html.parser')
             assert results_soup
-            '''
+
             for post in results_soup.find_all('article', class_='post'):
                 post_meta = post.find('p', class_='post-meta')
                 assert post_meta
@@ -137,11 +137,10 @@ class Croatia(DPA):
                     }
                     json.dump(metadata, f, indent=4, sort_keys=True)
                 added_docs.append(document_hash)
-            '''
+
             wp_pagenavi = results_soup.find('div', class_='wp-pagenavi')
             pages = results_soup.find('span', class_='pages')
             current_page = pages.get_text().split()[1]
-            print('\t current page: ', current_page)
             page_list.append(current_page)
             pagination = self.update_pagination(pagination=pagination, page_soup=results_soup)
         return added_docs
