@@ -661,7 +661,6 @@ class Ireland(DPA):
         view_content = results_soup.find('div', class_='view-content')
         assert view_content
 
-        # TODO: Refactor code
         # For each article on this page
         for article in view_content.find_all('article', recursive=True):
             time.sleep(5)

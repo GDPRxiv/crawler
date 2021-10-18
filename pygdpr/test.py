@@ -1,10 +1,12 @@
 import os
-#from pygdpr.models.dpa.ireland import *
+from pygdpr.models.dpa.ireland import *
 from pygdpr.models.dpa.united_kingdom import *
+from pygdpr.models.dpa.austria import *
+from pygdpr.models.dpa.belgium import *
 from pygdpr.models.dpa.bulgaria import *
+from pygdpr.models.dpa.czech_republic import *
 from pygdpr.models.dpa.croatia import *
 from pygdpr.models.dpa.cyprus import *
-from pygdpr.models.dpa.czech_republic import *
 from pygdpr.models.dpa.denmark import *
 
 
@@ -29,9 +31,4 @@ from pygdpr.models.dpa.denmark import *
 path = "/denmark"
 dpa = Denmark(path)
 dpa.get_docs()
-
-
-
-
-
 
