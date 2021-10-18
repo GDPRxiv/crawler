@@ -17,7 +17,12 @@ from pygdpr.policies.gdpr_policy import GDPRPolicy
 from pygdpr.services.pdf_to_text_service import PDFToTextService
 import time
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from pygdpr.policies.webdriver_exec_policy import WebdriverExecPolicy
 import docx2txt
+
 
 class UnitedKingdom(DPA):
     def __init__(self, path=os.curdir):
@@ -332,15 +337,7 @@ class UnitedKingdom(DPA):
             pagination = self.update_pagination(pagination=pagination, page_soup=results_soup)
         return existed_docs
 
-
-
-
-
     def get_docs_Enforcements(self, existing_docs=[], overwrite=False, to_print=True):
-
-        # please add your webdriver path in side the ()
-        driver = webdriver.Chrome('/Users/chen/Downloads/chromedriver')
-
         existed_docs = []
         existed_dates = []
         hashcode_with_type = ""
@@ -449,7 +446,6 @@ class UnitedKingdom(DPA):
                                 if to_print:
                                     print(error)
                                 pass
-
                             if file_response is None:
                                 continue
                             # the current notice pdf page
@@ -470,11 +466,14 @@ class UnitedKingdom(DPA):
 
                             elif file_url.endswith('.docx'):
                                 # need to selenium to click the button and download file
-                                driver.get(document_url)
-                                button = driver.find_element_by_xpath('//*[@id="startcontent"]/article/div[2]/div/aside/ul/li[1]/a')
+                                exec_path = WebdriverExecPolicy().get_system_path()
+                                options = webdriver.ChromeOptions()
+                                options.add_argument('headless')
+                                driver_doc = webdriver.Chrome(options=options, executable_path=exec_path)
+                                driver_doc.get(document_url)
+                                button = driver_doc.find_element_by_xpath('//*[@id="startcontent"]/article/div[2]/div/aside/ul/li[1]/a')
                                 button.click()
                                 time.sleep(5)
-
                                 if "Finance" in document_title:
                                     file_content = docx2txt.process("/Users/chen/Downloads/final-penalty-notice-draft.docx")
                                 elif "Manufacturing" in document_title:
