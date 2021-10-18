@@ -60,7 +60,20 @@ class Belgium(DPA):
             pass
         return results_response
 
+    # Calls all scraper methods at once
+    def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
+        added_docs = []
+        # call all the get_docs_X() functions
+        added_docs += self.get_docs_Decisions_v1(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Decisions_v2(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Opinions(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Guides(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_AnnualReports(existing_docs=[], overwrite=False, to_print=True)
+
+        return added_docs
+
     # Gets all documents located at first Decisions link
+    # Date checking correct
     def get_docs_Decisions_v1(self, existing_docs=[], overwrite=False, to_print=True):
         added_docs = []
         pagination = self.update_pagination(host_link_input="https://www.autoriteprotectiondonnees.be",
@@ -85,7 +98,7 @@ class Belgium(DPA):
                 media_title = media.find('h3', class_='media-title')
                 print("------------ Document " + str(iteration_number) + " ------------")
                 iteration_number += 1
-                print('title:', media_title)
+                #print('title:', media_title)
                 assert media_title
                 result_link = media_title.find('a')
                 # s2. Documents
@@ -119,18 +132,21 @@ class Belgium(DPA):
                     assert document_soup
                     date_text = document_soup.find('div', class_='date').get_text()
                     date_str = date_text[-4:] # date_text[:-4] + ' ' + date_text[-4:]
-                    print('date_str:', date_str)
+                    # print('date_str:', date_str)
                     tmp = dateparser.parse(date_str, languages=[self.language_code])
                     # print('date:', tmp.year, tmp.month, tmp.day)
                     date = datetime.date(tmp.year, tmp.month, tmp.day)
-                    if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                    #if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                        #continue
+                    if date.year < 2018:
+                        print("Skipping outdated document")
                         continue
                     page_body = document_soup.find('div', class_='page-body')
                     assert page_body
                     document_text = page_body.get_text()
                 else:
                     date_str = document_title.split(' du ')[-1]
-                    print("date_str:", date_str)
+                    #print("date_str:", date_str)
                     tmp = dateparser.parse(date_str, languages=[self.language_code])
                     if tmp is None:
                         media_date = media.find('span', class_="media-date")
@@ -139,9 +155,12 @@ class Belgium(DPA):
                         if year < 2018:
                             continue
                     else:
-                        # TODO: Use a fixed date (GDRP release date) rather than a moving window
+                        # Use a fixed date (GDRP release date) rather than a moving window
                         date = datetime.date(tmp.year, tmp.month, tmp.day)
-                        if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                        #if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                            #continue
+                        if date.year < 2018:
+                            print("Skipping outdated document")
                             continue
                 dpa_folder = self.path
                 document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
@@ -174,6 +193,7 @@ class Belgium(DPA):
         return added_docs
 
     # Gets all documents located at second Decisions link
+    # Date checking is correct
     def get_docs_Decisions_v2(self, existing_docs=[], overwrite=False, to_print=True):
         added_docs = []
         pagination = self.update_pagination(host_link_input="https://www.autoriteprotectiondonnees.be",
@@ -236,7 +256,10 @@ class Belgium(DPA):
                     tmp = dateparser.parse(date_str, languages=[self.language_code])
                     # print('date:', tmp.year, tmp.month, tmp.day)
                     date = datetime.date(tmp.year, tmp.month, tmp.day)
-                    if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                    #if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                        #continue
+                    if date.year < 2018:
+                        print("Skipping outdated document")
                         continue
                     page_body = document_soup.find('div', class_='page-body')
                     assert page_body
@@ -252,10 +275,14 @@ class Belgium(DPA):
                         assert media_date
                         year = int(media_date.get_text())
                         if year < 2018:
+                            print("Skipping outdated document")
                             continue
                     else:
                         date = datetime.date(tmp.year, tmp.month, tmp.day)
-                        if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                        #if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                            #continue
+                        if date.year < 2018:
+                            print("Skipping outdated document")
                             continue
                 dpa_folder = self.path
                 document_folder = dpa_folder + '/' + 'Decisions 2' + '/' + document_hash
@@ -288,6 +315,8 @@ class Belgium(DPA):
         return added_docs
 
     # Gets all documents located at opinions link
+    # Date checking correct
+    # Only visits first page, since rest of pages are all outdated (only call update pagination once)
     def get_docs_Opinions(self, existing_docs=[], overwrite=False, to_print=True):
         print("------------ GETTING OPINIONS ------------")
         added_docs = []
@@ -351,8 +380,12 @@ class Belgium(DPA):
                     tmp = dateparser.parse(date_str, languages=[self.language_code])
                     # print('date:', tmp.year, tmp.month, tmp.day)
                     date = datetime.date(tmp.year, tmp.month, tmp.day)
-                    if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                    #if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                        #continue
+                    if date.year < 2018:
+                        print("Skipping outdated document")
                         continue
+
                     page_body = document_soup.find('div', class_='page-body')
                     assert page_body
                     document_text = page_body.get_text()
@@ -368,7 +401,10 @@ class Belgium(DPA):
                             continue
                     else:
                         date = datetime.date(tmp.year, tmp.month, tmp.day)
-                        if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                        #if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                            #continue
+                        if date.year < 2018:
+                            print("Skipping outdated document")
                             continue
                 dpa_folder = self.path
                 document_folder = dpa_folder + '/' + 'Opinions' + '/' + document_hash
@@ -396,8 +432,8 @@ class Belgium(DPA):
                     }
                     json.dump(metadata, f, indent=4, sort_keys=True)
                 added_docs.append(document_hash)
-            # s0. Pagination
-            pagination = self.update_pagination(pagination=pagination, page_soup=page_soup)
+            # Pagination bug -> don't call update_pagination() because it gets all the pages initially
+            #pagination = self.update_pagination(pagination=pagination, page_soup=page_soup)
         return added_docs
 
     # Gets all documents located at guides link
@@ -464,7 +500,10 @@ class Belgium(DPA):
                     tmp = dateparser.parse(date_str, languages=[self.language_code])
                     # print('date:', tmp.year, tmp.month, tmp.day)
                     date = datetime.date(tmp.year, tmp.month, tmp.day)
-                    if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                    #if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                        #continue
+                    if date.year < 2018:
+                        print("Skipping outdated document")
                         continue
                     page_body = document_soup.find('div', class_='page-body')
                     assert page_body
@@ -482,14 +521,11 @@ class Belgium(DPA):
                             print(year)
                             continue
                     else:
-                        # TODO: Figure out if we still want to keep the date cutoff window relative to today's date
-                        #  If not, then modify this to check if the year is less than 2018, which is the default
-                        #  cutoff above.
                         date = datetime.date(tmp.year, tmp.month, tmp.day)
-                        if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
-                            print("---> SKIPPING DOCUMENT BECAUSE OF DATE <---")
-                            # Where to documents outside of time window are excluded
-                            print(date)
+                        #if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                            #continue
+                        if date.year < 2018:
+                            print("Skipping outdated document")
                             continue
                 dpa_folder = self.path
                 document_folder = dpa_folder + '/' + 'Guides' + '/' + document_hash
@@ -517,12 +553,13 @@ class Belgium(DPA):
                     }
                     json.dump(metadata, f, indent=4, sort_keys=True)
                 added_docs.append(document_hash)
-            # s0. Pagination
-            pagination = self.update_pagination(pagination=pagination, page_soup=page_soup)
+            # Only visit first page, since it contains all the up to date docs
+            # Scraper will cache old documents, so we only need to get recent ones
+            # Can uncomment this to have scraper search all pages
+            #pagination = self.update_pagination(pagination=pagination, page_soup=page_soup)
         return added_docs
 
     # Gets all documents located at annual report link
-    # TODO: Put all the text files into one big text file
     def get_docs_AnnualReports(self, existing_docs=[], overwrite=False, to_print=True):
         print('------------ GETTING ANNUAL REPORTS ------------')
         added_docs = []
@@ -564,7 +601,6 @@ class Belgium(DPA):
                     continue
 
                 # Get document title by slicing it out of the href
-                # TODO: Use more robust approach
                 document_title = document_href[slice(-23, -4)]
 
                 print('\n------------ Document ' + str(iteration_number) + '-------------')
@@ -604,9 +640,7 @@ class Belgium(DPA):
                     pass
 
                 # If the link downloads a .zip file -> extract it, then iterate through the html files within it
-                # and convert them the .txt files. Store these .txt files in document_folder
-                # TODO: check if we want to keep the .zip file and extracted version after we have the .txt files
-                # TODO: check how to handle metadata (what should we create metadata with?)
+                # and store their text in one big text file. Store .txt file in document_folder
                 if document_url.endswith('.zip'):
                     with open(document_folder + '/' + self.language_code + '.zip', 'wb') as f:
                         f.write(document_response.content)
@@ -620,7 +654,9 @@ class Belgium(DPA):
 
                         print('\n--- CONVERTING .HTML TO .TXT ---')
 
-                        # Iterate through the extracted zip folder -> convert the html files to text files
+                        # Iterate through the extracted zip folder -> concatenate the text within html files to one big
+                        # text file
+                        all_text_concatenated = ''
                         html_iteration = 1
                         for file in os.listdir(document_folder):
                             filename = os.fsdecode(file)
@@ -635,11 +671,14 @@ class Belgium(DPA):
                                         html_body = html_soup.find('body')
                                         assert html_body
 
-                                    # Store the text files in the document folder for the link
+                                        all_text_concatenated = all_text_concatenated + html_body.get_text()
+
                                     os.chdir(document_folder)
-                                    with open(document_folder + '/' + self.language_code + str(html_iteration) + '.txt','wb') as f:
-                                        f.write(str.encode(html_body.get_text()))
-                                        html_iteration += 1
+
+                                # Store the text file in the document folder for the link
+                                with open(document_folder + '/' + self.language_code + '.txt', 'wb') as f:
+                                    f.write(str.encode(all_text_concatenated))
+                                    html_iteration += 1
 
                 # document_url ends with '.pdf'
                 else:
@@ -656,8 +695,7 @@ class Belgium(DPA):
                             self.language_code: document_title
                         },
                         'md5': document_hash,
-                        # TODO: Ask about document title and date (should it be more specific?)
-                        'releaseDate': href_year_int,  #.strftime('%d/%m/%Y'),
+                        'releaseDate': href_year_int,
                         'url': document_url
                     }
                     json.dump(metadata, f, indent=4, sort_keys=True)

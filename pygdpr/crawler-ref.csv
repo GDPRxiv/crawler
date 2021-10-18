@@ -18,10 +18,11 @@ Croatia,recommendations,notCrawled,https://azop.hr/preporuke/
 Croatia,opinions,notCrawled,https://azop.hr/misljenja/
 Cyprus,decisions,notCrawled,http://www.dataprotection.gov.cy/DATAPROTECTION/DATAPROTECTION.NSF/dp06/dp06?opendocument
 Cyprus,annual report,notCrawled,http://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/reports_gr/reports_gr?opendocument
-Czec Repulic,decisions,notCrawled,https://www.uoou.cz/dozorova-a-rozhodovaci-cinnost/ds-1277/p1=1277
-Czec Repulic,court rulings,notCrawled,https://www.uoou.cz/ceska-republika/ds-2850/archiv=0&p1=1271
-Czec Repulic,opinions,notCrawled,https://www.uoou.cz/na-aktualni-tema/ds-1018/archiv=0&p1=1099
-Czec Repulic,annual report,notCrawled,https://www.uoou.cz/vyrocni-zprava/ds-2089/archiv=0&p1=2087
+Czec Repulic,decision of president of the office,Crawled with noDate, https://www.uoou.cz/rozhodnuti-predsedy-uradu/ds-3815/archiv=0&p1=1277
+Czec Repulic,decision-making activities of the office,Crawled, https://www.uoou.cz/vismo/zobraz_dok.asp?id_org=200144&id_ktg=1022&n=z%2Drozhodovaci%2Dcinnosti%2Duradu&p1=1277
+Czec Repulic,court rulings,Crawled,https://www.uoou.cz/ceska-republika/ds-2850/archiv=0&p1=1271
+Czec Repulic,opinions,Crawled,https://www.uoou.cz/na-aktualni-tema/ds-1018/archiv=0&p1=1099
+Czec Repulic,annual report,Crawled,https://www.uoou.cz/vyrocni-zprava/ds-2089/archiv=0&p1=2087
 Czec Repulic,press release,Crawled,https://www.uoou.cz/tiskove-zpravy/ds-1017/p1=1017&tzv=1&pocet=25&stranka=2
 Denmark,decisions,notCrawled,https://www.datatilsynet.dk/afgoerelser/afgoerelser
 Denmark,permissions,notCrawled,https://www.datatilsynet.dk/afgoerelser/tilladelser
