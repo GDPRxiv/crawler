@@ -671,7 +671,7 @@ class Belgium(DPA):
                                         html_body = html_soup.find('body')
                                         assert html_body
 
-                                        all_text_concatenated = all_text_concatenated + html_body.get_text()
+                                        all_text_concatenated = html_body.get_text() + all_text_concatenated
 
                                     os.chdir(document_folder)
 

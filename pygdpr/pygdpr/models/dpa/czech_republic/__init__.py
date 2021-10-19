@@ -989,3 +989,482 @@ class CzechRepublic(DPA):
                 print('\t------------------------')
 
         return added_docs
+
+    # THE REMAINDER OF THIS FILE IS DEALING WITH THE COMPLETED INSPECTIONS LINK
+
+    # This method is designed to be called by parent method get_docs_CompletedInspections() that
+    # scrapes completed inspections.
+    # Doesn't get date of specific text documents
+    # argument: page_url -> the page we want to scrape. This needs to be a link to a yearly control activities page,
+    # where we can see the headings for Finances, Marketing, Education, etc...
+    # argument: folder_title -> this is the name of the folder we will store everything in
+    def get_docs_DecisionChecksControlActivites(self, existing_docs=[], overwrite=False, to_print=True, page_url=None,
+                                                folder_title=None):
+        print('------------ GETTING CONTROL ACTIVITIES ------------')
+        added_docs = []
+
+        if to_print:
+            print('\tPage:\t', page_url)
+
+        page_source = self.get_source(page_url=page_url)
+        if page_source is None:
+            print("Skipping page because page_source is None")
+            sys.exit()
+
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+        dok = results_soup.find('div', id='obalcelek')
+        assert dok
+        ui = dok.find('ul', class_='ui')
+        assert ui
+
+        iteration = 1
+        for li in ui.find_all('li'):
+            assert li
+            result_link = li.find('a')
+            assert result_link
+
+            document_href = result_link.get('href')
+            assert document_href
+
+            if document_href.startswith('http') is not True:
+                host = "https://www.uoou.cz"
+                document_url = host + document_href
+            else:
+                document_url = document_href
+
+            document_response = None
+            try:
+                document_response = requests.request('GET', document_url, timeout=2)
+                document_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                pass
+            if document_response is None:
+                print("\tSkipping outer link: document_response is None")
+                continue
+
+            document_soup = BeautifulSoup(document_response.text, 'html.parser')
+            assert document_soup
+
+            # Now get the text from each of the links on this second page
+            obalcelek = document_soup.find('div', id='obalcelek')
+            assert obalcelek
+            document_ui = obalcelek.find('ul', class_='ui')
+            assert document_ui
+
+            for document_li in document_ui.find_all('li'):
+                assert document_li
+                text_link = document_li.find('a')
+                assert text_link
+
+                document_title = text_link.get_text()
+                document_hash = hashlib.md5(document_title.encode()).hexdigest()
+                if document_hash in existing_docs and overwrite == False:
+                    if to_print:
+                        print('\tSkipping existing document - hash already exists:\t', document_hash)
+                    continue
+
+                text_href = text_link.get('href')
+                assert text_href
+
+                if text_href.startswith('http') is not True:
+                    host = "https://www.uoou.cz"
+                    text_url = host + text_href
+                else:
+                    text_url = text_href
+
+                text_response = None
+                try:
+                    text_response = requests.request('GET', text_url, timeout=2)
+                    text_response.raise_for_status()
+                except requests.exceptions.HTTPError as error:
+                    pass
+                if text_response is None:
+                    print("\tSkipping existing document: document_response is None")
+                    continue
+
+                text_soup = BeautifulSoup(text_response.text, 'html.parser')
+                assert text_soup
+
+                text_obalcelek = text_soup.find('div', id='obalcelek')
+                assert text_obalcelek
+                text_body = text_obalcelek.find('div', id='stred')
+                assert text_body
+
+                # When we print document info, that means the document is not going to be thrown out
+                print('\n\t------------ Document: ' + str(iteration) + ' ------------')
+                print('\tDocument title: ' + document_title)
+                print('\tDocument year: ' + 'year not available')
+                iteration += 1
+                if to_print:
+                    print("\tDocument:\t", document_hash)
+
+                # Now store the text in the appropriate folder
+                dpa_folder = self.path
+                document_folder = dpa_folder + '/' + folder_title + '/' + document_hash
+                try:
+                    os.makedirs(document_folder)
+                except FileExistsError:
+                    pass
+
+                with open(document_folder + '/' + self.language_code + '.txt', 'wb') as f:
+                    f.write(text_body.get_text().encode())
+
+                with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                    metadata = {
+                        'title': {
+                            self.language_code: document_title
+                        },
+                        'md5': document_hash,
+                        'releaseDate': 'date not available',
+                        'url': document_url
+                    }
+                    json.dump(metadata, f, indent=4, sort_keys=True)
+                added_docs.append(document_hash)
+
+                print('\t------------------------')
+
+        return added_docs
+
+    # Same method as get_docs_DecisionChecksControlActivities, except this handles older link version where
+    # scraper only needs to go 1 layer deep to access text documents
+    def get_docs_DecisionChecksControlActivites2018Below(self, existing_docs=[], overwrite=False, to_print=True, page_url=None,
+                                                folder_title=None):
+        print('------------ GETTING CONTROL ACTIVITIES (Year 2018 and lower) ------------')
+        added_docs = []
+
+        if to_print:
+            print('\tPage:\t', page_url)
+
+        page_source = self.get_source(page_url=page_url)
+        if page_source is None:
+            print("Skipping page because page_source is None")
+            sys.exit()
+
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+        dok = results_soup.find('div', id='obalcelek')
+        assert dok
+        ui = dok.find('ul', class_='ui')
+        assert ui
+
+        iteration = 1
+        for li in ui.find_all('li'):
+            assert li
+            result_link = li.find('a')
+            assert result_link
+
+            document_title = result_link.get_text()
+            document_hash = hashlib.md5(document_title.encode()).hexdigest()
+            if document_hash in existing_docs and overwrite is False:
+                if to_print:
+                    print('\tSkipping existing document - hash already exists:\t', document_hash)
+                continue
+
+            document_href = result_link.get('href')
+            assert document_href
+
+            if document_href.startswith('http') is not True:
+                host = "https://www.uoou.cz"
+                document_url = host + document_href
+            else:
+                document_url = document_href
+
+            document_response = None
+            try:
+                document_response = requests.request('GET', document_url, timeout=2)
+                document_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                pass
+            if document_response is None:
+                print("\tSkipping outer link: document_response is None")
+                continue
+
+            document_soup = BeautifulSoup(document_response.text, 'html.parser')
+            assert document_soup
+
+            text_obalcelek = document_soup.find('div', id='obalcelek')
+            assert text_obalcelek
+            text_body = text_obalcelek.find('div', id='stred')
+            assert text_body
+
+            # When we print document info, that means the document is not going to be thrown out
+            print('\n\t------------ Document: ' + str(iteration) + ' ------------')
+            print('\tDocument title: ' + document_title)
+            print('\tDocument year: ' + 'year not available')
+            iteration += 1
+            if to_print:
+                print("\tDocument:\t", document_hash)
+
+            # Now store the text in the appropriate folder
+            dpa_folder = self.path
+            document_folder = dpa_folder + '/' + folder_title + '/' + document_hash
+            try:
+                os.makedirs(document_folder)
+            except FileExistsError:
+                pass
+
+            with open(document_folder + '/' + self.language_code + '.txt', 'wb') as f:
+                f.write(text_body.get_text().encode())
+
+            with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                metadata = {
+                    'title': {
+                        self.language_code: document_title
+                    },
+                    'md5': document_hash,
+                    'releaseDate': 'date not available',
+                    'url': document_url
+                }
+                json.dump(metadata, f, indent=4, sort_keys=True)
+            added_docs.append(document_hash)
+
+            print('\t------------------------')
+        return added_docs
+
+    # This method is designed to be called by parent method get_docs_CompletedInspections() that
+    # scrapes completed inspections.
+    # Doesn't get date of specific text documents
+    # argument: page_url -> the page we want to scrape. This needs to be a link to a yearly unsolicited commercial
+    # communications page, where we can see the headings for company inspections
+    # argument: folder_title -> this is the name of the folder we will store everything in
+    def get_docs_DecisionChecksUnsolicitedCommerical(self, existing_docs=[], overwrite=False, to_print=True, page_url=None,
+                                                folder_title=None):
+
+        print('------------ GETTING UNSOLICITED COMMERCIAL COMMUNICATIONS  ------------')
+        added_docs = []
+
+        if to_print:
+            print('\tPage:\t', page_url)
+
+        page_source = self.get_source(page_url=page_url)
+        if page_source is None:
+            print("Skipping page because page_source is None")
+            sys.exit()
+
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+        dok = results_soup.find('div', id='obalcelek')
+        assert dok
+        ui = dok.find('ul', class_='ui')
+        assert ui
+
+        iteration = 1
+        hash_iteration = 1
+        for li in ui.find_all('li'):
+            assert li
+            result_link = li.find('a')
+            assert result_link
+
+            # The titles the page gives are often the same, we add iteration number to title to distinguish
+            document_title = result_link.get_text() + ' ' + str(hash_iteration)
+            hash_iteration += 1
+            document_hash = hashlib.md5(document_title.encode()).hexdigest()
+            if document_hash in existing_docs and overwrite is False:
+                if to_print:
+                    print('\tSkipping existing document - hash already exists:\t', document_hash)
+                continue
+
+            document_href = result_link.get('href')
+            assert document_href
+
+            if document_href.startswith('http') is not True:
+                host = "https://www.uoou.cz"
+                document_url = host + document_href
+            else:
+                document_url = document_href
+
+            document_response = None
+            try:
+                document_response = requests.request('GET', document_url, timeout=2)
+                document_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                pass
+            if document_response is None:
+                print("\tSkipping outer link: document_response is None")
+                continue
+
+            document_soup = BeautifulSoup(document_response.text, 'html.parser')
+            assert document_soup
+
+            text_obalcelek = document_soup.find('div', id='obalcelek')
+            assert text_obalcelek
+            text_body = text_obalcelek.find('div', id='stred')
+            assert text_body
+
+            # When we print document info, that means the document is not going to be thrown out
+            print('\n\t------------ Document: ' + str(iteration) + ' ------------')
+            print('\tDocument title: ' + document_title)
+            print('\tDocument year: ' + 'year not available')
+            iteration += 1
+            if to_print:
+                print("\tDocument:\t", document_hash)
+
+            # Now store the text in the appropriate folder
+            dpa_folder = self.path
+            document_folder = dpa_folder + '/' + folder_title + '/' + document_hash
+            try:
+                os.makedirs(document_folder)
+            except FileExistsError:
+                pass
+
+            with open(document_folder + '/' + self.language_code + '.txt', 'wb') as f:
+                f.write(text_body.get_text().encode())
+
+            with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                metadata = {
+                    'title': {
+                        self.language_code: document_title
+                    },
+                    'md5': document_hash,
+                    'releaseDate': 'date not available',
+                    'url': document_url
+                }
+                json.dump(metadata, f, indent=4, sort_keys=True)
+            added_docs.append(document_hash)
+
+            print('\t------------------------')
+
+        return added_docs
+
+    # This is the method to be called when scraping Completed Inspections documents (part of Decisions).
+    # This method starts at the main Completed Inspections page and visits each "Checks for XXXX" link.
+    # If year for the link is less than 2018, it is not scraped.
+    # Once inside "Check for XXXX" link, the method examines the links on the new page and determines the
+    # appropriate scraper methods to call, depending on if links lead to Control Activities or Commercial
+    # Communications type documents.
+    def get_docs_CompletedInspections(self, existing_docs=[], overwrite=False, to_print=True):
+
+        print('------------ GETTING COMPLETED INSPECTIONS  ------------')
+        added_docs = []
+
+        page_url = 'https://www.uoou.cz/ukoncene-kontroly/ds-5649/archiv=0&p1=1277'
+        if to_print:
+            print('\tPage:\t', page_url)
+
+        page_source = self.get_source(page_url=page_url)
+        if page_source is None:
+            print("Skipping page because page_source is None")
+            sys.exit()
+
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+        dok = results_soup.find('div', id='obalcelek')
+        assert dok
+        ui = dok.find('ul', class_='ui')
+        assert ui
+
+        for li in ui.find_all('li'):
+            assert li
+            result_link = li.find('a')
+            assert result_link
+
+            # The titles the page gives are often the same, we add iteration number to title to distinguish
+            document_title = result_link.get_text()
+            inspection_date = document_title[-4:]
+            if int(inspection_date) < 2018:
+                print('\tSkipping inspections for year: ' + inspection_date)
+                continue
+
+            document_href = result_link.get('href')
+            assert document_href
+
+            if document_href.startswith('http') is not True:
+                host = "https://www.uoou.cz"
+                document_url = host + document_href
+            else:
+                document_url = document_href
+
+            print('URL for Checks: ' + inspection_date + ' is ' + document_url)
+
+            document_response = None
+            try:
+                document_response = requests.request('GET', document_url, timeout=2)
+                document_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                pass
+            if document_response is None:
+                print("\tSkipping inspection link: document_response is None")
+                continue
+
+            soup = BeautifulSoup(document_response.text, 'html.parser')
+            assert soup
+
+            # Now look at control actives and unsolicited commercial communications
+            obalcelek = soup.find('div', id='obalcelek')
+            assert obalcelek
+            page_ui = obalcelek.find('ul', class_='ui')
+            assert page_ui
+
+            for page_li in page_ui.find_all('li'):
+                assert page_li
+
+                next_link = page_li.find('a')
+                assert next_link
+
+                link_title = next_link.get_text()
+                assert link_title
+
+                link_href = next_link.get('href')
+                assert link_href
+
+                if link_href.startswith('http') is not True:
+                    host = "https://www.uoou.cz"
+                    link_url = host + link_href
+                else:
+                    link_url = link_href
+
+                # If links leads to a control actives pages and the year is 2018 or lower
+                if 'kontrolni' in link_url and int(inspection_date) <= 2018:
+                    # If this is control activities for second half of the year
+                    if '2.' in link_title:
+                        added_docs += self.get_docs_DecisionChecksControlActivites2018Below(page_url=link_url,
+                                        folder_title=(inspection_date + ' Control Activities - 2nd half of the year'))
+
+                    elif '1.' in link_title:
+                        added_docs += self.get_docs_DecisionChecksControlActivites2018Below(page_url=link_url,
+                                        folder_title=(inspection_date + ' Control Activities - 1st half of the year'))
+
+                    else:
+                        print('Failed to scrape Control Activities link')
+
+                # If links leads to a regular control actives pages
+                elif 'kontrolni' in link_url:
+                    # If this is control activities for second half of the year
+                    if '2.' in link_title:
+                        added_docs += self.get_docs_DecisionChecksControlActivites(page_url=link_url,
+                                        folder_title=(inspection_date + ' Control Activities - 2nd half of the year'))
+
+                    elif '1.' in link_title:
+                        added_docs += self.get_docs_DecisionChecksControlActivites(page_url=link_url,
+                                        folder_title=(inspection_date + ' Control Activities - 1st half of the year'))
+
+                    else:
+                        print('Failed to scrape Control Activities link')
+
+                # Link leads to unsolicited commercial communications page
+                elif 'nevyzadana' in link_url:
+                    # If this is unsolicited commercial communications for second half of the year
+                    if '2.' in link_title:
+                        added_docs += self.get_docs_DecisionChecksUnsolicitedCommerical(page_url=link_url,
+                                        folder_title=(inspection_date
+                                                    + ' Unsolicited Commercial Communications - 2nd half of the year'))
+
+                    elif '1.' in link_title:
+                        added_docs += self.get_docs_DecisionChecksUnsolicitedCommerical(page_url=link_url,
+                                        folder_title=(inspection_date
+                                                    + ' Unsolicited Commercial Communications - 1st half of the year'))
+                    else:
+                        print('Failed to scrape Unsolicited Commercial Communications link')
+
+                else:
+                    print("Couldn't determine type for link: " + link_url)
+
+        return added_docs
+
+
+
+
+
+
+

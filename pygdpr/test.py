@@ -18,8 +18,20 @@ from pygdpr.models.dpa.croatia import *
 #path = "/bulgaria"
 #dpa = Bulgaria(path)
 
+'''
 path = "/croatia"
 dpa = Croatia(path)
 dpa.get_docs()
+'''
 
+'''
+path = '/czech_republic'
+dpa = CzechRepublic(path)
+dpa.get_docs_DecisionChecksControlActivites(
+    page_url='https://www.uoou.cz/kontrolni%2Dcinnost%2Dv%2Doblasti%2Dochrany%2Dosobnich%2Dudaju%2D2%2Dpololeti/ds-6470/archiv=0&p1=1277',
+    folder_title='Control Activities - 2nd half of Year')
+'''
 
+path = '/czech_republic'
+dpa = CzechRepublic(path)
+dpa.get_docs_CompletedInspections()
