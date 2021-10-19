@@ -80,6 +80,7 @@ class CzechRepublic(DPA):
         added_docs += self.get_docs_CourtRulings(existing_docs=[], overwrite=False, to_print=True)
         added_docs += self.get_docs_DecisionOfPresident(existing_docs=[], overwrite=False, to_print=True)
         added_docs += self.get_docs_DecisionMakingActivites(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_CompletedInspections(existing_docs=[], overwrite=False, to_print=True)
 
         return added_docs
 
