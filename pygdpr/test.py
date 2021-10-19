@@ -21,7 +21,6 @@ from pygdpr.models.dpa.denmark import *
 #path = "/bulgaria"
 #dpa = Bulgaria(path)
 
-<<<<<<< HEAD
 '''
 path = "/croatia"
 dpa = Croatia(path)
