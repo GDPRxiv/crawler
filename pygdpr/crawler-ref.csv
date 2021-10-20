@@ -32,10 +32,10 @@ Denmark,reports,Crawled,https://www.datatilsynet.dk/om-datatilsynet/aarsberetnin
 Estonia,Prescriptions,notCrawled,https://www.aki.ee/et/inspektsioon-kontaktid/menetlusotsused/ettekirjutused
 Estonia,Instructions,notCrawled,https://www.aki.ee/et/koik-juhised-loetelus
 Estonia,annual reports,notCrawled,https://aastaraamat.aki.ee/
-Finland,Decisions,notCrawled,https://tietosuoja.fi/en/current-issues
-Finland,advice,notCrawled,https://tietosuoja.fi/en/current-issues
-Finland,Notices,notCrawled,https://tietosuoja.fi/en/current-issues
-Finland,guides,notCrawled,https://tietosuoja.fi/en/current-issues
+Finland,Decisions,Crawled,https://tietosuoja.fi/en/current-issues
+Finland,advice,Crawled,https://tietosuoja.fi/en/current-issues
+Finland,Notices,Crawled,https://tietosuoja.fi/en/current-issues
+Finland,guides,Crawled,https://tietosuoja.fi/en/current-issues
 France,decisions,notCrawled,https://www.cnil.fr/fr/deliberations
 France,deliberations,notCrawled,https://www.cnil.fr/fr/deliberations
 France,notices,notCrawled,https://www.cnil.fr/fr/thematique/cnil/mises-en-demeure
