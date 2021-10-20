@@ -8,6 +8,7 @@ from pygdpr.models.dpa.czech_republic import *
 from pygdpr.models.dpa.croatia import *
 from pygdpr.models.dpa.cyprus import *
 from pygdpr.models.dpa.denmark import *
+from pygdpr.models.dpa.finland import *
 
 
 #path = "/united-kingdom"
@@ -42,6 +43,12 @@ dpa.get_docs_DecisionChecksControlActivites(
 #path = "/cyprus"
 #dpa = Cyprus(path)
 
+'''
 path = '/czech_republic'
 dpa = CzechRepublic(path)
 dpa.get_docs_CompletedInspections()
+'''
+
+path = '/finland'
+dpa = Finland(path)
+dpa.get_docs()

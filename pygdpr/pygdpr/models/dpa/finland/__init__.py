@@ -4,6 +4,9 @@ import requests
 import json
 import datetime
 import hashlib
+
+import textract
+
 from pygdpr.models.dpa import DPA
 from bs4 import BeautifulSoup
 from pygdpr.services.filename_from_path_service import filename_from_path_service
@@ -18,59 +21,58 @@ class Finland(DPA):
         country_code='FI'
         super().__init__(country_code, path)
 
-    def update_pagination(self, pagination=None, page_soup=None, driver=None):
-        source = {
-            "host": "https://tietosuoja.fi",
-            "start_path": "/ajankohtaista"
-        }
-        host = source["host"]
-        start_path = source["start_path"]
-        if pagination is None:
-            pagination = Pagination()
-            pagination.add_item(host + start_path)
-            now = datetime.datetime.now()
-            gdpr_implementation_date = GDPRPolicy().implementation_date()
-            year_range = range(gdpr_implementation_date.year, now.year+1)
-            for year in year_range:
-                pagination.add_item(host + f"/ajankohtaista?tab={year}")
-        return pagination
+    # Removed update_pagination() and get_source() methods because they were not necessary
+    # and contained major logic errors.
 
-    def get_source(self, page_url=None, driver=None):
-        assert (page_url is not None)
-        results_response = None
+    # TODO: Ask about naming of documents: use 'fi' or 'en' ?
+    def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
+        print('------------ GETTING FINLAND DOCUMENTS ------------')
+        added_docs = []
+
+        page_url = 'https://tietosuoja.fi/en/current-issues'
+        if to_print:
+            print('\nPAGE:\t', page_url)
+
+        page_source = None
         try:
-            results_response = requests.request('GET', page_url)
-            results_response.raise_for_status()
+            page_source = requests.request('GET', page_url)
+            page_source.raise_for_status()
         except requests.exceptions.HTTPError as error:
             if to_print:
                 print(error)
             pass
-        return results_response
 
-    def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
-        added_docs = []
-        pagination = self.update_pagination()
-        # s0. Pagination
-        while pagination.has_next():
-            page_url = pagination.get_next()
-            if to_print:
-                print('Page:\t', page_url)
-            page_source = self.get_source(page_url=page_url)
-            if page_source is None:
-                continue
-            results_soup = BeautifulSoup(page_source.text, 'html.parser')
-            assert results_soup
-            ul = results_soup.find('ul', class_='results')
-            assert ul
-            # s1. Results
+        # Page parse object
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+
+        # Each year has a ul tag with the links underneath (Although the page appears as if each
+        # year is a separate page, the actual html layout is like on big page)
+        ul_list = results_soup.find_all('ul', class_='results')
+        assert ul_list
+
+        for ul in ul_list:
+            ul_year = ul.get('id')
+            assert ul_year
+            print("\nExamining documents for year: " + ul_year)
+
+            iterator = 1
             for li in ul.find_all('li', class_='list__item'):
                 span_date = li.find('span', class_='date')
                 assert span_date
                 date_str = span_date.get_text()
                 tmp = datetime.datetime.strptime(date_str, '%d.%m.%Y')
                 date = datetime.date(tmp.year, tmp.month, tmp.day)
-                if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+
+                # TODO: Fix this so it isn't a moving window
+                # TODO: Look at the file containing the ShouldRetainDocumentSpecficiation() method and modify it
+                #if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                    #print("Skipping outdated document. Date: " + date_str)
+                    #continue
+                if date.year < 2018:
+                    print("Skipping outdated document")
                     continue
+
                 result_link = li.find('a')
                 assert result_link
                 # s2. Documents
@@ -80,10 +82,16 @@ class Finland(DPA):
                     if to_print:
                         print('\tSkipping existing document:\t', document_hash)
                     continue
+
+                print('\n------------ Document: ' + str(iterator) + ' ------------')
+                print('\tDocument Title: ' + document_title)
+                iterator += 1
+
                 document_href = result_link.get('href')
                 assert document_href
                 host = "https://tietosuoja.fi"
                 document_url = host + document_href
+
                 if to_print:
                     print("\tDocument:\t", document_hash)
                 document_response = None
@@ -96,19 +104,113 @@ class Finland(DPA):
                     pass
                 if document_response is None:
                     continue
+
+                # Document parse object
                 document_soup = BeautifulSoup(document_response.text, 'html.parser')
                 assert document_soup
+
+                # Obtain document text
                 news_page = document_soup.find('div', class_='news-page')
                 assert news_page
                 document_text = news_page.get_text()
                 document_text = document_text.lstrip()
+
+                # Look at all links contained in the document
+                document_p = news_page.find_all('p')
+                assert document_p
+
+                # Use this when naming the files for pdf links we download. Only increment if use it in a name.
+                link_iterator = 1
+                # This second iterator is for if we have finlex links on the page too
+                # -> don't want to confuse with pdf stuff
+                link_iterator_finlex_links = 1
+                for p in document_p:
+                    if p.find('a') is not None:
+                        a_tag = p.find('a')
+                        href = a_tag.get('href')
+                        assert href
+
+                        if href.startswith('http'):
+                            url = href
+                        else:
+                            url = "https://tietosuoja.fi" + href
+
+                        if '.pdf' in url:
+                            pdf_response = None
+                            try:
+                                pdf_response = requests.request('GET', url)
+                                pdf_response.raise_for_status()
+                            except requests.exceptions.HTTPError as error:
+                                if to_print:
+                                    print(error)
+                                pass
+                            if pdf_response is None:
+                                continue
+
+                            print("\tDownloading PDF: " + url)
+                            # Write pdf and its text to files
+                            dpa_folder = self.path
+                            document_folder = dpa_folder + '/' + str(ul_year) + ' Finland Documents' + '/' + document_hash
+
+                            try:
+                                os.makedirs(document_folder)
+                            except FileExistsError:
+                                pass
+                            with open(document_folder + '/' + self.language_code + str(link_iterator) + '.pdf', 'wb') as f:
+                                f.write(pdf_response.content)
+                            with open(document_folder + '/' + self.language_code + str(link_iterator) + '.txt', 'wb') as f:
+                                link_text = textract.process(document_folder + '/' + self.language_code + str(link_iterator) + '.pdf')
+                                f.write(link_text)
+                            link_iterator += 1
+
+                        elif url.startswith('https://finlex'):
+                            text_response = None
+                            try:
+                                text_response = requests.request('GET', url)
+                                text_response.raise_for_status()
+                            except requests.exceptions.HTTPError as error:
+                                if to_print:
+                                    print(error)
+                                pass
+                            if text_response is None:
+                                continue
+
+                            print("\tDownloading Finlex text: " + url)
+                            text_soup = BeautifulSoup(document_response.text, 'html.parser')
+                            assert text_soup
+
+                            body = text_soup.find('div', id='main-content')
+                            assert body
+                            body_text = body.get_text()
+                            body_text = body_text.lstrip()
+                            assert body_text
+
+                            dpa_folder = self.path
+                            document_folder = dpa_folder + '/' + str(ul_year) + ' Finland Documents' + '/' + document_hash
+
+                            try:
+                                os.makedirs(document_folder)
+                            except FileExistsError:
+                                pass
+                            with open(document_folder + '/' + self.language_code + 'Finlex' + str(link_iterator_finlex_links) + '.txt', 'wb') as f:
+                                f.write(body_text.encode())
+                            link_iterator_finlex_links += 1
+
+                        # Link is not useful
+                        else:
+                            continue
+
+                    # The <p tag doesn't provide a link
+                    else:
+                        continue
+
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + document_hash
+                document_folder = dpa_folder + '/' + str(ul_year) + ' Finland Documents' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
                     pass
-                with open(document_folder + '/' + self.language_code + '.txt', 'w') as f:
+                with open(document_folder + '/' + self.language_code + 'Summary' + '.txt', 'w') as f:
                     f.write(document_text)
                 with open(document_folder + '/' + 'metadata.json', 'w') as f:
                     metadata = {
