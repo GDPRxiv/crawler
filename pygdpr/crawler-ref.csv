@@ -28,9 +28,9 @@ Denmark,decisions,Crawled,https://www.datatilsynet.dk/afgoerelser/afgoerelser
 Denmark,permissions,Crawled,https://www.datatilsynet.dk/afgoerelser/tilladelser
 Denmark,guides,notCrawled,https://www.datatilsynet.dk/hvad-siger-reglerne/vejledning
 Denmark,reports,Crawled,https://www.datatilsynet.dk/om-datatilsynet/aarsberetninger-og-aarsrapporter
-Estonia,Prescriptions,notCrawled,https://www.aki.ee/et/inspektsioon-kontaktid/menetlusotsused/ettekirjutused
-Estonia,Instructions,notCrawled,https://www.aki.ee/et/koik-juhised-loetelus
-Estonia,annual reports,notCrawled,https://aastaraamat.aki.ee/
+Estonia,Prescriptions,Crawled,https://www.aki.ee/et/inspektsioon-kontaktid/menetlusotsused/ettekirjutused
+Estonia,Instructions,Crawled,https://www.aki.ee/et/koik-juhised-loetelus
+Estonia,annual reports,Crawled,https://aastaraamat.aki.ee/
 Finland,Decisions,notCrawled,https://tietosuoja.fi/en/current-issues
 Finland,advice,notCrawled,https://tietosuoja.fi/en/current-issues
 Finland,Notices,notCrawled,https://tietosuoja.fi/en/current-issues
@@ -45,11 +45,11 @@ Greece,recommendations,notCrawled,https://www.dpa.gr/el/enimerwtiko/prakseisArxi
 Greece,Opinions,notCrawled,https://www.dpa.gr/el/enimerwtiko/prakseisArxis?field_year_from=&field_year_to=&field_category=238&field_thematic=All&field_protocol_number=&field_keywords=
 Greece,annual reports,notCrawled,https://www.dpa.gr/enimerwtiko/etisies-ektheseis
 Greece,Guidelines,notCrawled,https://www.dpa.gr/el/enimerwtiko/prakseisArxis?field_year_from=&field_year_to=&field_category=245&field_thematic=All&field_protocol_number=&field_keywords=
-Hungary,decisions,notCrawled,https://www.naih.hu/hatarozatok-vegzesek?start=0;        https://www.naih.hu/index.php/hatarozatok-vegzesek/category/tag?tagid=27
-Hungary,recommendations,notCrawled,https://www.naih.hu/ajanlasok
-Hungary,notices,notCrawled,https://www.naih.hu/dontesek-adatvedelem-tajekoztatok-koezlemenyek
-Hungary,resoutions,notCrawled,https://www.naih.hu/adatvedelmi-allasfoglalasok?start=0
-Hungary,annual reports,notCrawled,https://www.naih.hu/eves-beszamolok
+Hungary,decisions,Crawled,https://www.naih.hu/hatarozatok-vegzesek?start=0;        https://www.naih.hu/index.php/hatarozatok-vegzesek/category/tag?tagid=27
+Hungary,recommendations,Crawled,https://www.naih.hu/ajanlasok
+Hungary,notices,Crawled,https://www.naih.hu/dontesek-adatvedelem-tajekoztatok-koezlemenyek
+Hungary,resoutions,Crawled,https://www.naih.hu/adatvedelmi-allasfoglalasok?start=0
+Hungary,annual reports,Crawled,https://www.naih.hu/eves-beszamolok
 Ireland,decisions,Crawled,https://www.dataprotection.ie/en/dpc-guidance/law/decisions-exercising-corrective-powers-made-under-data-protection-act-2018
 Ireland,judgements,Crawled,https://www.dataprotection.ie/en/dpc-guidance/law/judgments
 Ireland,news,Crawled,https://www.dataprotection.ie/en/news-media/latest-news
