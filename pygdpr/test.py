@@ -8,6 +8,10 @@ from pygdpr.models.dpa.czech_republic import *
 from pygdpr.models.dpa.croatia import *
 from pygdpr.models.dpa.cyprus import *
 from pygdpr.models.dpa.denmark import *
+from pygdpr.models.dpa.estonia import *
+from pygdpr.models.dpa.france import *
+from pygdpr.models.dpa.hungary import *
+from pygdpr.models.dpa.latvia import *
 
 
 #path = "/united-kingdom"
@@ -28,7 +32,23 @@ from pygdpr.models.dpa.denmark import *
 #path = "/cyprus"
 #dpa = Cyprus(path)
 
-path = "/denmark"
-dpa = Denmark(path)
+#path = "/denmark"
+#dpa = Denmark(path)
+#dpa.get_docs()
+
+#path = "/estonia"
+#dpa = Estonia(path)
+#dpa.get_docs()
+
+#path = "/france"
+#dpa = France(path)
+#dpa.get_docs()
+
+#path = "/hungary"
+#dpa = Hungary(path)
+#dpa.get_docs()
+
+path = "/latvia"
+dpa = Latvia(path)
 dpa.get_docs()
 
