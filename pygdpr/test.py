@@ -9,6 +9,7 @@ from pygdpr.models.dpa.croatia import *
 from pygdpr.models.dpa.cyprus import *
 from pygdpr.models.dpa.denmark import *
 from pygdpr.models.dpa.finland import *
+from pygdpr.models.dpa.greece import *
 
 
 #path = "/united-kingdom"
@@ -48,7 +49,12 @@ path = '/czech_republic'
 dpa = CzechRepublic(path)
 dpa.get_docs_CompletedInspections()
 '''
-
+'''
 path = '/finland'
 dpa = Finland(path)
+dpa.get_docs()
+'''
+
+path = '/greece'
+dpa = Greece(path)
 dpa.get_docs()

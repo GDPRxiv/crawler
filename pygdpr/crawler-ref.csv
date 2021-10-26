@@ -21,7 +21,7 @@ Cyprus,annual report,Crawled,http://www.dataprotection.gov.cy/dataprotection/dat
 Czec Repulic,Completed Inspections,Crawled,https://www.uoou.cz/ukoncene-kontroly/ds-5649/archiv=0&p1=1277
 Czec Repulic,Decision of President,noDate,https://www.uoou.cz/rozhodnuti-predsedy-uradu/ds-3815/archiv=0&p1=1277
 Czec Repulic,Decision-Making Activities,Crawled,https://www.uoou.cz/z-rozhodovaci-cinnosti-uradu/ds-1022/p1=1277&tzv=1&pocet=25&stranka=1
-Czec Repulic,court rulings,Crawled,https://www.uoou.cz/ceska-republika/ds-2850/archiv=0&p1=1271
+Czec Repulic,court rulings,Crawled(Has Bug),https://www.uoou.cz/ceska-republika/ds-2850/archiv=0&p1=1271
 Czec Repulic,opinions,Crawled,https://www.uoou.cz/na-aktualni-tema/ds-1018/archiv=0&p1=1099
 Czec Repulic,annual report,Crawled,https://www.uoou.cz/vyrocni-zprava/ds-2089/archiv=0&p1=2087
 Czec Repulic,press release,Crawled,https://www.uoou.cz/tiskove-zpravy/ds-1017/p1=1017&tzv=1&pocet=25&stranka=2
@@ -41,11 +41,11 @@ France,deliberations,notCrawled,https://www.cnil.fr/fr/deliberations
 France,notices,notCrawled,https://www.cnil.fr/fr/thematique/cnil/mises-en-demeure
 France,guidelines,notCrawled,https://www.cnil.fr/fr/decisions/lignes-directrices-recommandations-CNIL
 France,reports,notCrawled,https://www.cnil.fr/fr/tag/Rapport+annuel
-Greece,Decisions,notCrawled,https://www.dpa.gr/el/enimerwtiko/prakseisArxis?field_year_from=2018&field_year_to=&field_category=239&field_thematic=All&field_protocol_number=&field_keywords=&page=0
-Greece,recommendations,notCrawled,https://www.dpa.gr/el/enimerwtiko/prakseisArxis?field_year_from=&field_year_to=&field_category=246&field_thematic=All&field_protocol_number=&field_keywords=
-Greece,Opinions,notCrawled,https://www.dpa.gr/el/enimerwtiko/prakseisArxis?field_year_from=&field_year_to=&field_category=238&field_thematic=All&field_protocol_number=&field_keywords=
-Greece,annual reports,notCrawled,https://www.dpa.gr/enimerwtiko/etisies-ektheseis
-Greece,Guidelines,notCrawled,https://www.dpa.gr/el/enimerwtiko/prakseisArxis?field_year_from=&field_year_to=&field_category=245&field_thematic=All&field_protocol_number=&field_keywords=
+Greece,Decisions,Crawled (Test Again),https://www.dpa.gr/el/enimerwtiko/prakseisArxis?field_year_from=2018&field_year_to=&field_category=239&field_thematic=All&field_protocol_number=&field_keywords=&page=0
+Greece,recommendations,Crawled,https://www.dpa.gr/el/enimerwtiko/prakseisArxis?field_year_from=&field_year_to=&field_category=246&field_thematic=All&field_protocol_number=&field_keywords=
+Greece,Opinions,Crawled,https://www.dpa.gr/el/enimerwtiko/prakseisArxis?field_year_from=&field_year_to=&field_category=238&field_thematic=All&field_protocol_number=&field_keywords=
+Greece,annual reports,Crawled,https://www.dpa.gr/enimerwtiko/etisies-ektheseis
+Greece,Guidelines,Crawled,https://www.dpa.gr/el/enimerwtiko/prakseisArxis?field_year_from=&field_year_to=&field_category=245&field_thematic=All&field_protocol_number=&field_keywords=
 Hungary,decisions,notCrawled,https://www.naih.hu/hatarozatok-vegzesek?start=0;        https://www.naih.hu/index.php/hatarozatok-vegzesek/category/tag?tagid=27
 Hungary,recommendations,notCrawled,https://www.naih.hu/ajanlasok
 Hungary,notices,notCrawled,https://www.naih.hu/dontesek-adatvedelem-tajekoztatok-koezlemenyek
