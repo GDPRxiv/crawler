@@ -57,10 +57,10 @@ Ireland,news,Crawled,https://www.dataprotection.ie/en/news-media/latest-news
 Ireland,reports,Crawled,https://www.dataprotection.ie/en/dpc-guidance/publications
 Ireland,blogs,Crawled,https://www.dataprotection.ie/en/dpc-guidance/blogs
 Ireland,guidance,Crawled,https://www.dataprotection.ie/en/dpc-guidance
-Italy,Injunctions,notCrawled,https://www.garanteprivacy.it/web/guest/home/ricerca/-/search/tipologia/Ordinanza%20ingiunzione%20o%20revoca
+Italy,Injunctions,Crawled(Run Longer),https://www.garanteprivacy.it/web/guest/home/ricerca/-/search/tipologia/Ordinanza%20ingiunzione%20o%20revoca
 Italy,annual reports,notCrawled,https://www.garanteprivacy.it/home/attivita-e-documenti/documenti/relazioni-annuali
 Italy,publications,notCrawled,https://www.garanteprivacy.it/home/attivita-e-documenti/documenti/collana-contributi
-Italy,newsletter,notCrawled,https://www.garanteprivacy.it/home/ricerca/-/search/tipologia/Newsletter
+Italy,newsletter,Crawled(Run Longer),https://www.garanteprivacy.it/home/ricerca/-/search/tipologia/Newsletter
 Italy,interviews,notCrawled,https://www.garanteprivacy.it/home/stampa-comunicazione/interviste
 Italy,hearings,notCrawled,https://www.garanteprivacy.it/home/attivita-e-documenti/documenti/audizioni
 Latvia,decisions,notCrawled,https://www.dvi.gov.lv/lv/lemumi
