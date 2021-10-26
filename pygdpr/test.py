@@ -38,6 +38,22 @@ from pygdpr.models.dpa.finland import *
 #dpa = Denmark(path)
 #dpa.get_docs()
 
+
+#path = "/estonia"
+#dpa = Estonia(path)
+#dpa.get_docs()
+
+#path = "/france"
+#dpa = France(path)
+#dpa.get_docs()
+
+#path = "/hungary"
+#dpa = Hungary(path)
+#dpa.get_docs()
+
+
+
+
 #path = "/estonia"
 #dpa = Estonia(path)
 #dpa.get_docs()
