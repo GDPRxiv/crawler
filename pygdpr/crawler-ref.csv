@@ -58,11 +58,11 @@ Ireland,reports,Crawled,https://www.dataprotection.ie/en/dpc-guidance/publicatio
 Ireland,blogs,Crawled,https://www.dataprotection.ie/en/dpc-guidance/blogs
 Ireland,guidance,Crawled,https://www.dataprotection.ie/en/dpc-guidance
 Italy,Injunctions,Crawled(Run Longer),https://www.garanteprivacy.it/web/guest/home/ricerca/-/search/tipologia/Ordinanza%20ingiunzione%20o%20revoca
-Italy,annual reports,notCrawled,https://www.garanteprivacy.it/home/attivita-e-documenti/documenti/relazioni-annuali
+Italy,annual reports,Crawled,https://www.garanteprivacy.it/home/attivita-e-documenti/documenti/relazioni-annuali
 Italy,publications,notCrawled,https://www.garanteprivacy.it/home/attivita-e-documenti/documenti/collana-contributi
-Italy,newsletter,Crawled(Run Longer),https://www.garanteprivacy.it/home/ricerca/-/search/tipologia/Newsletter
-Italy,interviews,notCrawled,https://www.garanteprivacy.it/home/stampa-comunicazione/interviste
-Italy,hearings,notCrawled,https://www.garanteprivacy.it/home/attivita-e-documenti/documenti/audizioni
+Italy,newsletter,Crawled,https://www.garanteprivacy.it/home/ricerca/-/search/tipologia/Newsletter
+Italy,interviews,Crawled(Bug),https://www.garanteprivacy.it/home/stampa-comunicazione/interviste
+Italy,hearings,Crawled,https://www.garanteprivacy.it/home/attivita-e-documenti/documenti/audizioni
 Latvia,decisions,notCrawled,https://www.dvi.gov.lv/lv/lemumi
 Latvia,violations,notCrawled,https://www.dvi.gov.lv/lv/saraksts-par-publisko-tiesibu-subjektu-pielautajiem-vdar-prasibu-parkapumiem-un-noversanu
 Latvia,annual reports,notCrawled,https://www.dvi.gov.lv/lv/publikacijas-un-parskati
