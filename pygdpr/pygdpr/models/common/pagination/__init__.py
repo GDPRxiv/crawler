@@ -14,6 +14,13 @@ class Pagination(object):
     def has_next(self):
         return self.cursor <= len(self.links) - 1
 
+    # Check if object has specific page link
+    def has_link(self, link):
+        if link in self.links:
+            return True
+        else:
+            return False
+
     def get_next(self):
         if self.has_next() is False:
             raise ValueError('Pagination.get_next() cursor is out of bounds')

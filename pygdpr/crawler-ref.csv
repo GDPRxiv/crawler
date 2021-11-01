@@ -71,9 +71,9 @@ Latvia,guidance,notCrawled,https://www.dvi.gov.lv/lv/dvi; https://www.dvi.gov.lv
 Lithuania,decisions,notCrawled,https://vdai.lrv.lt/lt/naudinga-informacija/vdai-sprendimai-baudos-nurodymai-ir-kt
 Lithuania,inspection reports,notCrawled,https://vdai.lrv.lt/lt/naudinga-informacija/patikrinimu-rezultatu-apibendrinimai
 Lithuania,guidelines,notCrawled,https://vdai.lrv.lt/lt/naudinga-informacija/rekomendacijos-gaires-ir-kt
-Luxemborg,opinions,notCrawled,https://cnpd.public.lu/fr/decisions-avis.html?r=f%2Faem_first_released%2F2021&
+Luxemborg,opinions,Crawled,https://cnpd.public.lu/fr/decisions-avis.html?r=f%2Faem_first_released%2F2021&
 Luxemborg,guidelines,notCrawled,https://cnpd.public.lu/fr/dossiers-thematiques.html
-Luxemborg,annual reports,notCrawled,https://cnpd.public.lu/fr/publications/rapports.html
+Luxemborg,annual reports,Crawled,https://cnpd.public.lu/fr/publications/rapports.html
 Malta,decisions,notCrawled,https://idpc.org.mt/decisions/
 Malta,guidelines,notCrawled,https://idpc.org.mt/for-organisations/guidelines/
 Malta,news articles,notCrawled,https://idpc.org.mt/news/
