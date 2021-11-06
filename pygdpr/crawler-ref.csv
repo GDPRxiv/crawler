@@ -80,8 +80,8 @@ Netherlands,decisions,Crawled,https://autoriteitpersoonsgegevens.nl/nl/publicati
 Netherlands,reports,Crawled,https://autoriteitpersoonsgegevens.nl/nl/publicaties/rapportages
 Netherlands,opinions,Crawled,https://autoriteitpersoonsgegevens.nl/nl/wetgevingsadviezen
 Netherlands,public disclosure,Crawled,https://autoriteitpersoonsgegevens.nl/nl/publicaties/wob-besluiten
-Poland,decisions,notCrawled,https://uodo.gov.pl/pl/p/decyzje
-Poland,tutorials,notCrawled,https://uodo.gov.pl/pl/383
+Poland,decisions,Crawled,https://uodo.gov.pl/pl/p/decyzje
+Poland,tutorials,Crawled,https://uodo.gov.pl/pl/383
 Poland,videos,notCrawled,https://www.youtube.com/channel/UCEMz-1o3gOZPLDJKeEwa87g
 Portugal,decisions,notCrawled,https://www.cnpd.pt/decisoes/historico-de-decisoes/?year=2021
 Portugal,opinions,notCrawled,https://www.cnpd.pt/decisoes/historico-de-decisoes/?year=2021
