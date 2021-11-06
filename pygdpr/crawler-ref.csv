@@ -77,10 +77,10 @@ Malta,decisions,notCrawled,https://idpc.org.mt/decisions/
 Malta,guidelines,notCrawled,https://idpc.org.mt/for-organisations/guidelines/
 Malta,news articles,notCrawled,https://idpc.org.mt/news/
 Netherlands,decisions,notCrawled,https://autoriteitpersoonsgegevens.nl/nl/publicaties/boetes-en-sancties
-Netherlands,reports,notCrawled,https://autoriteitpersoonsgegevens.nl/nl/publicaties/rapportages
-Netherlands,opinions,notCrawled,https://autoriteitpersoonsgegevens.nl/nl/wetgevingsadviezen
-Netherlands,public disclosure,notCrawled,https://autoriteitpersoonsgegevens.nl/nl/publicaties/wob-besluiten
-Poland,decisions,notCrawled,https://uodo.gov.pl/pl/p/decyzje
+Netherlands,reports,Crawled,https://autoriteitpersoonsgegevens.nl/nl/publicaties/rapportages
+Netherlands,opinions,Crawled,https://autoriteitpersoonsgegevens.nl/nl/wetgevingsadviezen
+Netherlands,public disclosure,Crawled,https://autoriteitpersoonsgegevens.nl/nl/publicaties/wob-besluiten
+Poland,decisions,Crawled,https://uodo.gov.pl/pl/p/decyzje
 Poland,tutorials,notCrawled,https://uodo.gov.pl/pl/383
 Poland,videos,notCrawled,https://www.youtube.com/channel/UCEMz-1o3gOZPLDJKeEwa87g
 Portugal,decisions,notCrawled,https://www.cnpd.pt/decisoes/historico-de-decisoes/?year=2021
