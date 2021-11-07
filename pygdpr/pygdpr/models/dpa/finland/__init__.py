@@ -64,11 +64,6 @@ class Finland(DPA):
                 tmp = datetime.datetime.strptime(date_str, '%d.%m.%Y')
                 date = datetime.date(tmp.year, tmp.month, tmp.day)
 
-                # TODO: Fix this so it isn't a moving window
-                # TODO: Look at the file containing the ShouldRetainDocumentSpecficiation() method and modify it
-                #if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
-                    #print("Skipping outdated document. Date: " + date_str)
-                    #continue
                 if date.year < 2018:
                     print("Skipping outdated document")
                     continue

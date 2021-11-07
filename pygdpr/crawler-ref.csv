@@ -74,9 +74,9 @@ Lithuania,guidelines,notCrawled,https://vdai.lrv.lt/lt/naudinga-informacija/reko
 Luxemborg,opinions,Crawled,https://cnpd.public.lu/fr/decisions-avis.html?r=f%2Faem_first_released%2F2021&
 Luxemborg,guidelines,notCrawled,https://cnpd.public.lu/fr/dossiers-thematiques.html
 Luxemborg,annual reports,Crawled,https://cnpd.public.lu/fr/publications/rapports.html
-Malta,decisions,notCrawled,https://idpc.org.mt/decisions/
-Malta,guidelines,notCrawled,https://idpc.org.mt/for-organisations/guidelines/
-Malta,news articles,notCrawled,https://idpc.org.mt/news/
+Malta,decisions,Ignore,https://idpc.org.mt/decisions/
+Malta,guidelines,Crawled,https://idpc.org.mt/for-organisations/guidelines/
+Malta,news articles,NoDate,https://idpc.org.mt/news/
 Netherlands,decisions,notCrawled,https://autoriteitpersoonsgegevens.nl/nl/publicaties/boetes-en-sancties
 Netherlands,reports,notCrawled,https://autoriteitpersoonsgegevens.nl/nl/publicaties/rapportages
 Netherlands,opinions,notCrawled,https://autoriteitpersoonsgegevens.nl/nl/wetgevingsadviezen
