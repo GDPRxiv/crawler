@@ -17,6 +17,7 @@ from pygdpr.models.dpa.finland import *
 from pygdpr.models.dpa.italy import *
 from pygdpr.models.dpa.luxembourg import *
 from pygdpr.models.dpa.malta import *
+from pygdpr.models.dpa.portugal import *
 
 
 #path = "/united-kingdom"
@@ -69,6 +70,6 @@ from pygdpr.models.dpa.malta import *
 #dpa = Hungary(path)
 #dpa.get_docs()
 
-path = "/malta"
-dpa = Malta(path)
-dpa.get_docs_NewsArticles()
+path = "/portugal"
+dpa = Portugal(path)
+dpa.get_docs_Reports()

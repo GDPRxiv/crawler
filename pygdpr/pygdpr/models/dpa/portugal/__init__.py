@@ -16,29 +16,39 @@ from pygdpr.specifications.should_retain_document_specification import ShouldRet
 from pygdpr.models.common.pagination import Pagination
 from pygdpr.policies.gdpr_policy import GDPRPolicy
 import textract
+import sys
 
 class Portugal(DPA):
     def __init__(self, path=os.curdir):
         country_code='pt'
         super().__init__(country_code, path)
 
+    # I add pgd=1 at end of default start_path string
+    # TODO: Make sure this is acceptable during meeting
     def update_pagination(self, pagination=None, page_soup=None, driver=None):
         source = {
             "host": "https://www.cnpd.pt",
-            "start_path": "/decisoes/historico-de-decisoes"
+            "start_path": "/decisoes/historico-de-decisoes/?year=2021&pgd=1"
+
         }
         host = source['host']
         start_path = source['start_path']
+
+        # Just add initial page
         if pagination is None:
             pagination = Pagination()
-            for year in range(2021, 2017, -1):
-                pagination.add_item(host + start_path + "/?year={year}&type=&ent=".format(year=year))
+            pagination.add_item(host + start_path)
+        # Add next page
         else:
             c_pagination = page_soup.find('div', class_='c-pagination')
             if c_pagination is not None:
-                for a in c_pagination('a'):
+                for a in c_pagination.find_all('a'):
                     page_href = a.get('href')
-                    pagination.add_item(host + page_href)
+                    # Only add link if not in objects link list
+                    if pagination.has_link('href'):
+                        continue
+                    else:
+                        pagination.add_item(page_href)
         return pagination
 
     def get_source(self, page_url=None, driver=None):
@@ -117,4 +127,195 @@ class Portugal(DPA):
                     }
                     json.dump(metadata, f, indent=4, sort_keys=True)
                 added_docs.append(document_hash)
+        return added_docs
+
+    def get_docs_Decisions(self, existing_docs=[], overwrite=False, to_print=True):
+        print('------------ GETTING DECISIONS ------------')
+        added_docs = []
+        pagination = self.update_pagination()
+
+        iteration = 1
+        while pagination.has_next():
+
+            page_url = pagination.get_next()
+            if to_print:
+                print('\nPage: ', page_url)
+
+            page_source = self.get_source(page_url=page_url)
+            if page_source is None:
+                sys.exit('Page source is None')
+
+            results_soup = BeautifulSoup(page_source.text, 'html.parser')
+            assert results_soup
+
+            layout = results_soup.find('div', class_='layout')
+            assert layout
+
+            for c_card in layout.find_all('div', class_='c-card'):
+                result_link = c_card.find('a')
+                if result_link is None:
+                    continue
+
+                print('\n------------ Document ' + str(iteration) + ' ------------')
+                iteration += 1
+
+                document_title = result_link.find('div', 'c-card-header-medium')
+                assert document_title
+
+                document_title = document_title.get_text()
+                document_hash = hashlib.md5(document_title.encode()).hexdigest()
+                if document_hash in existing_docs and overwrite is False:
+                    if to_print:
+                        print('\tSkipping existing document:\t', document_hash)
+                    continue
+
+                print('\tDocument Title: ' + document_title)
+
+                document_date = document_title[-4:]
+                print('\tDocument Date: ' + document_date)
+
+                if int(document_date) < 2018:
+                    print("Skipping outdated document")
+                    continue
+
+                document_href = result_link.get('href')
+                host = "https://www.cnpd.pt"
+                document_url = host + document_href
+                if to_print:
+                    print("\tDocument:\t", document_hash)
+                document_response = None
+                try:
+                    document_response = requests.request('GET', document_url, verify=False)
+                    document_response.raise_for_status()
+                except requests.exceptions.HTTPError as error:
+                    if to_print:
+                        print(error)
+                    pass
+                if document_response is None:
+                    continue
+
+                print('\tDocument URL: ' + document_url)
+
+                document_content = document_response.content
+                dpa_folder = self.path
+
+                document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                try:
+                    os.makedirs(document_folder)
+                except FileExistsError:
+                    pass
+                with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                    f.write(document_content)
+                with open(document_folder + '/' + self.language_code + '.txt', 'wb') as f:
+                    link_text = textract.process(document_folder + '/' + self.language_code + '.pdf')
+                    f.write(link_text)
+                with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                    metadata = {
+                        'title': {
+                            self.language_code: document_title
+                        },
+                        'md5': document_hash,
+                        'releaseDate': document_date,
+                        'url': document_url
+                    }
+                    json.dump(metadata, f, indent=4, sort_keys=True)
+                added_docs.append(document_hash)
+            self.update_pagination(pagination=pagination, page_soup=results_soup)
+        return added_docs
+
+    def get_docs_Reports(self, existing_docs=[], overwrite=False, to_print=True):
+        print('------------ GETTING REPORTS ------------')
+        added_docs = []
+
+        iteration = 1
+
+        page_url = 'https://www.cnpd.pt/cnpd/relatorios-de-atividades/'
+        if to_print:
+            print('\nPage: ', page_url)
+
+        page_source = self.get_source(page_url=page_url)
+        if page_source is None:
+            sys.exit('Page source is None')
+
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+
+        layout = results_soup.find('div', class_='layout')
+        assert layout
+
+        c_content = layout.find('div', class_='c-content-text')
+        assert c_content
+
+        for p_tag in c_content.find_all('p'):
+            assert p_tag
+
+            result_link = p_tag.find('a')
+            if result_link is None:
+                continue
+
+            print('\n------------ Document ' + str(iteration) + ' ------------')
+            iteration += 1
+
+            document_title = result_link.get_text()
+            assert document_title
+
+            print('\tDocument Title: ' + document_title)
+
+            document_hash = hashlib.md5(document_title.encode()).hexdigest()
+            if document_hash in existing_docs and overwrite is False:
+                if to_print:
+                    print('\tSkipping existing document:\t', document_hash)
+                continue
+
+            document_date = document_title[-4:]
+            print('\tDocument Date: ' + document_date)
+
+            if int(document_date) < 2018:
+                print("\tSKIPPING OUTDATED DOCUMENT")
+                continue
+
+            document_href = result_link.get('href')
+            host = "https://www.cnpd.pt"
+            document_url = host + document_href
+
+            if to_print:
+                print("\tDocument: ", document_hash)
+            document_response = None
+            try:
+                document_response = requests.request('GET', document_url, verify=False)
+                document_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                if to_print:
+                    print(error)
+                pass
+            if document_response is None:
+                continue
+
+            print('\tDocument URL: ' + document_url)
+
+            document_content = document_response.content
+            dpa_folder = self.path
+
+            document_folder = dpa_folder + '/' + 'Reports' + '/' + document_hash
+            try:
+                os.makedirs(document_folder)
+            except FileExistsError:
+                pass
+            with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                f.write(document_content)
+            with open(document_folder + '/' + self.language_code + '.txt', 'wb') as f:
+                link_text = textract.process(document_folder + '/' + self.language_code + '.pdf')
+                f.write(link_text)
+            with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                metadata = {
+                    'title': {
+                        self.language_code: document_title
+                    },
+                    'md5': document_hash,
+                    'releaseDate': document_date,
+                    'url': document_url
+                }
+                json.dump(metadata, f, indent=4, sort_keys=True)
+            added_docs.append(document_hash)
+
         return added_docs

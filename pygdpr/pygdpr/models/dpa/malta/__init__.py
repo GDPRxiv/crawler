@@ -30,6 +30,7 @@ class Malta(DPA):
         country_code='mt'
         super().__init__(country_code, path)
 
+    # Method never called
     def update_pagination(self, pagination=None, page_soup=None, driver=None):
         source = {
             "host": "https://idpc.org.mt",
