@@ -54,69 +54,124 @@ class Latvia(DPA):
 
     def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
         added_docs = []
-        pagination = self.update_pagination()
-        # s0. Pagination
-        while pagination.has_next():
-            page_url = pagination.get_next()
-            if to_print:
-                print('Page:\t', page_url)
-            page_source = self.get_source(page_url=page_url)
-            if page_source is None:
-                continue
-            results_soup = BeautifulSoup(page_source.text, 'html.parser')
-            assert results_soup
-            articles_wrapper = results_soup.find('div', class_='articles-wrapper')
-            assert articles_wrapper
-            # s1. Results
-            for views_row in articles_wrapper.find_all('div', class_='views-row'):
-                article_details = views_row.find('div', class_='article-details')
-                assert article_details
-                date_div = article_details.find('div', class_='date')
-                assert date_div
-                date_str = date_div.get_text().strip()
-                print('date_str:', date_str)
+        # call all the get_docs_X() functions
+        added_docs += self.get_docs_decisions(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_violations(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_annualReports(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_opinions(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_guidance_1(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_guidance_2(existing_docs=[], overwrite=False, to_print=True)
+        return added_docs
+
+    def get_docs_decisions(self, existing_docs=[], overwrite=False, to_print=True):
+        existed_docs = []
+        source = {
+            "host": "https://www.dvi.gov.lv",
+            "start_path": "/lv/lemumi"
+        }
+        host = source['host']
+        start_path = source['start_path']
+        page_url = host + start_path
+        if to_print:
+            print('Page:\t', page_url)
+        page_source = self.get_source(page_url=page_url)
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+        block_content = results_soup.find('div', class_='block-ministry-content')
+        node = block_content.find('div', class_='node')
+        content = node.find('div', class_='content')
+        for accordion in content.find_all('div', class_='accordion'):
+            card_year = accordion.find('button', class_='btn btn-link')
+            year = card_year.get_text().strip()
+            print("year: ", year)
+            card_body = accordion.find('div', class_='card-body')
+            tr_all = table = card_body.find_all('tr')
+            assert tr_all
+            tr_all = tr_all[1:] # skip the fst row
+            for tr in tr_all:
+                td_all = tr.find_all('td')
+                assert td_all
+                year_flag = '2021'
+                if year == '2021':
+                    manager_index, remedy_index, pdf_index, date_index = 0, 1, 2, 3
+                else:
+                    manager_index, pdf_index, date_index, decision_status, court_judgment = 0, 1, 2, 3, 4
+                    year_flag = '2020'
+                td_date = td_all[date_index]
+                assert td_date
+                date_str = td_date.get_text().strip()
+                if not date_str[0].isdigit():
+                    continue
                 tmp = datetime.datetime.strptime(date_str, '%d.%m.%Y.')
                 date = datetime.date(tmp.year, tmp.month, tmp.day)
                 if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
                     continue
-                article_info = views_row.find('div', class_='article-info')
-                assert article_info
-                title = article_info.find('div', class_='title')
-                assert title
-                a = title.find('a')
-                # s2. Documents
-                document_title = a.get_text()
+                # no document title shows in table, replace with manager + date
+                document_title = td_all[manager_index].get_text().strip() + '-' + date_str
+                print('document_title: ', document_title)
                 document_hash = hashlib.md5(document_title.encode()).hexdigest()
                 if document_hash in existing_docs and overwrite == False:
                     if to_print:
                         print('\tSkipping existing document:\t', document_hash)
                     continue
-                host = 'https://www.dvi.gov.lv'
-                result_link = a.get('href')
-                document_href = result_link
-                assert document_href
+                td_pdf = td_all[pdf_index]
+                assert td_pdf
+                if len(td_pdf) == 1:
+                    continue
+                document_href = td_pdf.find('a').get('href')
                 document_url = host + document_href
-                if to_print:
-                    print("\tDocument:\t", document_hash)
+                print('\tdocument_hash: ', document_hash)
+                assert document_url
                 document_response = None
                 try:
                     document_response = requests.request('GET', document_url)
                     document_response.raise_for_status()
                 except requests.exceptions.HTTPError as error:
+                    if to_print:
+                        print(error)
                     pass
                 if document_response is None:
                     continue
-                document_soup = BeautifulSoup(document_response.text, 'html.parser')
-                content_area = document_soup.find('div', id='content-area')
-                document_text = content_area.get_text()
+                document_content = document_response.content
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + document_hash
+                document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
                     pass
-                with open(document_folder + '/' + self.language_code + '.txt', 'w') as f:
+                with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                    f.write(document_content)
+                with open(document_folder + '/' + self.language_code + '.txt', 'wb') as f:
+                    document_text = textract.process(document_folder + '/' + self.language_code + '.pdf')
                     f.write(document_text)
+                if year_flag == '2020':
+                    judgement = td_all[court_judgment].find('a')
+                    if judgement is not None:
+                        judgement_href = td_all[court_judgment].find('a').get('href')
+                        judgement_url = host + document_href
+                        print('\tdocument_2_url: ', judgement_url)
+                        judgement_response = None
+                        try:
+                            judgement_response = requests.request('GET', judgement_url)
+                            judgement_response.raise_for_status()
+                        except requests.exceptions.HTTPError as error:
+                            if to_print:
+                                print(error)
+                            pass
+                        if judgement_response is None:
+                            continue
+                        judgement_content = judgement_response.content
+                        dpa_folder = self.path
+                        document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                        try:
+                            os.makedirs(document_folder)
+                        except FileExistsError:
+                            pass
+                        with open(document_folder + '/' + self.language_code + '_Court Judgement' + '.pdf', 'wb') as f:
+                            f.write(judgement_content)
+                        with open(document_folder + '/' + self.language_code + '_Court Judgement' + '.txt', 'wb') as f:
+                            judgement_text = textract.process(document_folder + '/' + self.language_code + '_Court Judgement' + '.pdf')
+                            f.write(judgement_text)
                 with open(document_folder + '/' + 'metadata.json', 'w') as f:
                     metadata = {
                         'title': {
@@ -126,8 +181,380 @@ class Latvia(DPA):
                         'releaseDate': date.strftime('%d/%m/%Y'),
                         'url': document_url
                     }
-                    json.dump(metadata, f, indent=4, sort_keys=True)
-                added_docs.append(document_hash)
-            # s0. Pagination
-            pagination = self.update_pagination(pagination=pagination, page_soup=results_soup)
-        return added_docs
+                    json.dump(metadata, f, indent=4, sort_keys=True, ensure_ascii=False)
+                existed_docs.append(document_hash)
+        return existed_docs
+
+
+    def get_docs_violations(self, existing_docs=[], overwrite=False, to_print=True):
+        existed_docs = []
+        source = {
+            "host": "https://www.dvi.gov.lv",
+            "start_path": "/lv/saraksts-par-publisko-tiesibu-subjektu-pielautajiem-vdar-prasibu-parkapumiem-un-noversanu"
+        }
+        host = source['host']
+        start_path = source['start_path']
+        page_url = host + start_path
+        if to_print:
+            print('Page:\t', page_url)
+        page_source = self.get_source(page_url=page_url)
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+        block_content = results_soup.find('div', class_='block-ministry-content')
+        node = block_content.find('div', class_='node')
+        content = node.find('div', class_='content')
+        for accordion in content.find_all('div', class_='accordion'):
+            card_year = accordion.find('button', class_='btn btn-link')
+            year = card_year.get_text().strip().split('.')[0]
+            print("year: ", year)
+            card_body = accordion.find('div', class_='card-body')
+            document_href = card_body.find('a').get('href')
+            document_url = host + document_href
+            print('document_url: ', document_url)
+            assert document_url
+
+            # no title, so use year to be the title
+            document_title = year
+            document_hash = hashlib.md5(document_title.encode()).hexdigest()
+            if document_hash in existing_docs and overwrite == False:
+                if to_print:
+                    print('\tSkipping existing document:\t', document_hash)
+                continue
+            document_response = None
+            try:
+                document_response = requests.request('GET', document_url)
+                document_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                if to_print:
+                    print(error)
+                pass
+            if document_response is None:
+                continue
+            document_content = document_response.content
+            dpa_folder = self.path
+            document_folder = dpa_folder + '/' + 'Violations' + '/' + document_hash
+            try:
+                os.makedirs(document_folder)
+            except FileExistsError:
+                pass
+            with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                f.write(document_content)
+            with open(document_folder + '/' + self.language_code + '.txt', 'wb') as f:
+                document_text = textract.process(document_folder + '/' + self.language_code + '.pdf')
+                f.write(document_text)
+            with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                metadata = {
+                    'title': {
+                        self.language_code: document_title
+                    },
+                    'md5': document_hash,
+                    'releaseDate': year,
+                    'url': document_url
+                }
+                json.dump(metadata, f, indent=4, sort_keys=True, ensure_ascii=False)
+            existed_docs.append(document_hash)
+        return existed_docs
+
+
+    def get_docs_annualReports(self, existing_docs=[], overwrite=False, to_print=True):
+        existed_docs = []
+        source = {
+            "host": "https://www.dvi.gov.lv",
+            "start_path": "/lv/publikacijas-un-parskati"
+        }
+        host = source['host']
+        start_path = source['start_path']
+        page_url = host + start_path
+        if to_print:
+            print('Page:\t', page_url)
+        page_source = self.get_source(page_url=page_url)
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+        block_content = results_soup.find('div', class_='block-ministry-content')
+        node = block_content.find('div', class_='node')
+        content = node.find('div', class_='content')
+        for paragraph in content.find_all('div', class_='paragraph--type--data'):
+            year = paragraph.get_text().strip().split('.')[0]
+            if year < '2018':
+                continue
+            print("year: ", year)
+            document_href = paragraph.find('a').get('href')
+            document_url = host + document_href
+            print('document_url: ', document_url)
+            assert document_url
+
+            # no title, so use year to be the title
+            document_title = year
+            document_hash = hashlib.md5(document_title.encode()).hexdigest()
+            if document_hash in existing_docs and overwrite == False:
+                if to_print:
+                    print('\tSkipping existing document:\t', document_hash)
+                continue
+            document_response = None
+            try:
+                document_response = requests.request('GET', document_url)
+                document_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                if to_print:
+                    print(error)
+                pass
+            if document_response is None:
+                continue
+            document_content = document_response.content
+            dpa_folder = self.path
+            document_folder = dpa_folder + '/' + 'Annual Reports' + '/' + document_hash
+            try:
+                os.makedirs(document_folder)
+            except FileExistsError:
+                pass
+            with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                f.write(document_content)
+            with open(document_folder + '/' + self.language_code + '.txt', 'wb') as f:
+                document_text = textract.process(document_folder + '/' + self.language_code + '.pdf')
+                f.write(document_text)
+            with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                metadata = {
+                    'title': {
+                        self.language_code: document_title
+                    },
+                    'md5': document_hash,
+                    'releaseDate': year,
+                    'url': document_url
+                }
+                json.dump(metadata, f, indent=4, sort_keys=True, ensure_ascii=False)
+            existed_docs.append(document_hash)
+        return existed_docs
+
+    def get_docs_opinions(self, existing_docs=[], overwrite=False, to_print=True):
+        existed_docs = []
+        source = {
+            "host": "https://www.dvi.gov.lv",
+            "start_path": "/lv/dviskaidro"
+        }
+        host = source['host']
+        start_path = source['start_path']
+        page_url = host + start_path
+        if to_print:
+            print('Page:\t', page_url)
+        page_source = self.get_source(page_url=page_url)
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+        block_content = results_soup.find('div', class_='block-ministry-content')
+        node = block_content.find('div', class_='node')
+        content = node.find('div', class_='content')
+        for paragraph in content.find_all('div', class_='paragraph--view-mode--default'):
+
+            articles_wrapper = paragraph.find('div', class_='articles-wrapper')
+            assert articles_wrapper
+            article_details = articles_wrapper.find('div', class_='article-details')
+            assert article_details
+            date_div = article_details.find('div', class_='date')
+            assert date_div
+            date_str = date_div.get_text().strip()
+            print('date_str:', date_str)
+            tmp = datetime.datetime.strptime(date_str, '%d.%m.%Y.')
+            date = datetime.date(tmp.year, tmp.month, tmp.day)
+            if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                continue
+            # s1. Results
+            article_title = articles_wrapper.find('div', class_='title')
+            assert article_title
+            a = article_title.find('a')
+            # s2. Documents
+            document_title = a.get_text()
+            document_hash = hashlib.md5(document_title.encode()).hexdigest()
+            if document_hash in existing_docs and overwrite == False:
+                if to_print:
+                    print('\tSkipping existing document:\t', document_hash)
+                continue
+            host = 'https://www.dvi.gov.lv'
+            result_link = a.get('href')
+            document_href = result_link
+            assert document_href
+            document_url = host + document_href
+            if to_print:
+                print("\tDocument:\t", document_hash)
+            document_response = None
+            try:
+                document_response = requests.request('GET', document_url)
+                document_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                pass
+            if document_response is None:
+                continue
+            document_soup = BeautifulSoup(document_response.text, 'html.parser')
+            content_area = document_soup.find('div', id='content-area')
+            document_text = content_area.get_text()
+            dpa_folder = self.path
+            document_folder = dpa_folder + '/' + 'Opinions' + '/' + document_hash
+            try:
+                os.makedirs(document_folder)
+            except FileExistsError:
+                pass
+            with open(document_folder + '/' + self.language_code + '.txt', 'w') as f:
+                f.write(document_text)
+            with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                metadata = {
+                    'title': {
+                        self.language_code: document_title
+                    },
+                    'md5': document_hash,
+                    'releaseDate': date.strftime('%d/%m/%Y'),
+                    'url': document_url
+                }
+                json.dump(metadata, f, indent=4, sort_keys=True, ensure_ascii=False)
+            existed_docs.append(document_hash)
+        return existed_docs
+
+
+    def get_docs_guidance_1(self, existing_docs=[], overwrite=False, to_print=True):
+        existed_docs = []
+        source = {
+            "host": "https://www.dvi.gov.lv",
+            "start_path": "/lv/dvi"
+        }
+        host = source['host']
+        start_path = source['start_path']
+        page_url = host + start_path
+        if to_print:
+            print('Page:\t', page_url)
+        page_source = self.get_source(page_url=page_url)
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+        block_content = results_soup.find('div', class_='block-ministry-content')
+        node = block_content.find('div', class_='node')
+        content = node.find('div', class_='content')
+        for paragraph in content.find_all('div', class_='paragraph--view-mode--default'):
+            card_body = paragraph.find('div', class_='card-body')
+            assert card_body
+            file_links = card_body.find('div', class_='file-links')
+            assert file_links
+            icon_exclamation = file_links.find('span', class_='icon-exclamation')
+            assert icon_exclamation
+            date_str = icon_exclamation.get('title').split()[-1].rstrip('</p>')
+            print('date: ', date_str)
+            tmp = datetime.datetime.strptime(date_str, '%d.%m.%Y')
+            date = datetime.date(tmp.year, tmp.month, tmp.day)
+            if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                continue
+            a = file_links.find('a')
+            document_href = a.get('href')
+            document_url = host + document_href
+            document_title = a.get_text()
+            print('document_title: ', document_title)
+            print('\tdocument_url: ', document_url)
+            document_hash = hashlib.md5(document_title.encode()).hexdigest()
+            if document_hash in existing_docs and overwrite == False:
+                if to_print:
+                    print('\tSkipping existing document:\t', document_hash)
+                continue
+            if to_print:
+                print("\tDocument:\t", document_hash)
+            document_response = None
+            try:
+                document_response = requests.request('GET', document_url)
+                document_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                pass
+            if document_response is None:
+                continue
+            document_content = document_response.content
+            dpa_folder = self.path
+            document_folder = dpa_folder + '/' + 'Guidance' + '/' + document_hash
+            try:
+                os.makedirs(document_folder)
+            except FileExistsError:
+                pass
+            with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                f.write(document_content)
+            with open(document_folder + '/' + self.language_code + '.txt', 'wb') as f:
+                document_text = textract.process(document_folder + '/' + self.language_code + '.pdf')
+                f.write(document_text)
+            with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                metadata = {
+                    'title': {
+                        self.language_code: document_title
+                    },
+                    'md5': document_hash,
+                    'releaseDate': date.strftime('%d/%m/%Y'),
+                    'url': document_url
+                }
+                json.dump(metadata, f, indent=4, sort_keys=True, ensure_ascii=False)
+            existed_docs.append(document_hash)
+        return existed_docs
+
+    # this method only scrape pdf files
+    def get_docs_guidance_2(self, existing_docs=[], overwrite=False, to_print=True):
+        existed_docs = []
+        source = {
+            "host": "https://www.dvi.gov.lv",
+            "start_path": "/lv/edak-pamatnostadnes"
+        }
+        host = source['host']
+        start_path = source['start_path']
+        page_url = host + start_path
+        if to_print:
+            print('Page:\t', page_url)
+        page_source = self.get_source(page_url=page_url)
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+        block_content = results_soup.find('div', class_='block-ministry-content')
+        node = block_content.find('div', class_='node')
+        content = node.find('div', class_='content')
+        for paragraph in content.find_all('div', class_='paragraph--view-mode--default'):
+            file_links = paragraph.find('div', class_='file-links')
+            if file_links is None:
+                continue
+            icon_exclamation = file_links.find('span', class_='icon-exclamation')
+            assert icon_exclamation
+            date_str = icon_exclamation.get('title').split()[-1].rstrip('</p>')
+            print('date: ', date_str)
+            tmp = datetime.datetime.strptime(date_str, '%d.%m.%Y')
+            date = datetime.date(tmp.year, tmp.month, tmp.day)
+            if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
+                continue
+            a = file_links.find('a')
+            document_href = a.get('href')
+            document_url = host + document_href
+            document_title = a.get_text()
+            print('document_title: ', document_title)
+            print('\tdocument_url: ', document_url)
+            document_hash = hashlib.md5(document_title.encode()).hexdigest()
+            if document_hash in existing_docs and overwrite == False:
+                if to_print:
+                    print('\tSkipping existing document:\t', document_hash)
+                continue
+            if to_print:
+                print("\tDocument:\t", document_hash)
+            document_response = None
+            try:
+                document_response = requests.request('GET', document_url)
+                document_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                pass
+            if document_response is None:
+                continue
+            document_content = document_response.content
+            dpa_folder = self.path
+            document_folder = dpa_folder + '/' + 'Guidance_2' + '/' + document_hash
+            try:
+                os.makedirs(document_folder)
+            except FileExistsError:
+                pass
+            with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                f.write(document_content)
+            with open(document_folder + '/' + self.language_code + '.txt', 'wb') as f:
+                document_text = textract.process(document_folder + '/' + self.language_code + '.pdf')
+                f.write(document_text)
+            with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                metadata = {
+                    'title': {
+                        self.language_code: document_title
+                    },
+                    'md5': document_hash,
+                    'releaseDate': date.strftime('%d/%m/%Y'),
+                    'url': document_url
+                }
+                json.dump(metadata, f, indent=4, sort_keys=True, ensure_ascii=False)
+            existed_docs.append(document_hash)
+        return existed_docs
