@@ -94,7 +94,7 @@ Slovakia,fines,notCrawled,contained in annual reports
 Slovakia,reports,notCrawled,https://dataprotection.gov.sk/uoou/sk/content/vyrocne-spravy
 Slovakia,opinions,notCrawled,https://dataprotection.gov.sk/uoou/sk/main-content/metodiky-uradu
 Slovenia,decisions,notCrawled,https://www.lexology.com/library/detail.aspx?g=fefb5628-a55a-4526-abdc-3777c39e7b3d
-Slovenia,opinions,notCrawled,https://www.ip-rs.si/mnenja-gdpr/
+Slovenia,opinions,Crawled(Run Longer),https://www.ip-rs.si/mnenja-gdpr/
 Slovenia,guidelines,notCrawled,https://www.ip-rs.si/publikacije/priro%C4%8Dniki-in-smernice/
 Slovenia,reports,notCrawled,https://www.ip-rs.si/publikacije/letna-poro%C4%8Dila/
 Spain,decisions,notCrawled,https://www.aepd.es/es/informes-y-resoluciones/resoluciones?f%5B0%5D=ley_tipificacion_de_la_gravedad%3AReglamento%20General%20de%20Protecci%C3%B3n%20de%20Datos
