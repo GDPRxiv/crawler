@@ -28,13 +28,14 @@ class Spain(DPA):
     # Added two new arguments: new_page_type and start_path
     # new_page_type: indicates the type of document we are scraping. This is needed to index the correct link
     # sub-string in source{} when adding additional pages to the pagination object
-    # start_path: this is the usual start_path parameter contained in source{}. It's just passed as an
+    # start_path: this is the usual start_path parameter normally contained in source{}. It's just passed as an
     # argument now
     def update_pagination(self, pagination=None, page_soup=None, driver=None, new_page_type=None, start_path=None):
         source = {
             "host": "https://www.aepd.es",
             "new_page_decisions": "/es/informes-y-resoluciones/resoluciones",
-            "new_page_reports": "/es/informes-y-resoluciones/informes-juridicos"
+            "new_page_reports": "/es/informes-y-resoluciones/informes-juridicos",
+            "new_page_guides": "/es/guias-y-herramientas/guias"
         }
         host = source['host']
         start_path_new_page = source[new_page_type]
@@ -306,4 +307,127 @@ class Spain(DPA):
                     json.dump(metadata, f, indent=4, sort_keys=True)
                 added_docs.append(document_hash)
             pagination = self.update_pagination(pagination=pagination, page_soup=page_soup, new_page_type="new_page_reports", start_path='/informes-y-resoluciones/informes-juridicos?f%5B0%5D=informes_disposiciones_estudiadas%3AReglamento%20General%20de%20Protecci%C3%B3n%20de%20Datos%20UE%202016/679')
+        return added_docs
+
+    def get_docs_Guides(self, existing_docs=[], overwrite=False, to_print=True):
+        print('------------ GETTING GUIDES ------------')
+
+        added_docs = []
+        pagination = self.update_pagination(new_page_type="new_page_guides", start_path='/es/guias-y-herramientas/guias')
+
+        iteration = 1
+        while pagination.has_next():
+            page_url = pagination.get_next()
+            if to_print:
+                print('\nNEW PAGE: ' + page_url)
+
+            page_source = self.get_source(page_url=page_url)
+            page_soup = BeautifulSoup(page_source.text, 'html.parser')
+            assert page_soup
+
+            view_content = page_soup.find('div', class_='view-content')
+            assert view_content
+
+            for views_row in view_content.find_all('div', class_='views-row'):
+                time.sleep(5)
+                views_field_title = views_row.find('div', class_='views-field-title')
+                assert views_field_title
+
+                views_field_advertise = views_row.find('div', class_='views-field-field-advertise-on')
+                assert views_field_advertise
+
+                views_time = views_field_advertise.find('time')
+                assert views_time
+
+                document_date = views_time.get_text()
+
+                result_link = views_field_title.find('a')
+                if result_link is None:
+                    continue
+
+                document_title = result_link.get_text()
+
+                print('\n------------ Document ' + str(iteration) + ' ------------')
+                iteration += 1
+
+                print('\tDocument Title: ' + document_title)
+
+                print('\tDocument Date: ' + document_date)
+
+                if int(document_date[-4:]) < 2018:
+                    print('Skipping outdated document')
+                    continue
+
+                document_hash = hashlib.md5(document_title.encode()).hexdigest()
+                if document_hash in existing_docs and overwrite is False:
+                    if to_print:
+                        print('\tSkipping existing document:', document_hash)
+                    continue
+                document_href = result_link.get('href')
+                assert document_href
+
+                host = "https://www.aepd.es"
+
+                if document_href.startswith('http'):
+                    document_url = document_href
+                else:
+                    document_url = host + document_href
+
+                print('\tDocument URL: ' + document_url)
+
+
+                '''
+                print('\tDocument Date: ' + str(date))
+
+                document_year = str(date)[0:4]
+                if int(document_year) < 2018:
+                    print('Skipping outdated document')
+                    continue
+
+                # By the time we reach document from 2016 and below, it is unlikely to encounter any relevant ones
+                if int(document_year) < 2017:
+                    sys.exit('Remaining documents outdated')
+
+
+                '''
+
+                document_response = None
+                try:
+                    document_response = requests.request('GET', document_url)
+                    document_response.raise_for_status()
+                except requests.exceptions.HTTPError as error:
+                    if to_print:
+                        print(error)
+                    pass
+                if document_response is None:
+                    continue
+
+                document_content = document_response.content
+                dpa_folder = self.path
+                document_folder = dpa_folder + '/' + 'Guides' + '/' + document_hash
+
+                try:
+                    os.makedirs(document_folder)
+                except FileExistsError:
+                    pass
+                with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                    f.write(document_content)
+                with open(document_folder + '/' + self.language_code + '.txt', 'wb') as f:
+                    try:
+                        document_text = textract.process(document_folder + '/' + self.language_code + '.pdf')
+                        f.write(document_text)
+                    except:
+                        print('\tFailed to convert PDF to text')
+                with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                    metadata = {
+                        'title': {
+                            self.language_code: document_title
+                        },
+                        'md5': document_hash,
+                        'releaseDate': document_date,
+                        'url': document_url
+                    }
+                    json.dump(metadata, f, indent=4, sort_keys=True)
+                added_docs.append(document_hash)
+            pagination = self.update_pagination(pagination=pagination, page_soup=page_soup, new_page_type="new_page_guides", start_path='/informes-y-resoluciones/informes-juridicos?f%5B0%5D=informes_disposiciones_estudiadas%3AReglamento%20General%20de%20Protecci%C3%B3n%20de%20Datos%20UE%202016/679')
         return added_docs
