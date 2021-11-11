@@ -61,74 +61,6 @@ class Portugal(DPA):
             pass
         return results_response
 
-    def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
-        added_docs = []
-        pagination = self.update_pagination()
-        # s0. Pagination
-        while pagination.has_next():
-            page_url = pagination.get_next()
-            if to_print:
-                print('Page:\t', page_url)
-            page_source = self.get_source(page_url=page_url)
-            if page_source is None:
-                continue
-            results_soup = BeautifulSoup(page_source.text, 'html.parser')
-            assert results_soup
-            layout = results_soup.find('div', class_='layout')
-            assert layout
-            for c_card in layout.find_all('div', class_='c-card'):
-                result_link = c_card.find('a')
-                if result_link is None:
-                    continue
-                # s2. Documents
-                document_title = result_link.find('div', 'c-card-header-medium')
-                assert document_title
-                document_title = document_title.get_text()
-                document_hash = hashlib.md5(document_title.encode()).hexdigest()
-                if document_hash in existing_docs and overwrite == False:
-                    if to_print:
-                        print('\tSkipping existing document:\t', document_hash)
-                    continue
-                document_href = result_link.get('href')
-                host = "https://www.cnpd.pt"
-                document_url = host + document_href
-                if to_print:
-                    print("\tDocument:\t", document_hash)
-                document_response = None
-                try:
-                    document_response = requests.request('GET', document_url, verify=False)
-                    document_response.raise_for_status()
-                except requests.exceptions.HTTPError as error:
-                    if to_print:
-                        print(error)
-                    pass
-                if document_response is None:
-                    continue
-                document_content = document_response.content
-                dpa_folder = self.path
-                document_folder = dpa_folder + '/' + document_hash
-                try:
-                    os.makedirs(document_folder)
-                except FileExistsError:
-                    pass
-                with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
-                    f.write(document_content)
-                with open(document_folder + '/' + self.language_code + '.txt', 'w') as f:
-                    document_text = PDFToTextService().text_from_pdf_path(document_folder + '/' + self.language_code + '.pdf')
-                    f.write(document_text)
-                with open(document_folder + '/' + 'metadata.json', 'w') as f:
-                    metadata = {
-                        'title': {
-                            self.language_code: document_title
-                        },
-                        'md5': document_hash,
-                        'releaseDate': None,
-                        'url': document_url
-                    }
-                    json.dump(metadata, f, indent=4, sort_keys=True)
-                added_docs.append(document_hash)
-        return added_docs
-
     def get_docs_Decisions(self, existing_docs=[], overwrite=False, to_print=True):
         print('------------ GETTING DECISIONS ------------')
         added_docs = []
@@ -318,4 +250,182 @@ class Portugal(DPA):
                 json.dump(metadata, f, indent=4, sort_keys=True)
             added_docs.append(document_hash)
 
+        return added_docs
+
+    def get_docs_Guidelines(self, existing_docs=[], overwrite=False, to_print=True):
+        added_docs = []
+        pagination = self.update_pagination()
+
+        page_url = 'https://www.cnpd.pt/organizacoes/orientacoes-e-recomendacoes/'
+        if to_print:
+            print('Page:\t', page_url)
+        page_source = self.get_source(page_url=page_url)
+        if page_source is None:
+            sys.exit('Page source is None')
+
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+
+        layout = results_soup.find('div', class_='layout')
+        assert layout
+
+        side_nav = layout.find('ul', class_='sidenav-content')
+        assert side_nav
+
+        iteration = 1
+        for li in side_nav.find_all('li'):
+            assert li
+
+            a_tag = li.find('a')
+            assert a_tag
+
+            href = a_tag.get('href')
+            assert href
+
+            if href.startswith('http') and 'download' in href:
+                print('\n------------ Document ' + str(iteration) + ' ------------')
+                iteration += 1
+
+                print('\tPDF Link: ' + href)
+
+                response = None
+                try:
+                    response = requests.request('GET', url, verify=False)
+                    response.raise_for_status()
+                except requests.exceptions.HTTPError as error:
+                    if to_print:
+                        print(error)
+                    pass
+                if response is None:
+                    continue
+
+                content = response.content
+
+                dpa_folder = self.path
+                document_folder = dpa_folder + '/' 'Guidelines' + '/' + document_hash
+
+                try:
+                    os.makedirs(document_folder)
+                except FileExistsError:
+                    pass
+                with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                    f.write(content)
+                try:
+                    with open(document_folder + '/' + self.language_code + '.txt', 'w') as f:
+                        document_text = PDFToTextService().text_from_pdf_path(document_folder + '/' + self.language_code + '.pdf')
+                        f.write(document_text)
+                except:
+                    print('\tFailed to convert PDF to text')
+
+                with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                    metadata = {
+                        'title': {
+                            self.language_code: document_title
+                        },
+                        'md5': document_hash,
+                        'releaseDate': None,
+                        'url': pdf_url
+                    }
+                    json.dump(metadata, f, indent=4, sort_keys=True)
+                added_docs.append(document_hash)
+                continue
+
+            url = "https://www.cnpd.pt" + href
+
+            response = None
+            try:
+                response = requests.request('GET', url, verify=False)
+                response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                if to_print:
+                    print(error)
+                pass
+            if response is None:
+                continue
+
+            page_soup = BeautifulSoup(response.text, 'html.parser')
+            assert page_soup
+
+            page_layout = page_soup.find('div', class_='layout')
+            assert page_layout
+
+            c_content = page_layout.find('div', class_='c-content-text')
+            assert c_content
+
+            for p in c_content.find_all('p'):
+                assert p
+
+                a = p.find('a')
+                assert a
+
+                print('\n------------ Document ' + str(iteration) + ' ------------')
+                iteration += 1
+
+                document_title = a.get_text()
+                print('\tDocument Title: ' + document_title)
+
+                p_tag_all_text = p.get_text()
+                assert p_tag_all_text
+
+                document_date = p_tag_all_text[-4:]
+
+                print('\tDocument Date: ' + document_date)
+
+                if int(document_date) < 2018:
+                    print('\tSkipping outdated document')
+                    continue
+
+                document_hash = hashlib.md5(document_title.encode()).hexdigest()
+                if document_hash in existing_docs and overwrite is False:
+                    if to_print:
+                        print('\tSkipping existing document:\t', document_hash)
+                    continue
+
+                pdf_href = a.get('href')
+                assert pdf_href
+
+                pdf_url = "https://www.cnpd.pt" + pdf_href
+
+                print('\tPDF Link: ' + pdf_url)
+
+                response = None
+                try:
+                    pdf_response = requests.request('GET', pdf_url, verify=False)
+                    pdf_response.raise_for_status()
+                except requests.exceptions.HTTPError as error:
+                    if to_print:
+                        print(error)
+                    pass
+                if pdf_response is None:
+                    continue
+
+                pdf_content = pdf_response.content
+
+                dpa_folder = self.path
+                document_folder = dpa_folder + '/' 'Guidelines' + '/' + document_hash
+
+                try:
+                    os.makedirs(document_folder)
+                except FileExistsError:
+                    pass
+                with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                    f.write(pdf_content)
+                try:
+                    with open(document_folder + '/' + self.language_code + '.txt', 'w') as f:
+                        document_text = PDFToTextService().text_from_pdf_path(document_folder + '/' + self.language_code + '.pdf')
+                        f.write(document_text)
+                except:
+                    print('\tFailed to convert PDF to text')
+
+                with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                    metadata = {
+                        'title': {
+                            self.language_code: document_title
+                        },
+                        'md5': document_hash,
+                        'releaseDate': document_date,
+                        'url': pdf_url
+                    }
+                    json.dump(metadata, f, indent=4, sort_keys=True)
+                added_docs.append(document_hash)
         return added_docs
