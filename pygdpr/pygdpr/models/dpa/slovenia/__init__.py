@@ -433,3 +433,105 @@ class Slovenia(DPA):
             added_docs.append(document_hash)
 
         return added_docs
+
+    def get_docs_Reports(self, existing_docs=[], overwrite=False, to_print=True):
+        print('------------ GETTING REPORTS ------------')
+        added_docs = []
+
+        page_url = 'https://www.ip-rs.si/publikacije/letna-poro%C4%8Dila/'
+        if to_print:
+            print('\nPage:\t', page_url)
+
+        page_source = self.get_source(page_url=page_url)
+
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+
+        nav = results_soup.find('div', class_='page pr')
+        assert nav
+
+        article = nav.find('article', class_='c9')
+        assert article
+
+        table = article.find('table', class_='contenttable')
+        assert table
+
+        tr = table.find('tr', class_='holder')
+        assert tr
+
+        iteration = 1
+        for td in tr.find_all('td'):
+            assert td
+
+            a_tag = td.find_all('a')[1]
+            assert a_tag
+
+            print('\n------------ Document ' + str(iteration) + ' ------------')
+            iteration += 1
+
+            document_title = a_tag.get_text()
+            print('\tDocument Title: ' + document_title)
+
+            document_date = document_title[-4:]
+            print('\tDocument Date: ' + document_date)
+
+            if int(document_date) < 2018:
+                print('\tSkipping outdated document')
+                continue
+
+            document_hash = hashlib.md5(document_title.encode()).hexdigest()
+            if document_hash in existing_docs and overwrite is False:
+                if to_print:
+                    print('\tSkipping existing document:\t', document_hash)
+                continue
+
+            document_href = a_tag.get('href')
+            assert document_href
+
+            if document_href.startswith('http'):
+                document_url = document_href
+            else:
+                document_url = 'https://www.ip-rs.si/' + document_href
+                print('Document URL: ' + document_url)
+
+            document_response = None
+            try:
+                document_response = requests.request('GET', document_url)
+                document_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                if to_print:
+                    print(error)
+                pass
+            if document_response is None:
+                continue
+
+            dpa_folder = self.path
+            document_folder = dpa_folder + '/' + 'Reports' '/' + document_hash
+
+            try:
+                os.makedirs(document_folder)
+            except FileExistsError:
+                pass
+            with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                f.write(document_response.content)
+
+            try:
+                with open(document_folder + '/' + self.language_code + '.txt', 'w') as f:
+                    document_text = PDFToTextService().text_from_pdf_path(document_folder + '/' + self.language_code + '.pdf')
+                    f.write(document_text)
+            except:
+                print('Failed to convert PDF to text')
+
+            with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                metadata = {
+                    'title': {
+                        self.language_code: document_title
+                    },
+                    'md5': document_hash,
+                    'releaseDate': document_date,
+                    'url': document_url
+                }
+                json.dump(metadata, f, indent=4, sort_keys=True)
+            added_docs.append(document_hash)
+
+        return added_docs

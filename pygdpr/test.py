@@ -73,4 +73,4 @@ from pygdpr.models.dpa.slovenia import *
 
 path = "/slovenia"
 dpa = Slovenia(path)
-dpa.get_docs_Guidelines()
+dpa.get_docs_Reports()
