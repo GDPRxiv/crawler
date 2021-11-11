@@ -93,7 +93,7 @@ Romania,reports,notCrawled,https://www.dataprotection.ro/?page=allnews&lang=ro
 Slovakia,fines,notCrawled,contained in annual reports
 Slovakia,reports,notCrawled,https://dataprotection.gov.sk/uoou/sk/content/vyrocne-spravy
 Slovakia,opinions,notCrawled,https://dataprotection.gov.sk/uoou/sk/main-content/metodiky-uradu
-Slovenia,decisions,notCrawled,https://www.lexology.com/library/detail.aspx?g=fefb5628-a55a-4526-abdc-3777c39e7b3d
+Slovenia,decisions,Paywall,https://www.lexology.com/library/detail.aspx?g=fefb5628-a55a-4526-abdc-3777c39e7b3d
 Slovenia,opinions,Crawled(Run Longer),https://www.ip-rs.si/mnenja-gdpr/
 Slovenia,guidelines,Crawled,https://www.ip-rs.si/publikacije/priro%C4%8Dniki-in-smernice/
 Slovenia,reports,Crawled,https://www.ip-rs.si/publikacije/letna-poro%C4%8Dila/
