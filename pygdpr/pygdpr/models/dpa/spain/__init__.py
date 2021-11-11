@@ -25,16 +25,19 @@ class Spain(DPA):
         country_code='es'
         super().__init__(country_code, path)
 
-    # TODD: Fix bug in this method
-    def update_pagination(self, pagination=None, page_soup=None, driver=None, start_path=None):
+    # Added two new arguments: new_page_type and start_path
+    # new_page_type: indicates the type of document we are scraping. This is needed to index the correct link
+    # sub-string in source{} when adding additional pages to the pagination object
+    # start_path: this is the usual start_path parameter contained in source{}. It's just passed as an
+    # argument now
+    def update_pagination(self, pagination=None, page_soup=None, driver=None, new_page_type=None, start_path=None):
         source = {
             "host": "https://www.aepd.es",
-            #"start_path_new_page": "/es/informes-y-resoluciones/resoluciones"
-            "start_path_new_page": "/es/informes-y-resoluciones/informes-juridicos"
+            "new_page_decisions": "/es/informes-y-resoluciones/resoluciones",
+            "new_page_reports": "/es/informes-y-resoluciones/informes-juridicos"
         }
         host = source['host']
-        start_path = start_path
-        start_path_new_page = source['start_path_new_page']
+        start_path_new_page = source[new_page_type]
 
         if pagination is None:
             pagination = Pagination()
@@ -77,7 +80,7 @@ class Spain(DPA):
         print('------------ GETTING DECISIONS ------------')
 
         added_docs = []
-        pagination = self.update_pagination(start_path='/es/informes-y-resoluciones/resoluciones?f%5B0%5D=ley_tipificacion_de_la_gravedad%3AReglamento%20General%20de%20Protecci%C3%B3n%20de%20Datos')
+        pagination = self.update_pagination(new_page_type='new_page_reports', start_path='/es/informes-y-resoluciones/resoluciones?f%5B0%5D=ley_tipificacion_de_la_gravedad%3AReglamento%20General%20de%20Protecci%C3%B3n%20de%20Datos')
 
         iteration = 1
         while pagination.has_next():
@@ -186,14 +189,14 @@ class Spain(DPA):
                     }
                     json.dump(metadata, f, indent=4, sort_keys=True)
                 added_docs.append(document_hash)
-            pagination = self.update_pagination(pagination=pagination, page_soup=page_soup, start_path='/es/informes-y-resoluciones/resoluciones?f%5B0%5D=ley_tipificacion_de_la_gravedad%3AReglamento%20General%20de%20Protecci%C3%B3n%20de%20Datos')
+            pagination = self.update_pagination(pagination=pagination, page_soup=page_soup, new_page_type='new_page_reports', start_path='/es/informes-y-resoluciones/resoluciones?f%5B0%5D=ley_tipificacion_de_la_gravedad%3AReglamento%20General%20de%20Protecci%C3%B3n%20de%20Datos')
         return added_docs
 
     def get_docs_Reports(self, existing_docs=[], overwrite=False, to_print=True):
         print('------------ GETTING REPORTS ------------')
 
         added_docs = []
-        pagination = self.update_pagination(start_path='/informes-y-resoluciones/informes-juridicos?f%5B0%5D=informes_disposiciones_estudiadas%3AReglamento%20General%20de%20Protecci%C3%B3n%20de%20Datos%20UE%202016/679')
+        pagination = self.update_pagination(new_page_type="new_page_reports", start_path='/informes-y-resoluciones/informes-juridicos?f%5B0%5D=informes_disposiciones_estudiadas%3AReglamento%20General%20de%20Protecci%C3%B3n%20de%20Datos%20UE%202016/679')
 
         iteration = 1
         while pagination.has_next():
@@ -302,5 +305,5 @@ class Spain(DPA):
                     }
                     json.dump(metadata, f, indent=4, sort_keys=True)
                 added_docs.append(document_hash)
-            pagination = self.update_pagination(pagination=pagination, page_soup=page_soup, start_path='/informes-y-resoluciones/informes-juridicos?f%5B0%5D=informes_disposiciones_estudiadas%3AReglamento%20General%20de%20Protecci%C3%B3n%20de%20Datos%20UE%202016/679')
+            pagination = self.update_pagination(pagination=pagination, page_soup=page_soup, new_page_type="new_page_reports", start_path='/informes-y-resoluciones/informes-juridicos?f%5B0%5D=informes_disposiciones_estudiadas%3AReglamento%20General%20de%20Protecci%C3%B3n%20de%20Datos%20UE%202016/679')
         return added_docs
