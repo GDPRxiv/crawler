@@ -154,6 +154,7 @@ class Slovenia(DPA):
             pagination = self.update_pagination(pagination=pagination, page_soup=results_soup)
         return added_docs
 
+    # TODO: Determine if this method should scrape all the up-to-date documents, or stop early
     def get_docs_Opinions(self, existing_docs=[], overwrite=False, to_print=True):
         added_docs = []
         pagination = self.update_pagination()
@@ -283,4 +284,152 @@ class Slovenia(DPA):
                 added_docs.append(document_hash)
 
             pagination = self.update_pagination(pagination=pagination, page_soup=results_soup)
+        return added_docs
+
+    def get_docs_Guidelines(self, existing_docs=[], overwrite=False, to_print=True):
+        print('------------ GETTING GUIDELINES ------------')
+        added_docs = []
+
+        page_url = 'https://www.ip-rs.si/publikacije/priro%C4%8Dniki-in-smernice/'
+        if to_print:
+            print('\nPage:\t', page_url)
+
+        page_source = self.get_source(page_url=page_url)
+
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+
+        nav = results_soup.find('div', class_='page pr')
+        assert nav
+
+        article = nav.find('article', class_='c9')
+        assert article
+
+        table = article.find('table', class_='contenttable')
+        assert table
+
+        tr = table.find('tr', class_='holder')
+        assert tr
+
+        iteration = 1
+        for td in tr.find_all('td'):
+            assert td
+
+            a_tag = td.find_all('a')[1]
+            assert a_tag
+
+            print('\n------------ Document ' + str(iteration) + ' ------------')
+            iteration += 1
+
+            document_title = a_tag.get_text()
+            print('\tDocument Title: ' + document_title)
+
+            document_hash = hashlib.md5(document_title.encode()).hexdigest()
+            if document_hash in existing_docs and overwrite is False:
+                if to_print:
+                    print('\tSkipping existing document:\t', document_hash)
+                continue
+
+            document_href = a_tag.get('href')
+            assert document_href
+
+            document_url = 'https://www.ip-rs.si/' + document_href
+
+            document_response = None
+            try:
+                document_response = requests.request('GET', document_url)
+                document_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                if to_print:
+                    print(error)
+                pass
+            if document_response is None:
+                continue
+
+            document_soup = BeautifulSoup(document_response.text, 'html.parser')
+            assert document_soup
+
+            # Now download the pdf
+            pdf_article = document_soup.find('article', class_='c9')
+            assert pdf_article
+
+            # Get the document date
+            table = pdf_article.find('table', class_='contenttable')
+            assert table
+
+            tr_table = table.find_all('tr')
+            assert tr_table
+
+            date_tr = tr_table[4]
+            assert date_tr
+
+            date_td = date_tr.find_all('td')[1]
+            assert date_td
+
+            date_p = date_td.find('p')
+
+            document_date = date_p.get_text()
+            print('\tDocument Date: ' + document_date)
+
+            # Skip old reports
+            if int(document_date[-4:]) < 2018:
+                print('Skipping outdated document')
+                continue
+
+            # Find the pdf link
+            pdf_p = pdf_article.find('p', align='center')
+            assert pdf_p
+
+            pdf_a = pdf_p.find('a')
+            assert pdf_a
+
+            pdf_href = pdf_a.get('href')
+            assert pdf_href
+
+            # Sometimes the href doesn't start with a '/'
+            if pdf_href.startswith('/'):
+                pdf_url = 'https://www.ip-rs.si' + pdf_href
+            else:
+                pdf_url = 'https://www.ip-rs.si/' + pdf_href
+
+            print("\tPDF Link: " + pdf_url)
+
+            pdf_response = None
+            try:
+                pdf_response = requests.request('GET', pdf_url)
+                pdf_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                if to_print:
+                    print(error)
+                pass
+            if pdf_response is None:
+                continue
+
+            dpa_folder = self.path
+            document_folder = dpa_folder + '/' + 'Guidelines' '/' + document_hash
+
+            try:
+                os.makedirs(document_folder)
+            except FileExistsError:
+                pass
+            with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                f.write(pdf_response.content)
+            try:
+                with open(document_folder + '/' + self.language_code + '.txt', 'w') as f:
+                    document_text = PDFToTextService().text_from_pdf_path(document_folder + '/' + self.language_code + '.pdf')
+                    f.write(document_text)
+            except:
+                print('Failed to convert PDF to text')
+            with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                metadata = {
+                    'title': {
+                        self.language_code: document_title
+                    },
+                    'md5': document_hash,
+                    'releaseDate': document_date,
+                    'url': document_url
+                }
+                json.dump(metadata, f, indent=4, sort_keys=True)
+            added_docs.append(document_hash)
+
         return added_docs
