@@ -1102,7 +1102,7 @@ class CzechRepublic(DPA):
 
                 # Now store the text in the appropriate folder
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + folder_title + '/' + document_hash
+                document_folder = dpa_folder + '/' + 'Inspections' + '/' + folder_title + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -1199,7 +1199,7 @@ class CzechRepublic(DPA):
 
             # Now store the text in the appropriate folder
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + folder_title + '/' + document_hash
+            document_folder = dpa_folder + '/' + 'Inspections' + '/' + folder_title + '/' + document_hash
             try:
                 os.makedirs(document_folder)
             except FileExistsError:
@@ -1303,7 +1303,7 @@ class CzechRepublic(DPA):
 
             # Now store the text in the appropriate folder
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + folder_title + '/' + document_hash
+            document_folder = dpa_folder + '/' + 'Inspections' + '/' + folder_title + '/' + document_hash
             try:
                 os.makedirs(document_folder)
             except FileExistsError:

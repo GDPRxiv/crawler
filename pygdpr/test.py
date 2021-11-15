@@ -20,58 +20,25 @@ from pygdpr.models.dpa.malta import *
 from pygdpr.models.dpa.portugal import *
 from pygdpr.models.dpa.slovenia import *
 from pygdpr.models.dpa.spain import*
+from pygdpr.models.dpa.lithuania import *
+from pygdpr.models.dpa.netherlands import *
+from pygdpr.models.dpa.poland import *
 
 
-#path = "/united-kingdom"
-#dpa = UnitedKingdom(path)
+#path = "/latvia"
+#dpa = Latvia(path)
+#dpa.get_docs_decisions()
+
+
+#path = "/lithuania"
+#dpa = Lithuania(path)
 #dpa.get_docs()
 
-#path = "/ireland"
-#dpa = Ireland(path)
-
-
-#path = "/bulgaria"
-#dpa = Bulgaria(path)
-
-#path = "/croatia"
-#dpa = Croatia(path)
-#dpa.get_docs()
-
-#path = "/cyprus"
-#dpa = Cyprus(path)
-
-#path = "/denmark"
-#dpa = Denmark(path)
+#path = "/netherlands"
+#dpa = Netherlands(path)
 #dpa.get_docs()
 
 
-#path = "/estonia"
-#dpa = Estonia(path)
-#dpa.get_docs()
-
-#path = "/france"
-#dpa = France(path)
-#dpa.get_docs()
-
-#path = "/hungary"
-#dpa = Hungary(path)
-#dpa.get_docs()
-
-
-
-
-#path = "/estonia"
-#dpa = Estonia(path)
-#dpa.get_docs()
-
-#path = "/france"
-#dpa = France(path)
-#dpa.get_docs()
-
-#path = "/hungary"
-#dpa = Hungary(path)
-#dpa.get_docs()
-
-path = "/spain"
-dpa = Spain(path)
-dpa.get_docs_Guides()
+#path = "/poland"
+#dpa = Poland(path)
+#dpa.get_docs_decisions()
