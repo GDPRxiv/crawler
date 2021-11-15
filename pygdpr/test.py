@@ -42,3 +42,7 @@ from pygdpr.models.dpa.poland import *
 #path = "/poland"
 #dpa = Poland(path)
 #dpa.get_docs_decisions()
+
+path = "/spain"
+dpa = Spain(path)
+dpa.get_docs_Infographics()
