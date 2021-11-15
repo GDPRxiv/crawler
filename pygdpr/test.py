@@ -45,4 +45,4 @@ from pygdpr.models.dpa.poland import *
 
 path = "/spain"
 dpa = Spain(path)
-dpa.get_docs_Infographics()
+dpa.get_docs_Blogs()

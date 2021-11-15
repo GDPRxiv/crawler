@@ -102,7 +102,7 @@ Spain,reports,Crawled,https://www.aepd.es/es/informes-y-resoluciones/informes-ju
 Spain,guides,Crawled,https://www.aepd.es/es/guias-y-herramientas/guias
 Spain,infographics,Crawled,https://www.aepd.es/es/guias-y-herramientas/infografias
 Spain,videos,notCrawled,https://www.aepd.es/es/guias-y-herramientas/videos
-Spain,blog,notCrawled,https://www.aepd.es/es/prensa-y-comunicacion/blog
+Spain,blog,Crawled,https://www.aepd.es/es/prensa-y-comunicacion/blog
 Sweden,decisions,notCrawled,https://www.imy.se/tillsyner/
 Sweden,judgements,notCrawled,https://www.imy.se/tillsyner/
 Sweden,publications,notCrawled,https://www.imy.se/publikationer/
