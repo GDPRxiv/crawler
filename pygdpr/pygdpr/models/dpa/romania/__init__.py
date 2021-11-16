@@ -25,7 +25,7 @@ class Romania(DPA):
     def update_pagination(self, pagination=None, page_soup=None, driver=None):
         source = {
             "host": "https://www.dataprotection.ro",
-            "start_path": "/?page=allnews"
+            "start_path": "/?page=allnews&lang=ro"
         }
         host = source['host']
         start_path = source['start_path']
@@ -79,8 +79,9 @@ class Romania(DPA):
                 if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
                     continue
                 # s2. Documents
-                title = p_all[i+1]
+                title = p_all[i + 1]
                 document_title = title.get_text().strip()
+                print('document_title: ', document_title)
                 document_hash = hashlib.md5(document_title.encode()).hexdigest()
                 if document_hash in existing_docs and overwrite == False:
                     if to_print:
@@ -89,7 +90,7 @@ class Romania(DPA):
                 result_link = None
                 j, j_threshold = 0, 4
                 while result_link is None:
-                    cand_link = p_all[i+j]
+                    cand_link = p_all[i + j]
                     result_link = cand_link.find('a')
                     if j == j_threshold:
                         break
@@ -117,7 +118,7 @@ class Romania(DPA):
                 document_text = document_target_area.get_text()
                 document_text = document_text.strip()
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + document_hash
+                document_folder = dpa_folder + '/' + "Decisions & Reports" + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -136,3 +137,4 @@ class Romania(DPA):
                     json.dump(metadata, f, indent=4, sort_keys=True)
                 added_docs.append(document_hash)
         return added_docs
+
