@@ -172,7 +172,6 @@ class Poland(DPA):
                 print("\tdocument_url: ", document_url)
                 if to_print:
                     print("\tDocument:\t", document_hash)
-
                 exec_path = WebdriverExecPolicy().get_system_path()
                 options = webdriver.ChromeOptions()
                 options.add_argument('headless')
@@ -191,33 +190,6 @@ class Poland(DPA):
                 if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
                     continue
                 print("\tdate: ", date)
-                '''
-                document_response = None
-                try:
-                    document_response = requests.request('GET', document_url)
-                    document_response.raise_for_status()
-                except requests.exceptions.HTTPError as error:
-                    if to_print:
-                        print('this is the original url: ', document_url)
-                        print('this is the error: ', error)
-                    pass
-                if document_response is None:
-                    continue
-                document_soup = BeautifulSoup(document_response.text, 'html.parser')
-                assert document_soup
-                article_content = document_soup.find('div', id='article-content')
-                assert article_content
-                date_div = article_content.find('div', class_='article-metric-button')
-                assert date_div
-                date_str = date_div.get_text()
-                print("date_str: ", date_str)
-                tmp = dateparser.parse(date_str)
-                date = datetime.date(tmp.year, tmp.month, tmp.day)
-                if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
-                    continue
-                document_text = article_content.get_text()
-                document_text = document_text.strip()
-               '''
                 dpa_folder = self.path
                 document_folder = dpa_folder + '/' + 'Tutorials' + '/' + document_hash
                 try:

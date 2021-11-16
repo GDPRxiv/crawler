@@ -246,8 +246,8 @@ class Lithuania(DPA):
                     files = os.listdir(document_folder)
                     for index, file in enumerate(files):
                         os.rename(os.path.join(document_folder, file),
-                                  os.path.join(document_folder, self.language_code + '.txt'))
-                    document_content = docx2txt.process(document_folder + '/' + self.language_code + '.txt')
+                                  os.path.join(document_folder, self.language_code + '.docx'))
+                    document_content = docx2txt.process(document_folder + '/' + self.language_code + '.docx')
                     with open(
                             document_folder + '/' + self.language_code + '.txt', 'w') as f:
                         f.write(document_content)
@@ -288,7 +288,7 @@ class Lithuania(DPA):
         for p in body.find_all('p'):
             for documents in p.find_all('a'):
                 document_href = documents.get('href')
-                document_title = documents.get_text()
+                document_title = documents.get_text().splitlines()[-1]
                 if not document_href.endswith('pdf') and not document_href.endswith('docx'):
                     continue
                 document_url = host + document_href
@@ -353,8 +353,8 @@ class Lithuania(DPA):
                     time.sleep(5)
                     files = os.listdir(document_folder)
                     for index, file in enumerate(files):
-                        os.rename(os.path.join(document_folder, file), os.path.join(document_folder, self.language_code + '.txt'))
-                    document_content = docx2txt.process(document_folder + '/' + self.language_code + '.txt')
+                        os.rename(os.path.join(document_folder, file), os.path.join(document_folder, self.language_code + '.docx'))
+                    document_content = docx2txt.process(document_folder + '/' + self.language_code + '.docx')
                     with open(
                             document_folder + '/' + self.language_code + '.txt', 'w') as f:
                         f.write(document_content)

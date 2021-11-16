@@ -15,13 +15,14 @@ from pygdpr.specifications.should_retain_document_specification import ShouldRet
 from pygdpr.models.common.pagination import Pagination
 from pygdpr.policies.gdpr_policy import GDPRPolicy
 from pygdpr.services.pdf_to_text_service import PDFToTextService
-import time
+import docx2txt
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from pygdpr.policies.webdriver_exec_policy import WebdriverExecPolicy
-import docx2txt
+from selenium.webdriver.common.keys import Keys
+import time
 
 
 class UnitedKingdom(DPA):
@@ -80,7 +81,6 @@ class UnitedKingdom(DPA):
     def get_docs_Notices(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         existed_date = []
-
         source = {
             "host": "https://icosearch.ico.org.uk",
             "start_path": "/s/search.html?collection=ico-meta&profile=decisions&query&query=GDPR"
@@ -91,14 +91,11 @@ class UnitedKingdom(DPA):
         page_source = self.get_source(page_url=page_url)
         if page_source is None:
             print("This url is not exist.")
-
         results_soup = BeautifulSoup(page_source.text, 'html.parser')
         assert results_soup
         maincolumn = results_soup.find('div', class_='maincolumn')
-        # print('main_column:', maincolumn)
         assert maincolumn
         resultlist = maincolumn.find('div', class_='resultlist')
-        # print('resultlist:', resultlist)
         assert resultlist
         # s1. Results
         for itemlink in resultlist.find_all('div', class_='itemlink'):
@@ -224,8 +221,8 @@ class UnitedKingdom(DPA):
                 tmp = dateparser.parse(date_str, languages=[self.language_code]) # datetime.datetime.strptime(date_str, '%d %B %Y')
                 date = datetime.date(tmp.year, tmp.month, tmp.day)
 
-                # when was the last day, GDPR was in effect in the UK?
-                uk_left_eu = datetime.date(2020, 1, 31)
+                # addition: we can check whether this article release after UK left EU
+                # uk_left_eu = datetime.date(2020, 1, 31)
                 # check whether this article release after UK left EU
                 #if date.year > uk_left_eu.year or (date.month > uk_left_eu.month and date.year == uk_left_eu.year):
                 #    print("This article release after UK left EU.")
@@ -365,10 +362,11 @@ class UnitedKingdom(DPA):
                 assert text_small
                 date_str = text_small.get_text().split(',')[0].strip()
                 notice_type = text_small.get_text().split(',')[1].strip()
-                tmp = dateparser.parse(date_str, languages=[self.language_code]) # datetime.datetime.strptime(date_str, '%d %B %Y')
+                tmp = dateparser.parse(date_str, languages=[self.language_code])
                 date = datetime.date(tmp.year, tmp.month, tmp.day)
 
-                uk_left_eu = datetime.date(2020, 1, 31)
+                # addition: we can check whether this article release after UK left EU
+                # uk_left_eu = datetime.date(2020, 1, 31)
                 # check whether this article release after UK left EU
                 # if date.year > uk_left_eu.year or (date.month > uk_left_eu.month and date.year == uk_left_eu.year):
                 #    print("This article release after UK left EU.")
@@ -391,10 +389,8 @@ class UnitedKingdom(DPA):
                     continue
                 print('document_title: ', document_title)
                 print('\tdate: ', date)
-
                 document_href = result_link.get('href')
                 assert document_href
-
                 host = "https://ico.org.uk"
                 document_url = host + document_href
                 print('\tdocument_url:', document_url)
@@ -463,29 +459,28 @@ class UnitedKingdom(DPA):
                                     document_text = PDFToTextService().text_from_pdf_path(
                                         document_folder + '/' + self.language_code + '-' + notice_type + '.pdf')
                                     f.write(document_text)
-
                             elif file_url.endswith('.docx'):
-                                # need to selenium to click the button and download file
+                                # set a download path. Use selenium to download it
                                 exec_path = WebdriverExecPolicy().get_system_path()
                                 options = webdriver.ChromeOptions()
+                                prefs = {"download.default_directory": document_folder}
                                 options.add_argument('headless')
+                                options.add_experimental_option("prefs", prefs)
                                 driver_doc = webdriver.Chrome(options=options, executable_path=exec_path)
+                                # open google search, and put the document_url into search box, and press enter
+
                                 driver_doc.get(document_url)
                                 button = driver_doc.find_element_by_xpath('//*[@id="startcontent"]/article/div[2]/div/aside/ul/li[1]/a')
                                 button.click()
                                 time.sleep(5)
-                                if "Finance" in document_title:
-                                    file_content = docx2txt.process("/Users/chen/Downloads/final-penalty-notice-draft.docx")
-                                elif "Manufacturing" in document_title:
-                                    file_content = docx2txt.process("/Users/chen/Downloads/final-penalty-notice-draft (1).docx")
-                                else:
-                                    file_content = docx2txt.process(
-                                        "/Users/chen/Downloads/final-penalty-notice-draft (2).docx")
-                                with open(
-                                        document_folder + '/' + self.language_code + '-' + 'final-penalty' + '.txt',
-                                        'w') as f:
-                                    f.write(file_content)
-
+                                files = os.listdir(document_folder)
+                                for index, file in enumerate(files):
+                                    if 'penalty' in os.path.basename(file):
+                                        os.rename(os.path.join(document_folder, file), os.path.join(document_folder, self.language_code + '-' + 'final-penalty' + '.docx'))
+                                    document_content = docx2txt.process(document_folder + '/' + self.language_code + '-' + 'final-penalty' + '.docx')
+                                    with open(
+                                            document_folder + '/' + self.language_code + '-' + 'final-penalty' + '.txt','w') as f:
+                                        f.write(document_content)
                             else:
                                 file_soup = BeautifulSoup(file_response.text, 'html.parser')
                                 assert file_soup
@@ -516,7 +511,6 @@ class UnitedKingdom(DPA):
                 existed_dates.append(date)
                 hashcode_dict[hashcode_with_type] = date
                 print('\n')
-
             # s0. Pagination
             pagination = self.update_pagination(pagination=pagination, page_soup=results_soup)
         return existed_docs
