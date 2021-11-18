@@ -499,6 +499,89 @@ class EDPB(DPA):
                 article = document_soup.find('article', role='article')
                 assert article
 
+                # TODO: After testing, refactor this as a method and account for other scenaries too
+                # TODO: Discuss this link first before doing anything crazy
+                # If the standard download button is missing
+                if article.find('div', class_='col-sm-2') is None:
+                    print('Standard download button is missing')
+                    field_item = article.find('div', class_='field-item')
+                    assert field_item
+
+                    field_a = field_item.find('a')
+                    assert field_a
+
+                    field_href = field_a.get('href')
+                    assert field_href
+
+                    field_response = None
+                    try:
+                        field_response = requests.request('GET', field_href)
+                    except requests.exceptions.HTTPError as error:
+                        if to_print:
+                            print(error)
+                        pass
+                    if field_response is None:
+                        continue
+
+                    # Now get the pdf download links
+                    field_soup = BeautifulSoup(field_response.text, 'html.parser')
+                    assert field_soup
+
+                    cnect = field_soup.find('div', class_='cnect-main-body')
+                    assert cnect
+
+                    pdf_iterator = 1
+                    for div in cnect.find_all('div', class_='ecl-u-mt-m'):
+                        assert div
+                        a = div.find('a')
+                        assert a
+
+                        href = a.get('href')
+                        assert href
+
+                        pdf_response = None
+                        try:
+                            pdf_response = requests.request('GET', href)
+                        except requests.exceptions.HTTPError as error:
+                            if to_print:
+                                print(error)
+                            pass
+                        if pdf_response is None:
+                            continue
+
+                        dpa_folder = self.path
+                        document_folder = dpa_folder + '/' + 'Guidelines' + '/' + document_hash
+
+                        try:
+                            os.makedirs(document_folder)
+                        except FileExistsError:
+                            pass
+                        with open(document_folder + '/' + self.language_code + str(pdf_iterator) + '.pdf', 'wb') as f:
+                            f.write(pdf_response.content)
+                        with open(document_folder + '/' + self.language_code + str(pdf_iterator) + '.txt', 'wb') as f:
+                            try:
+                                pdf_text = textract.process(document_folder + '/' + self.language_code + str(pdf_iterator) + '.pdf')
+                                f.write(pdf_text)
+                            except:
+                                pass
+                        with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                            metadata = {
+                                'title': {
+                                    self.language_code: document_title
+                                },
+                                'md5': document_hash,
+                                'releaseDate': document_date,
+                                'url': document_url
+                            }
+                            json.dump(metadata, f, indent=4, sort_keys=True)
+
+                        pdf_iterator += 1
+                        added_docs.append(document_hash)
+
+                    # Move to next outer for loop iteration (move to next overall document page on e)
+                    continue
+
+
                 # Check if there is 'final document version' notice that has a link -> if so, use this link
                 alert_document = article.find('div', class_='alert')
                 if alert_document is not None:

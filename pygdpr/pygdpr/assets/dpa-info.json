@@ -396,14 +396,14 @@
     "country": "EDPB",
     "language_code": "en",
     "name": "European Data Protection Board",
-    "addressFormatted": "Insert here",
-    "phone": "Insert here",
-    "phone_code": "Insert here",
-    "email": "Insert here",
+    "addressFormatted": "Rue Montoyer 30, B-1000 Brussels",
+    "phone": "NA",
+    "phone_code": "NA",
+    "email": "NA",
     "website": "https://edpb.europa.eu/edpb_en",
     "member": {
-      "name": "Insert Here",
-      "title": "Insert Here"
+      "name": "NA",
+      "title": "NA"
     }
   }
 }
