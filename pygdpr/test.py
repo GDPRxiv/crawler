@@ -46,4 +46,4 @@ from pygdpr.models.dpa.edpb import *
 
 path = "/edpb"
 dpa = EDPB(path)
-dpa.get_docs_Opinions()
+dpa.get_docs_Recommendations()
