@@ -23,6 +23,7 @@ from pygdpr.models.dpa.spain import*
 from pygdpr.models.dpa.lithuania import *
 from pygdpr.models.dpa.netherlands import *
 from pygdpr.models.dpa.poland import *
+from pygdpr.models.dpa.edpb import *
 
 
 #path = "/latvia"
@@ -43,6 +44,6 @@ from pygdpr.models.dpa.poland import *
 #dpa = Poland(path)
 #dpa.get_docs_decisions()
 
-path = "/spain"
-dpa = Spain(path)
-dpa.get_docs_Blogs()
+path = "/edpb"
+dpa = EDPB(path)
+dpa.get_docs_Recommendations()

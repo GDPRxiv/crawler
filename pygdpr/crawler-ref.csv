@@ -101,14 +101,14 @@ Spain,decisions,Crawled(Run Longer),https://www.aepd.es/es/informes-y-resolucion
 Spain,reports,Crawled,https://www.aepd.es/es/informes-y-resoluciones/informes-juridicos?f%5B0%5D=informes_disposiciones_estudiadas%3AReglamento%20General%20de%20Protecci%C3%B3n%20de%20Datos%20UE%202016/679
 Spain,guides,Crawled,https://www.aepd.es/es/guias-y-herramientas/guias
 Spain,infographics,Crawled,https://www.aepd.es/es/guias-y-herramientas/infografias
-Spain,videos,notCrawled,https://www.aepd.es/es/guias-y-herramientas/videos
+Spain,videos,Ignore,https://www.aepd.es/es/guias-y-herramientas/videos
 Spain,blog,Crawled,https://www.aepd.es/es/prensa-y-comunicacion/blog
 Sweden,decisions,notCrawled,https://www.imy.se/tillsyner/
 Sweden,judgements,notCrawled,https://www.imy.se/tillsyner/
 Sweden,publications,notCrawled,https://www.imy.se/publikationer/
 Sweden,guidance,notCrawled,https://www.imy.se/verksamhet/dataskydd/dataskydd-pa-olika-omraden/
 EDPB,decisions,notCrawled,https://edpb.europa.eu/our-work-tools/consistency-findings/binding-decisions_en
-EDPB,Recommendations,notCrawled,https://edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en?f%5B0%5D=opinions_publication_type%3A98
+EDPB,Recommendations,Crawled,https://edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en?f%5B0%5D=opinions_publication_type%3A98
 EDPB,Guidelines,notCrawled,https://edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en?f%5B0%5D=opinions_publication_type%3A64
 EDPB,opinions,notCrawled,https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en
 EDPB,annual reports,notCrawled,https://edpb.europa.eu/about-edpb/about-edpb/annual-reports_en

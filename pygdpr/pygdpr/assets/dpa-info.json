@@ -391,5 +391,19 @@
       "name": "Mr Ulrich KELBER",
       "title": "Federal Commissioner for Data Protection and Freedom of Information"
     }
+  },
+  "EDPB": {
+    "country": "EDPB",
+    "language_code": "en",
+    "name": "European Data Protection Board",
+    "addressFormatted": "Insert here",
+    "phone": "Insert here",
+    "phone_code": "Insert here",
+    "email": "Insert here",
+    "website": "https://edpb.europa.eu/edpb_en",
+    "member": {
+      "name": "Insert Here",
+      "title": "Insert Here"
+    }
   }
 }
