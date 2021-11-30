@@ -24,21 +24,17 @@ from pygdpr.models.dpa.lithuania import *
 from pygdpr.models.dpa.netherlands import *
 from pygdpr.models.dpa.poland import *
 from pygdpr.models.dpa.edpb import *
+from pygdpr.models.dpa.romania import *
+from pygdpr.models.dpa.slovakia import *
+from pygdpr.models.dpa.sweden import *
 
-
-#path = "/latvia"
-#dpa = Latvia(path)
-#dpa.get_docs_decisions()
-
-
-#path = "/lithuania"
-#dpa = Lithuania(path)
+#path = "/romania"
+#dpa = Romania(path)
 #dpa.get_docs()
 
-#path = "/netherlands"
-#dpa = Netherlands(path)
+#path = "/slovakia"
+#dpa = Slovakia(path)
 #dpa.get_docs()
-
 
 #path = "/poland"
 #dpa = Poland(path)
@@ -47,3 +43,7 @@ from pygdpr.models.dpa.edpb import *
 path = "/edpb"
 dpa = EDPB(path)
 dpa.get_docs_Guidelines()
+
+#path = "/sweden"
+#dpa = Sweden(path)
+#dpa.get_docs()

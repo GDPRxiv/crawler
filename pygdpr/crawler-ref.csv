@@ -88,11 +88,11 @@ Portugal,decisions,Crawled,https://www.cnpd.pt/decisoes/historico-de-decisoes/?y
 Portugal,opinions,Crawled,https://www.cnpd.pt/decisoes/historico-de-decisoes/?year=2021
 Portugal,guidelines,Crawled,https://www.cnpd.pt/organizacoes/orientacoes-e-recomendacoes/
 Portugal,reports,Crawled,https://www.cnpd.pt/cnpd/relatorios-de-atividades/
-Romania,decsions,notCrawled,https://www.dataprotection.ro/?page=allnews&lang=ro
-Romania,reports,notCrawled,https://www.dataprotection.ro/?page=allnews&lang=ro
-Slovakia,fines,notCrawled,contained in annual reports
-Slovakia,reports,notCrawled,https://dataprotection.gov.sk/uoou/sk/content/vyrocne-spravy
-Slovakia,opinions,notCrawled,https://dataprotection.gov.sk/uoou/sk/main-content/metodiky-uradu
+Romania,decsions,Crawled,https://www.dataprotection.ro/?page=allnews&lang=ro
+Romania,reports,Crawled,https://www.dataprotection.ro/?page=allnews&lang=ro
+Slovakia,fines,Crawled,contained in annual reports
+Slovakia,reports,Crawled,https://dataprotection.gov.sk/uoou/sk/content/vyrocne-spravy
+Slovakia,opinions,Crawled,https://dataprotection.gov.sk/uoou/sk/main-content/metodiky-uradu
 Slovenia,decisions,Paywall,https://www.lexology.com/library/detail.aspx?g=fefb5628-a55a-4526-abdc-3777c39e7b3d
 Slovenia,opinions,Crawled(Run Longer),https://www.ip-rs.si/mnenja-gdpr/
 Slovenia,guidelines,Crawled,https://www.ip-rs.si/publikacije/priro%C4%8Dniki-in-smernice/
@@ -103,13 +103,14 @@ Spain,guides,Crawled,https://www.aepd.es/es/guias-y-herramientas/guias
 Spain,infographics,Crawled,https://www.aepd.es/es/guias-y-herramientas/infografias
 Spain,videos,Ignore,https://www.aepd.es/es/guias-y-herramientas/videos
 Spain,blog,Crawled,https://www.aepd.es/es/prensa-y-comunicacion/blog
-Sweden,decisions,notCrawled,https://www.imy.se/tillsyner/
-Sweden,judgements,notCrawled,https://www.imy.se/tillsyner/
-Sweden,publications,notCrawled,https://www.imy.se/publikationer/
-Sweden,guidance,notCrawled,https://www.imy.se/verksamhet/dataskydd/dataskydd-pa-olika-omraden/
+Sweden,decisions,exclude ongoing,https://www.imy.se/tillsyner/
+Sweden,judgements,exclude ongoing,https://www.imy.se/tillsyner/
+Sweden,publications,Crawled,https://www.imy.se/publikationer/
+Sweden,guidance,Crawled,https://www.imy.se/verksamhet/dataskydd/dataskydd-pa-olika-omraden/
 EDPB,decisions,Crawled,https://edpb.europa.eu/our-work-tools/consistency-findings/binding-decisions_en
 EDPB,Recommendations,Crawled,https://edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en?f%5B0%5D=opinions_publication_type%3A98
 EDPB,Guidelines,inProgress,https://edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en?f%5B0%5D=opinions_publication_type%3A64
 EDPB,opinions,Crawled,https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en
 EDPB,annual reports,Crawled,https://edpb.europa.eu/about-edpb/about-edpb/annual-reports_en
 EDPB,letters,Crawled,https://edpb.europa.eu/our-work-tools/documents/letters_en
+
