@@ -33,7 +33,6 @@ class Ireland(DPA):
             "host": "https://www.dataprotection.ie",
             # "start_path": "/en/news-media/press-releases"
             "start_path": "/en/news-media/latest-news"
-
         }
         host = source['host']
         start_path = source['start_path']
