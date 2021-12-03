@@ -106,8 +106,6 @@ class Italy(DPA):
             pass
         return results_response
 
-    # TODO: Try to figure out how to download pdfs that jump straight to your download folder
-    # TODO: instead of brining you to a pdf in the browser
     def get_docs_Interviews(self, existing_docs=[], overwrite=False, to_print=True):
         added_docs = []
 
@@ -122,28 +120,36 @@ class Italy(DPA):
         testo = results_soup.find('div', class_='testo')
         assert testo
         ul_all = testo.find_all('ul', recursive=False)
-        # s1. Results
+
+        # Use iterator to keep track of document number
+        iterator = 1
         for ul in ul_all:
             for li in ul.find_all('li'):
                 time.sleep(5)
                 result_link = li.find('a')
                 assert result_link
-                # s2. Document
+
+                print('\n------------ Document ' + str(iterator) + ' ------------')
+                iterator += 1
+
                 document_title = result_link.get_text()
+                print('\tDocument Title: ' + document_title)
+
                 document_hash = hashlib.md5(document_title.encode()).hexdigest()
                 if document_hash in existing_docs and overwrite is False:
                     if to_print:
                         print('\tSkipping existing document:\t', document_hash)
                     continue
                 document_href = result_link.get('href')
-                if document_href.startswith('http') and document_href.startswith(host) is False:
+                if document_href.startswith('http') and document_href.startswith("https://www.garanteprivacy.it") is False:
+                    print('\tSkipping document that leads to page outside of dpa site')
                     continue
                 document_url = document_href
                 if document_href.startswith('http') is False:
                     host = "https://www.garanteprivacy.it"
                     document_url = host + document_url
 
-                print('document url: ' + document_url)
+                print('\tDocument URL: ' + document_url)
 
                 document_response = None
                 try:
@@ -163,26 +169,33 @@ class Italy(DPA):
                 section = document_soup.find('section', id='content')
                 assert section
 
-                property = section.find('span', property='dc:date')
-                assert property
+                page_property = section.find('span', property='dc:date')
 
-                date = property.get_text()
+                # If a page is entirely blank, the first things the scraper notices is a failed assertion for property
+                try:
+                    assert page_property
+                except AssertionError:
+                    continue
+                    print("Unable to obtain date from document page. It is likely blank")
+
+                date = page_property.get_text()
                 date_str = str(date)
-                print(date_str)
+                print('\tDocument Date: ' + date_str)
 
                 # Weird bug where string length is much longer than it appear in html
                 index = len(date_str)-11
                 year_digits = date_str[index:]
-                print('Year: ' + year_digits)
+                print('\tDocument Year: ' + year_digits)
 
                 if int(year_digits) < 17:
                     print("Terminating program as only old document remain on page")
                     break
 
                 if int(year_digits) < 18:
-                    print("Skipping outdate document")
+                    print("Skipping outdated document")
                     continue
 
+                # Try to get document text directly from web page first
                 try:
                     document_text = document_soup.find('div', id='div-to-print', class_='journal-content-article')
                     assert document_text
@@ -208,8 +221,9 @@ class Italy(DPA):
                         }
                         json.dump(metadata, f, indent=4, sort_keys=True)
 
-
+                # Try to download pdf instead
                 except:
+                    print("\tFailed to get text directly from page -> attempting to download pdf")
                     pdf_section = document_soup.find('section', id='content')
                     assert pdf_section
 
@@ -230,6 +244,10 @@ class Italy(DPA):
 
                     print('\tPDF URL: ' + pdf_url)
 
+                    if '.mp4' or '.mp3' in pdf_url:
+                        print('\tLink leads to a video or audio file: Skipping')
+                        continue
+
                     pdf_response = None
                     try:
                         pdf_response = requests.request('GET', pdf_url, timeout=5)
@@ -239,6 +257,7 @@ class Italy(DPA):
                             print(error)
                         pass
                     if pdf_response is None:
+                        print("\tPDF response is None")
                         continue
 
                     if to_print:

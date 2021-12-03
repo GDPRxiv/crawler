@@ -61,7 +61,7 @@ Italy,Injunctions,Crawled(Run Longer),https://www.garanteprivacy.it/web/guest/ho
 Italy,annual reports,Crawled,https://www.garanteprivacy.it/home/attivita-e-documenti/documenti/relazioni-annuali
 Italy,publications,notCrawled,https://www.garanteprivacy.it/home/attivita-e-documenti/documenti/collana-contributi
 Italy,newsletter,Crawled,https://www.garanteprivacy.it/home/ricerca/-/search/tipologia/Newsletter
-Italy,interviews,Crawled(Bug),https://www.garanteprivacy.it/home/stampa-comunicazione/interviste
+Italy,interviews,Crawled,https://www.garanteprivacy.it/home/stampa-comunicazione/interviste
 Italy,hearings,Crawled,https://www.garanteprivacy.it/home/attivita-e-documenti/documenti/audizioni
 Latvia,decisions,Crawled,https://www.dvi.gov.lv/lv/lemumi
 Latvia,violations,Crawled,https://www.dvi.gov.lv/lv/saraksts-par-publisko-tiesibu-subjektu-pielautajiem-vdar-prasibu-parkapumiem-un-noversanu

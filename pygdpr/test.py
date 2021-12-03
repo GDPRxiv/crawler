@@ -40,10 +40,14 @@ from pygdpr.models.dpa.sweden import *
 #dpa = Poland(path)
 #dpa.get_docs_decisions()
 
-path = "/edpb"
-dpa = EDPB(path)
-dpa.get_docs_Guidelines()
+#path = "/edpb"
+#dpa = EDPB(path)
+#dpa.get_docs_Guidelines()
 
 #path = "/sweden"
 #dpa = Sweden(path)
 #dpa.get_docs()
+
+path = "/italy"
+dpa = Italy(path)
+dpa.get_docs_Interviews()
