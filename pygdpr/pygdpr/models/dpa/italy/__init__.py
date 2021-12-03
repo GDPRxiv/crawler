@@ -939,7 +939,6 @@ class Italy(DPA):
             assert year
             document_year = year.get_text()
 
-
             # Can use this to improve rutime since documents are already in chronological order
             if int(document_year) < 2017:
                 break
@@ -1039,6 +1038,139 @@ class Italy(DPA):
                     'md5': document_hash,
                     'releaseDate': document_year,
                     'url': document_url
+                }
+                json.dump(metadata, f, indent=4, sort_keys=True)
+            added_docs.append(document_hash)
+        return added_docs
+
+    # Utilizes the link starting at page 1, rather than the generic link
+    def get_docs_Publications(self, existing_docs=[], overwrite=False, to_print=True):
+        print('------------ GETTING PUBLICATIONS ------------')
+        added_docs = []
+
+        iteration = 1
+
+        page_url = 'https://www.garanteprivacy.it/home/attivita-e-documenti/documenti/collana-contributi'
+        if to_print:
+            print('\n New Page:\t', page_url)
+        page_source = self.get_source(page_url=page_url)
+        if page_source is None:
+            sys.exit('page_source is None')
+
+        results_soup = BeautifulSoup(page_source.text, 'html.parser')
+        assert results_soup
+
+        section = results_soup.find('section', id='content')
+        assert section
+
+        testo = section.find('div', id='interna-webcontent')
+        assert testo
+
+        # Just get the very first <tr>
+        tr = testo.find('tr')
+        assert tr
+
+        for p in tr.find_all('p'):
+            assert p
+
+            if p.find('br') is None:
+                continue
+
+            print('\n------------ Document ' + str(iteration) + ' ------------')
+            iteration += 1
+
+            document_title = p.get_text()
+            print('\tDocument Title: ' + document_title)
+
+            document_year = document_title[-4:]
+            print('\tDocument Year: ' + document_year)
+
+            try:
+                if int(document_year) < 2018:
+                    print('Remaining documents are outdated')
+                    break
+            except ValueError:
+                print("\tCouldn't parse document_year to integer")
+
+            document_hash = hashlib.md5(document_title.encode()).hexdigest()
+            if document_hash in existing_docs and overwrite is False:
+                if to_print:
+                    print('\tSkipping existing document:\t', document_hash)
+                continue
+
+            a_tag = p.find('a')
+            assert a_tag
+
+            href = a_tag.get('href')
+            assert href
+
+            document_url = 'https://www.garanteprivacy.it' + href
+            print('\tDocument URL: ' + document_url)
+
+            document_response = None
+            try:
+                document_response = requests.request('GET', document_url, timeout=5)
+                document_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                if to_print:
+                    print(error)
+                pass
+            if document_response is None:
+                continue
+
+            document_soup = BeautifulSoup(document_response.text, 'html.parser')
+            assert document_soup
+
+            document_section = document_soup.find('section', id='content')
+            assert document_section
+
+            portlet_body = document_section.find('div', class_='portlet-body')
+            assert portlet_body
+
+            content_wrapper = portlet_body.find('div', id='internal-content-wrapper')
+            assert content_wrapper
+
+            document_a = content_wrapper.find('a')
+            assert document_a
+
+            pdf_href = document_a.get('href')
+            assert pdf_href
+
+            pdf_url = 'https://www.garanteprivacy.it' + pdf_href
+            print('\tPDF URL: ' + pdf_url)
+
+            pdf_response = None
+            try:
+                pdf_response = requests.request('GET', pdf_url, timeout=5)
+                pdf_response.raise_for_status()
+            except requests.exceptions.HTTPError as error:
+                if to_print:
+                    print(error)
+                pass
+            if pdf_response is None:
+                print('\tpdf_response is None')
+                continue
+
+            dpa_folder = self.path
+            document_folder = dpa_folder + '/' + 'Publications' + '/' + document_hash
+
+            try:
+                os.makedirs(document_folder)
+            except FileExistsError:
+                pass
+            with open(document_folder + '/' + self.language_code + '.pdf', 'wb') as f:
+                f.write(pdf_response.content)
+            with open(document_folder + '/' + self.language_code + '.txt', 'wb') as f:
+                pdf_text = textract.process(document_folder + '/' + self.language_code + '.pdf')
+                f.write(pdf_text)
+            with open(document_folder + '/' + 'metadata.json', 'w') as f:
+                metadata = {
+                    'title': {
+                        self.language_code: document_title
+                    },
+                    'md5': document_hash,
+                    'releaseDate': document_year,
+                    'url': pdf_url
                 }
                 json.dump(metadata, f, indent=4, sort_keys=True)
             added_docs.append(document_hash)

@@ -50,4 +50,4 @@ from pygdpr.models.dpa.sweden import *
 
 path = "/italy"
 dpa = Italy(path)
-dpa.get_docs_Interviews()
+dpa.get_docs_Publications()
