@@ -17,19 +17,6 @@ import sys
 import time
 import re
 
-'''
-# Logger to keep tracking of http get request
-import logging
-import http.client
-http.client.HTTPConnection.debuglevel = 1
-
-logging.basicConfig()
-logging.getLogger().setLevel(logging.DEBUG)
-requests_log = logging.getLogger("requests.packages.urllib3")
-requests_log.setLevel(logging.DEBUG)
-requests_log.propagate = True
-'''
-
 class CzechRepublic(DPA):
     def __init__(self, path=os.curdir):
         country_code='CZ'
@@ -612,18 +599,6 @@ class CzechRepublic(DPA):
                     link_url = link_host + link_href
                 else:
                     link_url = link_href
-                '''
-                headers = {
-                    "User-Agent": "PostmanRuntime/7.20.1",
-                    "Accept": "*/*",
-                    "Cache-Control": "no-cache",
-                    "Postman-Token": "8eb5df70-4da6-4ba1-a9dd-e68880316cd9,30ac79fa-969b-4a24-8035-26ad1a2650e1",
-                    "Host": "medianet.edmond-de-rothschild.fr",
-                    "Accept-Encoding": "gzip, deflate",
-                    "Connection": "keep-alive",
-                    "cache-control": "no-cache",
-                }
-                '''
 
                 link_response = None
                 try:
