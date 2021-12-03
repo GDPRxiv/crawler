@@ -499,12 +499,12 @@ class EDPB(DPA):
                 article = document_soup.find('article', role='article')
                 assert article
 
-                # TODO: After testing, refactor this as a method and account for other scenaries too
+                # TODO: After testing, refactor this as a method and account for other scenarios too
                 # TODO: Discuss this link first before doing anything crazy
                 # If the standard download button is missing
                 if article.find('div', class_='col-sm-2') is None:
                     print('Standard download button is missing')
-                    field_item = article.find('div', class_='field-item')
+                    field_item = article.find('div', class_='field-items')
                     assert field_item
 
                     field_a = field_item.find('a')
