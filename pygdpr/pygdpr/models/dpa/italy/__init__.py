@@ -106,6 +106,19 @@ class Italy(DPA):
             pass
         return results_response
 
+    def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
+        added_docs = []
+        # call all the get_docs_X() functions
+        added_docs += self.get_docs_Interviews(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Publications(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_AnnualReports(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Newsletters(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Injunctions(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_InjunctionsFromLastPage(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Hearings(existing_docs=[], overwrite=False, to_print=True)
+
+        return added_docs
+
     def get_docs_Interviews(self, existing_docs=[], overwrite=False, to_print=True):
         added_docs = []
 

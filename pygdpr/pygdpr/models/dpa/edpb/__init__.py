@@ -581,7 +581,6 @@ class EDPB(DPA):
                     # Move to next outer for loop iteration (move to next overall document page on e)
                     continue
 
-
                 # Check if there is 'final document version' notice that has a link -> if so, use this link
                 alert_document = article.find('div', class_='alert')
                 if alert_document is not None:

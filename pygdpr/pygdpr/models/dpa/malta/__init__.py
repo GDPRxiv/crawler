@@ -71,6 +71,14 @@ class Malta(DPA):
             pass
         return results_response
 
+    def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
+        added_docs = []
+        # call all the get_docs_X() functions
+        added_docs += self.get_docs_Guidelines(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_NewsArticles(existing_docs=[], overwrite=False, to_print=True)
+
+        return added_docs
+
     def get_docs_Guidelines(self, existing_docs=[], overwrite=False, to_print=True):
         print('------------ GETTING GUIDELINES ------------')
         added_docs = []

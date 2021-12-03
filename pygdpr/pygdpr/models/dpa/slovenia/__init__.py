@@ -76,82 +76,13 @@ class Slovenia(DPA):
 
     def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
         added_docs = []
-        pagination = self.update_pagination()
-        # s0. Pagination
-        while pagination.has_next():
-            page_url = pagination.get_next()
-            if to_print:
-                print('\nPage:\t', page_url)
-            page_source = self.get_source(page_url=page_url)
-            results_soup = BeautifulSoup(page_source.text, 'html.parser')
-            assert results_soup
-            news_small = results_soup.find('ul', class_='news-small')
-            assert news_small
-            # s1. Results
-            for li in news_small.find_all('li'):
-                result_link = li.find('a')
-                assert result_link
-                time = result_link.find('time')
-                assert time
-                date_str = time.get_text().strip()
-                tmp = datetime.datetime.strptime(date_str, '%d.%m.%Y')
-                date = datetime.date(tmp.year, tmp.month, tmp.day)
-                if ShouldRetainDocumentSpecification().is_satisfied_by(date) is False:
-                    continue
-                strong = result_link.find('strong')
-                assert strong
-                # s2. Documents
-                document_title = result_link.get_text()
-                document_hash = hashlib.md5(document_title.encode()).hexdigest()
-                if document_hash in existing_docs and overwrite == False:
-                    if to_print:
-                        print('\tSkipping existing document:\t', document_hash)
-                    continue
-                document_href = result_link.get('href')
-                document_url = document_href
-                if to_print:
-                    print("\tDocument:\t", document_hash)
-                host = "https://www.ip-rs.si"
-                document_url = host + '/' + document_href
-                if to_print:
-                    print("\tDocument:\t", document_hash)
-                document_response = None
-                try:
-                    document_response = requests.request('GET', document_url)
-                    document_response.raise_for_status()
-                except requests.exceptions.HTTPError as error:
-                    if to_print:
-                        print(error)
-                    pass
-                if document_response is None:
-                    continue
-                document_soup = BeautifulSoup(document_response.text, 'html.parser')
-                assert document_soup
-                article_c9 = document_soup.find('article', class_='c9')
-                assert article_c9
-                document_text = article_c9.get_text()
-                assert len(document_text) > 0
-                dpa_folder = self.path
-                document_folder = dpa_folder + '/' + document_hash
-                try:
-                    os.makedirs(document_folder)
-                except FileExistsError:
-                    pass
-                with open(document_folder + '/' + self.language_code + '.txt', 'w') as f:
-                    f.write(document_text)
-                with open(document_folder + '/' + 'metadata.json', 'w') as f:
-                    metadata = {
-                        'title': {
-                            self.language_code: document_title
-                        },
-                        'md5': document_hash,
-                        'releaseDate': date.strftime('%d/%m/%Y'),
-                        'url': document_url
-                    }
-                    json.dump(metadata, f, indent=4, sort_keys=True)
-                added_docs.append(document_hash)
-            # s0. Pagination
-            pagination = self.update_pagination(pagination=pagination, page_soup=results_soup)
+        # call all the get_docs_X() functions
+        added_docs += self.get_docs_Opinions(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Reports(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Guidelines(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Infographics(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Blogs(existing_docs=[], overwrite=False, to_print=True)
+
         return added_docs
 
     # TODO: Determine if this method should scrape all the up-to-date documents, or stop early

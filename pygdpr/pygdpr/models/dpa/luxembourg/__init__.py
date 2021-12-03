@@ -66,6 +66,14 @@ class Luxembourg(DPA):
             pass
         return results_response
 
+    def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
+        added_docs = []
+        # call all the get_docs_X() functions
+        added_docs += self.get_docs_Opinions(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_AnnualReports(existing_docs=[], overwrite=False, to_print=True)
+
+        return added_docs
+
     def get_docs_Opinions(self, existing_docs=[], overwrite=False, to_print=True):
         print('------------ GETTING OPINIONS ------------')
         added_docs = []
