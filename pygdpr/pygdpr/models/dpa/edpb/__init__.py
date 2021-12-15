@@ -1318,8 +1318,9 @@ class EDPB(DPA):
             pagination = self.update_pagination(pagination=pagination, page_soup=results_soup, new_page_path='https://edpb.europa.eu/our-work-tools/documents/letters_en')
         return added_docs
 
-
+    # TODO: Using this method to test the document hash checking currently
     def get_docs_AnnualReports(self, existing_docs=[], overwrite=False, to_print=True):
+
         print('------------ GETTING ANNUAL REPORTS ------------')
         added_docs = []
 
@@ -1383,10 +1384,12 @@ class EDPB(DPA):
             document_title = node_span.get_text()
             print('\tDocument Title: ' + document_title)
 
+            # TODO: Included url in doc hash -> then use global list for doc hashes
             document_hash = hashlib.md5(document_title.encode()).hexdigest()
-            if document_hash in existing_docs and overwrite is False:
+
+            if (document_hash in existing_docs) and (overwrite is False):
                 if to_print:
-                    print('\tSkipping existing document:\t', document_hash)
+                    print('\tSkipping existing document (It exists in visitedDocs.txt):\t', document_hash)
                 continue
 
             if to_print:
@@ -1438,7 +1441,8 @@ class EDPB(DPA):
                     continue
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Annual Reports' + '/' + document_hash
+                # Put documents in folder for the dpa automatically
+                document_folder = dpa_folder + '/edpb' + '/' + 'Annual Reports' + '/' + document_hash
 
                 try:
                     os.makedirs(document_folder)
@@ -1466,4 +1470,5 @@ class EDPB(DPA):
                 json.dump(metadata, f, indent=4, sort_keys=True)
             added_docs.append(document_hash)
 
+        # Contains unique hashes not in master file...
         return added_docs

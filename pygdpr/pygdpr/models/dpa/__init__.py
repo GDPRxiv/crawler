@@ -104,8 +104,8 @@ class DPA(object):
         self.website = dpa['website']
         self.member = dpa['member']
         # Watch out for this path changing between users and the remote repo!!!
-        # An argument when running this program in terminal
-        self.path = '/Users/evanjacobs/Desktop/research_project/gdpr-sota/documents' + path
+        # DPA path is now whatever the user inputs
+        self.path = path
         #self.path = '/Users/chen/PycharmProjects/gdpr-sota/documents' + path
         self.translate_client = None
 

@@ -43,9 +43,11 @@ print("\n")
 @click.command()
 @click.option('--country', default='EDPB', help='The country to obtain document from.')
 @click.option('--document_type', default='Docs', help='The type of documents to include.')
+@click.option('--path', default=None, help='File path where scraped documents should be stored.')
+@click.option('--overwrite', default=False, help='Set to True if scraper should overwrite existing documents.')
 
 
-def scrape(country, document_type):
+def scrape(country, document_type, path, overwrite):
 
     """
         \b
@@ -83,6 +85,36 @@ def scrape(country, document_type):
         United Kingdom           Decisions, Judgements, Notices
     """
 
+    # Path is where the user stores documents, something like: '/Users/evanjacobs/Desktop/test_scraper/edpb'
+    # If no path is give, exit
+    if path is None:
+        sys.exit("No file path given.")
+
+    try:
+        os.makedirs(path)
+    except FileExistsError:
+        pass
+
+    # Create visitedDocs.txt if it doesn't already exist
+    try:
+        hashFile = open(path + "/visitedDocs.txt", "x")
+        hashFile.close()
+    except FileExistsError:
+        print('visitedDocs already exists')
+        pass
+
+    existing_docs = []
+    # Open visitedDocs.txt and read the contents into existing_docs list
+    # TODO: Change this to use .readlines() and get contents all at once into list
+    with open(path + "/visitedDocs.txt") as file:
+        for line in file:
+            hash_n_stripped = line.rstrip('\n')
+            # Add the hash's in visitedDocs.txt to existing_docs
+            existing_docs.append(hash_n_stripped)
+
+    # Open the file again (with 'append'), since it is closed after previous looping
+    hashFile = open(path + "/visitedDocs.txt", "a")
+
     # Determine country, path, and instantiate the DPA
     if country == "Austria":
         path = "/austria"
@@ -106,8 +138,8 @@ def scrape(country, document_type):
         path = "/denmark"
         dpa = Denmark(path)
     elif country == "EDPB":
-        path = "/edpb"
-        dpa = EDPB(path)
+        # path = "/edpb"
+        dpa = EDPB(path=path)
     elif country == "Estonia":
         path = "/estonia"
         dpa = Estonia(path)
@@ -173,11 +205,26 @@ def scrape(country, document_type):
     # Call appropriate method for desired document type (Note that these are all encompassing, but DPA type will
     # differentiate)
     if document_type == "Decisions":
-        dpa.get_docs_Decisions()
+        added_docs = dpa.get_docs_Decisions(existing_docs=existing_docs)
     elif document_type == "Guidelines":
-        dpa.get_docs_Guidelines()
+        added_docs = dpa.get_docs_Guidelines(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Annual Reports":
+        # existing_docs contains document hashes from visitedDocs.txt
+        # added_docs contains hashes of freshly downloaded documents
+        added_docs = dpa.get_docs_AnnualReports(existing_docs=existing_docs, overwrite=overwrite)
     else:
         pass
+
+    # Iterate through added_docs and add hashes to visitedDocs.txt
+    for document_hash in added_docs:
+        # Document_hash isn't in visitedDocs.txt -> add it
+        document_hash_newline = document_hash + "\n"
+        hashFile.write(document_hash_newline)
+
+    # Lets us see written contents during run time
+    hashFile.flush()
+    # Close visited docs when done scraping
+    hashFile.close()
 
 
 if __name__ == '__main__':
