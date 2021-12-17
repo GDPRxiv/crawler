@@ -1,0 +1,28 @@
+from setuptools import setup, find_packages
+with open("README.md", "r", encoding="utf-8") as fh:
+    long_description = fh.read()
+with open("requirements.txt", "r", encoding="utf-8") as fh:
+    requirements = fh.read()
+setup(
+    name = 'GDPRxiv crawler',
+    version = '0.0.1',
+    author = 'Chen Sun, Supreeth Shastri, Evan Jacobs',
+    author_email = '<Insert author email>',
+    license = 'MIT License',
+    description = 'GDPR document crawler',
+    long_description = long_description,
+    long_description_content_type = "text/markdown",
+    url = 'https://github.com/GDPRxiv/crawler',
+    py_modules = ['test', 'pygdpr'],
+    packages = find_packages(),
+    install_requires = [requirements],
+    python_requires='>=3.9',
+    classifiers=[
+        "Programming Language :: Python :: 3.9",
+        "Operating System :: macOS",
+    ],
+    entry_points = '''
+        [console_scripts]
+        gdprCrawler=test:scrape
+    '''
+)

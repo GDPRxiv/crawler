@@ -26,7 +26,6 @@ from pygdpr.models.dpa.edpb import *
 from pygdpr.models.dpa.romania import *
 from pygdpr.models.dpa.slovakia import *
 from pygdpr.models.dpa.sweden import *
-
 import click
 
 

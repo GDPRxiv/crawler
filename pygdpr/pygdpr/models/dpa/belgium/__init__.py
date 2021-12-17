@@ -17,7 +17,7 @@ from pygdpr.specifications import pdf_file_extension_specification
 from pygdpr.specifications.should_retain_document_specification import ShouldRetainDocumentSpecification
 from pygdpr.models.common.pagination import Pagination
 from pygdpr.policies.gdpr_policy import GDPRPolicy
-import dateparser
+
 from zipfile import ZipFile
 
 
