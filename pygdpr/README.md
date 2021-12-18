@@ -1,6 +1,6 @@
-# GDPRxiv crawler
+![](https://visitor-badge.glitch.me/badge?page_id=GDPRxiv.crawler)
 
-![](https://github.com/GDPRxiv/crawler)
+# GDPRxiv crawler
 
 ### Package Testing Notes:
 Removed google-cloud-translate==2.0.1 from requirements. This package was conflicting with textract==1.6.3, as 
