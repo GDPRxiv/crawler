@@ -38,8 +38,13 @@ print(" \______  /_______  /____|    |____|_  //__/\_ \__| \_/    \______  /|__|
 print("        \/        \/                 \/       \/                  \/            \/                 \/")
 print("\n")
 
+@click.group()
 
-@click.command()
+def cli():
+    pass
+
+
+@cli.command()
 @click.option('--country', default='EDPB', help='The country to obtain document from.')
 @click.option('--document_type', default='Docs', help='The type of documents to include.')
 @click.option('--path', default=None, help='File path where scraped documents should be stored.')
@@ -84,7 +89,7 @@ def scrape(country, document_type, path, overwrite):
         United Kingdom           Decisions, Judgements, Notices
     """
 
-    # Path is where the user stores documents, something like: '/Users/evanjacobs/Desktop/test_scraper/edpb'
+    # Path is where the user stores documents, something like: '/Users/evanjacobs/Desktop/test_scraper'
     # If no path is give, exit
     if path is None:
         sys.exit("No file path given.")
@@ -224,14 +229,6 @@ def scrape(country, document_type, path, overwrite):
     hashFile.flush()
     # Close visited docs when done scraping
     hashFile.close()
-
-
-if __name__ == '__main__':
-    scrape()
-
-
-
-
 
 
 

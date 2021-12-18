@@ -23,6 +23,6 @@ setup(
     ],
     entry_points = '''
         [console_scripts]
-        gdprCrawler=test:scrape
+        gdprCrawler=gdprCrawler:cli
     '''
 )
