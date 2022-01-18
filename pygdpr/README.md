@@ -12,7 +12,7 @@ To be included...
 
 
 ### Installing
-To install this CLI tool you can run the below command
+To install this CLI tool you can run the below command:
 ```
 pip3 install "GDPRxiv crawler"
 ```
@@ -22,6 +22,10 @@ Scrape desired documents:
 ```
 gdprCrawler scrape --country <desired country> --document_type <type of document> --path <Directory to store documents>
 ```
+The same directory can be used for multiple countries: the scraper automatically organizes documents based on country
+and document type.
+
+Country and document type arguments should be written exactly as they appear below:
 <pre>
 SUPPORTED COUNTRIES:     DOCUMENTS TYPES:
 
