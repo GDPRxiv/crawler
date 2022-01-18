@@ -121,89 +121,89 @@ def scrape(country, document_type, path, overwrite):
 
     # Determine country, path, and instantiate the DPA
     if country == "Austria":
-        path = "/austria"
-        dpa = Austria(path)
+        #path = "/austria"
+        dpa = Austria(path=path)
     elif country == "Belgium":
-        path = "/belgium"
-        dpa = Belgium(path)
+        #path = "/belgium"
+        dpa = Belgium(path=path)
     elif country == "Bulgaria":
-        path = "/bulgaria"
-        dpa = Bulgaria(path)
+        #path = "/bulgaria"
+        dpa = Bulgaria(path=path)
     elif country == "Croatia":
-        path = "/croatia"
-        dpa = Croatia(path)
+        #path = "/croatia"
+        dpa = Croatia(path=path)
     elif country == "Cyprus":
-        path = "/cyrpus"
-        dpa = Cyprus(path)
+        #path = "/cyrpus"
+        dpa = Cyprus(path=path)
     elif country == "Czech Republic":
-        path = "/czech_republic"
-        dpa = CzechRepublic(path)
+        #path = "/czech_republic"
+        dpa = CzechRepublic(path=path)
     elif country == "Denmark":
-        path = "/denmark"
-        dpa = Denmark(path)
+        #path = "/denmark"
+        dpa = Denmark(path=path)
     elif country == "EDPB":
         # path = "/edpb"
         dpa = EDPB(path=path)
     elif country == "Estonia":
-        path = "/estonia"
-        dpa = Estonia(path)
+        #path = "/estonia"
+        dpa = Estonia(path=path)
     elif country == "Finland":
-        path = "/finland"
-        dpa = Finland(path)
+        #path = "/finland"
+        dpa = Finland(path=path)
     elif country == "France":
-        path = "/france"
-        dpa = France(path)
+        #path = "/france"
+        dpa = France(path=path)
     elif country == "Greece":
-        path = "/greece"
-        dpa = Greece(path)
+        #path = "/greece"
+        dpa = Greece(path=path)
     elif country == "Hungary":
-        path = "/hungary"
-        dpa = Hungary(path)
+        #path = "/hungary"
+        dpa = Hungary(path=path)
     elif country == "Ireland":
-        path = "ireland"
-        dpa = Ireland(path)
+        #path = "ireland"
+        dpa = Ireland(path=path)
     elif country == "Italy":
-        path = "/italy"
-        dpa = Italy(path)
+        #path = "/italy"
+        dpa = Italy(path=path)
     elif country == "Latvia":
-        path = "/latvia"
-        dpa = Latvia(path)
+        #path = "/latvia"
+        dpa = Latvia(path=path)
     elif country == "Lithuania":
-        path = "/lithuania"
-        dpa = Lithuania(path)
+        #path = "/lithuania"
+        dpa = Lithuania(path=path)
     elif country == "Luxembourg":
-        path = "/luxembourg"
-        dpa = Luxembourg(path)
+        #path = "/luxembourg"
+        dpa = Luxembourg(path=path)
     elif country == "Malta":
-        path = "/malta"
-        dpa = Malta(path)
+        #path = "/malta"
+        dpa = Malta(path=path)
     elif country == "Netherlands":
-        path = "/netherlands"
-        dpa = Netherlands(path)
+        #path = "/netherlands"
+        dpa = Netherlands(path=path)
     elif country == "Poland":
-        path = "/poland"
-        dpa = Poland(path)
+        #path = "/poland"
+        dpa = Poland(path=path)
     elif country == "Portugal":
-        path = "/portugal"
-        dpa = Portugal(path)
+        #path = "/portugal"
+        dpa = Portugal(path=path)
     elif country == "Romania":
-        path = "/romania"
-        dpa = Romania(path)
+        #path = "/romania"
+        dpa = Romania(path=path)
     elif country == "Slovakia":
-        path = "/slovakia"
-        dpa = Slovakia(path)
+        #path = "/slovakia"
+        dpa = Slovakia(path=path)
     elif country == "Slovenia":
-        path = "/slovenia"
-        dpa = Slovenia(path)
+        #path = "/slovenia"
+        dpa = Slovenia(path=path)
     elif country == "Spain":
-        path = "/spain"
-        dpa = Spain(path)
+        #path = "/spain"
+        dpa = Spain(path=path)
     elif country == "Sweden":
-        path = "/sweden"
-        dpa = Sweden(path)
+        #path = "/sweden"
+        dpa = Sweden(path=path)
     else:
-        path = "/united_kingdom"
-        dpa = UnitedKingdom(path)
+        #path = "/united_kingdom"
+        dpa = UnitedKingdom(path=path)
 
 
     # Call appropriate method for desired document type (Note that these are all encompassing, but DPA type will
@@ -216,6 +216,16 @@ def scrape(country, document_type, path, overwrite):
         # existing_docs contains document hashes from visitedDocs.txt
         # added_docs contains hashes of freshly downloaded documents
         added_docs = dpa.get_docs_AnnualReports(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Recommendations":
+        added_docs = dpa.get_docs_Recommendations()
+    elif document_type == "Opinions":
+        added_docs = dpa.get_docs_Opinions()
+    elif document_type == "Letters":
+        added_docs = dpa.get_docs_Letters()
+    elif document_type == "Guides":
+        added_docs = dpa.get_docs_Guides()
+    elif document_type == "Permissions":
+        added_docs = dpa.get_docs_Permissions()
     else:
         pass
 

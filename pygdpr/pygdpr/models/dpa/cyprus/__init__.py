@@ -139,7 +139,7 @@ class Cyprus(DPA):
 
 
 
-    def get_docs_AnnualReport(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_AnnualReports(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         # s0. Pagination
         pagination = self.update_pagination(start_path="AnnualReport")

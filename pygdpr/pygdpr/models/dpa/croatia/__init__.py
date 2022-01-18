@@ -57,7 +57,7 @@ class Croatia(DPA):
         page_source = driver.page_source
         return page_source
 
-    def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_Decisions(self, existing_docs=[], overwrite=False, to_print=True):
         added_docs = []
         pagination = self.update_pagination()
         page_list = []

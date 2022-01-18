@@ -304,7 +304,7 @@ class Bulgaria(DPA):
                 pagination = self.update_pagination(pagination=pagination, page_soup=document_soup, start_path=href)
         return existed_docs
 
-    def get_docs_annualReport(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_AnnualReports(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         source = {
             'host': 'https://www.cpdp.bg',

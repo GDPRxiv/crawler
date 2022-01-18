@@ -179,8 +179,6 @@ class Denmark(DPA):
             pagination = self.update_pagination(pagination=pagination, driver=driver)
         return existed_docs
 
-
-
     def get_docs_Permissions(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         dict_hashcode = {}
