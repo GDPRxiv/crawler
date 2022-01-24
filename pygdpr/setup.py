@@ -7,7 +7,7 @@ setup(
     name = 'GDPRxiv crawler',
     version = '0.0.1',
     author = 'Chen Sun, Supreeth Shastri, Evan Jacobs',
-    author_email = '<Insert author email>',
+    author_email = 'evanalexjacob@gmail.com',
     license = 'MIT License',
     description = 'GDPR document crawler',
     long_description = long_description,
@@ -19,7 +19,7 @@ setup(
     python_requires='>=3.9',
     classifiers=[
         "Programming Language :: Python :: 3.9",
-        "Operating System :: macOS",
+        "Operating System :: MacOS",
     ],
     entry_points = '''
         [console_scripts]
