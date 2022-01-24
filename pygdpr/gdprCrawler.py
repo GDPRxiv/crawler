@@ -244,7 +244,3 @@ def scrape(country, document_type, path, overwrite):
 
 
 
-
-
-
-
