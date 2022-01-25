@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 with open("requirements.txt", "r", encoding="utf-8") as fh:
     requirements = fh.read()
 setup(
-    name = 'gdprCrawler',
+    name = 'gdprCrawlerTest6',
     version = '0.0.1',
     author = 'Chen Sun, Supreeth Shastri, Evan Jacobs',
     author_email = 'evanalexjacob@gmail.com',
@@ -14,7 +14,7 @@ setup(
     long_description_content_type = "text/markdown",
     url = 'https://github.com/GDPRxiv/crawler',
     py_modules = ['gdprCrawler'],
-    packages = ['pygdpr'],
+    packages = find_packages(),
     install_requires = [requirements],
     python_requires='>=3.9',
     classifiers=[

@@ -6,6 +6,7 @@ class EUMemberSpecification():
     def is_satisfied_by(self, cand): # cand = country_code
         filename = 'eu-members.json'
         path = os.path.abspath(f"pygdpr/assets/{filename}")
+        print("PATH: " + path)
         if os.path.isfile(path) is False:
             raise FileNotFoundError(
                 errno.ENOENT, os.strerror(errno.ENOENT), filename
