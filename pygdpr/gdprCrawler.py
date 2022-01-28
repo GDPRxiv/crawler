@@ -240,5 +240,5 @@ def scrape(country, document_type, path, overwrite):
     # Close visited docs when done scraping
     hashFile.close()
 
-
-
+if __name__ == '__main__':
+    scrape()
