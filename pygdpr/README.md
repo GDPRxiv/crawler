@@ -15,7 +15,7 @@
     <img src="images/logo.png" alt="Logo" width="90" height="90">
   </a>
 
-  <h3 align="center">GDPRxiv Crawler</h3>
+  <h3 align="center">GDPRxiv Crawler (README Draft)</h3>
 
   <p align="center">
     An efficient tool to collect GDPR documents!
@@ -23,7 +23,7 @@
   </p>
 </div>
 
-<!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](href="https://github.com/GDPRxiv/crawler)
@@ -44,8 +44,8 @@ However, we hope that this tool will eliminate the bulk of the workload and allo
 
 ### Built With
 
-* [Selenium](https://www.selenium.dev/)
 * [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [Selenium](https://www.selenium.dev/)
 * [NLTK](https://www.nltk.org/)
 * [Add more later...](https://www.example.com)
 
@@ -64,12 +64,15 @@ To create and activate one:
 _In a directory:_
 
 * venv
+
     ```sh
     virtualenv myEnvName
      ```
+  
 Activate the virtual environment
+
 ```sh
-virtualenv myEnvName
+  virtualenv myEnvName
 ```
 
 ### Installation
