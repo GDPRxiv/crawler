@@ -111,7 +111,7 @@ _Overwrite is False by default._
 
 &nbsp; 
 
-####Country and document type arguments should be written exactly as they appear below:
+###Country and document type arguments should be written exactly as they appear below:
 <pre>
 SUPPORTED COUNTRIES:     DOCUMENTS TYPES:
 
