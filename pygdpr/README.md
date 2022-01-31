@@ -100,14 +100,14 @@ unique hash, which allows the tool to avoid overwriting existing documents (if d
    ```sh
    gdprCrawler scrape --country <country name> --document_type <document type> --path <directory to store documents>
    ```
-_The same directory can be used for multiple countries: the scraper automatically organizes documents based on country and document type._
+    _The same directory can be used for multiple countries: the scraper automatically organizes documents based on country and document type._
 
 * Optionally, the --overwrite argument can be included if users would like to overwrite existing documents:
 
    ```sh
       gdprCrawler scrape --country <country name> --document_type <document type> --path <directory to store documents> --overwrite <True/False>
    ```
-_Overwrite is False by default._
+    _Overwrite is False by default._
 
 &nbsp; 
 
