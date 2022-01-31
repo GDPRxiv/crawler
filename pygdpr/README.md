@@ -59,17 +59,16 @@ Python 3.9 is required. This python version includes the pip installer and the v
 virtual environment.
 
 It is strongly recommended that users utilize a virtual environment when installing this package. 
-To create and activate one:
+See below to create and activate one.
 
 _In a directory:_
-
-* venv:
+1. venv:
 
     ```sh
     virtualenv myEnvName
      ```
   
-* Activate the virtual environment:
+2. Activate the virtual environment:
 
     ```sh
       virtualenv myEnvName
@@ -99,16 +98,18 @@ unique hash, which allows the tool to avoid overwriting existing documents (if d
 
 * Scrape desired documents:
    ```sh
-   gdprCrawler scrape --country <countryName> --document_type <documentType> --path <directory to store documents>
+   gdprCrawler scrape --country <country name> --document_type <document type> --path <directory to store documents>
    ```
 _The same directory can be used for multiple countries: the scraper automatically organizes documents based on country and document type._
 
 * Optionally, the --overwrite argument can be included if users would like to overwrite existing documents:
 
    ```sh
-      gdprCrawler scrape --country <countryName> --document_type <documentType> --path <directory to store documents> --overwrite <True/False>
+      gdprCrawler scrape --country <country name> --document_type <document type> --path <directory to store documents> --overwrite <True/False>
    ```
 _Overwrite is False by default._
+
+&nbsp; 
 
 ####Country and document type arguments should be written exactly as they appear below:
 <pre>
