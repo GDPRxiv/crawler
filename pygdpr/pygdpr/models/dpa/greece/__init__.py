@@ -160,7 +160,8 @@ class Greece(DPA):
                     continue
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                # document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                document_folder = dpa_folder + '/greece' + '/' + 'Decisions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -308,7 +309,8 @@ class Greece(DPA):
                     continue
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Recommendations' + '/' + document_hash
+                # document_folder = dpa_folder + '/' + 'Recommendations' + '/' + document_hash
+                document_folder = dpa_folder + '/greece' + '/' + 'Recommendations' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -462,7 +464,8 @@ class Greece(DPA):
                     continue
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Opinions' + '/' + document_hash
+                # document_folder = dpa_folder + '/' + 'Opinions' + '/' + document_hash
+                document_folder = dpa_folder + '/greece' + '/' + 'Opinions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -614,7 +617,8 @@ class Greece(DPA):
                     continue
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Guidelines' + '/' + document_hash
+                #document_folder = dpa_folder + '/' + 'Guidelines' + '/' + document_hash
+                document_folder = dpa_folder + '/greece' + '/' + 'Guidelines' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -755,7 +759,8 @@ class Greece(DPA):
                     continue
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Annual Reports' + '/' + document_hash
+                #document_folder = dpa_folder + '/' + 'Annual Reports' + '/' + document_hash
+                document_folder = dpa_folder + '/greece' + '/' + 'Annual Reports' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:

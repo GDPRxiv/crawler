@@ -134,7 +134,8 @@ class Latvia(DPA):
                     continue
                 document_content = document_response.content
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                # document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                document_folder = dpa_folder + '/latvia' + '/' + 'Decisions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -162,7 +163,8 @@ class Latvia(DPA):
                             continue
                         judgement_content = judgement_response.content
                         dpa_folder = self.path
-                        document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                        # document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                        document_folder = dpa_folder + '/latvia' + '/' + 'Decisions' + '/' + document_hash
                         try:
                             os.makedirs(document_folder)
                         except FileExistsError:
@@ -232,7 +234,8 @@ class Latvia(DPA):
                 continue
             document_content = document_response.content
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Violations' + '/' + document_hash
+            # document_folder = dpa_folder + '/' + 'Violations' + '/' + document_hash
+            document_folder = dpa_folder + '/latvia' + '/' + 'Violations' + '/' + document_hash
             try:
                 os.makedirs(document_folder)
             except FileExistsError:
@@ -302,7 +305,8 @@ class Latvia(DPA):
                 continue
             document_content = document_response.content
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Annual Reports' + '/' + document_hash
+            # document_folder = dpa_folder + '/' + 'Annual Reports' + '/' + document_hash
+            document_folder = dpa_folder + '/latvia' + '/' + 'Annual Reports' + '/' + document_hash
             try:
                 os.makedirs(document_folder)
             except FileExistsError:
@@ -386,7 +390,8 @@ class Latvia(DPA):
             content_area = document_soup.find('div', id='content-area')
             document_text = content_area.get_text()
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Opinions' + '/' + document_hash
+            # document_folder = dpa_folder + '/' + 'Opinions' + '/' + document_hash
+            document_folder = dpa_folder + '/latvia' + '/' + 'Opinions' + '/' + document_hash
             try:
                 os.makedirs(document_folder)
             except FileExistsError:
@@ -460,7 +465,8 @@ class Latvia(DPA):
                 continue
             document_content = document_response.content
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Guidance' + '/' + document_hash
+            # document_folder = dpa_folder + '/' + 'Guidance' + '/' + document_hash
+            document_folder = dpa_folder + '/latvia' + '/' + 'Guidance' + '/' + document_hash
             try:
                 os.makedirs(document_folder)
             except FileExistsError:
@@ -536,7 +542,8 @@ class Latvia(DPA):
                 continue
             document_content = document_response.content
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Guidance_2' + '/' + document_hash
+            # document_folder = dpa_folder + '/' + 'Guidance_2' + '/' + document_hash
+            document_folder = dpa_folder + '/latvia' + '/' + 'Guidance_2' + '/' + document_hash
             try:
                 os.makedirs(document_folder)
             except FileExistsError:

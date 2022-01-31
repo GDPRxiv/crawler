@@ -125,7 +125,8 @@ class Austria(DPA):
                     continue
                 document_content = document_response.content
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' 'Decisions' + '/' + document_hash
+
+                document_folder = dpa_folder + '/austria' + '/' + 'Decisions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:

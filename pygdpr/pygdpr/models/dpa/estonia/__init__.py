@@ -117,7 +117,8 @@ class Estonia(DPA):
                         print(error)
                     pass
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Prescriptions' + '/' + document_hash
+                # document_folder = dpa_folder + '/' + 'Prescriptions' + '/' + document_hash
+                document_folder = dpa_folder + '/estonia' + '/' + 'Prescriptions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -198,7 +199,8 @@ class Estonia(DPA):
                 continue
 
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Instructions' + '/' + document_hash
+            # document_folder = dpa_folder + '/' + 'Instructions' + '/' + document_hash
+            document_folder = dpa_folder + '/estonia' + '/' + 'Instructions' + '/' + document_hash
             try:
                 os.makedirs(document_folder)
             except FileExistsError:
@@ -252,7 +254,8 @@ class Estonia(DPA):
                 continue
             existed_docs.append(document_hash)
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Instructions' + '/' + document_hash
+            #document_folder = dpa_folder + '/' + 'Instructions' + '/' + document_hash
+            document_folder = dpa_folder + '/estonia' + '/' + 'Instructions' + '/' + document_hash
             try:
                 os.makedirs(document_folder)
             except FileExistsError:
@@ -328,7 +331,8 @@ class Estonia(DPA):
                     print('\tSkipping existing document:\t', document_hash)
                 continue
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Annual Reports' + '/' + document_hash
+            # document_folder = dpa_folder + '/' + 'Annual Reports' + '/' + document_hash
+            document_folder = dpa_folder + '/estonia' + '/' + 'Annual Reports' + '/' + document_hash
             try:
                 os.makedirs(document_folder)
             except FileExistsError:
@@ -427,7 +431,8 @@ class Estonia(DPA):
                             print('\tSkipping existing document:\t', document_hash)
                         continue
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Annual Reports' + '/' + document_hash
+            # document_folder = dpa_folder + '/' + 'Annual Reports' + '/' + document_hash
+            document_folder = dpa_folder + '/estonia' + '/' + 'Annual Reports' + '/' + document_hash
             try:
                 os.makedirs(document_folder)
             except FileExistsError:

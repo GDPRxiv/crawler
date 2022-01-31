@@ -122,7 +122,8 @@ class Bulgaria(DPA):
                                     if to_print:
                                         print('\tSkipping existing document:\t', document_hash)
                                     continue
-                                document_folder = dpa_folder + '/' "SCA Descisons" + '/' + document_hash
+
+                                document_folder = dpa_folder + '/bulgaria' + '/' + 'SCA Decisions' + '/' + document_hash
                                 try:
                                     os.makedirs(document_folder)
                                 except FileExistsError:
@@ -175,7 +176,8 @@ class Bulgaria(DPA):
                                 if to_print:
                                     print('\tSkipping existing document:\t', document_hash)
                                 continue
-                            document_folder = dpa_folder + '/' + 'Courts Decisions' + '/' + document_hash
+
+                            document_folder = dpa_folder + '/bulgaria' + '/' + 'Courts Decisions' + '/' + document_hash
                             try:
                                 os.makedirs(document_folder)
                             except FileExistsError:
@@ -252,7 +254,8 @@ class Bulgaria(DPA):
                         article_href = result_link.get('href')
                         article_url = document_host + article_href
                         print('\tdocument_url: ', article_url)
-                        document_folder = dpa_folder + '/' + 'CPDP Decisions or Opinion' + '/' + document_hash
+
+                        document_folder = dpa_folder + '/bulgaria' + '/' + 'CPDP Decisions or Opinion' + '/' + document_hash
                         try:
                             os.makedirs(document_folder)
                         except FileExistsError:
@@ -364,7 +367,8 @@ class Bulgaria(DPA):
                     if file_content is None:
                         continue
                     dpa_folder = self.path
-                    document_folder = dpa_folder + '/' 'Annual Reports' + '/' + document_hash
+
+                    document_folder = dpa_folder + '/bulgaria' + '/' + 'Annual Reports' + '/' + document_hash
                     try:
                         os.makedirs(document_folder)
                     except FileExistsError:

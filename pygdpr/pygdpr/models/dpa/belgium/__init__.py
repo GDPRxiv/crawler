@@ -163,7 +163,7 @@ class Belgium(DPA):
                             print("Skipping outdated document")
                             continue
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                document_folder = dpa_folder + '/belgium' + '/' + 'Decisions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -285,7 +285,8 @@ class Belgium(DPA):
                             print("Skipping outdated document")
                             continue
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Decisions 2' + '/' + document_hash
+
+                document_folder = dpa_folder + '/belgium' + '/' + 'Decisions 2' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -407,7 +408,8 @@ class Belgium(DPA):
                             print("Skipping outdated document")
                             continue
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Opinions' + '/' + document_hash
+
+                document_folder = dpa_folder + '/belgium' + '/' + 'Opinions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -528,7 +530,8 @@ class Belgium(DPA):
                             print("Skipping outdated document")
                             continue
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Guides' + '/' + document_hash
+
+                document_folder = dpa_folder + '/belgium' + '/' + 'Guides' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -633,7 +636,8 @@ class Belgium(DPA):
                     continue
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'AnnualReports' + '/' + document_hash
+
+                document_folder = dpa_folder + '/belgium' + '/' + 'AnnualReports' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:

@@ -115,7 +115,8 @@ class Cyprus(DPA):
                 document_text = document_content_block.get_text()
                 document_text = document_text.lstrip()
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+
+                document_folder = dpa_folder + '/cyprus' + '/' + 'Decisions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -178,7 +179,8 @@ class Cyprus(DPA):
                 if to_print:
                     print("\tDocument:\t", document_hash)
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Annual Reports' + '/' + document_hash
+
+                document_folder = dpa_folder + '/cyprus' + '/' + 'Annual Reports' + '/' + document_hash
                 exec_path = WebdriverExecPolicy().get_system_path()
                 options = webdriver.ChromeOptions()
                 options.add_argument('headless')

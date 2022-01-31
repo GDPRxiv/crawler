@@ -379,7 +379,7 @@ class EDPB(DPA):
                     continue
 
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Recommendations' + '/' + document_hash
+            document_folder = dpa_folder + '/edpb' + '/' + 'Recommendations' + '/' + document_hash
 
             try:
                 os.makedirs(document_folder)
@@ -550,7 +550,7 @@ class EDPB(DPA):
                             continue
 
                         dpa_folder = self.path
-                        document_folder = dpa_folder + '/' + 'Guidelines' + '/' + document_hash
+                        document_folder = dpa_folder + '/edpb' + '/' + 'Guidelines' + '/' + document_hash
 
                         try:
                             os.makedirs(document_folder)
@@ -666,7 +666,7 @@ class EDPB(DPA):
                         continue
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Guidelines' + '/' + document_hash
+                document_folder = dpa_folder + '/edpb' + '/' + 'Guidelines' + '/' + document_hash
 
                 try:
                     os.makedirs(document_folder)
@@ -872,7 +872,7 @@ class EDPB(DPA):
                         continue
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Opinions' + '/' + document_hash
+                document_folder = dpa_folder + '/edpb' + '/' + 'Opinions' + '/' + document_hash
 
                 try:
                     os.makedirs(document_folder)
@@ -1079,7 +1079,7 @@ class EDPB(DPA):
                     continue
 
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+            document_folder = dpa_folder + '/edpb' + '/' + 'Decisions' + '/' + document_hash
 
             try:
                 os.makedirs(document_folder)
@@ -1289,7 +1289,7 @@ class EDPB(DPA):
                         continue
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Letters' + '/' + document_hash
+                document_folder = dpa_folder + '/edpb' + '/' + 'Letters' + '/' + document_hash
 
                 try:
                     os.makedirs(document_folder)

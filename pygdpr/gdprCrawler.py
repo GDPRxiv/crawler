@@ -67,7 +67,7 @@ def scrape(country, document_type, path, overwrite):
         Denmark                  Annual Reports, Decisions, Permissions
         EDPB (Agency)            Annual Reports, Decisions, Guidelines, Letters, Opinions, Recommendations
         Estonia                  Annual Reports, Instructions, Prescriptions
-        Finland                  Advice, Decisions, Guides, Notices
+        Finland                  Docs (Advice, Decisions, Guides, Notices)
         France                   FUTURE UPDATE
         Germany                  N/A
         Greece                   Annual Reports, Decisions, Guidelines, Opinions, Recommendations
@@ -226,6 +226,26 @@ def scrape(country, document_type, path, overwrite):
         added_docs = dpa.get_docs_Guides()
     elif document_type == "Permissions":
         added_docs = dpa.get_docs_Permissions()
+    elif document_type == "Instructions":
+        added_docs = dpa.get_docs_Instructions()
+    elif document_type == "Prescriptions":
+        added_docs = dpa.get_docs_Prescriptions()
+    elif document_type == "Notices":
+        added_docs = dpa.get_docs_Notices()
+    elif document_type == "Resolutions":
+        added_docs = dpa.get_docs_Resolutions()
+    elif document_type == "Interviews":
+        added_docs = dpa.get_docs_Interviews()
+    elif document_type == "Publications":
+        added_docs = dpa.get_docs_Publications()
+    elif document_type == "Newsletters":
+        added_docs = dpa.get_docs_Newsletters()
+    elif document_type == "Injunctions":
+        added_docs = dpa.get_docs_Injunctions()
+    elif document_type == "Hearings":
+        added_docs = dpa.get_docs_Hearings()
+    elif document_type == "Docs":
+        added_docs = dpa.get_docs()
     else:
         pass
 

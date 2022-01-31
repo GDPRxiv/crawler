@@ -118,7 +118,8 @@ class Croatia(DPA):
                 assert et_pb_post_content
                 document_text = et_pb_post_content.get_text()
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+
+                document_folder = dpa_folder + '/croatia' + '/' + 'Decisions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:

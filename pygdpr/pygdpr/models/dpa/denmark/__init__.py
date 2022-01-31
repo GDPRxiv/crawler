@@ -155,7 +155,8 @@ class Denmark(DPA):
                 document_text = news_page.get_text()
                 document_text = document_text.lstrip()
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                # document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                document_folder = dpa_folder + '/denmark' + '/' + 'Decisions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -252,7 +253,8 @@ class Denmark(DPA):
                 document_text = news_page.get_text()
                 document_text = document_text.lstrip()
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Permissions' + '/' + document_hash
+                # document_folder = dpa_folder + '/' + 'Permissions' + '/' + document_hash
+                document_folder = dpa_folder + '/denmark' + '/' + 'Permissions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -382,7 +384,8 @@ class Denmark(DPA):
                         print(error)
                     pass
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Annual Reports' + '/' + article_hash
+                # document_folder = dpa_folder + '/' + 'Annual Reports' + '/' + article_hash
+                document_folder = dpa_folder + '/denmark' + '/' + 'Annual Reports' + '/' + article_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:

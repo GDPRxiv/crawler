@@ -214,7 +214,8 @@ class Italy(DPA):
                     assert document_text
 
                     dpa_folder = self.path
-                    document_folder = dpa_folder + '/' + 'Interviews' + '/' + document_hash
+                    # document_folder = dpa_folder + '/' + 'Interviews' + '/' + document_hash
+                    document_folder = dpa_folder + '/italy' + '/' + 'Interviews' + '/' + document_hash
 
                     try:
                         os.makedirs(document_folder)
@@ -277,7 +278,8 @@ class Italy(DPA):
                         print("\tDocument:\t", document_hash)
 
                     dpa_folder = self.path
-                    document_folder = dpa_folder + '/' + 'Interviews' + '/' + document_hash
+                    # document_folder = dpa_folder + '/' + 'Interviews' + '/' + document_hash
+                    document_folder = dpa_folder + '/italy' + '/' + 'Interviews' + '/' + document_hash
 
                     try:
                         os.makedirs(document_folder)
@@ -413,7 +415,8 @@ class Italy(DPA):
                 assert document_text_deeper
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Hearings' + '/' + document_hash
+                # document_folder = dpa_folder + '/' + 'Hearings' + '/' + document_hash
+                document_folder = dpa_folder + '/italy' + '/' + 'Hearings' + '/' + document_hash
 
                 try:
                     os.makedirs(document_folder)
@@ -471,7 +474,8 @@ class Italy(DPA):
                     print("\tDocument:", document_hash)
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Hearings' + '/' + document_hash
+                # document_folder = dpa_folder + '/' + 'Hearings' + '/' + document_hash
+                document_folder = dpa_folder + '/italy' + '/' + 'Hearings' + '/' + document_hash
 
                 try:
                     os.makedirs(document_folder)
@@ -608,7 +612,8 @@ class Italy(DPA):
                     print("\tDocument:\t", document_hash)
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Injunctions' + '/' + document_hash
+                # document_folder = dpa_folder + '/' + 'Injunctions' + '/' + document_hash
+                document_folder = dpa_folder + '/italy' + '/' + 'Injunctions' + '/' + document_hash
 
                 try:
                     os.makedirs(document_folder)
@@ -761,7 +766,8 @@ class Italy(DPA):
                     print("\tDocument:\t", document_hash)
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Injunctions Backwards' + '/' + document_hash
+                # document_folder = dpa_folder + '/' + 'Injunctions Backwards' + '/' + document_hash
+                document_folder = dpa_folder + '/italy' + '/' + 'Injunctions Backwards' + '/' + document_hash
 
                 try:
                     os.makedirs(document_folder)
@@ -896,7 +902,8 @@ class Italy(DPA):
                     print("\tDocument:\t", document_hash)
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Newsletters' + '/' + document_hash
+                # document_folder = dpa_folder + '/' + 'Newsletters' + '/' + document_hash
+                document_folder = dpa_folder + '/italy' + '/' + 'Newsletters' + '/' + document_hash
 
                 try:
                     os.makedirs(document_folder)
@@ -1032,7 +1039,8 @@ class Italy(DPA):
                 print("\tDocument:\t", document_hash)
 
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Annual Reports' + '/' + document_hash
+            # document_folder = dpa_folder + '/' + 'Annual Reports' + '/' + document_hash
+            document_folder = dpa_folder + '/italy' + '/' + 'Annual Reports' + '/' + document_hash
 
             try:
                 os.makedirs(document_folder)
@@ -1165,7 +1173,8 @@ class Italy(DPA):
                 continue
 
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Publications' + '/' + document_hash
+            # document_folder = dpa_folder + '/' + 'Publications' + '/' + document_hash
+            document_folder = dpa_folder + '/italy' + '/' + 'Publications' + '/' + document_hash
 
             try:
                 os.makedirs(document_folder)

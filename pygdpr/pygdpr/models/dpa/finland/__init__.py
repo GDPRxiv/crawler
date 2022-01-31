@@ -145,7 +145,8 @@ class Finland(DPA):
                             print("\tDownloading PDF: " + url)
                             # Write pdf and its text to files
                             dpa_folder = self.path
-                            document_folder = dpa_folder + '/' + str(ul_year) + ' Finland Documents' + '/' + document_hash
+                            # document_folder = dpa_folder + '/' + str(ul_year) + ' Finland Documents' + '/' + document_hash
+                            document_folder = dpa_folder + '/finland' + '/' + str(ul_year) + ' Finland Documents' + '/' + document_hash
 
                             try:
                                 os.makedirs(document_folder)
@@ -181,7 +182,9 @@ class Finland(DPA):
                             assert body_text
 
                             dpa_folder = self.path
-                            document_folder = dpa_folder + '/' + str(ul_year) + ' Finland Documents' + '/' + document_hash
+                            # document_folder = dpa_folder + '/' + str(ul_year) + ' Finland Documents' + '/' + document_hash
+                            document_folder = dpa_folder + '/finland' + '/' + str(ul_year) + ' Finland Documents' + '/' + document_hash
+
 
                             try:
                                 os.makedirs(document_folder)
@@ -200,7 +203,8 @@ class Finland(DPA):
                         continue
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + str(ul_year) + ' Finland Documents' + '/' + document_hash
+                # document_folder = dpa_folder + '/' + str(ul_year) + ' Finland Documents' + '/' + document_hash
+                document_folder = dpa_folder + '/finland' + '/' + str(ul_year) + ' Finland Documents' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
