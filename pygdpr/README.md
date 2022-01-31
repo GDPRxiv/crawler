@@ -63,17 +63,17 @@ To create and activate one:
 
 _In a directory:_
 
-* venv
+* venv:
 
     ```sh
     virtualenv myEnvName
      ```
   
-Activate the virtual environment
+* Activate the virtual environment:
 
-```sh
-  virtualenv myEnvName
-```
+    ```sh
+      virtualenv myEnvName
+    ```
 
 ### Installation
 _At any moment, use command 'pip3 list' to view all installed packages._
@@ -97,20 +97,20 @@ Downloaded documents will be organized into a set of folders based on DPA and do
 A file called visitedDocs.txt is always created upon an initial run within a new directory. This file records each downloaded document's
 unique hash, which allows the tool to avoid overwriting existing documents (if desired) in future runs. 
 
-Scrape desired documents:
+* Scrape desired documents:
    ```sh
    gdprCrawler scrape --country <countryName> --document_type <documentType> --path <directory to store documents>
    ```
 _The same directory can be used for multiple countries: the scraper automatically organizes documents based on country and document type._
 
-Optionally, the --overwrite argument can be included if users would like to overwrite existing documents:
+* Optionally, the --overwrite argument can be included if users would like to overwrite existing documents:
 
    ```sh
       gdprCrawler scrape --country <countryName> --document_type <documentType> --path <directory to store documents> --overwrite <True/False>
    ```
 _Overwrite is False by default._
 
-Country and document type arguments should be written exactly as they appear below:
+####Country and document type arguments should be written exactly as they appear below:
 <pre>
 SUPPORTED COUNTRIES:     DOCUMENTS TYPES:
 

@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 with open("requirements.txt", "r", encoding="utf-8") as fh:
     requirements = fh.read()
 setup(
-    name = 'gdprCrawlerTest15',
+    name = 'gdprCrawlerTest16',
     version = '0.0.1',
     author = 'Chen Sun, Supreeth Shastri, Evan Jacobs',
     author_email = 'evanalexjacob@gmail.com',
