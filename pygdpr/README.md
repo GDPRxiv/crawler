@@ -18,7 +18,7 @@
   <h3 align="center">GDPRxiv Crawler (README Draft)</h3>
 
   <p align="center">
-    An efficient tool to collect GDPR documents!
+    An efficient tool to crawl GDPR legal documents!
     
   </p>
 </div>
@@ -65,13 +65,13 @@ _In a directory:_
 1. venv:
 
     ```sh
-    virtualenv myEnvName
+    virtualenv <virtual env name>
      ```
   
 2. Activate the virtual environment:
 
     ```sh
-      virtualenv myEnvName
+      virtualenv <virtual env name>
     ```
 
 ### Installation
