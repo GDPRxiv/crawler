@@ -1,10 +1,10 @@
 <div id="top"></div>
 
 
-![PyPI](https://img.shields.io/pypi/v/GDPRxiv%20Crawler?style=flat-square)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/gdprCrawlerTest15)
-![GitHub](https://img.shields.io/github/license/transientCloud/gdpr-sota?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/GDPRxiv/crawler?style=flat-square)
+
+![PyPI](https://img.shields.io/pypi/v/GDPRxiv%20Crawler)
+![PyPI - License](https://img.shields.io/pypi/l/GDPRxiv%20Crawler)
+![GitHub last commit](https://img.shields.io/github/last-commit/GDPRxiv/crawler)
 ![](https://visitor-badge.glitch.me/badge?page_id=GDPRxiv.crawler)
 
 
