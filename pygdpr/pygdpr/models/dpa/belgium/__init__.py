@@ -72,6 +72,15 @@ class Belgium(DPA):
 
         return added_docs
 
+    # TODO: Review this decision to put both methods for decisions under one single method to be called in CLI
+    # Calls both decisions scrapers and returns all document hashes collected
+    def get_docs_Decisions(self, existing_docs=[], overwrite=False, to_print=True):
+        added_docs = []
+        added_docs += self.get_docs_Decisions_v1()
+        added_docs += self.get_docs_Decisions_v2()
+
+        return added_docs
+
     # Gets all documents located at first Decisions link
     # Date checking correct
     def get_docs_Decisions_v1(self, existing_docs=[], overwrite=False, to_print=True):

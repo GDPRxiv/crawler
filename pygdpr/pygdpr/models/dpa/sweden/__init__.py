@@ -63,8 +63,8 @@ class Sweden(DPA):
         added_docs = []
         # call all the get_docs_X() functions
         added_docs += self.get_docs_decisionsAndJudgements(existing_docs=[], overwrite=False, to_print=True)
-        added_docs += self.get_docs_publications(existing_docs=[], overwrite=False, to_print=True)
-        added_docs += self.get_docs_guidance(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Publications(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Guidances(existing_docs=[], overwrite=False, to_print=True)
         return added_docs
 
     def get_docs_decisionsAndJudgements(self, existing_docs=[], overwrite=False, to_print=True):
@@ -188,7 +188,7 @@ class Sweden(DPA):
             pagination = self.update_pagination(pagination=pagination, page_soup=results_soup, start_path='decisionsAndJudgements', current_page=current_page)
         return existed_docs
 
-    def get_docs_publications(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_Publications(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         pagination = self.update_pagination(start_path="publications")
         # s0. Pagination
@@ -295,7 +295,7 @@ class Sweden(DPA):
             pagination = self.update_pagination(pagination=pagination, page_soup=results_soup, start_path="publications", current_page=current_page)
         return existed_docs
 
-    def get_docs_guidance(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_Guidances(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         source = {
             'host': 'https://www.imy.se',

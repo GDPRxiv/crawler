@@ -57,11 +57,11 @@ class Poland(DPA):
     def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
         added_docs = []
         # call all the get_docs_X() functions
-        added_docs += self.get_docs_decisions(existing_docs=[], overwrite=False, to_print=True)
-        added_docs += self.get_docs_tutorials(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Decisions(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Tutorials(existing_docs=[], overwrite=False, to_print=True)
         return added_docs
 
-    def get_docs_decisions(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_Decisions(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         pagination = self.update_pagination()
         # s0. Pagination
@@ -138,7 +138,7 @@ class Poland(DPA):
                 existed_docs.append(document_hash)
         return existed_docs
 
-    def get_docs_tutorials(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_Tutorials(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         pagination = self.update_pagination(start_path="tutorials")
         # s0. Pagination

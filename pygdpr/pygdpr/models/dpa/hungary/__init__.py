@@ -81,7 +81,7 @@ class Hungary(DPA):
         added_docs += self.get_docs_Recommendations(existing_docs=[], overwrite=False, to_print=True)
         added_docs += self.get_docs_Notices(existing_docs=[], overwrite=False, to_print=True)
         added_docs += self.get_docs_Resolutions(existing_docs=[], overwrite=False, to_print=True)
-        added_docs += self.get_docs_annualReports(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_AnnualReports(existing_docs=[], overwrite=False, to_print=True)
         return added_docs
 
     def get_docs_Decisions(self, existing_docs=[], overwrite=False, to_print=True):
@@ -412,7 +412,7 @@ class Hungary(DPA):
         return existed_docs
 
 
-    def get_docs_annualReports(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_AnnualReports(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         dict_hash = {}
         pagination = self.update_pagination(start_path='annualReports')

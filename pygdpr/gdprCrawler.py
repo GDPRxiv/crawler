@@ -81,12 +81,12 @@ def scrape(country, document_type, path, overwrite):
         Netherlands              Decisions, Opinions, Public Disclosures, Reports
         Poland                   Decisions, Tutorials
         Portugal                 Decisions, Guidelines, Reports
-        Romania                  Decisions, Reports
+        Romania                  Docs (Decisions, Reports)
         Slovakia                 Fines, Opinions, Reports
         Slovenia                 Blogs, Guidelines, Infographics, Opinions, Reports
         Spain                    Blogs, Decisions, Guides, Infographics, Reports
         Sweden                   Decisions, Guidances, Judgements, Publications
-        United Kingdom           Decisions, Judgements, Notices
+        United Kingdom           Enforcements, Notices, Reports
     """
 
     # Path is where the user stores documents, something like: '/Users/evanjacobs/Desktop/test_scraper'
@@ -109,7 +109,7 @@ def scrape(country, document_type, path, overwrite):
 
     existing_docs = []
     # Open visitedDocs.txt and read the contents into existing_docs list
-    # TODO: Change this to use .readlines() and get contents all at once into list
+    # Change this to use .readlines() and get contents all at once into list
     with open(path + "/visitedDocs.txt") as file:
         for line in file:
             hash_n_stripped = line.rstrip('\n')
@@ -209,7 +209,7 @@ def scrape(country, document_type, path, overwrite):
     # Call appropriate method for desired document type (Note that these are all encompassing, but DPA type will
     # differentiate)
     if document_type == "Decisions":
-        added_docs = dpa.get_docs_Decisions(existing_docs=existing_docs)
+        added_docs = dpa.get_docs_Decisions(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Guidelines":
         added_docs = dpa.get_docs_Guidelines(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Annual Reports":
@@ -217,36 +217,61 @@ def scrape(country, document_type, path, overwrite):
         # added_docs contains hashes of freshly downloaded documents
         added_docs = dpa.get_docs_AnnualReports(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Recommendations":
-        added_docs = dpa.get_docs_Recommendations()
+        added_docs = dpa.get_docs_Recommendations(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Opinions":
-        added_docs = dpa.get_docs_Opinions()
+        added_docs = dpa.get_docs_Opinions(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Letters":
-        added_docs = dpa.get_docs_Letters()
+        added_docs = dpa.get_docs_Letters(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Guides":
-        added_docs = dpa.get_docs_Guides()
+        added_docs = dpa.get_docs_Guides(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Permissions":
-        added_docs = dpa.get_docs_Permissions()
+        added_docs = dpa.get_docs_Permissions(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Instructions":
-        added_docs = dpa.get_docs_Instructions()
+        added_docs = dpa.get_docs_Instructions(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Prescriptions":
-        added_docs = dpa.get_docs_Prescriptions()
+        added_docs = dpa.get_docs_Prescriptions(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Notices":
-        added_docs = dpa.get_docs_Notices()
+        added_docs = dpa.get_docs_Notices(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Resolutions":
-        added_docs = dpa.get_docs_Resolutions()
+        added_docs = dpa.get_docs_Resolutions(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Interviews":
-        added_docs = dpa.get_docs_Interviews()
+        added_docs = dpa.get_docs_Interviews(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Publications":
-        added_docs = dpa.get_docs_Publications()
+        added_docs = dpa.get_docs_Publications(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Newsletters":
-        added_docs = dpa.get_docs_Newsletters()
+        added_docs = dpa.get_docs_Newsletters(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Injunctions":
-        added_docs = dpa.get_docs_Injunctions()
+        added_docs = dpa.get_docs_Injunctions(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Hearings":
-        added_docs = dpa.get_docs_Hearings()
+        added_docs = dpa.get_docs_Hearings(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Judgements":
+        added_docs = dpa.get_docs_Judgements(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Reports":
+        added_docs = dpa.get_docs_Reports(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Enforcements":
+        added_docs = dpa.get_docs_Enforcements(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Guidances":
+        added_docs = dpa.get_docs_Guidances(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Blogs":
+        added_docs = dpa.get_docs_Blogs(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Infographics":
+        added_docs = dpa.get_docs_Infographics(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Tutorials":
+        added_docs = dpa.get_docs_Tutorials(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Public Disclosures":
+        added_docs = dpa.get_docs_publicDisclosure(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "News Articles":
+        added_docs = dpa.get_docs_NewsArticles(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Inspection Reports":
+        added_docs = dpa.get_docs_InspectionReports(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Violations":
+        added_docs = dpa.get_docs_Violations(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "News":
+        added_docs = dpa.get_docs_News(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Docs":
-        added_docs = dpa.get_docs()
+        added_docs = dpa.get_docs(existing_docs=existing_docs, overwrite=overwrite)
     else:
+        sys.exit("'document_type' argument doesn't match an existing document type. Use --help for more info.")
         pass
 
     # Iterate through added_docs and add hashes to visitedDocs.txt

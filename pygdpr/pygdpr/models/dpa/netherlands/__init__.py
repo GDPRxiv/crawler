@@ -59,13 +59,13 @@ class Netherlands(DPA):
     def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
         added_docs = []
         # call all the get_docs_X() functions
-        added_docs += self.get_docs_decisions(existing_docs=[], overwrite=False, to_print=True)
-        added_docs += self.get_docs_reports(existing_docs=[], overwrite=False, to_print=True)
-        added_docs += self.get_docs_opinions(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Decisions(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Reports(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Opinions(existing_docs=[], overwrite=False, to_print=True)
         added_docs += self.get_docs_publicDisclosure(existing_docs=[], overwrite=False, to_print=True)
         return added_docs
 
-    def get_docs_decisions(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_Decisions(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         source = {
             'host': 'https://autoriteitpersoonsgegevens.nl',
@@ -143,7 +143,7 @@ class Netherlands(DPA):
                 existed_docs.append(document_hash)
         return existed_docs
 
-    def get_docs_reports(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_Reports(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         source = {
             'host': 'https://autoriteitpersoonsgegevens.nl',
@@ -206,7 +206,7 @@ class Netherlands(DPA):
                 existed_docs.append(document_hash)
         return existed_docs
 
-    def get_docs_opinions(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_Opinions(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         pagination = self.update_pagination()
         # s0. Pagination

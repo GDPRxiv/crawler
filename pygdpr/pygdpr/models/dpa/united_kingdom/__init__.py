@@ -73,8 +73,8 @@ class UnitedKingdom(DPA):
         added_docs = []
         # call all the get_docs_X() functions
         added_docs += self.get_docs_Notices(existing_docs=[], overwrite=False, to_print=True)
-        added_docs += self.get_docs_Decisions(existing_docs=[], overwrite=False, to_print=True)
-        added_docs += self.get_docs_Judgements(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Enforcements(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Reports(existing_docs=[], overwrite=False, to_print=True)
         return added_docs
 
 

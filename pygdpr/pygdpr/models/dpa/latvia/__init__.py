@@ -55,15 +55,15 @@ class Latvia(DPA):
     def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
         added_docs = []
         # call all the get_docs_X() functions
-        added_docs += self.get_docs_decisions(existing_docs=[], overwrite=False, to_print=True)
-        added_docs += self.get_docs_violations(existing_docs=[], overwrite=False, to_print=True)
-        added_docs += self.get_docs_annualReports(existing_docs=[], overwrite=False, to_print=True)
-        added_docs += self.get_docs_opinions(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Decisions(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Violations(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_AnnualReports(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Opinions(existing_docs=[], overwrite=False, to_print=True)
         added_docs += self.get_docs_guidance_1(existing_docs=[], overwrite=False, to_print=True)
         added_docs += self.get_docs_guidance_2(existing_docs=[], overwrite=False, to_print=True)
         return added_docs
 
-    def get_docs_decisions(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_Decisions(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         source = {
             "host": "https://www.dvi.gov.lv",
@@ -188,7 +188,7 @@ class Latvia(DPA):
         return existed_docs
 
 
-    def get_docs_violations(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_Violations(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         source = {
             "host": "https://www.dvi.gov.lv",
@@ -259,7 +259,7 @@ class Latvia(DPA):
         return existed_docs
 
 
-    def get_docs_annualReports(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_AnnualReports(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         source = {
             "host": "https://www.dvi.gov.lv",
@@ -329,7 +329,7 @@ class Latvia(DPA):
             existed_docs.append(document_hash)
         return existed_docs
 
-    def get_docs_opinions(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_Opinions(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         source = {
             "host": "https://www.dvi.gov.lv",

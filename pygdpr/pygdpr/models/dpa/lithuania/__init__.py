@@ -57,12 +57,12 @@ class Lithuania(DPA):
     def get_docs(self, existing_docs=[], overwrite=False, to_print=True):
         added_docs = []
         # call all the get_docs_X() functions
-        added_docs += self.get_docs_decisions(existing_docs=[], overwrite=False, to_print=True)
-        added_docs += self.get_docs_guidelines(existing_docs=[], overwrite=False, to_print=True)
-        added_docs += self.get_docs_inspectionReports(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Decisions(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Guidelines(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_InspectionReports(existing_docs=[], overwrite=False, to_print=True)
         return added_docs
 
-    def get_docs_decisions(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_Decisions(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         source = {
             "host": "https://vdai.lrv.lt",
@@ -147,7 +147,7 @@ class Lithuania(DPA):
                 existed_docs.append(document_hash)
         return existed_docs
 
-    def get_docs_guidelines(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_Guidelines(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         source = {
             "host": "https://vdai.lrv.lt",
@@ -270,7 +270,7 @@ class Lithuania(DPA):
                 existed_docs.append(document_hash)
         return existed_docs
 
-    def get_docs_inspectionReports(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_InspectionReports(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         source = {
             "host": "https://vdai.lrv.lt",
