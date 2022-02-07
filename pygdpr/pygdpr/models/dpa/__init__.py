@@ -33,7 +33,9 @@ nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('words')
 
-# TODO: Bug here where suported_dpas was being instantiated as list, not dictionary
+# TODO: Bug here where supported_dpas was being instantiated as list, not dictionary
+# TODO: Fix bug where these were not being read in from the dpa-info.json file in assets
+
 supported_dpas = {
   "AT": {
     "country": "Austria",
@@ -504,14 +506,16 @@ class DPA(object):
         """
         country_code = country_code.upper()
 
-        # TODO: Determine best approach to deal with FileNotFound Error caused here
+        # TODO: Determine if we need to do theses checks or not...
         #if EUMemberSpecification().is_satisfied_by(country_code) is False:
             #raise ValueError(f"Not found valid EU Member state for country code: {country_code}")
         #if SupportedDPASpecification().is_satisfied_by(country_code) is False:
             #raise ValueError(f"Not found supported DPA for country code: {country_code}")
         self.country_code = country_code
-        print("Dictionary Keys: ")
-        print(supported_dpas.keys())
+
+        #print("Dictionary Keys: ")
+        #print(supported_dpas.keys())
+
         dpa = supported_dpas[country_code]
         self.country = dpa['country']
         self.language_code = dpa['language_code']
