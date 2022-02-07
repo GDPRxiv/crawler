@@ -268,6 +268,12 @@ def scrape(country, document_type, path, overwrite):
         added_docs = dpa.get_docs_Violations(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "News":
         added_docs = dpa.get_docs_News(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Press Releases":
+        added_docs = dpa.get_docs_PressReleases(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Court Rulings":
+        added_docs = dpa.get_docs_CourtRulings(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Completed Inspections":
+        added_docs = dpa.get_docs_CompletedInspections(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Docs":
         added_docs = dpa.get_docs(existing_docs=existing_docs, overwrite=overwrite)
     else:

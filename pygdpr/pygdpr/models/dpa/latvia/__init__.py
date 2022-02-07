@@ -63,6 +63,12 @@ class Latvia(DPA):
         added_docs += self.get_docs_guidance_2(existing_docs=[], overwrite=False, to_print=True)
         return added_docs
 
+    def get_docs_Guidances(self, existing_docs=[], overwrite=False, to_print=True):
+        added_docs = []
+        added_docs += self.get_docs_guidance_1()
+        added_docs += self.get_docs_guidance_2()
+        return added_docs
+
     def get_docs_Decisions(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         source = {
