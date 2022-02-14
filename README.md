@@ -15,7 +15,7 @@
     <img src="images/logo.png" alt="Logo" width="90" height="90">
   </a>
 
-  <h3 align="center">GDPRxiv Crawler (README Draft)</h3>
+  <h3 align="center">GDPRxiv Crawler</h3>
 
   <p align="center">
     An efficient tool to crawl GDPR legal documents!
@@ -44,7 +44,7 @@ However, we hope that this tool will eliminate the bulk of the workload and allo
 
 * [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Selenium](https://www.selenium.dev/)
-* [Add more later...](https://www.example.com)
+* [More to come...](https://www.example.com)
 
 
 
