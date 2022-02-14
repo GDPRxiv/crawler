@@ -26,8 +26,6 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](href="https://github.com/GDPRxiv/crawler)
-
 With the introduction of the Europeans Union's General Data Protection Regulation (GDPR), there has been an explosion in the number of legal 
 documents pertaining to case reviews, analyses, legal decisions, etc... that mark the enforcement of the GDPR.
 Additionally, these documents are spread across over 30 Data Protection (DPA) and Supervisory Authorities. As a result, it is 
@@ -46,7 +44,6 @@ However, we hope that this tool will eliminate the bulk of the workload and allo
 
 * [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Selenium](https://www.selenium.dev/)
-* [NLTK](https://www.nltk.org/)
 * [Add more later...](https://www.example.com)
 
 
@@ -157,14 +154,14 @@ All suggestions and contributions you make are **greatly appreciated**.
 
 ## License
 
-Distributed under the MIT License (For now). See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
 
 ## Contact
 
-Put Research Group Info here - email@example.com
+<!--- Put Research Group Info here - email@example.com --->
 
 Project Link: [https://github.com/GDPRxiv/crawler](https://github.com/GDPRxiv/crawler)
 
@@ -173,7 +170,7 @@ Project Link: [https://github.com/GDPRxiv/crawler](https://github.com/GDPRxiv/cr
 
 ## Acknowledgments
 
-Thank you to everyone...
+Thank you to everyone who has supported the project in any way. We greatly appreciate your time and effort!
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
