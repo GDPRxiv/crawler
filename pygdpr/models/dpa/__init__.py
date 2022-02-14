@@ -513,9 +513,6 @@ class DPA(object):
             #raise ValueError(f"Not found supported DPA for country code: {country_code}")
         self.country_code = country_code
 
-        #print("Dictionary Keys: ")
-        #print(supported_dpas.keys())
-
         dpa = supported_dpas[country_code]
         self.country = dpa['country']
         self.language_code = dpa['language_code']
