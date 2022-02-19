@@ -61,13 +61,13 @@ def scrape(country, document_type, path, overwrite):
         Austria                  Decisions
         Belgium                  Annual Reports, Decisions, Opinions
         Bulgaria                 Annual Reports, Opinions
-        Croatia                  Decisions
-        Cyprus                   Annual Reports, Decisions
+        Croatia                  Decisions (Selenium)
+        Cyprus                   Annual Reports (Selenium), Decisions
         Czech Republic           Annual Reports, Completed Inspections, Court Rulings, Decision Making Activities,
                                     Decision of President, Opinions, Press Releases
-        Denmark                  Annual Reports, Decisions, Permissions
+        Denmark                  Annual Reports, Decisions, Permissions (All Selenium)
         EDPB (Agency)            Annual Reports, Decisions, Guidelines, Letters, Opinions, Recommendations
-        Estonia                  Annual Reports, Instructions, Prescriptions
+        Estonia                  Annual Reports (Selenium), Instructions, Prescriptions
         Finland                  Docs (Advice, Decisions, Guides, Notices)
         France                   FUTURE UPDATE
         Germany                  N/A
@@ -76,17 +76,17 @@ def scrape(country, document_type, path, overwrite):
         Ireland                  Blogs, Decisions, Judgements, News, Publications
         Italy                    Annual Reports, Hearings, Injunctions, Interviews, Newsletters, Publications
         Latvia                   Annual Reports, Decisions, Guidances, Opinions, Violations
-        Lithuania                Decisions, Guidelines, Inspection Reports
+        Lithuania                Decisions, Guidelines (Selenium), Inspection Reports (Selenium)
         Luxembourg               Annual Reports, Opinions
-        Malta                    Guidelines, News Articles
+        Malta                    Guidelines, News Articles (Selenium)
         Netherlands              Decisions, Opinions, Public Disclosures, Reports
-        Poland                   Decisions, Tutorials
+        Poland                   Decisions, Tutorials (Selenium)
         Portugal                 Decisions, Guidelines, Reports
         Romania                  Docs (Decisions, Reports)
-        Slovakia                 Fines & Reports, Opinions
+        Slovakia                 Fines & Reports, Opinions (Selenium)
         Slovenia                 Blogs, Guidelines, Infographics, Opinions, Reports
         Spain                    Blogs, Decisions, Guides, Infographics, Reports
-        Sweden                   Decisions & Judgements, Guidances, Publications
+        Sweden                   Decisions & Judgements, Guidances (Selenium), Publications
         United Kingdom           Enforcements, Notices, Reports
     """
 
