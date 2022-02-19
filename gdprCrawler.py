@@ -72,7 +72,7 @@ def scrape(country, document_type, path, overwrite):
         Germany                  N/A
         Greece                   Annual Reports, Decisions, Guidelines, Opinions, Recommendations
         Hungary                  Annual Reports, Decisions, Notices, Recommendations, Resolutions
-        Ireland                  Decisions, Judgements, News
+        Ireland                  Blogs, Decisions, Judgements, News, Publications
         Italy                    Annual Reports, Hearings, Injunctions, Interviews, Newsletters, Publications
         Latvia                   Annual Reports, Decisions, Guidances, Opinions, Violations
         Lithuania                Decisions, Guidelines, Inspection Reports

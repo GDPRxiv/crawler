@@ -109,6 +109,8 @@ class Ireland(DPA):
         added_docs += self.get_docs_News(existing_docs=[], overwrite=False, to_print=True)
         added_docs += self.get_docs_Decisions(existing_docs=[], overwrite=False, to_print=True)
         added_docs += self.get_docs_Judgements(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Blogs(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Publications(existing_docs=[], overwrite=False, to_print=True)
         return added_docs
 
 
@@ -200,10 +202,12 @@ class Ireland(DPA):
                 #check whether have the same title
                 if document_hash in existed_docs:
 
-                    document_folder = dpa_folder + '/' + 'News' + '/' + document_hash + ' -02'
+                    # document_folder = dpa_folder + '/' + 'News' + '/' + document_hash + ' -02'
+                    document_folder = dpa_folder + '/ireland' + '/' + 'News' + '/' + document_hash + ' -02'
                 else:
 
-                    document_folder = dpa_folder + '/' + 'News' + '/' + document_hash
+                    # document_folder = dpa_folder + '/' + 'News' + '/' + document_hash
+                    document_folder = dpa_folder + '/ireland' + '/' + 'News' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -295,7 +299,10 @@ class Ireland(DPA):
                     continue
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                document_folder = dpa_folder + '/ireland' + '/' + 'Decisions' + '/' + document_hash
+
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -425,7 +432,10 @@ class Ireland(DPA):
                     document_href = articles.get('href')
                     document_hash = hashlib.md5(document_title.encode()).hexdigest()
                     dpa_folder = self.path
-                    document_folder = dpa_folder + '/' + 'Judgements' + '/' + document_hash
+
+                    # document_folder = dpa_folder + '/' + 'Judgements' + '/' + document_hash
+                    document_folder = dpa_folder + '/ireland' + '/' + 'Judgements' + '/' + document_hash
+
                     try:
                         os.makedirs(document_folder)
                     except FileExistsError:
@@ -617,7 +627,9 @@ class Ireland(DPA):
                 dpa_folder = self.path
 
                 # Set document folder as ireland/blogs/document_hash
-                document_folder = dpa_folder + '/' + 'Blogs' + '/' + document_hash
+                # document_folder = dpa_folder + '/' + 'Blogs' + '/' + document_hash
+                document_folder = dpa_folder + '/ireland' + '/' + 'Blogs' + '/' + document_hash
+
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -750,7 +762,9 @@ class Ireland(DPA):
             dpa_folder = self.path
 
             # For now, store the pdf in the folder for the page that links to the pdf
-            document_folder = dpa_folder + '/' + 'Publications' + '/' + document_hash
+
+            # document_folder = dpa_folder + '/' + 'Publications' + '/' + document_hash
+            document_folder = dpa_folder + '/ireland' + '/' + 'Publications' + '/' + document_hash
 
             try:
                 os.makedirs(document_folder)
@@ -920,7 +934,9 @@ class Ireland(DPA):
                             # We have the pdf_response object -> now download its contents
                             dpa_folder = self.path
                             # For now, store the pdf in the folder for the page that links to the pdf
-                            document_folder = dpa_folder + '/' + "Guidances" + '/' + document_hash
+
+                            #document_folder = dpa_folder + '/' + "Guidances" + '/' + document_hash
+                            document_folder = dpa_folder + '/ireland' + '/' + 'Guidances' + '/' + document_hash
 
                             try:
                                 os.makedirs(document_folder)
@@ -948,7 +964,9 @@ class Ireland(DPA):
                 assert field_name_body
                 document_text = field_name_body.get_text()
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' "Guidances" + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' "Guidances" + '/' + document_hash
+                document_folder = dpa_folder + '/ireland' + '/' + 'Guidances' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -969,3 +987,4 @@ class Ireland(DPA):
                 added_docs.append(document_hash)
 
         return added_docs
+
