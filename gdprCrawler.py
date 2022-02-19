@@ -63,7 +63,8 @@ def scrape(country, document_type, path, overwrite):
         Bulgaria                 Annual Reports, Opinions
         Croatia                  Decisions
         Cyprus                   Annual Reports, Decisions
-        Czech Republic           Annual Reports, Completed Inspections, Court Rulings, Decisions, Opinions, Press Releases
+        Czech Republic           Annual Reports, Completed Inspections, Court Rulings, Decision Making Activities,
+                                    Decision of President, Opinions, Press Releases
         Denmark                  Annual Reports, Decisions, Permissions
         EDPB (Agency)            Annual Reports, Decisions, Guidelines, Letters, Opinions, Recommendations
         Estonia                  Annual Reports, Instructions, Prescriptions
@@ -278,6 +279,10 @@ def scrape(country, document_type, path, overwrite):
         added_docs = dpa.get_docs_fineAndReports(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Decisions & Judgements":
         added_docs = dpa.get_docs_decisionsAndJudgements(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Decision Of President":
+        added_docs = dpa.get_docs_DecisionOfPresident(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Decision Making Activities":
+        added_docs = dpa.get_docs_DecisionMakingActivites(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Docs":
         added_docs = dpa.get_docs(existing_docs=existing_docs, overwrite=overwrite)
     else:

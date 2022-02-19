@@ -207,7 +207,10 @@ class CzechRepublic(DPA):
 
                             # If get a link response, then write the contents of the file as a pdf and text
                             dpa_folder = self.path
-                            document_folder = dpa_folder + '/' + 'PressReleases' + '/' + document_hash
+
+                            # document_folder = dpa_folder + '/' + 'PressReleases' + '/' + document_hash
+                            document_folder = dpa_folder + '/czech_republic' + '/' + 'Press Releases' + '/' + document_hash
+
                             try:
                                 os.makedirs(document_folder)
                             except FileExistsError:
@@ -236,7 +239,10 @@ class CzechRepublic(DPA):
                 document_text = obsah.get_text()
                 document_text = document_text.lstrip()
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'PressReleases' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'PressReleases' + '/' + document_hash
+                document_folder = dpa_folder + '/czech_republic' + '/' + 'Press Releases' + '/' + document_hash
+
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -362,7 +368,9 @@ class CzechRepublic(DPA):
 
                             # If get a link reponse, then write the contents of the file as a pdf and text
                             dpa_folder = self.path
-                            document_folder = dpa_folder + '/' + 'Opinions' + '/' + document_hash
+                            # document_folder = dpa_folder + '/' + 'Opinions' + '/' + document_hash
+                            document_folder = dpa_folder + '/czech_republic' + '/' + 'Opinions' + '/' + document_hash
+
                             try:
                                 os.makedirs(document_folder)
                             except FileExistsError:
@@ -392,7 +400,10 @@ class CzechRepublic(DPA):
                 document_text = obsah.get_text()
                 document_text = document_text.lstrip()
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Opinions' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'Opinions' + '/' + document_hash
+                document_folder = dpa_folder + '/czech_republic' + '/' + 'Opinions' + '/' + document_hash
+
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -478,7 +489,10 @@ class CzechRepublic(DPA):
                 print("\tDocument:\t", document_hash)
 
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'AnnualReports' + '/' + document_hash
+
+            # document_folder = dpa_folder + '/' + 'AnnualReports' + '/' + document_hash
+            document_folder = dpa_folder + '/czech_republic' + '/' + 'Annual Reports' + '/' + document_hash
+
             try:
                 os.makedirs(document_folder)
             except FileExistsError:
@@ -612,7 +626,9 @@ class CzechRepublic(DPA):
                 # link_response now contains the pdf contents
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'CourtRulings' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'CourtRulings' + '/' + document_hash
+                document_folder = dpa_folder + '/czech_republic' + '/' + 'Court Rulings' + '/' + document_hash
 
                 # The conditionals check if the link is either a pdf or a text doc. This is done by identifying
                 # strings within the url to indicate the document type. Note that the conditional checks may excluded
@@ -821,7 +837,9 @@ class CzechRepublic(DPA):
 
                             # If get a link reponse, then write the contents of the file as a pdf and text
                             dpa_folder = self.path
-                            document_folder = dpa_folder + '/' + 'Decision-Making Activities' + '/' + document_hash
+
+                            # document_folder = dpa_folder + '/' + 'Decision-Making Activities' + '/' + document_hash
+                            document_folder = dpa_folder + '/czech_republic' + '/' + 'Decision-Making Activities' + '/' + document_hash
                             try:
                                 os.makedirs(document_folder)
                             except FileExistsError:
@@ -853,7 +871,9 @@ class CzechRepublic(DPA):
                 document_text = obsah.get_text()
                 document_text = document_text.lstrip()
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Decision-Making Activities' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'Decision-Making Activities' + '/' + document_hash
+                document_folder = dpa_folder + '/czech_republic' + '/' + 'Decisions-Making Activities' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -937,7 +957,10 @@ class CzechRepublic(DPA):
                     print("\tDocument:\t", document_hash)
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Decision of President' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'Decision of President' + '/' + document_hash
+                document_folder = dpa_folder + '/czech_republic' + '/' + 'Decision of President' + '/' + document_hash
+
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -1077,7 +1100,9 @@ class CzechRepublic(DPA):
 
                 # Now store the text in the appropriate folder
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Inspections' + '/' + folder_title + '/' + document_hash
+
+                #document_folder = dpa_folder + '/' + 'Inspections' + '/' + folder_title + '/' + document_hash
+                document_folder = dpa_folder + '/czech_republic' + '/' + 'Inspections' + '/' + folder_title + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -1174,7 +1199,8 @@ class CzechRepublic(DPA):
 
             # Now store the text in the appropriate folder
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Inspections' + '/' + folder_title + '/' + document_hash
+            # document_folder = dpa_folder + '/' + 'Inspections' + '/' + folder_title + '/' + document_hash
+            document_folder = dpa_folder + '/czech_republic' + '/' + 'Inspections' + '/' + folder_title + '/' + document_hash
             try:
                 os.makedirs(document_folder)
             except FileExistsError:
@@ -1278,7 +1304,9 @@ class CzechRepublic(DPA):
 
             # Now store the text in the appropriate folder
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Inspections' + '/' + folder_title + '/' + document_hash
+
+            # document_folder = dpa_folder + '/' + 'Inspections' + '/' + folder_title + '/' + document_hash
+            document_folder = dpa_folder + '/czech_republic' + '/' + 'Inspections' + '/' + folder_title + '/' + document_hash
             try:
                 os.makedirs(document_folder)
             except FileExistsError:
