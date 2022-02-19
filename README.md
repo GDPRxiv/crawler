@@ -68,7 +68,7 @@ _In a directory:_
 2. Activate the virtual environment:
 
     ```sh
-      virtualenv <virtual env name>
+      source <virtual env name>/bin/activate
     ```
 
 ### Installation
