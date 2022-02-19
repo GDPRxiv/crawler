@@ -118,7 +118,9 @@ class Romania(DPA):
                 document_text = document_target_area.get_text()
                 document_text = document_text.strip()
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + "Decisions & Reports" + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + "Decisions & Reports" + '/' + document_hash
+                document_folder = dpa_folder + '/romania' + '/' + 'Decisions & Reports' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:

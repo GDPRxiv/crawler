@@ -170,7 +170,8 @@ class Luxembourg(DPA):
                     continue
                 file_content = file_response.content
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Opinions' + '/' + document_hash
+                # document_folder = dpa_folder + '/' + 'Opinions' + '/' + document_hash
+                document_folder = dpa_folder + '/luxembourg' + '/' + 'Opinions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -265,7 +266,8 @@ class Luxembourg(DPA):
                 continue
 
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Annual Reports' + '/' + document_hash
+            # document_folder = dpa_folder + '/' + 'Annual Reports' + '/' + document_hash
+            document_folder = dpa_folder + '/luxembourg' + '/' + 'Annual Reports' + '/' + document_hash
             try:
                 os.makedirs(document_folder)
             except FileExistsError:

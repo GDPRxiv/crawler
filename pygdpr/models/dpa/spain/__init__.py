@@ -179,7 +179,9 @@ class Spain(DPA):
 
                 document_content = document_response.content
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                document_folder = dpa_folder + '/spain' + '/' + 'Decisions' + '/' + document_hash
 
                 try:
                     os.makedirs(document_folder)
@@ -295,7 +297,9 @@ class Spain(DPA):
 
                 document_content = document_response.content
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Reports' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'Reports' + '/' + document_hash
+                document_folder = dpa_folder + '/spain' + '/' + 'Reports' + '/' + document_hash
 
                 try:
                     os.makedirs(document_folder)
@@ -418,7 +422,9 @@ class Spain(DPA):
 
                 document_content = document_response.content
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Guides' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'Guides' + '/' + document_hash
+                document_folder = dpa_folder + '/spain' + '/' + 'Guides' + '/' + document_hash
 
                 try:
                     os.makedirs(document_folder)
@@ -527,7 +533,9 @@ class Spain(DPA):
 
                 document_content = document_response.content
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Infographics' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'Infographics' + '/' + document_hash
+                document_folder = dpa_folder + '/spain' + '/' + 'Infographics' + '/' + document_hash
 
                 try:
                     os.makedirs(document_folder)
@@ -648,7 +656,9 @@ class Spain(DPA):
                 document_text = layout_wrapper.get_text()
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Blogs' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'Blogs' + '/' + document_hash
+                document_folder = dpa_folder + '/spain' + '/' + 'Blogs' + '/' + document_hash
 
                 try:
                     os.makedirs(document_folder)

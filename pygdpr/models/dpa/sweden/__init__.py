@@ -141,7 +141,10 @@ class Sweden(DPA):
                 body_content = document_soup.find('div', class_='imy-body imy-contentpage__main-content')
                 assert body_content
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + "Decisions & judgements" + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + "Decisions & judgements" + '/' + document_hash
+                document_folder = dpa_folder + '/sweden' + '/' + 'Decisions & Judgements' + '/' + document_hash
+
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -249,7 +252,10 @@ class Sweden(DPA):
                 body_content = document_soup.find('div', class_='imy-info-block__small')
                 assert body_content
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + "Publications" + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + "Publications" + '/' + document_hash
+                document_folder = dpa_folder + '/sweden' + '/' + 'Publications' + '/' + document_hash
+
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -322,7 +328,10 @@ class Sweden(DPA):
             print("document title: ", document_title)
             print("\tdocument hash: ", document_hash)
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + "Guidance" + '/' + document_hash
+
+            # document_folder = dpa_folder + '/' + "Guidance" + '/' + document_hash
+            document_folder = dpa_folder + '/sweden' + '/' + 'Guidances' + '/' + document_hash
+
             try:
                 os.makedirs(document_folder)
             except FileExistsError:

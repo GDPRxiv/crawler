@@ -140,7 +140,9 @@ class Portugal(DPA):
                 document_content = document_response.content
                 dpa_folder = self.path
 
-                document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                # document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                document_folder = dpa_folder + '/portugal' + '/' + 'Decisions' + '/' + document_hash
+
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -237,7 +239,9 @@ class Portugal(DPA):
             document_content = document_response.content
             dpa_folder = self.path
 
-            document_folder = dpa_folder + '/' + 'Reports' + '/' + document_hash
+            # document_folder = dpa_folder + '/' + 'Reports' + '/' + document_hash
+            document_folder = dpa_folder + '/portugal' + '/' + 'Reports' + '/' + document_hash
+
             try:
                 os.makedirs(document_folder)
             except FileExistsError:
@@ -311,7 +315,9 @@ class Portugal(DPA):
                 content = response.content
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' 'Guidelines' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' 'Guidelines' + '/' + document_hash
+                document_folder = dpa_folder + '/portugal' + '/' + 'Guidelines' + '/' + document_hash
 
                 try:
                     os.makedirs(document_folder)
@@ -411,7 +417,9 @@ class Portugal(DPA):
                 pdf_content = pdf_response.content
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' 'Guidelines' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' 'Guidelines' + '/' + document_hash
+                document_folder = dpa_folder + '/portugal' + '/' + 'Guidelines' + '/' + document_hash
 
                 try:
                     os.makedirs(document_folder)

@@ -124,7 +124,10 @@ class Lithuania(DPA):
                     continue
                 document_content = document_response.content
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                document_folder = dpa_folder + '/lithuania' + '/' + 'Decisions' + '/' + document_hash
+
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -220,7 +223,9 @@ class Lithuania(DPA):
                     continue
                 document_content = document_response.content
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Guidelines' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'Guidelines' + '/' + document_hash
+                document_folder = dpa_folder + '/lithuania' + '/' + 'Guidelines' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -327,7 +332,9 @@ class Lithuania(DPA):
                     continue
                 document_content = document_response.content
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Inspection Reports' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'Inspection Reports' + '/' + document_hash
+                document_folder = dpa_folder + '/lithuania' + '/' + 'Inspection Reports' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:

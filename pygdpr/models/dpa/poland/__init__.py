@@ -118,7 +118,9 @@ class Poland(DPA):
                 document_text = article_content.get_text()
                 document_text = document_text.strip()
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                document_folder = dpa_folder + '/poland' + '/' + 'Decisions' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -191,7 +193,9 @@ class Poland(DPA):
                     continue
                 print("\tdate: ", date)
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Tutorials' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'Tutorials' + '/' + document_hash
+                document_folder = dpa_folder + '/poland' + '/' + 'Tutorials' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:

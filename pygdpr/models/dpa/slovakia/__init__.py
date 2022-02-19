@@ -67,7 +67,7 @@ class Slovakia(DPA):
         added_docs = []
         # call all the get_docs_X() functions
         added_docs += self.get_docs_fineAndReports(existing_docs=[], overwrite=False, to_print=True)
-        added_docs += self.get_docs_opinions(existing_docs=[], overwrite=False, to_print=True)
+        added_docs += self.get_docs_Opinions(existing_docs=[], overwrite=False, to_print=True)
         return added_docs
 
     def get_docs_fineAndReports(self, existing_docs=[], overwrite=False, to_print=True):
@@ -125,7 +125,10 @@ class Slovakia(DPA):
                     continue
                 document_content = document_response.content
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Fine & Reports' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'Fine & Reports' + '/' + document_hash
+                document_folder = dpa_folder + '/slovakia' + '/' + 'Fines & Reports' + '/' + document_hash
+
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -147,7 +150,7 @@ class Slovakia(DPA):
                 existed_docs.append(document_hash)
         return existed_docs
 
-    def get_docs_opinions(self, existing_docs=[], overwrite=False, to_print=True):
+    def get_docs_Opinions(self, existing_docs=[], overwrite=False, to_print=True):
         existed_docs = []
         pagination = self.update_pagination()
         # s0. Pagination
@@ -204,7 +207,10 @@ class Slovakia(DPA):
                 if document_response is None:
                     continue
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Opinions' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'Opinions' + '/' + document_hash
+                document_folder = dpa_folder + '/slovakia' + '/' + 'Opinions' + '/' + document_hash
+
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:

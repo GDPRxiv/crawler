@@ -80,8 +80,8 @@ class Slovenia(DPA):
         added_docs += self.get_docs_Opinions(existing_docs=[], overwrite=False, to_print=True)
         added_docs += self.get_docs_Reports(existing_docs=[], overwrite=False, to_print=True)
         added_docs += self.get_docs_Guidelines(existing_docs=[], overwrite=False, to_print=True)
-        added_docs += self.get_docs_Infographics(existing_docs=[], overwrite=False, to_print=True)
-        added_docs += self.get_docs_Blogs(existing_docs=[], overwrite=False, to_print=True)
+        # added_docs += self.get_docs_Infographics(existing_docs=[], overwrite=False, to_print=True)
+        # added_docs += self.get_docs_Blogs(existing_docs=[], overwrite=False, to_print=True)
 
         return added_docs
 
@@ -195,7 +195,10 @@ class Slovenia(DPA):
                     continue
 
                 dpa_folder = self.path
-                document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+
+                # document_folder = dpa_folder + '/' + 'Decisions' + '/' + document_hash
+                document_folder = dpa_folder + '/slovenia' + '/' + 'Decisions' + '/' + document_hash
+
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -337,7 +340,9 @@ class Slovenia(DPA):
                 continue
 
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Guidelines' '/' + document_hash
+
+            # document_folder = dpa_folder + '/' + 'Guidelines' '/' + document_hash
+            document_folder = dpa_folder + '/slovenia' + '/' + 'Guidelines' + '/' + document_hash
 
             try:
                 os.makedirs(document_folder)
@@ -437,7 +442,9 @@ class Slovenia(DPA):
                 continue
 
             dpa_folder = self.path
-            document_folder = dpa_folder + '/' + 'Reports' '/' + document_hash
+
+            # document_folder = dpa_folder + '/' + 'Reports' '/' + document_hash
+            document_folder = dpa_folder + '/slovenia' + '/' + 'Reports' + '/' + document_hash
 
             try:
                 os.makedirs(document_folder)

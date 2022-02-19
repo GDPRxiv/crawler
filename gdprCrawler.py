@@ -82,10 +82,10 @@ def scrape(country, document_type, path, overwrite):
         Poland                   Decisions, Tutorials
         Portugal                 Decisions, Guidelines, Reports
         Romania                  Docs (Decisions, Reports)
-        Slovakia                 Fines, Opinions, Reports
+        Slovakia                 Fines & Reports, Opinions
         Slovenia                 Blogs, Guidelines, Infographics, Opinions, Reports
         Spain                    Blogs, Decisions, Guides, Infographics, Reports
-        Sweden                   Decisions, Guidances, Judgements, Publications
+        Sweden                   Decisions & Judgements, Guidances, Publications
         United Kingdom           Enforcements, Notices, Reports
     """
 
@@ -274,6 +274,10 @@ def scrape(country, document_type, path, overwrite):
         added_docs = dpa.get_docs_CourtRulings(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Completed Inspections":
         added_docs = dpa.get_docs_CompletedInspections(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Fines & Reports":
+        added_docs = dpa.get_docs_fineAndReports(existing_docs=existing_docs, overwrite=overwrite)
+    elif document_type == "Decisions & Judgements":
+        added_docs = dpa.get_docs_decisionsAndJudgements(existing_docs=existing_docs, overwrite=overwrite)
     elif document_type == "Docs":
         added_docs = dpa.get_docs(existing_docs=existing_docs, overwrite=overwrite)
     else:
