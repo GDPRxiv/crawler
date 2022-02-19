@@ -122,12 +122,12 @@ SUPPORTED COUNTRIES:     DOCUMENTS TYPES:
         Denmark                  Annual Reports, Decisions, Permissions
         EDPB (Agency)            Annual Reports, Decisions, Guidelines, Letters, Opinions, Recommendations
         Estonia                  Annual Reports, Instructions, Prescriptions
-        Finland                  Advice, Decisions, Guides, Notices
+        Finland                  Docs (Advice, Decisions, Guides, Notices)
         France                   FUTURE UPDATE
         Germany                  N/A
         Greece                   Annual Reports, Decisions, Guidelines, Opinions, Recommendations
         Hungary                  Annual Reports, Decisions, Notices, Recommendations, Resolutions
-        Ireland                  Decisions, Judgements, News
+        Ireland                  Blogs, Decisions, Judgements, News, Publications
         Italy                    Annual Reports, Hearings, Injunctions, Interviews, Newsletters, Publications
         Latvia                   Annual Reports, Decisions, Guidances, Opinions, Violations
         Lithuania                Decisions, Guidelines, Inspection Reports
@@ -136,12 +136,12 @@ SUPPORTED COUNTRIES:     DOCUMENTS TYPES:
         Netherlands              Decisions, Opinions, Public Disclosures, Reports
         Poland                   Decisions, Tutorials
         Portugal                 Decisions, Guidelines, Reports
-        Romania                  Decisions, Reports
-        Slovakia                 Fines, Opinions, Reports
+        Romania                  Docs (Decisions, Reports)
+        Slovakia                 Fines & Reports, Opinions
         Slovenia                 Blogs, Guidelines, Infographics, Opinions, Reports
         Spain                    Blogs, Decisions, Guides, Infographics, Reports
-        Sweden                   Decisions, Guidances, Judgements, Publications
-        United Kingdom           Decisions, Judgements, Notices
+        Sweden                   Decisions & Judgements, Guidances, Publications
+        United Kingdom           Enforcements, Notices, Reports
 </pre>
 
 
