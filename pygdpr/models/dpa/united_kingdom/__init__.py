@@ -151,9 +151,11 @@ class UnitedKingdom(DPA):
 
             dpa_folder = self.path
             if document_hash in existed_docs:
-                document_folder = dpa_folder + '/' + 'Notices' + '/' + document_hash + ' -02'
+                # document_folder = dpa_folder + '/' + 'Notices' + '/' + document_hash + ' -02'
+                document_folder = dpa_folder + '/united kingdom' + '/' + 'Notices' + '/' + document_hash + ' -02'
             else:
-                document_folder = dpa_folder + '/' + 'Notices' + '/' + document_hash
+                # document_folder = dpa_folder + '/' + 'Notices' + '/' + document_hash
+                document_folder = dpa_folder + '/united kingdom' + '/' + 'Notices' + '/' + document_hash
             try:
                 os.makedirs(document_folder)
             except FileExistsError:
@@ -263,9 +265,11 @@ class UnitedKingdom(DPA):
 
                 dpa_folder = self.path
                 if document_hash in existed_docs:
-                    document_folder = dpa_folder + '/' + 'Reports' + '/' + document_hash + ' -02'
+                    # document_folder = dpa_folder + '/' + 'Reports' + '/' + document_hash + ' -02'
+                    document_folder = dpa_folder + '/united kingdom' + '/' + 'Reports' + '/' + document_hash + ' -02'
                 else:
-                    document_folder = dpa_folder + '/' + 'Reports' + '/' + document_hash
+                    # document_folder = dpa_folder + '/' + 'Reports' + '/' + document_hash
+                    document_folder = dpa_folder + '/united kingdom' + '/' + 'Reports' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
@@ -407,9 +411,11 @@ class UnitedKingdom(DPA):
 
                 dpa_folder = self.path
                 if document_hash in existed_docs:
-                    document_folder = dpa_folder + '/' + 'Enforcements' + '/' + document_hash + ' -02'
+                    # document_folder = dpa_folder + '/' + 'Enforcements' + '/' + document_hash + ' -02'
+                    document_folder = dpa_folder + '/united kingdom' + '/' + 'Enforcements' + '/' + document_hash + ' -02'
                 else:
-                    document_folder = dpa_folder + '/' + 'Enforcements' + '/' + document_hash
+                    # document_folder = dpa_folder + '/' + 'Enforcements' + '/' + document_hash
+                    document_folder = dpa_folder + '/united kingdom' + '/' + 'Enforcements' + '/' + document_hash
                 try:
                     os.makedirs(document_folder)
                 except FileExistsError:
