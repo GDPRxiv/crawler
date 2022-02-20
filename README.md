@@ -74,7 +74,7 @@ _In a directory:_
 ### Installation
 _At any moment, use command 'pip3 list' to view all installed packages._
 
-1. Download [requirements.txt](https://github.com/transientCloud/gdpr-sota/blob/evan/package_prep/pygdpr/requirements.txt)
+1. Download [requirements.txt](https://github.com/GDPRxiv/crawler/blob/main/requirements.txt)
     and place it in the directory that contains the virtual environment.
 2. Install package requirements
    ```sh
