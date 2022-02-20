@@ -12,15 +12,7 @@ from pygdpr.specifications.not_reached_daily_translate_quota_specification impor
 from pygdpr.specifications.not_reached_100_secs_translate_quota_specification import NotReached100SecsTranslateQuotaSpec
 from pygdpr.specifications.translate_document_specification import TranslateDocumentSpecification
 from pygdpr.specifications.not_exists_file_language_specification import NotExistsFileLanguageSpecification
-#from google.cloud import translate_v2 as translate
-import nltk
-from nltk.corpus import stopwords
-from nltk.stem import PorterStemmer
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.feature_extraction.text import TfidfVectorizer
-import pandas as pd
-import matplotlib.pyplot as plt
-from collections import Counter
+
 from pygdpr.services.metadata.summary_metadata_service import *
 from pygdpr.services.metadata.timeline_metadata_service import *
 from pygdpr.services.metadata.citations_metadata_service import *
@@ -28,10 +20,6 @@ from pygdpr.services.metadata.citations_count_metadata_service import *
 from pygdpr.services.metadata.keywords_metadata_service import *
 from pygdpr.services.metadata.statistics_metadata_service import *
 from pygdpr.services.metadata.est_read_time_metadata_service import *
-
-nltk.download('punkt')
-nltk.download('stopwords')
-nltk.download('words')
 
 # TODO: Bug here where supported_dpas was being instantiated as list, not dictionary
 # TODO: Fix bug where these were not being read in from the dpa-info.json file in assets
@@ -604,6 +592,7 @@ class DPA(object):
         """
         raise NotImplementedError("'get_docs' method not implemented.")
 
+    '''
     def translate_docs(self, target_languages, docs=[], overwrite=False, price_terminate_usd=0.0, quota_service=None, to_print=True):
         """Translates the documents, located at the specified path, into the target languages and returns a list (md5 hashes) of documents translated.
 
@@ -760,3 +749,4 @@ class DPA(object):
             f.close()
             extracted_metadata.append(document_hash)
         return extracted_metadata
+'''

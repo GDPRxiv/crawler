@@ -1,3 +1,3 @@
 include LICENSE
 recursive-include pygdpr/assets *.json
-recursive-include images/*.png
+include images/*.png

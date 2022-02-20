@@ -1,3 +1,4 @@
+'''
 from pygdpr.services.metadata_service import MetadataService
 import nltk
 from collections import Counter
@@ -30,3 +31,4 @@ class SummaryMetadataService(MetadataService):
         return {
             language_code: summary
         }
+'''

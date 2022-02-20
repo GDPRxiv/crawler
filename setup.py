@@ -5,7 +5,7 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
     requirements = fh.read()
 setup(
     name = 'gdprCrawlerTest18',
-    version = '0.0.1',
+    version = '0.0.6',
     author = 'Chen Sun, Supreeth Shastri, Evan Jacobs',
     author_email = 'evanalexjacob@gmail.com',
     license = 'MIT License',

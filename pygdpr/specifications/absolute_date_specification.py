@@ -1,5 +1,6 @@
-import nltk
 import datetime
+import nltk
+
 class AbsoluteDateSpecification():
     def day_is_present(self, words, date):
         return (
