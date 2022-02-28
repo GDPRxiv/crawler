@@ -75,8 +75,8 @@ _In a directory:_
 _At any moment, use command 'pip3 list' to view all installed packages._
 
 1. Download [requirements.txt](https://github.com/GDPRxiv/crawler/blob/main/requirements.txt)
-    and place it in the directory that contains the virtual environment.
-2. Install package requirements
+    and place it in the working directory.
+2. Install package requirements (while in a virtual env if using one)
    ```sh
    pip3 install -r requirements.txt
    ```
@@ -84,6 +84,21 @@ _At any moment, use command 'pip3 list' to view all installed packages._
    ```sh
    pip3 install -i https://test.pypi.org/simple/ gdprCrawlerTest15
    ```
+
+####_Alternatively:_
+
+1. Download [requirements.txt](https://github.com/GDPRxiv/crawler/blob/main/requirements.txt)
+    and place it in the working directory.
+2. Install package requirements (while in virtual env if using one)
+    ```sh
+   python -m pip install -r requirements.txt
+   ```
+3. Install the GDPRxiv Crawler package
+   ```sh
+   python -m pip install -i https://test.pypi.org/simple/ gdprCrawlerTest18==0.0.6
+   ```
+
+
 
 
 
