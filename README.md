@@ -84,7 +84,7 @@ _At any moment, use command 'pip3 list' to view all installed packages._
    ```
 3. Install the GDPRxiv Crawler package
    ```sh
-   pip3 install -i https://test.pypi.org/simple/ gdprCrawlerTest15
+   pip3 install -i https://test.pypi.org/simple/ gdprCrawlerTest18==0.0.6
    ```
    
 
