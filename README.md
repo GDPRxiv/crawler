@@ -89,7 +89,7 @@ _At any moment, use command 'pip3 list' to view all installed packages._
    
 
 <br />
-<br />
+
 
 
 #### Alternatively:
@@ -186,7 +186,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!--- Put Research Group Info here - email@example.com --->
 
-Project Link: [https://github.com/GDPRxiv/crawler](https://github.com/GDPRxiv/crawler)
+* Project GitHub Link: [https://github.com/GDPRxiv/crawler](https://github.com/GDPRxiv/crawler)
+* PyPI Link: https://test.pypi.org/project/gdprCrawlerTest18/0.0.6/
 
 
 
