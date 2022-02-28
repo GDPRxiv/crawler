@@ -72,6 +72,8 @@ _In a directory:_
     ```
 
 ### Installation
+_Please visit the [PyPI link](https://test.pypi.org/project/gdprCrawlerTest18/0.0.6/) to view different release versions and other installation info/options._
+
 _At any moment, use command 'pip3 list' to view all installed packages._
 
 1. Download [requirements.txt](https://github.com/GDPRxiv/crawler/blob/main/requirements.txt)
@@ -84,8 +86,13 @@ _At any moment, use command 'pip3 list' to view all installed packages._
    ```sh
    pip3 install -i https://test.pypi.org/simple/ gdprCrawlerTest15
    ```
+   
 
-####_Alternatively:_
+<br />
+<br />
+
+
+####Alternatively:
 
 1. Download [requirements.txt](https://github.com/GDPRxiv/crawler/blob/main/requirements.txt)
     and place it in the working directory.
